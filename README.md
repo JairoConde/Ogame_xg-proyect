@@ -11,6 +11,13 @@
     <strong>Open-source OGame Clon</strong>
 </p>
 
+<p align="center">
+    <img src="https://img.shields.io/badge/PHPStan-level%202-brightgreen" alt="PHPStan Level 2">
+    <img src="https://img.shields.io/badge/tests-222%20passing-brightgreen" alt="Tests: 222 passing">
+    <img src="https://img.shields.io/badge/code%20style-PSR12-brightgreen" alt="Code Style: PSR-12">
+    <img src="https://img.shields.io/badge/PHP-8.0%20|%208.2-blue" alt="PHP Versions">
+</p>
+
 About
 ====
 

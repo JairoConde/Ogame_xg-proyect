@@ -58,10 +58,11 @@ class BattleReport
      * @param Round $round
      * @return void
      */
-    public function addRound(Round $round)
+    public function addRound(Round $round): void
     {
         if (ONLY_FIRST_AND_LAST_ROUND && $this->roundsCount == 2) {
             $this->rounds[1] = $round;
+
             return;
         }
         $this->rounds[$this->roundsCount++] = $round;
@@ -73,7 +74,7 @@ class BattleReport
      * @param mixed $number: "START" to get the first round, "END" to get the last one, an integer(from zero) to get the corrispective round
      * @return Round
      */
-    public function getRound($number)
+    public function getRound($number): ?Round
     {
         if ($number === 'END') {
             return $this->rounds[$this->roundsCount - 1];
@@ -90,9 +91,9 @@ class BattleReport
      * BattleReport::getResultRound()
      * Alias of getRound(). Get the round after it was processed
      * @param int $number: the corrispective round number(from 0)
-     * @return
+     * @return Round
      */
-    private function getResultRound($number)
+    private function getResultRound(int|string $number): ?Round
     {
         return $this->getRound($number);
     }
@@ -101,13 +102,14 @@ class BattleReport
      * BattleReport::getPresentationRound()
      * Get the round before it was processed.
      * @param int $number: the corrispective round (from 1)
-     * @return
+     * @return Round
      */
-    private function getPresentationRound($number)
+    private function getPresentationRound(int|string $number): ?Round
     {
         if ($number !== 'START' && $number !== 'END') {
             $number -= 1;
         }
+
         return $this->getRound($number);
     }
 
@@ -118,7 +120,7 @@ class BattleReport
      * @param int $def (BATTLE_WIN ,BATTLE_LOSE, BATTLE_DRAW)
      * @return void
      */
-    public function setBattleResult($att, $def)
+    public function setBattleResult(int $att, int $def): void
     {
         $this->getRound('END')->getAfterBattleAttackers()->battleResult = $att;
         $this->getRound('END')->getAfterBattleDefenders()->battleResult = $def;
@@ -129,7 +131,7 @@ class BattleReport
      * Check if attackers won the battle
      * @return boolean
      */
-    public function attackerHasWin()
+    public function attackerHasWin(): bool
     {
         return $this->getRound('END')->getAfterBattleAttackers()->battleResult === BATTLE_WIN;
     }
@@ -139,7 +141,7 @@ class BattleReport
      * Check if defenders won the battle
      * @return boolean
      */
-    public function defenderHasWin()
+    public function defenderHasWin(): bool
     {
         return $this->getRound('END')->getAfterBattleDefenders()->battleResult === BATTLE_WIN;
     }
@@ -149,57 +151,59 @@ class BattleReport
      * Check if the battle ended with a draw
      * @return boolean
      */
-    public function isAdraw()
+    public function isAdraw(): bool
     {
         return $this->getRound('END')->getAfterBattleAttackers()->battleResult === BATTLE_DRAW;
     }
 
-    public function getPresentationAttackersFleetOnRound($number)
+    public function getPresentationAttackersFleetOnRound(int|string $number): PlayerGroup
     {
         return $this->getPresentationRound($number)->getAfterBattleAttackers();
     }
 
-    public function getPresentationDefendersFleetOnRound($number)
+    public function getPresentationDefendersFleetOnRound(int|string $number): PlayerGroup
     {
         return $this->getPresentationRound($number)->getAfterBattleDefenders();
     }
 
-    public function getResultAttackersFleetOnRound($number)
+    public function getResultAttackersFleetOnRound(int|string $number): PlayerGroup
     {
         return $this->getResultRound($number)->getAfterBattleAttackers();
     }
 
-    public function getResultDefendersFleetOnRound($number)
+    public function getResultDefendersFleetOnRound(int|string $number): PlayerGroup
     {
         return $this->getResultRound($number)->getAfterBattleDefenders();
     }
 
     //-------------------  Lost units functions -------------------
-    public function getTotalAttackersLostUnits()
+    public function getTotalAttackersLostUnits(): int
     {
         return Math::recursive_sum($this->getAttackersLostUnits());
     }
 
-    public function getTotalDefendersLostUnits()
+    public function getTotalDefendersLostUnits(): int
     {
         return Math::recursive_sum($this->getDefendersLostUnits());
     }
 
-    public function getAttackersLostUnits($repair = true)
+    public function getAttackersLostUnits(bool $repair = true): array
     {
         $attackersBefore = $this->getRound('START')->getAfterBattleAttackers();
         $attackersAfter = $this->getRound('END')->getAfterBattleAttackers();
+
         return $this->getPlayersLostUnits($attackersBefore, $attackersAfter, $repair);
     }
 
-    public function getDefendersLostUnits($repair = true)
+    public function getDefendersLostUnits(bool $repair = true): array
     {
         $defendersBefore = $this->getRound('START')->getAfterBattleDefenders();
         $defendersAfter = $this->getRound('END')->getAfterBattleDefenders();
+
         return $this->getPlayersLostUnits($defendersBefore, $defendersAfter, $repair);
     }
 
-    private function getPlayersLostUnits(PlayerGroup $playersBefore, PlayerGroup $playersAfter, $repair = true)
+    private function getPlayersLostUnits(PlayerGroup $playersBefore, PlayerGroup $playersAfter, bool $repair = true): array
     {
         $lostShips = $this->getPlayersLostShips($playersBefore, $playersAfter);
         $defRepaired = $this->getPlayerRepaired($playersBefore, $playersAfter);
@@ -221,6 +225,7 @@ class BattleReport
                 }
             }
         }
+
         return $return;
     }
 
@@ -239,12 +244,12 @@ class BattleReport
         return $this->moonEvent;
     }
 
-    public function getMoonProb()
+    public function getMoonProb(): int
     {
         return min(floor(array_sum($this->getDebris()) / MOON_UNIT_PROB), MAX_MOON_PROB);
     }
 
-    public function getAttackerDebris()
+    public function getAttackerDebris(): array
     {
         $sendMetal = 0;
         $sendCrystal = 0;
@@ -257,16 +262,17 @@ class BattleReport
                         $metal += $lost[0];
                         $crystal += $lost[1];
                     }
-                    $factor = Functions::readConfig('fleet_cdr') / 100;
+                    $factor = (int) Functions::readConfig('fleet_cdr') / 100;
                     $sendMetal += $metal * $factor;
                     $sendCrystal += $crystal * $factor;
                 }
             }
         }
+
         return [$sendMetal, $sendCrystal];
     }
 
-    public function getDefenderDebris()
+    public function getDefenderDebris(): array
     {
         $sendMetal = 0;
         $sendCrystal = 0;
@@ -279,23 +285,25 @@ class BattleReport
                         $metal += $lost[0];
                         $crystal += $lost[1];
                     }
-                    $factor = Functions::readConfig('defs_cdr') / 100;
+                    $factor = (int) Functions::readConfig('defs_cdr') / 100;
                     $sendMetal += $metal * $factor;
                     $sendCrystal += $crystal * $factor;
                 }
             }
         }
+
         return [$sendMetal, $sendCrystal];
     }
 
-    public function getDebris()
+    public function getDebris(): array
     {
         $aDebris = $this->getAttackerDebris();
         $dDebris = $this->getDefenderDebris();
+
         return [$aDebris[0] + $dDebris[0], $aDebris[1] + $dDebris[1]];
     }
 
-    public function getAttackersTech()
+    public function getAttackersTech(): array
     {
         $techs = [];
         $players = $this->getRound('START')->getAfterBattleAttackers()->getIterator();
@@ -305,10 +313,11 @@ class BattleReport
                 $player->getShieldsTech(),
                 $player->getArmourTech()];
         }
+
         return $techs;
     }
 
-    public function getDefendersTech()
+    public function getDefendersTech(): array
     {
         $techs = [];
         $players = $this->getRound('START')->getAfterBattleDefenders()->getIterator();
@@ -318,33 +327,37 @@ class BattleReport
                 $player->getShieldsTech(),
                 $player->getArmourTech()];
         }
+
         return $techs;
     }
 
-    public function getLastRoundNumber()
+    public function getLastRoundNumber(): int
     {
         return $this->roundsCount - 1;
     }
 
-    public function __toString()
+    public function __toString(): string
     {
         ob_start();
         $css = $this->css;
         require OPBEPATH . 'Views/report.html';
+
         return ob_get_clean();
     }
 
-    public function getDefendersRepaired()
+    public function getDefendersRepaired(): PlayerGroup
     {
         $defendersBefore = $this->getRound('START')->getAfterBattleDefenders();
         $defendersAfter = $this->getRound('END')->getAfterBattleDefenders();
+
         return $this->getPlayerRepaired($defendersBefore, $defendersAfter);
     }
 
-    public function getAttackersRepaired()
+    public function getAttackersRepaired(): PlayerGroup
     {
         $attackersBefore = $this->getRound('START')->getAfterBattleAttackers();
         $attackersAfter = $this->getRound('END')->getAfterBattleAttackers();
+
         return $this->getPlayerRepaired($attackersBefore, $attackersAfter);
     }
 
@@ -352,6 +365,7 @@ class BattleReport
     {
         $players = $this->getResultAttackersFleetOnRound('END')->cloneMe();
         $playersRepaired = $this->getAttackersRepaired();
+
         return $this->getAfterBattlePlayerGroup($players, $playersRepaired);
     }
 
@@ -359,6 +373,7 @@ class BattleReport
     {
         $players = $this->getResultDefendersFleetOnRound('END')->cloneMe();
         $playersRepaired = $this->getDefendersRepaired();
+
         return $this->getAfterBattlePlayerGroup($players, $playersRepaired);
     }
 
@@ -367,12 +382,14 @@ class BattleReport
         foreach ($playersRepaired->getIterator() as $idPlayer => $playerRepaired) {
             if (!$players->existPlayer($idPlayer)) { // player is completely destroyed
                 $players->addPlayer($playerRepaired);
+
                 continue;
             }
             $endPlayer = $players->getPlayer($idPlayer);
             foreach ($playerRepaired->getIterator() as $idFleet => $fleetRepaired) {
                 if (!$endPlayer->existFleet($idFleet)) {
                     $endPlayer->addFleet($fleetRepaired);
+
                     continue;
                 }
                 $endFleet = $endPlayer->getFleet($idFleet);
@@ -381,6 +398,7 @@ class BattleReport
                 }
             }
         }
+
         return $players;
     }
 
@@ -394,6 +412,7 @@ class BattleReport
                 }
             }
         }
+
         return $lostShips;
     }
 
@@ -408,28 +427,31 @@ class BattleReport
                 }
             }
         }
+
         return $playersBefore_clone;
     }
 
-    public function getAttackersId()
+    public function getAttackersId(): array
     {
         $array = [];
         foreach ($this->getPresentationAttackersFleetOnRound('START') as $id => $group) {
             $array[] = $id;
         }
+
         return $array;
     }
 
-    public function getDefendersId()
+    public function getDefendersId(): array
     {
         $array = [];
         foreach ($this->getPresentationDefendersFleetOnRound('START') as $id => $group) {
             $array[] = $id;
         }
+
         return $array;
     }
 
-    public function setSteal($array)
+    public function setSteal(array $array): void
     {
         $this->steal = $array;
     }

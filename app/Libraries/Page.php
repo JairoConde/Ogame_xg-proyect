@@ -72,7 +72,7 @@ class Page
      *
      * @return void
      */
-    public function display($current_page, $topnav = true, $metatags = '', $menu = true)
+    public function display(string $current_page, bool $topnav = true, string $metatags = '', bool $menu = true): void
     {
         $page = '';
 
@@ -121,7 +121,7 @@ class Page
      * @param array $langs
      * @return void
      */
-    public function displayInstall($current_page, $langs): void
+    public function displayInstall(string $current_page, array $langs): void
     {
         $page = $this->installHeader();
         $page .= $this->installMenu($langs); // MENU
@@ -220,6 +220,7 @@ class Page
             ['premium', '2'],
             ['tasks', '3'],
             ['errors', '3'],
+            ['botstats', '3'],
             ['fleets', '3'],
             ['messages', '3'],
             ['maker', '4'],
@@ -348,7 +349,7 @@ class Page
      *
      * @return string
      */
-    private function installHeader()
+    private function installHeader(): string
     {
         return $this->template->set(
             'install/simple_header',
@@ -365,7 +366,7 @@ class Page
      *
      * @return string
      */
-    private function installNavbar($langs)
+    private function installNavbar(array $langs): string
     {
         // Update config language to the new setted value
         if (isset($_POST['language'])) {
@@ -411,7 +412,7 @@ class Page
      *
      * @return string
      */
-    private function installMenu($langs)
+    private function installMenu(array $langs): string
     {
         $current_mode = isset($_GET['mode']) ? $_GET['mode'] : null;
         $items = '';
@@ -447,7 +448,7 @@ class Page
      *
      * @return string
      */
-    private function gameHeader($metatags = '')
+    private function gameHeader(string $metatags = ''): string
     {
         $parse['game_title'] = Functions::readConfig('game_name');
         $parse['version'] = SYSTEM_VERSION;
@@ -467,7 +468,7 @@ class Page
      *
      * @return string
      */
-    private function gameNavbar()
+    private function gameNavbar(): string
     {
         $lang = $this->langs->loadLang(['game/global', 'game/navigation', 'game/officier'], true);
 
@@ -525,7 +526,7 @@ class Page
         }
 
         // ENERGY
-        if (($this->current_planet['planet_energy_max'] + $this->current_planet['planet_energy_used']) < 0) {
+        if (((int) $this->current_planet['planet_energy_max'] + (int) $this->current_planet['planet_energy_used']) < 0) {
             $energy = FormatLib::colorRed($energy);
         }
 
@@ -550,7 +551,7 @@ class Page
      *
      * @return string
      */
-    private function gameMenu()
+    private function gameMenu(): string
     {
         $lang = $this->langs->loadLang('game/menu', true);
 
@@ -575,9 +576,11 @@ class Page
             ['movement', $lang->line('lm_movement'), '', 'FFF', '', '1', '9'],
             ['galaxy', $lang->line('lm_galaxy'), 'mode=0', 'FFF', '', '1', '11'],
             ['alliance', $lang->line('lm_alliance'), '', 'FFF', '', '1', '13'],
+            ['diplomacy', $lang->line('lm_diplomacy'), '', 'FFF', '', '1', '25'],
             ['officier', $lang->line('lm_officiers'), '', 'FF8900', '', '1', '15'],
             ['messages', $lang->line('lm_messages'), '', 'FFF', '', '1', '18'],
             ['statistics', $lang->line('lm_statistics'), 'range=' . $tota_rank, 'FFF', '', '2', '16'],
+            ['top3', $lang->line('lm_top3'), '', 'FFF', '', '2', '16'],
             ['notes', $lang->line('lm_notes'), '', 'FFF', 'true', '2', '19'],
             ['buddies', $lang->line('lm_buddylist'), '', 'FFF', '', '2', '20'],
             ['search', $lang->line('lm_search'), '', 'FFF', '', '2', '17'],
@@ -674,7 +677,7 @@ class Page
      *
      * @return string
      */
-    public function jsReady($template = '')
+    public function jsReady(string $template = ''): string
     {
         $output = str_replace(["\r\n", "\r"], "\n", $template);
         $lines = explode("\n", $output);
@@ -692,7 +695,7 @@ class Page
     /**
      * Build the officers block for the game topnav
      *
-     * @param array $lang
+     * @param CiLang $lang
      * @return array
      */
     private function buildOfficersBlock(CiLang $lang): array
@@ -723,7 +726,7 @@ class Page
      *
      * @return void
      */
-    private function buildPlanetList()
+    private function buildPlanetList(): mixed
     {
         $lang = $this->langs->loadLang('game/global', true);
 
@@ -767,7 +770,7 @@ class Page
      *
      * @return void
      */
-    private function sortPlanets()
+    private function sortPlanets(): mixed
     {
         $db = new Database();
         $order = $this->current_user['preference_planet_sort_sequence'] == 1 ? 'DESC' : 'ASC'; // up or down
@@ -782,18 +785,23 @@ class Page
             case 0: // emergence
             default:
                 $planets .= '`planet_id` ' . $order;
+
                 break;
             case 1: // coordinates
                 $planets .= '`planet_galaxy` ' . $order . ', `planet_system` ' . $order . ', `planet_planet` ' . $order . ', `planet_type` ' . $order;
+
                 break;
             case 2: // alphabet
                 $planets .= '`planet_name` ' . $order;
+
                 break;
             case 3: // size
                 $planets .= '`planet_diameter` ' . $order;
+
                 break;
             case 4: // used_fields
                 $planets .= '`planet_field_current` ' . $order;
+
                 break;
         }
 

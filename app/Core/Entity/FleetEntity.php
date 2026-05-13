@@ -6,7 +6,7 @@ use App\Core\Entity;
 
 class FleetEntity extends Entity
 {
-    public function __construct($data)
+    public function __construct(array $data)
     {
         parent::__construct($data);
     }
@@ -16,7 +16,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetId()
+    public function getFleetId(): string
     {
         return $this->data['fleet_id'];
     }
@@ -26,7 +26,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetOwner()
+    public function getFleetOwner(): string
     {
         return $this->data['fleet_owner'];
     }
@@ -36,7 +36,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetMission()
+    public function getFleetMission(): string
     {
         return $this->data['fleet_mission'];
     }
@@ -46,7 +46,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetAmount()
+    public function getFleetAmount(): string
     {
         return $this->data['fleet_amount'];
     }
@@ -56,7 +56,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetArray()
+    public function getFleetArray(): string
     {
         return $this->data['fleet_array'];
     }
@@ -66,7 +66,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetStartTime()
+    public function getFleetStartTime(): string
     {
         return $this->data['fleet_start_time'];
     }
@@ -76,7 +76,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetStartGalaxy()
+    public function getFleetStartGalaxy(): string
     {
         return $this->data['fleet_start_galaxy'];
     }
@@ -86,7 +86,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetStartSystem()
+    public function getFleetStartSystem(): string
     {
         return $this->data['fleet_start_system'];
     }
@@ -96,7 +96,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetStartPlanet()
+    public function getFleetStartPlanet(): string
     {
         return $this->data['fleet_start_planet'];
     }
@@ -106,7 +106,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetStartType()
+    public function getFleetStartType(): string
     {
         return $this->data['fleet_start_type'];
     }
@@ -116,7 +116,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetEndTime()
+    public function getFleetEndTime(): string
     {
         return $this->data['fleet_end_time'];
     }
@@ -126,7 +126,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetEndStay()
+    public function getFleetEndStay(): string
     {
         return $this->data['fleet_end_stay'];
     }
@@ -136,7 +136,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetEndGalaxy()
+    public function getFleetEndGalaxy(): string
     {
         return $this->data['fleet_end_galaxy'];
     }
@@ -146,7 +146,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetEndSystem()
+    public function getFleetEndSystem(): string
     {
         return $this->data['fleet_end_system'];
     }
@@ -156,7 +156,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetEndPlanet()
+    public function getFleetEndPlanet(): string
     {
         return $this->data['fleet_end_planet'];
     }
@@ -166,7 +166,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetEndType()
+    public function getFleetEndType(): string
     {
         return $this->data['fleet_end_type'];
     }
@@ -176,7 +176,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetTargetObj()
+    public function getFleetTargetObj(): string
     {
         return $this->data['fleet_target_obj'];
     }
@@ -186,7 +186,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetResourceMetal()
+    public function getFleetResourceMetal(): string
     {
         return $this->data['fleet_resource_metal'];
     }
@@ -196,7 +196,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetResourceCrystal()
+    public function getFleetResourceCrystal(): string
     {
         return $this->data['fleet_resource_crystal'];
     }
@@ -206,7 +206,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetResourceDeuterium()
+    public function getFleetResourceDeuterium(): string
     {
         return $this->data['fleet_resource_deuterium'];
     }
@@ -216,7 +216,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetFuel()
+    public function getFleetFuel(): string
     {
         return $this->data['fleet_fuel'];
     }
@@ -226,7 +226,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetTargetOwner()
+    public function getFleetTargetOwner(): string
     {
         return $this->data['fleet_target_owner'];
     }
@@ -236,7 +236,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetGroup()
+    public function getFleetGroup(): string
     {
         return $this->data['fleet_group'];
     }
@@ -246,7 +246,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetMess()
+    public function getFleetMess(): string
     {
         return $this->data['fleet_mess'];
     }
@@ -256,7 +256,7 @@ class FleetEntity extends Entity
      *
      * @return string
      */
-    public function getFleetCreation()
+    public function getFleetCreation(): string
     {
         return $this->data['fleet_creation'];
     }

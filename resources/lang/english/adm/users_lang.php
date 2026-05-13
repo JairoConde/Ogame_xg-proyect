@@ -85,6 +85,7 @@ $lang = [
     'us_user_research_plasma_technology' => 'Plasma Technology',
     'us_user_research_intergalactic_research_network' => 'Intergalactic Research Network',
     'us_user_research_astrophysics' => 'Astrophysics',
+    'us_user_research_cargo_optimization' => 'Cargo Optimization',
     'us_user_research_graviton_technology' => 'Graviton Technology',
     'us_user_premium' => '"%s" officers / DM',
     'us_user_premium_dark_matter' => 'Dark Matter',

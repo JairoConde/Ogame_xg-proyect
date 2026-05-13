@@ -23,6 +23,13 @@ class Objects
 
     public function __construct()
     {
+        $resource = [];
+        $requeriments = [];
+        $pricelist = [];
+        $CombatCaps = [];
+        $ProdGrid = [];
+        $reslist = [];
+
         // require this damn file
         require XGP_ROOT . CORE_PATH . 'objects_collection.php';
 
@@ -35,7 +42,7 @@ class Objects
         $this->objectsList = $reslist;
     }
 
-    public function getObjects(?int $objectId = null)
+    public function getObjects(?int $objectId = null): mixed
     {
         if (!empty($objectId)) {
             return $this->objects[$objectId];
@@ -44,7 +51,7 @@ class Objects
         }
     }
 
-    public function getRelations(?int $objectId = null)
+    public function getRelations(?int $objectId = null): mixed
     {
         if (!empty($objectId)) {
             return $this->relations[$objectId];
@@ -53,7 +60,7 @@ class Objects
         }
     }
 
-    public function getPrice(?int $objectId = null, string $resource = '')
+    public function getPrice(?int $objectId = null, string $resource = ''): mixed
     {
         if (!empty($objectId)) {
             if (empty($resource)) {
@@ -66,7 +73,7 @@ class Objects
         }
     }
 
-    public function getCombatSpecs(?int $objectId = null, string $type = '')
+    public function getCombatSpecs(?int $objectId = null, string $type = ''): mixed
     {
         if (!empty($objectId)) {
             if (empty($type)) {
@@ -79,7 +86,7 @@ class Objects
         }
     }
 
-    public function getProduction(?int $objectId = null)
+    public function getProduction(?int $objectId = null): mixed
     {
         if (!empty($objectId)) {
             return $this->production[$objectId];
@@ -88,7 +95,7 @@ class Objects
         }
     }
 
-    public function getObjectsList(?string $objectId = null)
+    public function getObjectsList(?string $objectId = null): mixed
     {
         if (!empty($objectId)) {
             return $this->objectsList[$objectId];

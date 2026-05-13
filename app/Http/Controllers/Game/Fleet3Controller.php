@@ -56,7 +56,7 @@ class Fleet3Controller extends BaseController
     {
         $this->_research = new Researches(
             [
-                $this->user
+                $this->user,
             ],
             $this->user['user_id']
         );
@@ -95,7 +95,7 @@ class Fleet3Controller extends BaseController
      *
      * @return array
      */
-    private function buildFleetBlock()
+    private function buildFleetBlock(): array
     {
         $objects = $this->objects->getObjects();
         $price = $this->objects->getPrice();
@@ -129,7 +129,9 @@ class Fleet3Controller extends BaseController
                         'speed' => FleetsLib::fleetMaxSpeed(null, $ship_id, $this->user),
                         'capacity' => FleetsLib::getMaxStorage(
                             $price[$ship_id]['capacity'],
-                            $this->_research->getCurrentResearch()->getResearchHyperspaceTechnology()
+                            $this->_research->getCurrentResearch()->getResearchHyperspaceTechnology(),
+                            $this->_research->getCurrentResearch()->getResearchCargoOptimization(),
+                            $ship_id
                         ),
                         'ship' => $amount_to_set,
                     ];
@@ -145,7 +147,7 @@ class Fleet3Controller extends BaseController
      *
      * @return string
      */
-    private function buildTitleBlock()
+    private function buildTitleBlock(): string
     {
         return FormatLib::prettyCoords(
             $this->planet['planet_galaxy'],
@@ -157,9 +159,9 @@ class Fleet3Controller extends BaseController
     /**
      * Build the missions block
      *
-     * @return string
+     * @return array
      */
-    private function buildMissionBlock()
+    private function buildMissionBlock(): array
     {
         $missionsList = $this->getAllowedMissions();
         $missiongSelector = [];
@@ -188,7 +190,7 @@ class Fleet3Controller extends BaseController
      *
      * @return string
      */
-    private function buildStayBlock()
+    private function buildStayBlock(): string
     {
         // by rule, expedition time is based on the astrophysics level, relation 1:1 level:hour
         $max_exp_time = $this->_research->getCurrentResearch()->getResearchAstrophysics();
@@ -239,7 +241,7 @@ class Fleet3Controller extends BaseController
      *
      * @return array
      */
-    private function getAllowedMissions()
+    private function getAllowedMissions(): array
     {
         /**
          * rules
@@ -276,6 +278,7 @@ class Fleet3Controller extends BaseController
                 Missions::ATTACK, Missions::ACS, Missions::TRANSPORT, Missions::DEPLOY, Missions::STAY, Missions::EXPEDITION,
             ],
             Ships::ship_solar_satellite => [],
+            Ships::ship_mining_drill => [],
             Ships::ship_destroyer => [
                 Missions::ATTACK, Missions::ACS, Missions::TRANSPORT, Missions::DEPLOY, Missions::STAY, Missions::EXPEDITION,
             ],
@@ -402,7 +405,7 @@ class Fleet3Controller extends BaseController
      *
      * @return array
      */
-    private function setInputsData()
+    private function setInputsData(): array
     {
         $data = filter_input_array(INPUT_POST, [
             'galaxy' => [
@@ -505,10 +508,14 @@ class Fleet3Controller extends BaseController
     private function getSessionShips(): array
     {
         if (isset($_SESSION['fleet_data']['fleetarray'])) {
-            return unserialize(base64_decode(str_rot13($_SESSION['fleet_data']['fleetarray'])));
+            $ships = unserialize(base64_decode(str_rot13($_SESSION['fleet_data']['fleetarray'])));
+
+            return is_array($ships) ? $ships : [];
         }
 
         Functions::redirect(self::REDIRECT_TARGET);
+
+        return [];
     }
 
     /**

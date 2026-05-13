@@ -9,7 +9,7 @@ class Premium
     private array $premium = [];
     private int $current_user_id = 0;
 
-    public function __construct($premium, $current_user_id)
+    public function __construct(array $premium, int $current_user_id)
     {
         if (is_array($premium)) {
             $this->setUp($premium);
@@ -22,7 +22,7 @@ class Premium
      *
      * @return array
      */
-    public function getPremium()
+    public function getPremium(): array
     {
         $list_of_premium = [];
 
@@ -38,11 +38,11 @@ class Premium
     /**
      * Get current premium
      *
-     * @return array
+     * @return ?PremiumEntity
      */
-    public function getCurrentPremium()
+    public function getCurrentPremium(): ?PremiumEntity
     {
-        return $this->getPremium()[0];
+        return $this->getPremium()[0] ?? null;
     }
 
     /**
@@ -52,7 +52,7 @@ class Premium
      *
      * @return void
      */
-    private function setUp($premiums)
+    private function setUp(array $premiums): void
     {
         foreach ($premiums as $premium) {
             $this->premium[] = $this->createNewPremiumEntity($premium);
@@ -63,7 +63,7 @@ class Premium
      *
      * @param int $user_id User Id
      */
-    private function setUserId($user_id)
+    private function setUserId(int $user_id): void
     {
         $this->current_user_id = $user_id;
     }
@@ -72,7 +72,7 @@ class Premium
      *
      * @return int
      */
-    private function getUserId()
+    private function getUserId(): int
     {
         return $this->current_user_id;
     }
@@ -82,9 +82,9 @@ class Premium
      *
      * @param array $premium Premium
      *
-     * @return \PremiumEntity
+     * @return PremiumEntity
      */
-    private function createNewPremiumEntity($premium)
+    private function createNewPremiumEntity(array $premium): PremiumEntity
     {
         return new PremiumEntity($premium);
     }

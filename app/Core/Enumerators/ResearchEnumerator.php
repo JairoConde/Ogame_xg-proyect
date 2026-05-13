@@ -21,5 +21,6 @@ abstract class ResearchEnumerator
     public const research_plasma_technology = 122;
     public const research_intergalactic_research_network = 123;
     public const research_astrophysics = 124;
+    public const research_cargo_optimization = 125;
     public const research_graviton_technology = 199;
 }

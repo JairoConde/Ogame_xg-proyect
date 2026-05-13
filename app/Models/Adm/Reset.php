@@ -54,7 +54,8 @@ class Reset extends Model
                 `ship_solar_satellite` = '0',
                 `ship_destroyer` = '0',
                 `ship_deathstar` = '0',
-                `ship_battlecruiser` = '0'"
+                `ship_battlecruiser` = '0',
+                `ship_mining_drill` = '0'"
         );
     }
 
@@ -130,6 +131,7 @@ class Reset extends Model
                 `research_plasma_technology` = '0',
                 `research_intergalactic_research_network` = '0',
                 `research_astrophysics` = '0',
+                `research_cargo_optimization` = '0',
                 `research_graviton_technology` = '0'"
         );
     }
@@ -425,7 +427,7 @@ class Reset extends Model
             $this->db->query('DROP TABLE `' . USERS . '_s`');
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }

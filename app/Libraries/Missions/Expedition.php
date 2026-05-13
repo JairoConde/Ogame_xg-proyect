@@ -34,37 +34,47 @@ class Expedition extends Missions
             switch ($this->fmlExpedition->getExpeditionResult()) {
                 case 'darkMatter':
                     $this->resultDarkMatter($fleet);
+
                     break;
                 case 'ships':
                     $this->resultShips($fleet);
+
                     break;
                 case 'resources':
                     $this->resultResources($fleet);
+
                     break;
                 case 'pirates':
                     //$this->resultPirates($fleet);
                     $this->resultNothing($fleet);
+
                     break;
                 case 'aliens':
                     //$this->resultAliens($fleet);
                     $this->resultNothing($fleet);
+
                     break;
                 case 'delay':
                     $this->resultDelay($fleet);
+
                     break;
                 case 'early':
                     $this->resultEarly($fleet);
+
                     break;
                 case 'merchant':
                     //$this->resultMerchant($fleet);
                     $this->resultNothing($fleet);
+
                     break;
                 case 'blackHole':
                     $this->resultBlackHole($fleet);
+
                     break;
                 case 'nothing':
                 default:
                     $this->resultNothing($fleet);
+
                     break;
             }
         } elseif (parent::canCompleteMission($fleet)) {
@@ -132,7 +142,9 @@ class Expedition extends Missions
 
             $this->fleetCapacity += FleetsLib::getMaxStorage(
                 $priceList[$id]['capacity'],
-                $fleet['research_hyperspace_technology']
+                $fleet['research_hyperspace_technology'],
+                (int) ($fleet['research_cargo_optimization'] ?? 0),
+                (int) $id
             ) * $count;
         }
 

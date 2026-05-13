@@ -366,7 +366,8 @@ $queries[] = "INSERT INTO " . DB_NAME . ".`" . SHIPS . "`(
                     `ship_solar_satellite`,
                     `ship_destroyer`,
                     `ship_deathstar`,
-                    `ship_battlecruiser`)
+                    `ship_battlecruiser`,
+                    `ship_mining_drill`)
                 SELECT
                     `id`,
                     `small_ship_cargo`,
@@ -382,7 +383,8 @@ $queries[] = "INSERT INTO " . DB_NAME . ".`" . SHIPS . "`(
                     `solar_satelit`,
                     `destructor`,
                     `dearth_star`,
-                    `battleship`
+                    `battleship`,
+                    '0'
                 FROM `{prefix}planets`;";
 
 // "rw" table -> "reports" table
@@ -583,6 +585,7 @@ $queries[] = "INSERT INTO " . DB_NAME . ".`" . RESEARCH . "`(
                     `research_plasma_technology`,
                     `research_intergalactic_research_network`,
                     `research_astrophysics`,
+                    `research_cargo_optimization`,
                     `research_graviton_technology`)
                 SELECT
                     `id`,
@@ -602,6 +605,7 @@ $queries[] = "INSERT INTO " . DB_NAME . ".`" . RESEARCH . "`(
                     `buster_tech`,
                     `intergalactic_tech`,
                     `expedition_tech`,
+                    '0',
                     `graviton_tech`
                 FROM `{prefix}users`;";
 

@@ -8,6 +8,7 @@ RUN set -ex; \
 	\
 	apt-get update; \
 	apt-get install -y --no-install-recommends \
+		curl \
 		libjpeg-dev \
 		libpng-dev \
 		libzip-dev \

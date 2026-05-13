@@ -6,7 +6,7 @@ use App\Core\Entity;
 
 class AcsFleetEntity extends Entity
 {
-    public function __construct($data)
+    public function __construct(array $data)
     {
         parent::__construct($data);
     }
@@ -16,7 +16,7 @@ class AcsFleetEntity extends Entity
      *
      * @return string
      */
-    public function getAcsFleetId()
+    public function getAcsFleetId(): string
     {
         return $this->data['acs_id'];
     }
@@ -26,7 +26,7 @@ class AcsFleetEntity extends Entity
      *
      * @return string
      */
-    public function getAcsFleetName()
+    public function getAcsFleetName(): string
     {
         return $this->data['acs_name'];
     }
@@ -36,7 +36,7 @@ class AcsFleetEntity extends Entity
      *
      * @return string
      */
-    public function getAcsFleetOwner()
+    public function getAcsFleetOwner(): string
     {
         return $this->data['acs_owner'];
     }
@@ -46,7 +46,7 @@ class AcsFleetEntity extends Entity
      *
      * @return string
      */
-    public function getAcsFleetGalaxy()
+    public function getAcsFleetGalaxy(): string
     {
         return $this->data['acs_galaxy'];
     }
@@ -56,7 +56,7 @@ class AcsFleetEntity extends Entity
      *
      * @return string
      */
-    public function getAcsFleetSystem()
+    public function getAcsFleetSystem(): string
     {
         return $this->data['acs_system'];
     }
@@ -66,7 +66,7 @@ class AcsFleetEntity extends Entity
      *
      * @return string
      */
-    public function getAcsFleetPlanet()
+    public function getAcsFleetPlanet(): string
     {
         return $this->data['acs_planet'];
     }
@@ -76,7 +76,7 @@ class AcsFleetEntity extends Entity
      *
      * @return string
      */
-    public function getAcsFleetPlanetType()
+    public function getAcsFleetPlanetType(): string
     {
         return $this->data['acs_planet_type'];
     }

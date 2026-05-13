@@ -11,21 +11,11 @@ class Alliances
      *
      * @var array
      */
-    private $_alliances = [];
+    private array $_alliances = [];
+    private int $_current_user_id = 0;
+    private int $_current_user_rank_id = 0;
 
-    /**
-     *
-     * @var int
-     */
-    private $_current_user_id = 0;
-
-    /**
-     *
-     * @var int
-     */
-    private $_current_user_rank_id = 0;
-
-    public function __construct($alliances, $current_user_id, $current_user_rank_id = 0)
+    public function __construct(array $alliances, int $current_user_id, int $current_user_rank_id = 0)
     {
         if (is_array($alliances)) {
             $this->setUp($alliances);
@@ -39,7 +29,7 @@ class Alliances
      *
      * @return array
      */
-    public function getAlliances()
+    public function getAlliances(): array
     {
         $list_of_alliances = [];
 
@@ -55,9 +45,9 @@ class Alliances
     /**
      * Return current alliance data
      *
-     * @return array
+     * @return AllianceEntity
      */
-    public function getCurrentAlliance()
+    public function getCurrentAlliance(): AllianceEntity
     {
         return $this->_alliances[0];
     }
@@ -67,7 +57,7 @@ class Alliances
      *
      * @return Ranks
      */
-    public function getCurrentAllianceRankObject()
+    public function getCurrentAllianceRankObject(): Ranks
     {
         return new Ranks($this->getCurrentAlliance()->getAllianceRanks());
     }
@@ -75,11 +65,11 @@ class Alliances
     /**
      * Check if is the alliance owner
      *
-     * @return string
+     * @return bool
      */
-    public function isOwner()
+    public function isOwner(): bool
     {
-        return ($this->getCurrentAlliance()->getAllianceOwner() === $this->getUserId());
+        return (int) $this->getCurrentAlliance()->getAllianceOwner() === $this->getUserId();
     }
 
     /**
@@ -87,13 +77,13 @@ class Alliances
      *
      * @return boolean
      */
-    public function checkRank($rank)
+    public function checkRank(int $rank): bool
     {
         $ranks = $this->getCurrentAllianceRankObject();
 
-        return ($rank != null
+        return $rank != null
             && $ranks->getAllRanksAsArray() != null
-            && $ranks->getRankById($this->getUserRankId())['rights'][$rank] == SwitchIntEnumerator::on);
+            && $ranks->getRankById($this->getUserRankId())['rights'][$rank] == SwitchIntEnumerator::on;
     }
 
     /**
@@ -103,9 +93,9 @@ class Alliances
      *
      * @return boolean
      */
-    public function hasAccess($rank)
+    public function hasAccess(int $rank): bool
     {
-        return ($this->isOwner() or $this->checkRank($rank));
+        return $this->isOwner() or $this->checkRank($rank);
     }
 
     /**
@@ -115,7 +105,7 @@ class Alliances
      *
      * @return void
      */
-    private function setUp($alliances)
+    private function setUp(array $alliances): void
     {
         foreach ($alliances as $alliance) {
             $this->_alliances[] = $this->createNewAllianceEntity($alliance);
@@ -126,7 +116,7 @@ class Alliances
      *
      * @param int $user_id User Id
      */
-    private function setUserId($user_id)
+    private function setUserId(int $user_id): void
     {
         $this->_current_user_id = $user_id;
     }
@@ -135,7 +125,7 @@ class Alliances
      *
      * @return int
      */
-    private function getUserId()
+    private function getUserId(): int
     {
         return $this->_current_user_id;
     }
@@ -144,7 +134,7 @@ class Alliances
      *
      * @param int $user_rank_id User Rank Id
      */
-    private function setUserRankId($user_rank_id)
+    private function setUserRankId(int $user_rank_id): void
     {
         $this->_current_user_rank_id = $user_rank_id;
     }
@@ -153,7 +143,7 @@ class Alliances
      *
      * @return int
      */
-    private function getUserRankId()
+    private function getUserRankId(): int
     {
         return $this->_current_user_rank_id;
     }
@@ -163,9 +153,9 @@ class Alliances
      *
      * @param array $alliance Alliance
      *
-     * @return \AllianceEntity
+     * @return AllianceEntity
      */
-    private function createNewAllianceEntity($alliance)
+    private function createNewAllianceEntity(array $alliance): AllianceEntity
     {
         return new AllianceEntity($alliance);
     }

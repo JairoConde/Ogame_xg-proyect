@@ -16,6 +16,7 @@ use Exception;
 class ShipyardController extends BaseController
 {
     public const MODULE_ID = 7;
+    private const MINING_DRILL_LIMIT_PER_PLANET = 1000;
     private array $missiles = [
         Defenses::defense_anti_ballistic_missile => 0,
         Defenses::defense_interplanetary_missile => 0,
@@ -63,7 +64,7 @@ class ShipyardController extends BaseController
      *
      * @return void
      */
-    private function setUpShipyard()
+    private function setUpShipyard(): void
     {
         // validate and display
         $this->showShipyardRequiredMessage();
@@ -82,6 +83,11 @@ class ShipyardController extends BaseController
      */
     private function runAction()
     {
+        if (filter_input(INPUT_POST, 'cancel_queue') !== null) {
+            $this->cancelPendingQueue();
+            Functions::redirect('game.php?page=' . $this->getCurrentPage());
+        }
+
         $items = filter_input(INPUT_POST, 'fmenge', FILTER_DEFAULT, FILTER_REQUIRE_ARRAY);
 
         if (!is_null($items) && $items !== false) {
@@ -130,6 +136,32 @@ class ShipyardController extends BaseController
         }
     }
 
+    private function cancelPendingQueue(): void
+    {
+        $pendingQueue = $this->getPendingQueueRows();
+
+        if (empty($pendingQueue)) {
+            return;
+        }
+
+        $refund = [
+            'metal' => 0,
+            'crystal' => 0,
+            'deuterium' => 0,
+        ];
+
+        foreach ($pendingQueue as $item) {
+            $itemId = (int) $item['item'];
+            $amount = (int) $item['amount'];
+            $needed = $this->getItemNeededResourcesByAmount($itemId, $amount);
+            $refund['metal'] += $needed['metal'];
+            $refund['crystal'] += $needed['crystal'];
+            $refund['deuterium'] += $needed['deuterium'];
+        }
+
+        $this->shipyardModel->cancelQueueAndRefund($refund, (int) $this->planet['planet_id']);
+    }
+
     private function buildPage(): void
     {
         /**
@@ -152,7 +184,7 @@ class ShipyardController extends BaseController
      *
      * @return string
      */
-    private function showShipyardUpgradeMessage()
+    private function showShipyardUpgradeMessage(): string
     {
         if ($this->building_in_progress) {
             return FormatLib::colorRed($this->langs->line('sy_building_shipyard'));
@@ -166,7 +198,7 @@ class ShipyardController extends BaseController
      *
      * @return array
      */
-    private function buildListOfItems()
+    private function buildListOfItems(): array
     {
         $buildings_list = [];
 
@@ -186,7 +218,7 @@ class ShipyardController extends BaseController
      *
      * @return array
      */
-    private function setListOfShipyardItem($item_id)
+    private function setListOfShipyardItem(int $item_id): array
     {
         $item_to_parse = [];
 
@@ -227,7 +259,7 @@ class ShipyardController extends BaseController
      *
      * @return string
      */
-    private function getItemPriceWithFormat($item_id)
+    private function getItemPriceWithFormat(int $item_id): string
     {
         return DevelopmentsLib::formatedDevelopmentPrice(
             $this->user,
@@ -245,10 +277,18 @@ class ShipyardController extends BaseController
      *
      * @return string
      */
-    private function getItemTimeWithFormat($item_id)
+    private function getItemTimeWithFormat(int $item_id): string
     {
+        $time = $this->getItemTime($item_id);
+
+        if ($time > 0 && $time < 1) {
+            $unitsPerSecond = max(1, min(1000000, (int) ceil(1 / $time)));
+
+            return '<br>' . $this->langs->line('sy_time') . 'x' . $unitsPerSecond . '/s';
+        }
+
         return DevelopmentsLib::formatedDevelopmentTime(
-            $this->getItemTime($item_id),
+            $time,
             $this->langs->line('sy_time')
         );
     }
@@ -258,9 +298,9 @@ class ShipyardController extends BaseController
      *
      * @param int $item_id Item ID
      *
-     * @return int
+     * @return float
      */
-    private function getItemTime($item_id)
+    private function getItemTime(int $item_id): float
     {
         return DevelopmentsLib::developmentTime(
             $this->user,
@@ -276,7 +316,7 @@ class ShipyardController extends BaseController
      *
      * @return string
      */
-    private function getItemAmountWithFormat($item_id)
+    private function getItemAmountWithFormat(int $item_id): string
     {
         $amount = $this->getItemAmount($item_id);
 
@@ -294,7 +334,7 @@ class ShipyardController extends BaseController
      *
      * @return string
      */
-    private function getItemInsertBlock($item_id)
+    private function getItemInsertBlock(int $item_id): string
     {
         if (!$this->building_in_progress && !$this->userLibrary->isOnVacations($this->user)
         ) {
@@ -322,7 +362,7 @@ class ShipyardController extends BaseController
      *
      * @return int
      */
-    private function getItemAmount($item_id)
+    private function getItemAmount(int $item_id): int
     {
         return $this->planet[$this->objects->getObjects()[$item_id]];
     }
@@ -332,7 +372,7 @@ class ShipyardController extends BaseController
      *
      * @return string
      */
-    private function getBuildItemsButton()
+    private function getBuildItemsButton(): string
     {
         if (!$this->building_in_progress && !$this->userLibrary->isOnVacations($this->user)) {
             return $this->template->set(
@@ -349,7 +389,7 @@ class ShipyardController extends BaseController
      *
      * @return string
      */
-    private function buildItemsQueue()
+    private function buildItemsQueue(): string
     {
         $queue = explode(';', $this->planet['planet_b_hangar_id']);
         $queue_time = 0;
@@ -370,7 +410,7 @@ class ShipyardController extends BaseController
                     $item_amount_per_type .= $item_values[1] . ',';
 
                     // $item_values[1] = amount
-                    $queue_time += $item_time * $item_values[1];
+                    $queue_time += $item_time * (int) $item_values[1];
                 }
             }
 
@@ -384,16 +424,18 @@ class ShipyardController extends BaseController
 
             return $this->template->set('shipyard/shipyard_script', $block);
         }
+
+        return '';
     }
 
     /**
      * Determine the current page and validate it
      *
-     * @return array
+     * @return string
      *
      * @throws Exception
      */
-    private function getCurrentPage()
+    private function getCurrentPage(): string
     {
         try {
             $get_value = filter_input(INPUT_GET, 'page');
@@ -413,9 +455,9 @@ class ShipyardController extends BaseController
      * Get an array with an allowed set of items for the current page,
      * filtering by page and available technologies
      *
-     * @return array
+     * @return void
      */
-    private function setAllowedItems()
+    private function setAllowedItems(): void
     {
         $allowed_buildings = [
             'shipyard' => [
@@ -433,6 +475,7 @@ class ShipyardController extends BaseController
                 Ships::ship_destroyer,
                 Ships::ship_deathstar,
                 Ships::ship_battlecruiser,
+                Ships::ship_mining_drill,
             ],
             'defense' => [
                 Defenses::defense_rocket_launcher,
@@ -462,7 +505,7 @@ class ShipyardController extends BaseController
      *
      * @return void
      */
-    private function showShipyardRequiredMessage()
+    private function showShipyardRequiredMessage(): void
     {
         if ($this->planet[$this->objects->getObjects(21)] == 0) {
             Functions::message($this->langs->line('sy_shipyard_required'), '', '', true);
@@ -474,7 +517,7 @@ class ShipyardController extends BaseController
      *
      * @return void
      */
-    private function isAnyFacilityWorking()
+    private function isAnyFacilityWorking(): void
     {
         // by default is false ...
         $this->building_in_progress = false;
@@ -490,6 +533,7 @@ class ShipyardController extends BaseController
                 // $building[0] = Building ID
                 if (in_array($building[0], $not_allowed)) {
                     $this->building_in_progress = true;
+
                     break; // any of the "banned" buildings is being built
                 }
             }
@@ -504,7 +548,7 @@ class ShipyardController extends BaseController
      *
      * @return int The max amount of buildable items
      */
-    private function getMaxBuildableItems($item_id, $amount_requested)
+    private function getMaxBuildableItems(int $item_id, int $amount_requested): int
     {
         // set construction limit based on resources
         $max_by_resource = $this->getMaxBuildableItemsByResource($item_id);
@@ -514,7 +558,7 @@ class ShipyardController extends BaseController
 
         // set the construction limit for shields
         if (in_array($item_id, [Defenses::defense_small_shield_dome, Defenses::defense_large_shield_dome])) {
-            $max_shields = $this->getShieldDomeItemLimit($item_id, $amount_requested);
+            $max_shields = $this->getShieldDomeItemLimit($item_id);
 
             if ($amount_requested > $max_shields) {
                 $amount_requested = $max_shields;
@@ -527,6 +571,15 @@ class ShipyardController extends BaseController
 
             if ($amount_requested > $max_missiles) {
                 $amount_requested = $max_missiles;
+            }
+        }
+
+        // hard cap for mining drill ships
+        if ($item_id === Ships::ship_mining_drill) {
+            $max_mining_drills = $this->getMiningDrillItemLimit();
+
+            if ($amount_requested > $max_mining_drills) {
+                $amount_requested = $max_mining_drills;
             }
         }
 
@@ -549,6 +602,14 @@ class ShipyardController extends BaseController
         return $amount_requested;
     }
 
+    private function getMiningDrillItemLimit(): int
+    {
+        $current = (int) $this->planet['ship_mining_drill'];
+        $inQueue = (int) ($this->processQueueToArray()[Ships::ship_mining_drill] ?? 0);
+
+        return max(0, self::MINING_DRILL_LIMIT_PER_PLANET - $current - $inQueue);
+    }
+
     /**
      * Get max amount of buildable items based on the planet current resources
      *
@@ -556,7 +617,7 @@ class ShipyardController extends BaseController
      *
      * @return int
      */
-    private function getMaxBuildableItemsByResource($item_id)
+    private function getMaxBuildableItemsByResource(int $item_id): int
     {
         $buildable = [];
         $price_metal = $this->objects->getPrice($item_id, 'metal');
@@ -581,11 +642,9 @@ class ShipyardController extends BaseController
     /**
      * Get max amount of buildable items based on the system configuration
      *
-     * @param int $amount_requested Amount of items requested
-     *
      * @return int
      */
-    private function getMaxBuildableItemsBySystemLimit()
+    private function getMaxBuildableItemsBySystemLimit(): int
     {
         return MAX_FLEET_OR_DEFS_PER_ROW;
     }
@@ -597,7 +656,7 @@ class ShipyardController extends BaseController
      *
      * @return int
      */
-    private function getShieldDomeItemLimit($item_id)
+    private function getShieldDomeItemLimit(int $item_id): int
     {
         // set construction limit for shield dome
         $shields_ids = [Defenses::defense_small_shield_dome, Defenses::defense_large_shield_dome];
@@ -609,6 +668,8 @@ class ShipyardController extends BaseController
 
             return 0;
         }
+
+        return 0;
     }
 
     /**
@@ -618,7 +679,7 @@ class ShipyardController extends BaseController
      *
      * @return int
      */
-    private function getMissilesItemLimit($item_id, $amount_requested)
+    private function getMissilesItemLimit(int $item_id, $amount_requested): int
     {
         // calculate missile amount
         $this->calculateMissilesAmount();
@@ -651,7 +712,7 @@ class ShipyardController extends BaseController
      *
      * @return array
      */
-    private function getItemNeededResourcesByAmount($item_id, $amount)
+    private function getItemNeededResourcesByAmount(int $item_id, $amount): array
     {
         return [
             'metal' => ($this->objects->getPrice($item_id, 'metal') * $amount),
@@ -666,7 +727,7 @@ class ShipyardController extends BaseController
      * @param int $item_id Item ID
      * @return boolean
      */
-    private function isShieldDomeAvailable($item_id)
+    private function isShieldDomeAvailable(int $item_id): bool
     {
         if (in_array($item_id, [Defenses::defense_small_shield_dome, Defenses::defense_large_shield_dome])) {
             // check if something is already built
@@ -688,9 +749,9 @@ class ShipyardController extends BaseController
     /**
      * Calculate missiles amount considering the planet current storage and queue
      *
-     * @return array
+     * @return void
      */
-    private function calculateMissilesAmount()
+    private function calculateMissilesAmount(): void
     {
         // get the amount of missiles stored in the planet
         $planet_missiles = [
@@ -724,7 +785,7 @@ class ShipyardController extends BaseController
      *
      * @return array
      */
-    private function processQueueToArray()
+    private function processQueueToArray(): array
     {
         $queue = explode(';', $this->planet['planet_b_hangar_id']);
         $array_queue = [];
@@ -744,5 +805,35 @@ class ShipyardController extends BaseController
         }
 
         return $array_queue;
+    }
+
+    private function getPendingQueueRows(): array
+    {
+        $queue = explode(';', $this->planet['planet_b_hangar_id']);
+        $pending = [];
+
+        foreach ($queue as $item_data) {
+            if ($item_data === '') {
+                continue;
+            }
+
+            $item = explode(',', $item_data);
+            if (count($item) < 2) {
+                continue;
+            }
+
+            $itemId = (int) $item[0];
+            $amount = (int) $item[1];
+            if ($itemId <= 0 || $amount <= 0) {
+                continue;
+            }
+
+            $pending[] = [
+                'item' => $itemId,
+                'amount' => $amount,
+            ];
+        }
+
+        return $pending;
     }
 }

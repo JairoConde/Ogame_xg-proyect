@@ -6,10 +6,20 @@ use App\Core\BaseController;
 use App\Libraries\FormatLib as Format;
 use App\Libraries\Functions;
 use App\Libraries\Users;
+use App\Models\Game\Trader;
 
 class TraderLayerController extends BaseController
 {
     public const MODULE_ID = 5;
+    private const MERCHANT_CALL_PRICE = 3500;
+    private const SELL_RATIOS = [
+        'metal' => ['crystal' => 2.0, 'deuterium' => 4.0],
+        'crystal' => ['metal' => 0.5, 'deuterium' => 2.0],
+        'deuterium' => ['metal' => 0.25, 'crystal' => 0.5],
+    ];
+
+    private string $error = '';
+    private Trader $traderModel;
 
     public function __construct()
     {
@@ -20,9 +30,7 @@ class TraderLayerController extends BaseController
 
         // load Language
         parent::loadLang(['game/global', 'game/trader']);
-
-        // build the page
-        $this->buildPage();
+        $this->traderModel = new Trader();
     }
 
     public function index(): void
@@ -30,20 +38,99 @@ class TraderLayerController extends BaseController
         // Check module access
         Functions::moduleMessage(Functions::isModuleAccesible(self::MODULE_ID));
 
+        $this->runAction();
+
         // build the page
         $this->buildPage();
     }
 
+    private function runAction(): void
+    {
+        $trade = filter_input_array(INPUT_POST);
+
+        if (!$trade || !isset($trade['execute_trade'])) {
+            return;
+        }
+
+        $sellResource = filter_input(INPUT_POST, 'sell', FILTER_UNSAFE_RAW);
+        if (!is_string($sellResource) || !isset(self::SELL_RATIOS[$sellResource])) {
+            $this->error = $this->langs->line('tr_invalid_resource_selection');
+
+            return;
+        }
+
+        $exchange = [];
+        foreach (['metal', 'crystal', 'deuterium'] as $resource) {
+            if ($resource === $sellResource) {
+                continue;
+            }
+
+            $value = filter_input(INPUT_POST, $resource, FILTER_VALIDATE_INT, ['options' => ['default' => 0, 'min_range' => 0]]);
+            $exchange[$resource] = max(0, (int) $value);
+        }
+
+        if (array_sum($exchange) <= 0) {
+            $this->error = $this->langs->line('tr_invalid_trade_amount');
+
+            return;
+        }
+
+        $soldAmount = 0;
+        foreach ($exchange as $resource => $amount) {
+            $soldAmount += (int) ceil($amount * self::SELL_RATIOS[$sellResource][$resource]);
+            $newAmount = (int) $this->planet['planet_' . $resource] + $amount;
+            if ($newAmount > (int) $this->planet['planet_' . $resource . '_max']) {
+                $this->error = $this->langs->line('tr_no_enough_storage');
+
+                return;
+            }
+        }
+
+        if ((int) $this->planet['planet_' . $sellResource] < $soldAmount) {
+            $this->error = $this->langs->line('tr_not_enough_sell_resource');
+
+            return;
+        }
+
+        if ((int) $this->user['premium_dark_matter'] < self::MERCHANT_CALL_PRICE) {
+            $this->error = $this->langs->line('tr_no_enough_dark_matter');
+
+            return;
+        }
+
+        $planetId = (int) $this->planet['planet_id'];
+        $userId = (int) $this->user['user_id'];
+        $ok = $this->traderModel->tradeResources(
+            $userId,
+            $planetId,
+            $sellResource,
+            $soldAmount,
+            $exchange,
+            self::MERCHANT_CALL_PRICE
+        );
+
+        if (!$ok) {
+            $this->error = $this->langs->line('tr_trade_failed');
+
+            return;
+        }
+
+        Functions::redirect('game.php?page=traderLayer&mode=traderResources&sell=' . $sellResource . '&ok=1');
+    }
+
     private function buildPage(): void
     {
+        $resourceData = $this->buildResourcesSection();
+
         $this->page->display(
             $this->template->set(
                 'game/trader_layer_view',
                 array_merge(
                     $this->langs->language,
-                    $this->getMode(),
+                    $resourceData,
                     [
                         'dpath' => DPATH,
+                        'status_message' => $this->buildStatusMessage(),
                     ]
                 )
             ),
@@ -237,58 +324,53 @@ class TraderLayerController extends BaseController
     //}
 
     /**
-     * Get the kind of trader that we are requesting
-     *
-     * @return array
-     */
-    private function getMode(): array
-    {
-        $mode = filter_input(INPUT_GET, 'mode', FILTER_UNSAFE_RAW);
-        $template = '';
-
-        if (in_array($mode, ['traderResources', 'traderAuctioneer', 'traderScrap', 'traderImportExport'])) {
-            $view_to_get = strtolower(strtr($mode, ['trader' => '']));
-            $template = $this->template->set(
-                'game/trader_' . $view_to_get . '_view',
-                array_merge(
-                    $this->langs->language,
-                    [
-                        'list_of_resources' => $this->{'build' . ucfirst($view_to_get) . 'Section'}(),
-                    ]
-                )
-            );
-        }
-
-        return [
-            'current_mode' => $template,
-        ];
-    }
-
-    /**
      * Build resources section
      *
      * @return array
      */
     private function buildResourcesSection(): array
     {
-        $list_of_resources = [];
-
-        foreach (['metal' => 4500, 'crystal' => 9000, 'deuterium' => 13500] as $resource => $price) {
-            $list_of_resources[] = array_merge(
-                $this->langs->language,
-                [
-                    'dpath' => DPATH,
-                    'resource' => $resource,
-                    'resource_name' => $this->langs->line($resource),
-                    'current_resource' => Format::shortlyNumber($this->planet['planet_' . $resource]),
-                    'max_resource' => Format::shortlyNumber($this->planet['planet_' . $resource . '_max']),
-                    'dark_matter_price_10' => Format::prettyNumber($price),
-                    'dark_matter_price_50' => Format::prettyNumber($price * 5),
-                    'dark_matter_price_100' => Format::prettyNumber($price * 10),
-                ]
-            );
+        $sellResource = filter_input(INPUT_POST, 'sell', FILTER_UNSAFE_RAW);
+        if (!is_string($sellResource) || !isset(self::SELL_RATIOS[$sellResource])) {
+            $sellResource = filter_input(INPUT_GET, 'sell', FILTER_UNSAFE_RAW);
+        }
+        if (!is_string($sellResource) || !isset(self::SELL_RATIOS[$sellResource])) {
+            $sellResource = 'metal';
         }
 
-        return $list_of_resources;
+        $buyResources = array_values(array_filter(['metal', 'crystal', 'deuterium'], static fn (string $resource): bool => $resource !== $sellResource));
+
+        return array_merge(
+            $this->langs->language,
+            [
+                'sell_resource' => $sellResource,
+                'sell_resource_name' => $this->langs->line($sellResource),
+                'sell_available' => Format::prettyNumber((int) $this->planet['planet_' . $sellResource]),
+                'call_price' => Format::prettyNumber(self::MERCHANT_CALL_PRICE),
+                'resource_a' => $buyResources[0],
+                'resource_b' => $buyResources[1],
+                'resource_a_name' => $this->langs->line($buyResources[0]),
+                'resource_b_name' => $this->langs->line($buyResources[1]),
+                'resource_a_current' => Format::prettyNumber((int) $this->planet['planet_' . $buyResources[0]]),
+                'resource_b_current' => Format::prettyNumber((int) $this->planet['planet_' . $buyResources[1]]),
+                'resource_a_free' => Format::prettyNumber(max(0, (int) $this->planet['planet_' . $buyResources[0] . '_max'] - (int) $this->planet['planet_' . $buyResources[0]])),
+                'resource_b_free' => Format::prettyNumber(max(0, (int) $this->planet['planet_' . $buyResources[1] . '_max'] - (int) $this->planet['planet_' . $buyResources[1]])),
+                'ratio_a' => self::SELL_RATIOS[$sellResource][$buyResources[0]],
+                'ratio_b' => self::SELL_RATIOS[$sellResource][$buyResources[1]],
+            ]
+        );
+    }
+
+    private function buildStatusMessage(): string
+    {
+        if ($this->error !== '') {
+            return '<div class="error">' . $this->error . '</div>';
+        }
+
+        if (filter_input(INPUT_GET, 'ok', FILTER_VALIDATE_INT) === 1) {
+            return '<div class="success">' . $this->langs->line('tr_exchange_done') . '</div>';
+        }
+
+        return '';
     }
 }

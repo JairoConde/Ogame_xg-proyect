@@ -18,6 +18,14 @@ abstract class Model
         $this->db->closeConnection();
     }
 
+    /**
+     * @return array{0: \mysqli, 1: string}
+     */
+    public function getDbConnectionAndPrefix(): array
+    {
+        return [$this->db->getConnection(), $this->db->getPrefix()];
+    }
+
     private function setNewDb(): void
     {
         $this->db = new Database();

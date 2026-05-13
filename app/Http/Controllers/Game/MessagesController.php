@@ -91,6 +91,12 @@ class MessagesController extends BaseController
      *
      * @return string
      */
+
+    /**
+     * Build the default messages section
+     *
+     * @return string
+     */
     private function getDefaultSection(): string
     {
         // set messages as read
@@ -404,6 +410,7 @@ class MessagesController extends BaseController
         switch ($delete) {
             case 'deleteall':
                 $this->messagesModel->deleteAllByOwner($this->user['user_id']);
+
                 break;
             case 'deletemarked':
                 foreach ($messages_to_delete as $message => $checked) {
@@ -417,6 +424,7 @@ class MessagesController extends BaseController
                 if (isset($message_ids)) {
                     $this->messagesModel->deleteByOwnerAndIds($this->user['user_id'], join(',', $message_ids));
                 }
+
                 break;
             case 'deleteunmarked':
                 foreach ($messages_to_delete as $message => $checked) {
@@ -431,6 +439,7 @@ class MessagesController extends BaseController
                 if (isset($message_ids)) {
                     $this->messagesModel->deleteByOwnerAndIds($this->user['user_id'], join(',', $message_ids));
                 }
+
                 break;
             case 'deleteallshown':
                 $data = filter_input_array(INPUT_GET, FILTER_VALIDATE_INT);
@@ -439,6 +448,7 @@ class MessagesController extends BaseController
                     foreach ($data as $field => $value) {
                         if (ArraysHelper::inMultiArray($field, $this->message_type)) {
                             $type_id = ArraysHelper::multiArraySearch($field, $this->message_type);
+
                             break;
                         }
                     }
@@ -447,6 +457,7 @@ class MessagesController extends BaseController
                         $this->messagesModel->deleteByOwnerAndMessageType($this->user['user_id'], $type_id);
                     }
                 }
+
                 break;
             default:
                 break;

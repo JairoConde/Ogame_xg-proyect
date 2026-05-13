@@ -87,9 +87,11 @@ class TechtreeController extends BaseController
         $list_of_objects = [];
 
         foreach ($objects as $object) {
+            $imageId = ($object === 125) ? 203 : $object;
             $list_of_objects[] = [
                 'dpath' => DPATH,
                 'tt_info' => $object,
+                'tt_image' => $imageId,
                 'tt_name' => $this->langs->language[$this->_resource[$object]],
                 'tt_detail' => '',
                 'requirements' => join('<br/>', $this->getRequirements($object)),

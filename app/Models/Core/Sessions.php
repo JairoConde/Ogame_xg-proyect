@@ -34,7 +34,7 @@ class Sessions extends Model
      * Get session data by ID
      *
      * @param string $sid
-     * @return array
+     * @return string
      */
     public function getSessionDataById(string $sid): string
     {
@@ -69,14 +69,14 @@ class Sessions extends Model
             VALUES ('" . $this->db->escapeValue($sid) . "', '" . $this->db->escapeValue($data) . "')"
         );
 
-        return ($this->db->affectedRows() > 0);
+        return $this->db->affectedRows() > 0;
     }
 
     /**
      * Delete session data by ID
      *
      * @param string $sid
-     * @return string
+     * @return bool
      */
     public function deleteSessionDataById(string $sid): bool
     {
@@ -85,14 +85,14 @@ class Sessions extends Model
             WHERE `session_id` = '" . $this->db->escapeValue($sid) . "'"
         );
 
-        return ($this->db->affectedRows() > 0);
+        return $this->db->affectedRows() > 0;
     }
 
     /**
      * Clean expired session data
      *
      * @param integer $expire
-     * @return string
+     * @return bool
      */
     public function cleanSessionData(int $expire): bool
     {
@@ -101,6 +101,6 @@ class Sessions extends Model
             WHERE DATE_ADD(`session_last_accessed`, INTERVAL ' . $expire . ' SECOND) < NOW()'
         );
 
-        return ($this->db->affectedRows() > 0);
+        return $this->db->affectedRows() > 0;
     }
 }

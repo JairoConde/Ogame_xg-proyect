@@ -1,0 +1,348 @@
+[2026-05-13 10:12:17] ==== loop 2/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:12:17] planet 32: queued ship_solar_satellite +5
+[2026-05-13 10:12:55] ==== loop 3/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:12:56] planet 32: queued ship_solar_satellite +5
+[10:12:56] research: already in progress
+[2026-05-13 10:13:37] ==== loop 4/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:13:38] planet 32: queued ship_solar_satellite +1
+[10:13:38] research: already in progress
+[2026-05-13 10:14:17] ==== loop 5/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:14:17] planet 32: queued building_deuterium_sintetizer to 7
+[10:14:17] research: already in progress
+[2026-05-13 10:15:40] ==== loop 7/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:15:41] planet 32: queued ship_solar_satellite +2
+[10:15:41] research: already in progress
+[2026-05-13 10:16:25] ==== loop 8/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:16:25] planet 32: queued building_deuterium_sintetizer to 8
+[10:16:25] research: already in progress
+[2026-05-13 10:17:09] ==== loop 9/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:17:09] planet 32: queued ship_solar_satellite +2
+[10:17:09] research: already in progress
+[2026-05-13 10:17:51] ==== loop 10/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:17:51] planet 32: queued building_deuterium_sintetizer to 9
+[10:17:51] research: already in progress
+[2026-05-13 10:18:36] ==== loop 11/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:18:36] planet 32: queued ship_solar_satellite +2
+[10:18:36] research: already in progress
+[2026-05-13 10:19:22] ==== loop 12/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:19:23] planet 32: queued building_deuterium_sintetizer to 10
+[10:19:23] research: already in progress
+[2026-05-13 10:20:47] ==== loop 14/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:20:47] planet 32: queued ship_solar_satellite +3
+[2026-05-13 10:21:34] ==== loop 15/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:21:35] planet 32: queued building_metal_store to 11
+[10:21:35] research: already in progress
+[2026-05-13 10:22:19] ==== loop 16/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:22:19] planet 32: building queue full (5)
+[2026-05-13 10:23:06] ==== loop 17/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:23:06] planet 32: building queue full (5)
+[10:23:06] research: already in progress
+[2026-05-13 10:23:52] ==== loop 18/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:23:52] alliance: idle no_candidate
+[10:23:52] planet 32: building queue full (5)
+[10:23:52] research: already in progress
+[2026-05-13 10:24:39] ==== loop 19/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:24:40] planet 32: building queue full (5)
+[10:24:40] research: already in progress
+[2026-05-13 10:27:44] ==== loop 23/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:27:45] planet 32: building queue full (5)
+[2026-05-13 10:28:34] ==== loop 24/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:28:34] planet 32: building queue full (5)
+[10:28:34] research: already in progress
+[2026-05-13 10:29:19] ==== loop 25/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:29:20] planet 32: building queue full (5)
+[10:29:20] research: already in progress
+[2026-05-13 10:30:04] ==== loop 26/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:30:05] planet 32: queued building_metal_mine to 19
+[10:30:05] research: already in progress
+[2026-05-13 10:30:46] ==== loop 27/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:30:47] planet 32: building queue full (5)
+[2026-05-13 10:31:28] ==== loop 28/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:31:28] planet 32: queued ship_solar_satellite +5
+[10:31:28] research: already in progress
+[2026-05-13 10:32:10] ==== loop 29/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:32:10] planet 32: queued building_metal_mine to 20
+[10:32:10] research: already in progress
+[2026-05-13 10:32:52] ==== loop 30/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:32:53] planet 32: building queue full (5)
+[2026-05-13 10:33:38] ==== loop 31/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:33:39] planet 32: queued ship_solar_satellite +5
+[10:33:39] research: already in progress
+[2026-05-13 10:35:49] ==== loop 34/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:35:50] planet 32: queued building_metal_mine to 21
+[10:35:50] research: already in progress
+[2026-05-13 10:37:12] ==== loop 36/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:37:12] planet 32: building queue full (5)
+[10:37:12] research: already in progress
+[2026-05-13 10:37:51] ==== loop 37/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:37:52] planet 32: building queue full (5)
+[2026-05-13 10:38:32] ==== loop 38/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:38:34] alliance: idle no_candidate
+[10:38:34] planet 32: queued ship_solar_satellite +5
+[10:38:34] research: already in progress
+[2026-05-13 10:39:13] ==== loop 39/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:39:14] planet 32: queued ship_solar_satellite +1
+[10:39:14] research: already in progress
+[2026-05-13 10:39:59] ==== loop 40/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:40:00] planet 32: queued building_metal_mine to 22
+[2026-05-13 10:40:35] ==== loop 41/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:40:36] planet 32: building queue full (5)
+[10:40:36] research: already in progress
+[2026-05-13 10:42:11] ==== loop 43/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:42:11] planet 32: building queue full (5)
+[10:42:11] research: queued research_energy_technology on planet 32 (3s)
+[2026-05-13 10:42:53] ==== loop 44/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:42:55] planet 32: building queue full (5)
+[10:42:55] research: already in progress
+[2026-05-13 10:43:39] ==== loop 45/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:43:40] planet 32: queued ship_solar_satellite +5
+[10:43:40] research: already in progress
+[2026-05-13 10:44:25] ==== loop 46/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:44:26] planet 32: queued ship_solar_satellite +2
+[10:44:26] research: already in progress
+[2026-05-13 10:45:06] ==== loop 47/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:45:06] planet 32: queued building_metal_mine to 23
+[10:45:06] research: already in progress
+[2026-05-13 10:45:55] ==== loop 48/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:45:55] planet 32: building queue full (5)
+[2026-05-13 10:46:39] ==== loop 49/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:46:40] planet 32: building queue full (5)
+[2026-05-13 10:47:32] ==== loop 50/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:47:32] planet 32: building queue full (5)
+[10:47:32] research: already in progress
+[2026-05-13 10:48:21] ==== loop 51/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:48:22] planet 32: building queue full (5)
+[10:48:22] research: already in progress
+[2026-05-13 10:49:08] ==== loop 52/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:49:09] planet 32: building queue full (5)
+[2026-05-13 10:50:02] ==== loop 53/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:50:03] planet 32: queued ship_solar_satellite +5
+[10:50:03] research: already in progress
+[2026-05-13 10:50:51] ==== loop 54/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:50:51] planet 32: queued ship_solar_satellite +3
+[2026-05-13 10:51:41] ==== loop 55/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:51:42] planet 32: queued building_deuterium_tank to 2
+[10:51:42] research: already in progress
+[2026-05-13 10:52:29] ==== loop 56/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:52:30] planet 32: queued building_solar_plant to 20
+[10:52:30] research: already in progress
+[2026-05-13 10:53:13] ==== loop 57/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:53:14] planet 32: building queue full (5)
+[2026-05-13 10:54:00] ==== loop 58/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:54:00] alliance: idle no_candidate
+[10:54:00] planet 32: building queue full (5)
+[10:54:00] research: already in progress
+[2026-05-13 10:54:48] ==== loop 59/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:54:49] planet 32: queued building_deuterium_tank to 3
+[2026-05-13 10:55:37] ==== loop 60/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:55:38] planet 32: queued building_deuterium_tank to 4
+[10:55:38] research: already in progress
+[2026-05-13 10:57:08] ==== loop 62/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:57:08] planet 32: queued building_solar_plant to 21
+[2026-05-13 10:57:54] ==== loop 63/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:57:55] planet 32: building queue full (5)
+[10:57:55] research: already in progress
+[2026-05-13 10:59:24] ==== loop 65/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:59:25] planet 32: building queue full (5)
+[10:59:25] research: already in progress
+[2026-05-13 11:00:15] ==== loop 66/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:00:15] planet 32: queued building_metal_store to 12
+[2026-05-13 11:01:06] ==== loop 67/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:01:07] planet 32: building queue full (5)
+[2026-05-13 11:01:52] ==== loop 68/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:01:53] planet 32: building queue full (5)
+[2026-05-13 11:02:42] ==== loop 69/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:02:43] planet 32: building queue full (5)
+[11:02:43] research: already in progress
+[2026-05-13 11:03:31] ==== loop 70/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:03:31] planet 32: building queue full (5)
+[2026-05-13 11:05:58] ==== loop 73/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:05:58] planet 32: building queue full (5)
+[2026-05-13 11:06:41] ==== loop 74/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:06:42] planet 32: building queue full (5)
+[2026-05-13 11:08:17] ==== loop 76/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:08:18] planet 32: building queue full (5)
+[11:08:18] research: already in progress
+[2026-05-13 11:09:06] ==== loop 77/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:09:06] planet 32: building queue full (5)
+[11:09:06] research: already in progress
+[2026-05-13 11:09:53] ==== loop 78/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:09:53] alliance: idle no_candidate
+[11:09:53] planet 32: building queue full (5)
+[11:09:53] research: already in progress
+[2026-05-13 11:10:35] ==== loop 79/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:10:36] planet 32: queued building_crystal_store to 14
+[11:10:36] research: already in progress
+[2026-05-13 11:11:22] ==== loop 80/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:11:23] planet 32: queued building_robot_factory to 9
+[11:11:23] research: already in progress
+[2026-05-13 11:12:06] ==== loop 81/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:12:06] planet 32: queue busy, throttled building_robot_factory
+[11:12:06] research: already in progress
+[2026-05-13 11:12:48] ==== loop 82/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:12:48] planet 32: queue busy, throttled building_robot_factory
+[11:12:48] research: already in progress
+[2026-05-13 11:14:16] ==== loop 84/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:14:16] planet 32: queue busy, throttled building_robot_factory
+[11:14:16] research: already in progress
+[2026-05-13 11:14:59] ==== loop 85/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:14:59] planet 32: queue busy, throttled building_robot_factory
+[2026-05-13 11:16:25] ==== loop 87/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:16:25] planet 32: queue busy, throttled building_robot_factory
+[11:16:25] research: already in progress
+[2026-05-13 11:17:17] ==== loop 88/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:17:18] planet 32: building queue full (5)
+[2026-05-13 11:18:05] ==== loop 89/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:18:06] planet 32: building queue full (5)
+[11:18:06] research: already in progress
+[2026-05-13 11:18:54] ==== loop 90/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:18:54] planet 32: building queue full (5)
+[11:18:54] research: already in progress
+[2026-05-13 11:19:40] ==== loop 91/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:19:41] planet 32: building queue full (5)
+[2026-05-13 11:21:13] ==== loop 93/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:21:14] planet 32: building queue full (5)
+[11:21:14] research: already in progress
+[2026-05-13 11:22:40] ==== loop 95/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:22:41] planet 32: building queue full (5)
+[11:22:41] research: already in progress
+[2026-05-13 11:23:28] ==== loop 96/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:23:28] planet 32: building queue full (5)
+[11:23:28] research: already in progress
+[2026-05-13 11:24:09] ==== loop 97/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:24:10] planet 32: building queue full (5)
+[11:24:10] research: already in progress
+[2026-05-13 11:24:54] ==== loop 98/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:24:55] alliance: idle no_candidate
+[11:24:55] planet 32: building queue full (5)
+[11:24:55] research: already in progress
+[2026-05-13 11:25:44] ==== loop 99/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:25:46] planet 32: building queue full (5)
+[11:25:46] research: already in progress
+[2026-05-13 11:26:34] ==== loop 100/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:26:35] planet 32: building queue full (5)
+[11:26:35] research: already in progress
+[2026-05-13 11:27:20] ==== loop 101/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:27:21] planet 32: building queue full (5)
+[11:27:21] research: already in progress
+[2026-05-13 11:28:07] ==== loop 102/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:28:08] planet 32: building queue full (5)
+[2026-05-13 11:28:53] ==== loop 103/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:28:54] planet 32: building queue full (5)
+[11:28:54] research: already in progress
+[2026-05-13 11:29:34] ==== loop 104/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:29:35] planet 32: building queue full (5)
+[11:29:35] research: already in progress
+[2026-05-13 11:31:41] ==== loop 107/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:31:42] planet 32: building queue full (5)
+[11:31:42] research: already in progress
+[2026-05-13 11:32:28] ==== loop 108/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:32:29] planet 32: building queue full (5)
+[11:32:29] research: already in progress
+[2026-05-13 11:33:09] ==== loop 109/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:33:10] planet 32: building queue full (5)
+[11:33:10] research: already in progress
+[2026-05-13 11:33:53] ==== loop 110/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:33:54] planet 32: building queue full (5)
+[11:33:54] research: already in progress
+[2026-05-13 11:34:41] ==== loop 111/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:34:42] planet 32: building queue full (5)
+[11:34:42] research: already in progress
+[2026-05-13 11:35:22] ==== loop 112/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:35:23] planet 32: building queue full (5)
+[11:35:23] research: already in progress
+[2026-05-13 11:36:08] ==== loop 113/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:36:09] planet 32: building queue full (5)
+[2026-05-13 11:36:49] ==== loop 114/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:36:49] planet 32: building queue full (5)
+[11:36:49] research: already in progress
+[2026-05-13 11:38:16] ==== loop 116/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:38:17] planet 32: building queue full (5)
+[11:38:17] research: already in progress
+[2026-05-13 11:39:09] ==== loop 117/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:39:10] planet 32: building queue full (5)
+[2026-05-13 11:40:40] ==== loop 119/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:40:41] planet 32: building queue full (5)
+[11:40:41] research: already in progress
+[2026-05-13 11:41:26] ==== loop 120/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:41:26] planet 32: building queue full (5)
+[11:41:26] research: already in progress
+[2026-05-13 11:42:16] ==== loop 121/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:42:17] planet 32: building queue full (5)
+[11:42:17] research: already in progress
+[2026-05-13 11:43:07] ==== loop 122/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:43:08] planet 32: building queue full (5)
+[11:43:08] research: already in progress
+[2026-05-13 11:43:54] ==== loop 123/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:43:57] planet 32: building queue full (5)
+[2026-05-13 11:44:41] ==== loop 124/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:44:42] planet 32: building queue full (5)
+[11:44:42] research: already in progress
+[2026-05-13 11:45:29] ==== loop 125/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:45:30] planet 32: building queue full (5)
+[11:45:30] research: already in progress
+[2026-05-13 11:46:59] ==== loop 127/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:46:59] planet 32: building queue full (5)
+[11:46:59] research: already in progress
+[2026-05-13 11:47:48] ==== loop 128/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:47:48] planet 32: building queue full (5)
+[11:47:48] research: already in progress
+[2026-05-13 11:48:34] ==== loop 129/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:48:34] planet 32: building queue full (5)
+[2026-05-13 11:49:24] ==== loop 130/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:49:25] planet 32: building queue full (5)
+[2026-05-13 11:51:51] ==== loop 133/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:51:52] planet 32: building queue full (5)
+[11:51:52] research: already in progress
+[2026-05-13 11:52:39] ==== loop 134/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:52:40] planet 32: building queue full (5)
+[11:52:40] research: already in progress
+[2026-05-13 11:53:24] ==== loop 135/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:53:24] planet 32: building queue full (5)
+[11:53:24] research: already in progress
+[2026-05-13 11:55:31] ==== loop 138/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:55:32] planet 32: building queue full (5)
+[11:55:32] research: already in progress
+[2026-05-13 11:56:22] ==== loop 139/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:56:22] planet 32: building queue full (5)
+[11:56:22] research: already in progress
+[2026-05-13 11:57:05] ==== loop 140/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:57:06] planet 32: building queue full (5)
+[2026-05-13 11:57:54] ==== loop 141/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:57:55] planet 32: building queue full (5)
+[11:57:55] research: already in progress
+[2026-05-13 11:58:34] ==== loop 142/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:58:35] planet 32: building queue full (5)
+[2026-05-13 11:59:18] ==== loop 143/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:59:19] planet 32: building queue full (5)
+[2026-05-13 12:00:01] ==== loop 144/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:00:01] planet 32: building queue full (5)
+[12:00:01] research: already in progress
+[2026-05-13 12:00:46] ==== loop 145/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:00:47] planet 32: building queue full (5)
+[12:00:47] research: already in progress
+[2026-05-13 12:02:21] ==== loop 147/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:02:22] planet 32: building queue full (5)
+[12:02:22] research: queued research_energy_technology on planet 32 (6s)
+[2026-05-13 12:03:09] ==== loop 148/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:03:09] planet 32: building queue full (5)
+[2026-05-13 12:03:56] ==== loop 149/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:03:57] planet 32: building queue full (5)
+[2026-05-13 12:04:42] ==== loop 150/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:04:43] planet 32: building queue full (5)
+[2026-05-13 12:05:30] ==== loop 151/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:05:32] planet 32: building queue full (5)
+[12:05:32] research: already in progress
+[2026-05-13 12:06:20] ==== loop 152/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:06:21] planet 32: building queue full (5)
+[12:06:21] research: already in progress
+[2026-05-13 12:07:07] ==== loop 153/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:07:08] planet 32: building queue full (5)
+[2026-05-13 12:08:55] ==== loop 155/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:08:56] planet 32: building queue full (5)
+[2026-05-13 12:09:41] ==== loop 156/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:09:42] planet 32: building queue full (5)
+[12:09:42] research: already in progress
+[2026-05-13 12:10:27] ==== loop 157/∞ | seed=699627633280711630 archetype=balanced personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:10:28] planet 32: queued building_laboratory to 10
+[12:10:28] research: already in progress

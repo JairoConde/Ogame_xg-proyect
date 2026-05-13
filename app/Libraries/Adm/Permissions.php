@@ -18,12 +18,7 @@ class Permissions
      */
     private const ALLOW_ADMIN_MODIFICATION = false;
 
-    /**
-     * Contains the permissions array
-     *
-     * @var array
-     */
-    private $permissions = [];
+    private array $permissions = [];
 
     public function __construct(string $permissions)
     {
@@ -127,7 +122,7 @@ class Permissions
      */
     public function isAccessAllowed(string $module, int $role): bool
     {
-        return ($role === UserRanks::ADMIN or (isset($this->permissions[$module][$role]) && $this->permissions[$module][$role] === 1));
+        return $role === UserRanks::ADMIN or (isset($this->permissions[$module][$role]) && $this->permissions[$module][$role] === 1);
     }
 
     /**
@@ -189,7 +184,7 @@ class Permissions
     private function isRoleEditable(int $role): bool
     {
         if ($role == UserRanks::ADMIN) {
-            return ALLOW_ADMIN_MODIFICATION;
+            return self::ALLOW_ADMIN_MODIFICATION;
         }
 
         return true;

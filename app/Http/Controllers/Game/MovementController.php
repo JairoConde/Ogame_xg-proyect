@@ -60,7 +60,7 @@ class MovementController extends BaseController
      *
      * @return void
      */
-    private function setUpFleets()
+    private function setUpFleets(): void
     {
         $this->fleets = new Fleets(
             $this->fleetModel->getAllFleetsByUserId($this->user['user_id']),
@@ -130,23 +130,23 @@ class MovementController extends BaseController
      */
     private function buildMovements(): array
     {
-        $list_of_movements[] = [
-            'num' => '-',
-            'fleet_mission' => '-',
-            'title' => '',
-            'fleet_amount' => '-',
-            'fleet_start' => '-',
-            'fleet_start_time' => '-',
-            'fleet_end' => '-',
-            'fleet_end_time' => '-',
-            'fleet_arrival' => '-',
-            'fleet_actions' => '-',
+        $list_of_movements = [
+            [
+                'num' => '-',
+                'fleet_mission' => '-',
+                'title' => '',
+                'fleet_amount' => '-',
+                'fleet_start' => '-',
+                'fleet_start_time' => '-',
+                'fleet_end' => '-',
+                'fleet_end_time' => '-',
+                'fleet_arrival' => '-',
+                'fleet_actions' => '-',
+            ],
         ];
 
         if ($this->fleets->getFleetsCount() > 0) {
-            // reset
-            unset($list_of_movements);
-
+            $list_of_movements = [];
             $fleet_count = 0;
 
             foreach ($this->fleets->getFleets() as $fleet) {
@@ -183,7 +183,7 @@ class MovementController extends BaseController
      *
      * @param int $fleet_mess Fleet Mess
      *
-     * @return array
+     * @return string
      */
     private function buildTitleBlock(int $fleet_mess): string
     {
@@ -199,7 +199,7 @@ class MovementController extends BaseController
      *
      * @param int $fleet_mess Fleet Mess
      *
-     * @return array
+     * @return string
      */
     private function buildToolTipBlock(int $fleet_mess): string
     {

@@ -89,7 +89,7 @@ class PremiumController extends BaseController
     /**
      * Get premium settings
      *
-     * @return void
+     * @return array
      */
     private function getPremiumSettings(): array
     {

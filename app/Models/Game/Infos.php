@@ -46,7 +46,7 @@ class Infos extends Model
             );
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }

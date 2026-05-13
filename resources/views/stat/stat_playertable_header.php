@@ -3,5 +3,6 @@
     <td class="c"></td>
     <td class="c">{st_player}</td>
     <td class="c">{st_actions}</td>
+    <td class="c">{st_colonies}</td>
     <td class="c">{st_points}</td>
 </tr>

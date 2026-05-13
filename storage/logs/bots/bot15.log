@@ -1,0 +1,2170 @@
+[2026-05-08 12:15:39] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:15:40] planet 41: queued building_crystal_mine to 9
+[12:15:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:16:14] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:16:15] planet 41: queued building_crystal_mine to 10
+[12:16:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:16:47] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:16:48] planet 41: queued building_crystal_mine to 11
+[12:16:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:17:20] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:17:20] planet 41: queued building_crystal_mine to 12
+[2026-05-08 12:17:55] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:17:56] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 12:18:17] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:18:18] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 12:18:49] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:18:49] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 12:19:23] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:19:23] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 12:19:56] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:19:56] planet 41: no resources for building_crystal_mine+1
+[12:19:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:20:30] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:20:31] planet 41: queued building_solar_plant to 1
+[12:20:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:20:53] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:20:53] planet 41: queued building_solar_plant to 2
+[12:20:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:21:27] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:21:27] planet 41: queued building_solar_plant to 3
+[2026-05-08 12:21:59] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:22:00] planet 41: queued building_solar_plant to 4
+[2026-05-08 12:22:35] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:22:36] planet 41: queued building_solar_plant to 5
+[2026-05-08 12:23:09] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:23:10] planet 41: queued building_solar_plant to 6
+[12:23:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:23:34] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:23:34] planet 41: queued building_solar_plant to 7
+[12:23:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:24:06] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:24:06] planet 41: queued building_solar_plant to 8
+[12:24:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:24:40] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:24:41] planet 41: queued building_solar_plant to 9
+[2026-05-08 12:25:13] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:25:14] planet 41: queued building_solar_plant to 10
+[2026-05-08 12:25:37] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:25:38] planet 41: queued building_solar_plant to 11
+[12:25:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:26:10] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:26:11] planet 41: queued building_solar_plant to 12
+[2026-05-08 12:26:45] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:26:45] planet 41: queued building_solar_plant to 13
+[12:26:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:27:17] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:27:19] planet 41: no resources for building_solar_plant+1
+[12:27:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:27:50] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:27:51] planet 41: no resources for building_solar_plant+1
+[2026-05-08 12:28:12] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:28:12] planet 41: no resources for building_solar_plant+1
+[12:28:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:28:43] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:28:44] planet 41: no resources for building_solar_plant+1
+[2026-05-08 12:29:15] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:29:16] planet 41: no resources for building_solar_plant+1
+[2026-05-08 12:29:49] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:29:50] planet 41: no resources for building_solar_plant+1
+[12:29:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:30:23] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:30:23] planet 41: queued building_metal_mine to 12
+[2026-05-08 12:30:45] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:30:46] planet 41: queued building_metal_mine to 13
+[12:30:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:31:20] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:31:21] planet 41: no resources for building_metal_mine+1
+[12:31:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:31:53] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:31:53] planet 41: no resources for building_metal_mine+1
+[2026-05-08 12:32:27] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:32:28] planet 41: no resources for building_metal_mine+1
+[12:32:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:33:02] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:33:02] planet 41: no resources for building_metal_mine+1
+[12:33:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:33:33] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:33:34] planet 41: no resources for building_metal_mine+1
+[12:33:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:34:09] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[2026-05-08 12:34:29] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:34:30] planet 41: no resources for building_metal_mine+1
+[12:34:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:35:04] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:35:05] planet 41: no resources for building_metal_mine+1
+[12:35:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:35:37] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:35:38] planet 41: no resources for building_metal_mine+1
+[12:35:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:36:13] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:36:13] planet 41: no resources for building_metal_mine+1
+[2026-05-08 12:36:45] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:36:46] planet 41: no resources for building_metal_mine+1
+[2026-05-08 12:37:19] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:37:21] planet 41: no resources for building_metal_mine+1
+[12:37:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:37:55] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:37:55] planet 41: no resources for building_metal_mine+1
+[12:37:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:38:28] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:38:29] planet 41: no resources for building_metal_mine+1
+[2026-05-08 12:39:03] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:39:03] planet 41: no resources for building_metal_mine+1
+[2026-05-08 12:39:38] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:39:38] planet 41: no resources for building_metal_mine+1
+[2026-05-08 12:40:10] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:40:11] planet 41: queued building_crystal_store to 1
+[2026-05-08 12:40:44] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:40:45] planet 41: queued building_crystal_store to 2
+[12:40:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:41:15] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:41:15] planet 41: queued building_crystal_store to 3
+[2026-05-08 12:42:01] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:42:02] planet 41: queued building_crystal_store to 4
+[2026-05-08 12:42:38] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:42:38] planet 41: no resources for building_crystal_store+1
+[12:42:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:43:17] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:43:17] planet 41: no resources for building_crystal_store+1
+[2026-05-08 12:43:55] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:43:55] planet 41: no resources for building_crystal_store+1
+[2026-05-08 12:44:33] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:44:33] planet 41: no resources for building_crystal_store+1
+[2026-05-08 12:45:10] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:45:11] planet 41: no resources for building_crystal_store+1
+[12:45:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:45:46] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:45:47] planet 41: no resources for building_crystal_store+1
+[12:45:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:46:23] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:46:24] planet 41: no resources for building_crystal_store+1
+[12:46:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:47:00] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:47:01] planet 41: no resources for building_crystal_store+1
+[2026-05-08 12:47:39] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:47:40] planet 41: no resources for building_crystal_store+1
+[2026-05-08 12:48:17] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:48:18] planet 41: no resources for building_crystal_store+1
+[2026-05-08 12:48:55] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:48:56] planet 41: no resources for building_crystal_store+1
+[12:48:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:49:32] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:49:33] planet 41: no resources for building_crystal_store+1
+[2026-05-08 12:50:08] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:50:09] planet 41: no resources for building_robot_factory+1
+[12:50:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:50:44] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:50:45] planet 41: no resources for building_robot_factory+1
+[2026-05-08 12:51:22] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:51:22] planet 41: no resources for building_robot_factory+1
+[12:51:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:51:46] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:51:46] planet 41: no resources for building_solar_plant+1
+[2026-05-08 12:52:23] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:52:24] planet 41: queued building_solar_plant to 14
+[2026-05-08 12:53:00] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:53:00] planet 41: no resources for building_robot_factory+1
+[2026-05-08 12:53:39] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:53:40] planet 41: no resources for building_robot_factory+1
+[2026-05-08 12:54:18] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:54:18] planet 41: no resources for building_robot_factory+1
+[12:54:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:54:58] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:54:58] planet 41: no resources for building_robot_factory+1
+[12:54:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:55:34] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:55:34] planet 41: queued building_robot_factory to 6
+[12:55:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:56:11] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:56:12] planet 41: no resources for building_robot_factory+1
+[12:56:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:56:48] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:56:49] planet 41: no resources for building_robot_factory+1
+[12:56:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:57:25] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:57:26] planet 41: no resources for building_robot_factory+1
+[12:57:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:58:01] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:58:01] planet 41: no resources for building_robot_factory+1
+[12:58:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:58:37] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:58:37] planet 41: no resources for building_robot_factory+1
+[12:58:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:59:12] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:59:12] planet 41: no resources for building_robot_factory+1
+[12:59:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:59:48] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[12:59:48] planet 41: no resources for building_robot_factory+1
+[12:59:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:00:25] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:00:26] planet 41: queued building_deuterium_sintetizer to 6
+[2026-05-08 13:01:00] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:01:01] planet 41: queued building_deuterium_sintetizer to 7
+[2026-05-08 13:01:36] ==== loop 17/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:01:37] planet 41: queued building_solar_plant to 15
+[2026-05-08 13:02:13] ==== loop 18/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:02:14] planet 41: queued building_deuterium_sintetizer to 8
+[13:02:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:02:53] ==== loop 19/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:02:53] planet 41: queued building_metal_store to 1
+[2026-05-08 13:03:29] ==== loop 20/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:03:30] planet 41: queued building_deuterium_sintetizer to 9
+[2026-05-08 13:04:07] ==== loop 21/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:04:08] planet 41: queued building_metal_store to 2
+[13:04:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:04:43] ==== loop 22/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:04:44] planet 41: queued building_metal_store to 3
+[13:04:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:05:20] ==== loop 23/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:05:22] planet 41: queued building_metal_store to 4
+[13:05:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:06:02] ==== loop 24/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:06:02] planet 41: queued building_metal_store to 5
+[13:06:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:06:44] ==== loop 25/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:06:44] planet 41: queued building_metal_store to 6
+[2026-05-08 13:07:22] ==== loop 26/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:07:23] planet 41: queued building_metal_store to 7
+[13:07:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:08:01] ==== loop 27/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:08:01] planet 41: no resources for building_metal_store+1
+[13:08:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:08:41] ==== loop 28/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:08:41] planet 41: queued building_deuterium_sintetizer to 10
+[2026-05-08 13:09:18] ==== loop 29/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:09:19] planet 41: queued building_solar_plant to 16
+[2026-05-08 13:10:00] ==== loop 30/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:10:00] planet 41: queued building_deuterium_tank to 1
+[2026-05-08 13:10:44] ==== loop 31/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:10:45] planet 41: queued building_deuterium_tank to 2
+[2026-05-08 13:11:14] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:11:14] planet 41: queued building_deuterium_tank to 3
+[13:11:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:11:55] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:11:56] planet 41: queued building_deuterium_tank to 4
+[2026-05-08 13:12:33] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:12:34] planet 41: queued building_crystal_store to 5
+[13:12:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:13:14] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:13:14] planet 41: queued building_deuterium_tank to 5
+[13:13:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:13:55] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:13:56] planet 41: queued building_crystal_store to 6
+[13:13:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:14:31] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:14:32] planet 41: queued building_crystal_store to 7
+[2026-05-08 13:15:13] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:15:14] planet 41: queued building_crystal_store to 8
+[2026-05-08 13:15:50] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:15:51] planet 41: no resources for building_crystal_store+1
+[13:15:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:16:33] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:16:34] planet 41: no resources for building_crystal_store+1
+[2026-05-08 13:17:09] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:17:09] planet 41: no resources for building_crystal_store+1
+[13:17:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:17:48] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:17:50] planet 41: no resources for building_crystal_store+1
+[2026-05-08 13:18:33] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:18:34] planet 41: queued building_deuterium_tank to 6
+[13:18:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:19:12] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:19:12] planet 41: queued building_deuterium_tank to 7
+[2026-05-08 13:19:54] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:19:54] planet 41: queued building_metal_store to 8
+[2026-05-08 13:20:33] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:20:35] planet 41: queued building_metal_mine to 14
+[2026-05-08 13:21:16] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:21:17] planet 41: queued building_metal_mine to 15
+[13:21:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:21:57] ==== loop 17/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:21:58] planet 41: queued building_metal_mine to 16
+[13:21:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:22:39] ==== loop 18/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:22:39] planet 41: queued building_metal_mine to 17
+[13:22:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:23:21] ==== loop 19/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:23:22] planet 41: queued building_solar_plant to 17
+[13:23:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:24:02] ==== loop 20/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:24:04] planet 41: queued building_solar_plant to 18
+[13:24:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:24:43] ==== loop 21/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:24:44] planet 41: queued building_solar_plant to 19
+[2026-05-08 13:25:26] ==== loop 22/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:25:27] planet 41: queued building_solar_plant to 20
+[2026-05-08 13:26:02] ==== loop 23/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:26:03] planet 41: queued building_solar_plant to 21
+[13:26:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:26:43] ==== loop 24/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:26:44] planet 41: queued building_metal_mine to 18
+[2026-05-08 13:27:23] ==== loop 25/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:27:23] planet 41: queued building_metal_mine to 19
+[2026-05-08 13:28:00] ==== loop 26/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:28:00] planet 41: building queue full (5)
+[13:28:00] planet 41: building queue full (5)
+[13:28:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:28:36] ==== loop 27/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:28:36] planet 41: queued building_metal_mine to 20
+[2026-05-08 13:29:14] ==== loop 28/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:29:15] planet 41: building queue full (5)
+[13:29:15] planet 41: building queue full (5)
+[13:29:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:29:54] ==== loop 29/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:29:55] planet 41: building queue full (5)
+[2026-05-08 13:30:34] ==== loop 30/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:30:34] planet 41: building queue full (5)
+[13:30:34] planet 41: building queue full (5)
+[13:30:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:31:12] ==== loop 31/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:31:13] planet 41: building queue full (5)
+[13:31:13] planet 41: building queue full (5)
+[13:31:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:31:53] ==== loop 32/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:31:54] planet 41: queued building_metal_store to 9
+[13:31:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:32:33] ==== loop 33/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:32:34] planet 41: no resources for building_metal_store+1
+[2026-05-08 13:33:15] ==== loop 34/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:33:15] planet 41: no resources for building_metal_store+1
+[2026-05-08 13:33:57] ==== loop 35/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:33:57] planet 41: no resources for building_metal_store+1
+[2026-05-08 13:34:38] ==== loop 36/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:34:39] planet 41: no resources for building_metal_store+1
+[2026-05-08 13:35:20] ==== loop 37/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:35:21] planet 41: no resources for building_metal_store+1
+[2026-05-08 13:36:07] ==== loop 38/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:36:08] planet 41: no resources for building_metal_store+1
+[2026-05-08 13:36:48] ==== loop 39/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:36:49] planet 41: no resources for building_metal_store+1
+[2026-05-08 13:37:28] ==== loop 40/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:37:28] planet 41: no resources for building_metal_store+1
+[13:37:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:38:07] ==== loop 41/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:38:08] planet 41: no resources for building_metal_store+1
+[2026-05-08 13:38:44] ==== loop 42/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:38:45] planet 41: no resources for building_metal_store+1
+[2026-05-08 13:39:25] ==== loop 43/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:39:25] planet 41: no resources for building_metal_store+1
+[2026-05-08 13:40:03] ==== loop 44/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:40:04] planet 41: queued building_crystal_mine to 13
+[2026-05-08 13:40:47] ==== loop 45/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:40:48] planet 41: queued building_crystal_mine to 14
+[13:40:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:41:31] ==== loop 46/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:41:31] planet 41: queued building_crystal_mine to 15
+[13:41:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:42:08] ==== loop 47/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:42:08] planet 41: queued building_crystal_mine to 16
+[2026-05-08 13:42:48] ==== loop 48/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:42:49] planet 41: building queue full (5)
+[13:42:49] planet 41: building queue full (5)
+[2026-05-08 13:43:27] ==== loop 49/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:43:29] planet 41: building queue full (5)
+[13:43:29] planet 41: building queue full (5)
+[2026-05-08 13:44:11] ==== loop 50/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:44:11] planet 41: queued building_crystal_mine to 17
+[13:44:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:44:51] ==== loop 51/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:44:51] planet 41: queued building_crystal_mine to 18
+[2026-05-08 13:45:35] ==== loop 52/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:45:35] planet 41: queued building_deuterium_sintetizer to 11
+[2026-05-08 13:46:13] ==== loop 53/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:46:14] planet 41: queued building_deuterium_sintetizer to 12
+[2026-05-08 13:46:52] ==== loop 54/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:46:53] planet 41: queued building_deuterium_sintetizer to 13
+[2026-05-08 13:47:35] ==== loop 55/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:47:36] planet 41: building queue full (5)
+[13:47:36] planet 41: building queue full (5)
+[2026-05-08 13:48:19] ==== loop 56/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:48:20] planet 41: queued building_deuterium_sintetizer to 14
+[13:48:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:48:59] ==== loop 57/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:49:00] planet 41: building queue full (5)
+[13:49:00] planet 41: building queue full (5)
+[2026-05-08 13:49:39] ==== loop 58/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:49:40] planet 41: building queue full (5)
+[13:49:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:50:24] ==== loop 59/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:50:25] planet 41: queued ship_espionage_probe +5
+[13:50:25] planet 41: skipped duplicate ship_espionage_probe this loop
+[2026-05-08 13:51:08] ==== loop 60/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:51:09] planet 41: queued ship_espionage_probe +5
+[2026-05-08 13:51:51] ==== loop 61/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:51:52] planet 41: queued ship_solar_satellite +4
+[13:51:52] planet 41: queued ship_espionage_probe +5
+[13:51:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:52:36] ==== loop 62/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:52:37] planet 41: queued ship_solar_satellite +1
+[13:52:37] planet 41: queued ship_espionage_probe +5
+[13:52:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:53:20] ==== loop 63/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:53:20] planet 41: queued ship_espionage_probe +5
+[13:53:20] planet 41: skipped duplicate ship_espionage_probe this loop
+[13:53:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:54:08] ==== loop 64/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:54:09] planet 41: queued ship_espionage_probe +5
+[13:54:09] planet 41: skipped duplicate ship_espionage_probe this loop
+[2026-05-08 13:54:57] ==== loop 65/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:54:58] planet 41: queued ship_espionage_probe +5
+[13:54:58] planet 41: skipped duplicate ship_espionage_probe this loop
+[2026-05-08 13:55:42] ==== loop 66/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:55:42] planet 41: queued ship_espionage_probe +5
+[13:55:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:56:24] ==== loop 67/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:56:25] planet 41: queued ship_espionage_probe +5
+[13:56:25] planet 41: skipped duplicate ship_espionage_probe this loop
+[2026-05-08 13:57:05] ==== loop 68/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:57:07] planet 41: queued ship_espionage_probe +5
+[2026-05-08 13:57:48] ==== loop 69/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:57:48] planet 41: queued ship_espionage_probe +5
+[13:57:48] planet 41: skipped duplicate ship_espionage_probe this loop
+[2026-05-08 13:58:26] ==== loop 70/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:58:27] planet 41: queued ship_espionage_probe +5
+[13:58:27] planet 41: skipped duplicate ship_espionage_probe this loop
+[2026-05-08 13:59:08] ==== loop 71/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:59:08] planet 41: queued ship_espionage_probe +5
+[13:59:08] planet 41: skipped duplicate ship_espionage_probe this loop
+[2026-05-08 13:59:49] ==== loop 72/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[13:59:50] planet 41: queued ship_espionage_probe +5
+[13:59:50] planet 41: skipped duplicate ship_espionage_probe this loop
+[2026-05-08 14:00:28] ==== loop 73/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:00:29] planet 41: queued building_crystal_mine to 19
+[14:00:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:01:06] ==== loop 74/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:01:07] planet 41: queued building_crystal_mine to 20
+[14:01:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:01:44] ==== loop 75/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:01:45] planet 41: no resources for building_crystal_mine+1
+[14:01:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:02:21] ==== loop 76/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:02:22] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 14:02:58] ==== loop 77/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:02:58] planet 41: queued building_crystal_mine to 21
+[14:02:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:03:34] ==== loop 78/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:03:35] planet 41: no resources for building_crystal_mine+1
+[14:03:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:04:12] ==== loop 79/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:04:12] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 14:04:52] ==== loop 80/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:04:54] planet 41: queued ship_solar_satellite +4
+[14:04:54] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 14:05:33] ==== loop 81/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:05:33] planet 41: no resources for building_crystal_mine+1
+[14:05:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:06:09] ==== loop 82/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:06:10] planet 41: no resources for building_crystal_mine+1
+[14:06:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:06:46] ==== loop 83/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:06:47] planet 41: no resources for building_crystal_mine+1
+[14:06:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:07:22] ==== loop 84/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:07:23] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 14:07:57] ==== loop 85/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:07:58] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 14:08:34] ==== loop 86/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:08:35] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 14:09:09] ==== loop 87/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:09:10] planet 41: no resources for building_crystal_mine+1
+[14:09:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:09:45] ==== loop 88/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:09:46] planet 41: no resources for building_crystal_mine+1
+[14:09:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:10:21] ==== loop 89/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:10:22] planet 41: no resources for building_crystal_mine+1
+[2026-05-08 14:11:00] ==== loop 90/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:11:01] planet 41: no resources for building_crystal_mine+1
+[14:11:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:11:40] ==== loop 91/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:11:41] planet 41: no resources for building_crystal_mine+1
+[14:11:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:12:17] ==== loop 92/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:12:19] planet 41: queued ship_solar_satellite +1
+[14:12:19] planet 41: queued building_deuterium_sintetizer to 15
+[2026-05-08 14:13:00] ==== loop 93/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:13:01] planet 41: queued building_deuterium_sintetizer to 16
+[2026-05-08 14:13:39] ==== loop 94/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:13:39] planet 41: queued building_deuterium_sintetizer to 17
+[2026-05-08 14:14:20] ==== loop 95/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:14:21] planet 41: queued building_deuterium_sintetizer to 18
+[2026-05-08 14:15:03] ==== loop 96/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:15:04] planet 41: building queue full (5)
+[14:15:04] planet 41: building queue full (5)
+[2026-05-08 14:15:45] ==== loop 97/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:15:47] planet 41: building queue full (5)
+[14:15:47] planet 41: building queue full (5)
+[2026-05-08 14:16:27] ==== loop 98/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:16:28] planet 41: building queue full (5)
+[14:16:28] planet 41: building queue full (5)
+[2026-05-08 14:17:07] ==== loop 99/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:17:08] planet 41: building queue full (5)
+[14:17:08] planet 41: building queue full (5)
+[2026-05-08 14:17:44] ==== loop 100/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:17:46] planet 41: building queue full (5)
+[14:17:46] planet 41: building queue full (5)
+[2026-05-08 14:18:25] ==== loop 101/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:18:26] planet 41: building queue full (5)
+[14:18:26] planet 41: building queue full (5)
+[2026-05-08 14:19:05] ==== loop 102/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:19:06] planet 41: building queue full (5)
+[14:19:06] planet 41: building queue full (5)
+[2026-05-08 14:19:46] ==== loop 103/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:19:47] planet 41: building queue full (5)
+[14:19:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:20:27] ==== loop 104/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:20:27] planet 41: building queue full (5)
+[14:20:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:21:07] ==== loop 105/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:21:08] planet 41: building queue full (5)
+[14:21:08] planet 41: building queue full (5)
+[2026-05-08 14:21:47] ==== loop 106/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:21:48] planet 41: building queue full (5)
+[14:21:48] planet 41: building queue full (5)
+[2026-05-08 14:22:27] ==== loop 107/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:22:29] planet 41: building queue full (5)
+[14:22:29] planet 41: building queue full (5)
+[2026-05-08 14:23:09] ==== loop 108/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:23:10] planet 41: queued ship_solar_satellite +5
+[14:23:10] planet 41: queued building_crystal_store to 9
+[2026-05-08 14:23:53] ==== loop 109/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:23:53] planet 41: building queue full (5)
+[14:23:53] planet 41: building queue full (5)
+[14:23:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:24:31] ==== loop 110/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:24:32] planet 41: queued ship_solar_satellite +1
+[14:24:32] planet 41: queued building_crystal_store to 10
+[14:24:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:25:10] ==== loop 111/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:25:10] planet 41: building queue full (5)
+[14:25:10] planet 41: building queue full (5)
+[14:25:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:25:48] ==== loop 112/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:25:49] planet 41: building queue full (5)
+[14:25:49] planet 41: building queue full (5)
+[14:25:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:26:28] ==== loop 113/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:26:29] planet 41: queued ship_solar_satellite +5
+[14:26:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:27:07] ==== loop 114/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:27:08] planet 41: queued building_crystal_store to 11
+[14:27:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:27:48] ==== loop 115/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:27:48] planet 41: no resources for building_crystal_store+1
+[2026-05-08 14:28:30] ==== loop 116/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:28:32] planet 41: queued ship_solar_satellite +3
+[14:28:32] planet 41: no resources for building_crystal_store+1
+[14:28:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:29:15] ==== loop 117/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:29:17] planet 41: no resources for building_crystal_store+1
+[2026-05-08 14:29:55] ==== loop 118/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:29:55] planet 41: no resources for building_crystal_store+1
+[14:29:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:30:36] ==== loop 119/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:30:37] planet 41: queued building_metal_mine to 21
+[14:30:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:31:18] ==== loop 120/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:31:19] planet 41: building queue full (5)
+[14:31:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:31:58] ==== loop 121/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:31:59] planet 41: building queue full (5)
+[14:31:59] planet 41: building queue full (5)
+[14:31:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:32:39] ==== loop 122/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:32:41] planet 41: queued ship_solar_satellite +5
+[14:32:41] planet 41: queued building_metal_mine to 22
+[14:32:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:33:17] ==== loop 123/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:33:18] planet 41: building queue full (5)
+[14:33:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:33:56] ==== loop 124/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:33:57] planet 41: building queue full (5)
+[14:33:57] planet 41: building queue full (5)
+[14:33:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:34:41] ==== loop 125/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:34:42] planet 41: building queue full (5)
+[2026-05-08 14:35:22] ==== loop 126/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:35:24] planet 41: building queue full (5)
+[14:35:24] planet 41: building queue full (5)
+[14:35:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:36:04] ==== loop 127/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:36:05] planet 41: building queue full (5)
+[14:36:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:36:44] ==== loop 128/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:36:45] planet 41: building queue full (5)
+[14:36:45] planet 41: building queue full (5)
+[14:36:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:37:23] ==== loop 129/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:37:24] planet 41: queued building_metal_mine to 23
+[2026-05-08 14:38:03] ==== loop 130/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:38:05] planet 41: building queue full (5)
+[14:38:05] planet 41: building queue full (5)
+[2026-05-08 14:38:46] ==== loop 131/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:38:48] planet 41: building queue full (5)
+[14:38:48] planet 41: building queue full (5)
+[14:38:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:39:25] ==== loop 132/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:39:26] planet 41: building queue full (5)
+[14:39:26] planet 41: building queue full (5)
+[2026-05-08 14:40:05] ==== loop 133/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:40:06] planet 41: no resources for building_crystal_store+1
+[2026-05-08 14:40:42] ==== loop 134/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:40:42] planet 41: no resources for building_crystal_store+1
+[2026-05-08 14:41:19] ==== loop 135/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:41:19] planet 41: no resources for building_crystal_store+1
+[14:41:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:41:55] ==== loop 136/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:41:55] planet 41: no resources for building_crystal_store+1
+[2026-05-08 14:42:36] ==== loop 137/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:42:37] planet 41: no resources for building_crystal_store+1
+[2026-05-08 14:43:15] ==== loop 138/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:43:16] planet 41: no resources for building_crystal_store+1
+[14:43:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:43:55] ==== loop 139/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:43:55] planet 41: no resources for building_crystal_store+1
+[2026-05-08 14:44:31] ==== loop 140/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:44:31] planet 41: no resources for building_crystal_store+1
+[14:44:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:45:09] ==== loop 141/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:45:09] planet 41: no resources for building_crystal_store+1
+[2026-05-08 14:45:47] ==== loop 142/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:45:48] planet 41: no resources for building_crystal_store+1
+[14:45:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:46:26] ==== loop 143/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:46:27] planet 41: no resources for building_crystal_store+1
+[14:46:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:47:09] ==== loop 144/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:47:09] planet 41: queued building_metal_store to 10
+[2026-05-08 14:47:46] ==== loop 145/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:47:47] planet 41: building queue full (5)
+[14:47:47] planet 41: building queue full (5)
+[2026-05-08 14:48:25] ==== loop 146/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:48:26] planet 41: building queue full (5)
+[14:48:26] planet 41: building queue full (5)
+[14:48:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:49:05] ==== loop 147/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:49:06] planet 41: building queue full (5)
+[14:49:06] planet 41: building queue full (5)
+[2026-05-08 14:49:44] ==== loop 148/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:49:44] planet 41: building queue full (5)
+[14:49:44] planet 41: building queue full (5)
+[2026-05-08 14:50:25] ==== loop 149/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:50:26] planet 41: building queue full (5)
+[14:50:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:51:04] ==== loop 150/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:51:05] planet 41: building queue full (5)
+[14:51:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:51:45] ==== loop 151/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[14:51:46] planet 41: building queue full (5)
+[14:51:46] planet 41: building queue full (5)
+[14:51:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:01:52] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:01:53] planet 41: queued ship_solar_satellite +16
+[07:01:53] planet 41: queued building_crystal_store to 12
+[07:01:53] attack: spy 1:2:1 probes=4 eta=1s
+[07:01:53] attack: spy 1:2:2 probes=4 eta=1s
+[07:01:53] attack: spy 1:2:3 probes=4 eta=1s
+[07:01:53] attack: spy 1:2:4 probes=4 eta=1s
+[2026-05-11 07:02:22] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:02:22] planet 41: queued building_crystal_store to 13
+[07:02:22] attack: intel 1:2:1 ships=0 defs=0 res=5406223493
+[07:02:22] attack: intel 1:2:2 ships=0 defs=0 res=5405060772
+[07:02:22] attack: intel 1:2:3 ships=0 defs=0 res=5406589519
+[07:02:22] attack: intel 1:2:4 ships=0 defs=0 res=5405837630
+[07:02:22] attack: spy 1:2:5 probes=4 eta=1s
+[07:02:22] attack: spy 1:2:6 probes=4 eta=1s
+[07:02:22] attack: spy 1:2:7 probes=4 eta=1s
+[07:02:22] attack: spy 1:2:8 probes=4 eta=1s
+[07:02:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:02:50] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:02:50] planet 41: queued building_crystal_store to 14
+[07:02:50] attack: intel 1:2:5 ships=0 defs=0 res=5271915431
+[07:02:50] attack: intel 1:2:6 ships=0 defs=0 res=5396431717
+[07:02:50] attack: intel 1:2:7 ships=0 defs=0 res=5391062710
+[07:02:50] attack: intel 1:2:8 ships=0 defs=0 res=5246442717
+[07:02:50] attack: spy 1:2:9 probes=4 eta=1s
+[07:02:50] attack: spy 1:2:10 probes=4 eta=1s
+[07:02:50] attack: spy 1:2:11 probes=4 eta=1s
+[07:02:50] attack: spy 1:2:12 probes=4 eta=1s
+[2026-05-11 07:03:14] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:03:14] planet 41: queued building_crystal_store to 15
+[07:03:14] attack: intel 1:2:9 ships=0 defs=0 res=5754858002
+[07:03:14] attack: intel 1:2:10 ships=0 defs=0 res=6954734347
+[07:03:14] attack: intel 1:2:11 ships=0 defs=0 res=6954734347
+[07:03:14] attack: intel 1:2:12 ships=0 defs=0 res=6954734347
+[07:03:14] attack: spy 1:2:13 probes=4 eta=1s
+[07:03:14] attack: spy 1:2:14 probes=4 eta=1s
+[07:03:14] attack: spy 1:2:15 probes=4 eta=1s
+[07:03:14] attack: spy 1:3:1 probes=4 eta=1s
+[07:03:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:03:36] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:03:37] planet 41: queued building_crystal_store to 16
+[07:03:37] attack: intel 1:2:13 ships=0 defs=0 res=5410702406
+[07:03:37] attack: intel 1:2:14 ships=0 defs=0 res=5628510990
+[07:03:37] attack: intel 1:2:15 ships=0 defs=0 res=5666551293
+[07:03:37] attack: intel 1:3:1 ships=0 defs=0 res=5762799897
+[07:03:37] attack: spy 1:3:2 probes=4 eta=1s
+[07:03:37] attack: spy 1:3:3 probes=4 eta=1s
+[07:03:37] attack: spy 1:3:4 probes=4 eta=1s
+[07:03:37] attack: spy 1:3:5 probes=4 eta=1s
+[07:03:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:04:07] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:04:08] planet 41: building queue full (5)
+[07:04:08] planet 41: building queue full (5)
+[07:04:08] attack: intel 1:3:2 ships=0 defs=0 res=5758845505
+[07:04:08] attack: intel 1:3:3 ships=0 defs=0 res=5757105967
+[07:04:08] attack: intel 1:3:4 ships=0 defs=0 res=5406490641
+[07:04:08] attack: intel 1:3:5 ships=0 defs=0 res=5274504980
+[07:04:08] attack: spy 1:3:11 probes=4 eta=1s
+[07:04:08] attack: spy 1:3:12 probes=4 eta=1s
+[07:04:08] attack: spy 1:3:13 probes=4 eta=1s
+[07:04:08] attack: spy 1:4:3 probes=4 eta=1s
+[2026-05-11 07:04:44] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:04:44] planet 41: building queue full (5)
+[07:04:44] attack: intel 1:3:11 ships=0 defs=0 res=5624489775
+[07:04:44] attack: intel 1:3:12 ships=0 defs=0 res=5276809286
+[07:04:44] attack: intel 1:3:13 ships=0 defs=0 res=5413837541
+[07:04:44] attack: intel 1:4:3 ships=0 defs=0 res=5761004317
+[07:04:44] attack: spy 1:3:6 probes=4 eta=1s
+[07:04:44] attack: spy 1:3:8 probes=4 eta=1s
+[07:04:44] attack: spy 1:3:10 probes=4 eta=1s
+[07:04:44] attack: spy 1:4:4 probes=4 eta=1s
+[07:04:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:05:20] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:05:21] planet 41: building queue full (5)
+[07:05:21] planet 41: building queue full (5)
+[07:05:21] attack: intel 1:3:6 ships=93 defs=0 res=95957852
+[07:05:21] attack: intel 1:3:8 ships=15 defs=0 res=31058926
+[07:05:21] attack: intel 1:3:10 ships=78 defs=98 res=96802322
+[07:05:21] attack: intel 1:4:4 ships=113 defs=0 res=142509111
+[07:05:21] attack: spy 1:4:6 probes=4 eta=1s
+[07:05:21] attack: spy 1:4:8 probes=4 eta=1s
+[07:05:21] attack: spy 1:4:10 probes=4 eta=1s
+[07:05:21] attack: spy 1:4:12 probes=4 eta=1s
+[2026-05-11 07:05:56] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:05:58] planet 41: building queue full (5)
+[07:05:58] planet 41: building queue full (5)
+[07:05:58] attack: intel 1:4:6 ships=48 defs=0 res=122600589
+[07:05:58] attack: intel 1:4:8 ships=23 defs=119 res=69487544
+[07:05:58] attack: intel 1:4:10 ships=158 defs=0 res=123703219
+[07:05:58] attack: intel 1:4:12 ships=126 defs=0 res=122778054
+[07:05:58] attack: spy 1:5:4 probes=4 eta=1s
+[07:05:58] attack: spy 1:5:6 probes=4 eta=1s
+[07:05:58] attack: spy 1:5:10 probes=4 eta=1s
+[07:05:58] attack: spy 1:5:12 probes=4 eta=1s
+[07:05:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:06:32] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:06:34] planet 41: building queue full (5)
+[07:06:34] planet 41: building queue full (5)
+[07:06:34] attack: intel 1:5:4 ships=10 defs=0 res=98747195
+[07:06:34] attack: intel 1:5:6 ships=96 defs=0 res=45914222
+[07:06:34] attack: intel 1:5:10 ships=8 defs=56 res=55377048
+[07:06:34] attack: intel 1:5:12 ships=34 defs=95 res=92440503
+[07:06:34] attack: spy 1:6:4 probes=4 eta=1s
+[07:06:34] attack: spy 1:6:6 probes=4 eta=1s
+[07:06:34] attack: spy 1:6:8 probes=4 eta=1s
+[07:06:34] attack: spy 1:6:10 probes=4 eta=1s
+[07:06:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:07:12] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:07:13] planet 41: building queue full (5)
+[07:07:13] planet 41: building queue full (5)
+[07:07:13] attack: intel 1:6:4 ships=85 defs=104 res=119900619
+[07:07:13] attack: intel 1:6:6 ships=236 defs=191 res=95246585
+[07:07:13] attack: intel 1:6:8 ships=60 defs=0 res=139228863
+[07:07:13] attack: intel 1:6:10 ships=0 defs=0 res=1771725
+[07:07:13] attack: spy 1:6:12 probes=4 eta=1s
+[07:07:13] attack: spy 1:7:4 probes=4 eta=1s
+[07:07:13] attack: spy 1:7:6 probes=4 eta=1s
+[07:07:13] attack: spy 1:7:8 probes=4 eta=1s
+[2026-05-11 07:07:51] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:07:53] planet 41: building queue full (5)
+[07:07:53] attack: intel 1:6:12 ships=0 defs=0 res=43602437
+[07:07:53] attack: intel 1:7:4 ships=0 defs=8 res=15136997
+[07:07:53] attack: intel 1:7:6 ships=0 defs=0 res=4299936
+[07:07:53] attack: intel 1:7:8 ships=0 defs=0 res=14449890
+[07:07:53] attack: spy 1:7:10 probes=4 eta=1s
+[07:07:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:08:27] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:08:28] planet 41: building queue full (5)
+[07:08:28] attack: intel 1:7:10 ships=0 defs=64 res=18982644
+[2026-05-11 07:09:05] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:09:06] planet 41: building queue full (5)
+[07:09:06] planet 41: building queue full (5)
+[2026-05-11 07:09:43] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:09:44] planet 41: building queue full (5)
+[07:09:44] planet 41: building queue full (5)
+[07:09:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:10:18] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:10:20] planet 41: building queue full (5)
+[07:10:20] planet 41: building queue full (5)
+[07:10:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:10:58] ==== loop 17/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:10:59] planet 41: building queue full (5)
+[2026-05-11 07:11:38] ==== loop 18/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:11:39] planet 41: building queue full (5)
+[2026-05-11 07:12:24] ==== loop 19/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:12:25] planet 41: building queue full (5)
+[07:12:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:13:04] ==== loop 20/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:13:06] planet 41: building queue full (5)
+[07:13:06] planet 41: building queue full (5)
+[07:13:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:13:50] ==== loop 21/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:13:51] planet 41: building queue full (5)
+[07:13:51] planet 41: building queue full (5)
+[2026-05-11 07:14:32] ==== loop 22/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:14:34] planet 41: building queue full (5)
+[07:14:34] planet 41: building queue full (5)
+[2026-05-11 07:15:17] ==== loop 23/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:15:19] planet 41: building queue full (5)
+[07:15:19] planet 41: building queue full (5)
+[07:15:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:16:04] ==== loop 24/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:16:05] planet 41: building queue full (5)
+[07:16:05] planet 41: building queue full (5)
+[07:16:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:16:52] ==== loop 25/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:16:53] planet 41: building queue full (5)
+[07:16:53] planet 41: building queue full (5)
+[07:16:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:17:34] ==== loop 26/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:17:36] planet 41: building queue full (5)
+[07:17:36] planet 41: building queue full (5)
+[2026-05-11 07:18:17] ==== loop 27/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:18:19] planet 41: building queue full (5)
+[07:18:19] planet 41: building queue full (5)
+[07:18:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:19:07] ==== loop 28/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:19:08] planet 41: building queue full (5)
+[07:19:08] planet 41: building queue full (5)
+[2026-05-11 07:19:47] ==== loop 29/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:19:49] planet 41: building queue full (5)
+[07:19:49] planet 41: building queue full (5)
+[07:19:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:20:27] ==== loop 30/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:20:28] planet 41: building queue full (5)
+[07:20:28] planet 41: building queue full (5)
+[07:20:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:21:02] ==== loop 31/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:21:04] planet 41: building queue full (5)
+[07:21:04] planet 41: building queue full (5)
+[07:21:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:21:40] ==== loop 32/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:21:41] planet 41: building queue full (5)
+[07:21:41] planet 41: building queue full (5)
+[2026-05-11 07:22:22] ==== loop 33/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:22:23] planet 41: building queue full (5)
+[07:22:23] planet 41: building queue full (5)
+[2026-05-11 07:23:02] ==== loop 34/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:23:03] planet 41: building queue full (5)
+[07:23:03] planet 41: building queue full (5)
+[07:23:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:23:42] ==== loop 35/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:23:44] planet 41: building queue full (5)
+[07:23:44] planet 41: building queue full (5)
+[07:23:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:24:24] ==== loop 36/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:24:25] planet 41: building queue full (5)
+[07:24:25] planet 41: building queue full (5)
+[07:24:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:25:03] ==== loop 37/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:25:04] planet 41: building queue full (5)
+[07:25:04] planet 41: building queue full (5)
+[07:25:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:25:43] ==== loop 38/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:25:44] planet 41: building queue full (5)
+[07:25:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:26:18] ==== loop 39/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:26:20] planet 41: building queue full (5)
+[07:26:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:26:56] ==== loop 40/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:26:57] planet 41: building queue full (5)
+[07:26:57] planet 41: building queue full (5)
+[07:26:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:27:35] ==== loop 41/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:27:36] planet 41: building queue full (5)
+[2026-05-11 07:28:14] ==== loop 42/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:28:15] planet 41: building queue full (5)
+[07:28:15] planet 41: building queue full (5)
+[07:28:15] attack: launch 1:2:1 eta=47s loot=1192374 losses=1 ratio=1192374.00
+[2026-05-11 07:28:55] ==== loop 43/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:28:56] planet 41: building queue full (5)
+[07:28:56] planet 41: building queue full (5)
+[2026-05-11 07:29:28] ==== loop 44/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:29:30] planet 41: building queue full (5)
+[07:29:30] planet 41: building queue full (5)
+[07:29:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:30:03] ==== loop 45/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:30:05] planet 41: building queue full (5)
+[07:30:05] planet 41: building queue full (5)
+[2026-05-11 07:30:59] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:31:00] planet 41: building queue full (5)
+[07:31:00] planet 41: building queue full (5)
+[07:31:00] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[07:31:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:31:42] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:31:43] planet 41: building queue full (5)
+[07:31:43] planet 41: building queue full (5)
+[07:31:43] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:32:25] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:32:25] planet 41: building queue full (5)
+[07:32:25] attack: spy 1:2:1 probes=4 eta=1s
+[07:32:25] attack: spy 1:2:2 probes=4 eta=1s
+[07:32:25] attack: spy 1:2:3 probes=4 eta=1s
+[07:32:25] attack: spy 1:2:4 probes=4 eta=1s
+[2026-05-11 07:33:05] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:33:05] planet 41: building queue full (5)
+[07:33:05] attack: intel 1:2:1 ships=0 defs=0 res=5406223493
+[07:33:05] attack: intel 1:2:2 ships=0 defs=0 res=5405060772
+[07:33:05] attack: intel 1:2:3 ships=0 defs=0 res=5406589519
+[07:33:05] attack: intel 1:2:4 ships=0 defs=0 res=5405837630
+[07:33:05] attack: spy 1:2:5 probes=4 eta=1s
+[07:33:05] attack: spy 1:2:6 probes=4 eta=1s
+[07:33:05] attack: spy 1:2:7 probes=4 eta=1s
+[07:33:05] attack: spy 1:2:8 probes=4 eta=1s
+[2026-05-11 07:33:41] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:33:42] planet 41: building queue full (5)
+[07:33:42] planet 41: building queue full (5)
+[07:33:42] attack: intel 1:2:5 ships=0 defs=0 res=5271915431
+[07:33:42] attack: intel 1:2:6 ships=0 defs=0 res=5396431717
+[07:33:42] attack: intel 1:2:7 ships=0 defs=0 res=5391062710
+[07:33:42] attack: intel 1:2:8 ships=0 defs=0 res=5246442717
+[07:33:42] attack: spy 1:2:9 probes=4 eta=1s
+[2026-05-11 07:34:23] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:34:23] planet 41: building queue full (5)
+[07:34:23] planet 41: building queue full (5)
+[07:34:23] attack: intel 1:2:9 ships=0 defs=0 res=5754858002
+[07:34:23] attack: idle candidates=45 fresh_intel=34 no_spy_src=11 no_atk_src=34 raidmix_fail=0 cooldown_spy=0
+[07:34:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:35:02] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:35:03] planet 41: building queue full (5)
+[07:35:03] planet 41: building queue full (5)
+[07:35:03] attack: idle candidates=45 fresh_intel=30 no_spy_src=15 no_atk_src=30 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:35:40] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:35:42] planet 41: building queue full (5)
+[07:35:42] planet 41: building queue full (5)
+[07:35:42] attack: idle candidates=45 fresh_intel=26 no_spy_src=19 no_atk_src=26 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:36:21] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:36:23] planet 41: building queue full (5)
+[07:36:23] planet 41: building queue full (5)
+[07:36:23] attack: idle candidates=45 fresh_intel=22 no_spy_src=23 no_atk_src=22 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:37:01] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:37:01] planet 41: building queue full (5)
+[07:37:01] planet 41: building queue full (5)
+[07:37:01] attack: idle candidates=45 fresh_intel=18 no_spy_src=27 no_atk_src=18 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:37:42] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:37:42] planet 41: building queue full (5)
+[07:37:42] attack: idle candidates=45 fresh_intel=14 no_spy_src=31 no_atk_src=14 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:38:16] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:38:17] planet 41: building queue full (5)
+[07:38:17] attack: idle candidates=45 fresh_intel=10 no_spy_src=35 no_atk_src=10 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:38:57] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:38:59] planet 41: building queue full (5)
+[07:38:59] planet 41: building queue full (5)
+[07:38:59] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[07:38:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:39:41] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:39:43] planet 41: building queue full (5)
+[07:39:43] planet 41: building queue full (5)
+[07:39:43] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:40:20] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:40:22] planet 41: building queue full (5)
+[07:40:22] planet 41: building queue full (5)
+[07:40:22] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[07:40:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:40:59] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:41:00] planet 41: building queue full (5)
+[07:41:00] planet 41: building queue full (5)
+[07:41:00] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:41:40] ==== loop 17/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:41:41] planet 41: queued building_metal_store to 11
+[07:41:41] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:42:20] ==== loop 18/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:42:22] planet 41: building queue full (5)
+[07:42:22] planet 41: building queue full (5)
+[07:42:22] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:42:59] ==== loop 19/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:43:00] planet 41: building queue full (5)
+[07:43:00] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:43:37] ==== loop 20/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:43:38] planet 41: building queue full (5)
+[07:43:38] planet 41: building queue full (5)
+[07:43:38] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:44:22] ==== loop 21/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:44:23] planet 41: building queue full (5)
+[07:44:23] planet 41: building queue full (5)
+[07:44:23] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[07:44:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:45:04] ==== loop 22/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:45:05] planet 41: building queue full (5)
+[07:45:05] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[07:45:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:45:33] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:45:34] planet 41: building queue full (5)
+[07:45:34] planet 41: building queue full (5)
+[07:45:34] attack: idle candidates=45 fresh_intel=9 no_spy_src=36 no_atk_src=9 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:46:13] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:46:15] planet 41: building queue full (5)
+[07:46:15] planet 41: building queue full (5)
+[07:46:15] attack: spy 1:2:10 probes=4 eta=1s
+[07:46:15] attack: spy 1:2:11 probes=4 eta=1s
+[07:46:15] attack: spy 1:2:12 probes=4 eta=1s
+[07:46:15] attack: spy 1:2:13 probes=4 eta=1s
+[07:46:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:46:53] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:46:55] planet 41: building queue full (5)
+[07:46:55] planet 41: building queue full (5)
+[07:46:55] attack: intel 1:2:10 ships=0 defs=0 res=6954734347
+[07:46:55] attack: intel 1:2:11 ships=0 defs=0 res=6954734347
+[07:46:55] attack: intel 1:2:12 ships=0 defs=0 res=6954734347
+[07:46:55] attack: intel 1:2:13 ships=0 defs=0 res=5410702406
+[07:46:55] attack: spy 1:2:14 probes=4 eta=1s
+[07:46:55] attack: spy 1:2:15 probes=4 eta=1s
+[07:46:55] attack: spy 1:3:1 probes=4 eta=1s
+[07:46:55] attack: spy 1:3:2 probes=4 eta=1s
+[07:46:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:47:38] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:47:38] planet 41: building queue full (5)
+[07:47:38] attack: intel 1:2:14 ships=0 defs=0 res=5628510990
+[07:47:38] attack: intel 1:2:15 ships=0 defs=0 res=5666551293
+[07:47:38] attack: intel 1:3:1 ships=0 defs=0 res=5762799897
+[07:47:38] attack: intel 1:3:2 ships=0 defs=0 res=5758845505
+[07:47:38] attack: spy 1:3:3 probes=4 eta=1s
+[2026-05-11 07:48:16] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:48:17] planet 41: building queue full (5)
+[07:48:17] planet 41: building queue full (5)
+[07:48:17] attack: intel 1:3:3 ships=0 defs=0 res=5802537281
+[07:48:17] attack: spy 1:3:4 probes=4 eta=1s
+[07:48:17] attack: spy 1:3:5 probes=4 eta=1s
+[07:48:17] attack: spy 1:3:11 probes=4 eta=1s
+[07:48:17] attack: spy 1:3:12 probes=4 eta=1s
+[07:48:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:49:00] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:49:02] planet 41: building queue full (5)
+[07:49:02] planet 41: building queue full (5)
+[07:49:02] attack: intel 1:3:4 ships=0 defs=0 res=5452179213
+[07:49:02] attack: intel 1:3:5 ships=0 defs=0 res=5320193552
+[07:49:02] attack: intel 1:3:11 ships=0 defs=0 res=5669526631
+[07:49:02] attack: intel 1:3:12 ships=0 defs=0 res=5321846144
+[07:49:02] attack: spy 1:3:13 probes=4 eta=1s
+[07:49:02] attack: spy 1:4:3 probes=4 eta=1s
+[07:49:02] attack: spy 1:3:6 probes=4 eta=1s
+[07:49:02] attack: spy 1:3:8 probes=4 eta=1s
+[07:49:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:49:44] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:49:45] planet 41: building queue full (5)
+[07:49:45] planet 41: building queue full (5)
+[07:49:45] attack: intel 1:3:13 ships=0 defs=0 res=5413837541
+[07:49:45] attack: intel 1:4:3 ships=0 defs=0 res=5761004317
+[07:49:45] attack: intel 1:3:6 ships=124 defs=8 res=95467862
+[07:49:45] attack: intel 1:3:8 ships=15 defs=22 res=31383138
+[07:49:45] attack: spy 1:3:10 probes=4 eta=1s
+[07:49:45] attack: spy 1:4:4 probes=4 eta=1s
+[07:49:45] attack: spy 1:4:6 probes=4 eta=1s
+[07:49:45] attack: spy 1:4:8 probes=4 eta=1s
+[2026-05-11 07:50:24] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:50:25] planet 41: queued ship_light_fighter +5
+[07:50:25] attack: intel 1:3:10 ships=78 defs=108 res=93756370
+[07:50:25] attack: intel 1:4:4 ships=113 defs=3 res=138887391
+[07:50:25] attack: intel 1:4:6 ships=48 defs=0 res=120932507
+[07:50:25] attack: intel 1:4:8 ships=25 defs=119 res=69619624
+[07:50:25] attack: spy 1:4:10 probes=4 eta=1s
+[07:50:25] attack: spy 1:4:12 probes=4 eta=1s
+[07:50:25] attack: spy 1:5:4 probes=4 eta=1s
+[07:50:25] attack: spy 1:5:6 probes=4 eta=1s
+[2026-05-11 07:51:04] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:51:04] planet 41: queued ship_light_fighter +5
+[07:51:04] attack: intel 1:4:10 ships=177 defs=0 res=125487650
+[07:51:04] attack: intel 1:4:12 ships=126 defs=0 res=124998528
+[07:51:04] attack: intel 1:5:4 ships=14 defs=0 res=97367741
+[07:51:04] attack: intel 1:5:6 ships=96 defs=17 res=47135524
+[07:51:04] attack: spy 1:5:10 probes=4 eta=1s
+[07:51:04] attack: spy 1:5:12 probes=4 eta=1s
+[07:51:04] attack: spy 1:6:4 probes=4 eta=1s
+[07:51:04] attack: spy 1:6:6 probes=4 eta=1s
+[2026-05-11 07:51:45] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:51:46] planet 41: queued ship_light_fighter +5
+[07:51:46] planet 41: skipped duplicate ship_light_fighter this loop
+[07:51:46] attack: intel 1:5:10 ships=35 defs=56 res=52689224
+[07:51:46] attack: intel 1:5:12 ships=34 defs=95 res=90921129
+[07:51:46] attack: intel 1:6:4 ships=85 defs=104 res=121613517
+[07:51:46] attack: intel 1:6:6 ships=270 defs=191 res=96191756
+[07:51:46] attack: spy 1:6:8 probes=4 eta=1s
+[07:51:46] attack: spy 1:6:10 probes=4 eta=1s
+[07:51:46] attack: spy 1:6:12 probes=4 eta=1s
+[07:51:46] attack: spy 1:7:4 probes=4 eta=1s
+[07:51:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:52:31] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:52:32] planet 41: queued ship_light_fighter +5
+[07:52:32] planet 41: skipped duplicate ship_light_fighter this loop
+[07:52:32] attack: intel 1:6:8 ships=85 defs=0 res=141085618
+[07:52:32] attack: intel 1:6:10 ships=0 defs=0 res=1786885
+[07:52:32] attack: intel 1:6:12 ships=28 defs=0 res=44698655
+[07:52:32] attack: intel 1:7:4 ships=0 defs=8 res=16029351
+[07:52:32] attack: spy 1:7:6 probes=4 eta=1s
+[07:52:32] attack: spy 1:7:8 probes=4 eta=1s
+[07:52:32] attack: spy 1:7:10 probes=4 eta=1s
+[2026-05-11 07:53:17] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:53:18] planet 41: queued ship_light_fighter +5
+[07:53:18] planet 41: skipped duplicate ship_light_fighter this loop
+[07:53:18] attack: intel 1:7:6 ships=48 defs=0 res=2087619
+[07:53:18] attack: intel 1:7:8 ships=0 defs=0 res=14452156
+[07:53:18] attack: intel 1:7:10 ships=0 defs=64 res=19663371
+[07:53:18] attack: launch 1:2:1 eta=47s loot=1192356 losses=1 ratio=1192356.00
+[07:53:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:54:00] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:54:01] planet 41: queued ship_light_fighter +5
+[07:54:01] planet 41: skipped duplicate ship_light_fighter this loop
+[07:54:01] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:54:45] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:54:45] planet 41: queued ship_light_fighter +5
+[07:54:45] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[07:54:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:55:24] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:55:25] planet 41: queued ship_light_fighter +5
+[07:55:25] planet 41: skipped duplicate ship_light_fighter this loop
+[07:55:25] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:56:08] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:56:08] planet 41: queued ship_light_fighter +5
+[07:56:08] planet 41: skipped duplicate ship_light_fighter this loop
+[07:56:08] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[07:56:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:56:52] ==== loop 17/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:56:53] planet 41: queued ship_light_fighter +5
+[07:56:53] planet 41: skipped duplicate ship_light_fighter this loop
+[07:56:53] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:57:37] ==== loop 18/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:57:37] planet 41: queued ship_light_fighter +5
+[07:57:37] planet 41: skipped duplicate ship_light_fighter this loop
+[07:57:37] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[07:57:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:58:18] ==== loop 19/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:58:19] planet 41: queued ship_light_fighter +5
+[07:58:19] planet 41: skipped duplicate ship_light_fighter this loop
+[07:58:19] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:59:01] ==== loop 20/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:59:02] planet 41: queued ship_light_fighter +5
+[07:59:02] planet 41: skipped duplicate ship_light_fighter this loop
+[07:59:02] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[07:59:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:59:44] ==== loop 21/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[07:59:45] planet 41: queued ship_light_fighter +5
+[07:59:45] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[07:59:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:00:28] ==== loop 22/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:00:28] planet 41: building queue full (5)
+[08:00:28] planet 41: building queue full (5)
+[08:00:28] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:01:11] ==== loop 23/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:01:13] planet 41: building queue full (5)
+[08:01:13] planet 41: building queue full (5)
+[08:01:13] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:01:55] ==== loop 24/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:01:55] planet 41: building queue full (5)
+[08:01:55] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:01:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:02:29] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:02:30] planet 41: building queue full (5)
+[08:02:30] planet 41: building queue full (5)
+[08:02:30] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:03:10] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:03:10] planet 41: building queue full (5)
+[08:03:10] planet 41: building queue full (5)
+[08:03:10] attack: spy 1:2:1 probes=4 eta=1s
+[08:03:10] attack: spy 1:2:2 probes=4 eta=1s
+[08:03:10] attack: spy 1:2:3 probes=4 eta=1s
+[08:03:10] attack: spy 1:2:4 probes=4 eta=1s
+[2026-05-11 08:03:51] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:03:52] planet 41: building queue full (5)
+[08:03:52] planet 41: building queue full (5)
+[08:03:52] attack: intel 1:2:1 ships=0 defs=0 res=5466663482
+[08:03:52] attack: intel 1:2:2 ships=0 defs=0 res=5468036910
+[08:03:52] attack: intel 1:2:3 ships=0 defs=0 res=5469565657
+[08:03:52] attack: intel 1:2:4 ships=0 defs=0 res=5468813769
+[08:03:52] attack: spy 1:2:5 probes=4 eta=1s
+[08:03:52] attack: spy 1:2:6 probes=4 eta=1s
+[08:03:52] attack: spy 1:2:7 probes=4 eta=1s
+[08:03:52] attack: spy 1:2:8 probes=4 eta=1s
+[08:03:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:04:27] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:04:29] planet 41: building queue full (5)
+[08:04:29] planet 41: building queue full (5)
+[08:04:29] attack: intel 1:2:5 ships=0 defs=0 res=5328974693
+[08:04:29] attack: intel 1:2:6 ships=0 defs=0 res=5453490979
+[08:04:29] attack: intel 1:2:7 ships=0 defs=0 res=5448121972
+[08:04:29] attack: intel 1:2:8 ships=0 defs=0 res=5303501979
+[08:04:29] attack: spy 1:2:9 probes=4 eta=1s
+[08:04:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:05:12] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:05:14] planet 41: building queue full (5)
+[08:05:14] planet 41: building queue full (5)
+[08:05:14] attack: intel 1:2:9 ships=0 defs=0 res=5811471355
+[08:05:14] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:06:03] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:06:05] planet 41: building queue full (5)
+[08:06:05] planet 41: building queue full (5)
+[08:06:05] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:06:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:06:45] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:06:47] planet 41: building queue full (5)
+[08:06:47] planet 41: building queue full (5)
+[08:06:47] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:06:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:07:27] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:07:28] planet 41: building queue full (5)
+[08:07:28] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:07:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:08:12] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:08:13] planet 41: building queue full (5)
+[08:08:13] planet 41: building queue full (5)
+[08:08:13] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:08:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:08:49] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:08:50] planet 41: building queue full (5)
+[08:08:50] planet 41: building queue full (5)
+[08:08:50] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:09:34] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:09:35] planet 41: building queue full (5)
+[08:09:35] planet 41: building queue full (5)
+[08:09:35] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:10:21] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:10:22] planet 41: building queue full (5)
+[08:10:22] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:10:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:11:04] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:11:05] planet 41: building queue full (5)
+[08:11:05] planet 41: building queue full (5)
+[08:11:05] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:11:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:11:51] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:11:52] planet 41: building queue full (5)
+[08:11:52] planet 41: building queue full (5)
+[08:11:52] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:12:30] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:12:31] planet 41: building queue full (5)
+[08:12:31] planet 41: building queue full (5)
+[08:12:31] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:13:11] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:13:13] planet 41: building queue full (5)
+[08:13:13] planet 41: building queue full (5)
+[08:13:13] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:13:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:13:59] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:14:00] planet 41: building queue full (5)
+[08:14:00] planet 41: building queue full (5)
+[08:14:00] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:14:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:14:46] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:14:47] planet 41: building queue full (5)
+[08:14:47] planet 41: building queue full (5)
+[08:14:47] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:14:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:15:31] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:15:31] planet 41: building queue full (5)
+[08:15:31] planet 41: building queue full (5)
+[08:15:31] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:16:15] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:16:16] planet 41: building queue full (5)
+[08:16:16] planet 41: building queue full (5)
+[08:16:16] attack: idle candidates=45 fresh_intel=45 no_spy_src=0 no_atk_src=45 raidmix_fail=0 cooldown_spy=0
+[08:16:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:16:57] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:16:58] planet 41: building queue full (5)
+[08:16:58] planet 41: building queue full (5)
+[08:16:58] attack: spy 1:2:10 probes=4 eta=1s
+[08:16:58] attack: spy 1:2:11 probes=4 eta=1s
+[08:16:58] attack: spy 1:2:12 probes=4 eta=1s
+[08:16:58] attack: spy 1:2:13 probes=4 eta=1s
+[2026-05-11 08:17:41] ==== loop 17/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:17:41] planet 41: building queue full (5)
+[08:17:41] planet 41: building queue full (5)
+[08:17:41] attack: intel 1:2:10 ships=0 defs=0 res=7031070619
+[08:17:41] attack: intel 1:2:11 ships=0 defs=0 res=7031070619
+[08:17:41] attack: intel 1:2:12 ships=0 defs=0 res=7031070619
+[08:17:41] attack: intel 1:2:13 ships=0 defs=0 res=5486335513
+[08:17:41] attack: spy 1:2:14 probes=4 eta=1s
+[08:17:41] attack: spy 1:2:15 probes=4 eta=1s
+[08:17:41] attack: spy 1:3:1 probes=4 eta=1s
+[08:17:41] attack: spy 1:3:2 probes=4 eta=1s
+[08:17:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:18:25] ==== loop 18/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:18:26] planet 41: building queue full (5)
+[08:18:26] attack: intel 1:2:14 ships=0 defs=0 res=5704898713
+[08:18:26] attack: intel 1:2:15 ships=0 defs=0 res=5742939016
+[08:18:26] attack: intel 1:3:1 ships=0 defs=0 res=5839187620
+[08:18:26] attack: intel 1:3:2 ships=0 defs=0 res=5834838770
+[08:18:26] attack: launch 1:2:1 eta=47s loot=1192138 losses=1 ratio=1192138.00
+[08:18:26] attack: spy 1:3:3 probes=4 eta=1s
+[2026-05-11 08:19:07] ==== loop 19/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:19:08] planet 41: building queue full (5)
+[08:19:08] planet 41: building queue full (5)
+[08:19:08] attack: intel 1:3:3 ships=0 defs=0 res=5833956749
+[08:19:08] attack: spy 1:3:4 probes=4 eta=1s
+[08:19:08] attack: spy 1:3:5 probes=4 eta=1s
+[08:19:08] attack: spy 1:3:11 probes=4 eta=1s
+[08:19:08] attack: spy 1:3:12 probes=4 eta=1s
+[08:19:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:20:09] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:20:10] planet 41: building queue full (5)
+[08:20:10] attack: intel 1:3:4 ships=0 defs=0 res=5484370446
+[08:20:10] attack: intel 1:3:5 ships=0 defs=0 res=5352384785
+[08:20:10] attack: intel 1:3:11 ships=0 defs=0 res=5701717865
+[08:20:10] attack: intel 1:3:12 ships=0 defs=0 res=5354037378
+[08:20:10] attack: spy 1:3:13 probes=4 eta=1s
+[08:20:10] attack: spy 1:4:3 probes=4 eta=1s
+[08:20:10] attack: spy 1:3:6 probes=4 eta=1s
+[08:20:10] attack: spy 1:3:8 probes=4 eta=1s
+[08:20:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:20:54] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:20:57] planet 41: building queue full (5)
+[08:20:57] planet 41: building queue full (5)
+[08:20:57] attack: intel 1:3:13 ships=0 defs=0 res=5491683045
+[08:20:57] attack: intel 1:4:3 ships=0 defs=0 res=5838849822
+[08:20:57] attack: intel 1:3:6 ships=129 defs=8 res=96549832
+[08:20:57] attack: intel 1:3:8 ships=15 defs=41 res=31940220
+[08:20:57] attack: spy 1:3:10 probes=4 eta=1s
+[08:20:57] attack: spy 1:4:4 probes=4 eta=1s
+[08:20:57] attack: spy 1:4:6 probes=4 eta=1s
+[08:20:57] attack: spy 1:4:8 probes=4 eta=1s
+[08:20:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:21:40] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:21:41] planet 41: building queue full (5)
+[08:21:41] planet 41: building queue full (5)
+[08:21:41] attack: intel 1:3:10 ships=78 defs=111 res=94758309
+[08:21:41] attack: intel 1:4:4 ships=113 defs=5 res=140308384
+[08:21:41] attack: intel 1:4:6 ships=48 defs=0 res=120404741
+[08:21:41] attack: intel 1:4:8 ships=25 defs=119 res=70716124
+[08:21:41] attack: spy 1:4:10 probes=4 eta=1s
+[08:21:41] attack: spy 1:4:12 probes=4 eta=1s
+[08:21:41] attack: spy 1:5:4 probes=4 eta=1s
+[08:21:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:22:22] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:22:23] planet 41: building queue full (5)
+[08:22:23] attack: intel 1:4:10 ships=186 defs=154 res=126716826
+[08:22:23] attack: intel 1:4:12 ships=126 defs=66 res=126167754
+[08:22:23] attack: intel 1:5:4 ships=21 defs=7 res=97602081
+[08:22:23] attack: idle candidates=45 fresh_intel=40 no_spy_src=5 no_atk_src=40 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:23:09] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:23:10] planet 41: building queue full (5)
+[08:23:10] attack: idle candidates=45 fresh_intel=36 no_spy_src=9 no_atk_src=36 raidmix_fail=0 cooldown_spy=0
+[08:23:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:23:52] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:23:54] planet 41: building queue full (5)
+[08:23:54] planet 41: building queue full (5)
+[08:23:54] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[08:23:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:24:36] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:24:37] planet 41: building queue full (5)
+[08:24:37] planet 41: building queue full (5)
+[08:24:37] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:25:22] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:25:22] planet 41: building queue full (5)
+[08:25:22] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[08:25:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:26:08] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:26:09] planet 41: building queue full (5)
+[08:26:09] planet 41: building queue full (5)
+[08:26:09] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:26:49] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:26:49] planet 41: building queue full (5)
+[08:26:49] planet 41: building queue full (5)
+[08:26:49] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:27:31] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:27:32] planet 41: building queue full (5)
+[08:27:32] planet 41: building queue full (5)
+[08:27:32] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[08:27:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:28:16] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:28:16] planet 41: building queue full (5)
+[08:28:16] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:28:54] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:28:56] planet 41: building queue full (5)
+[08:28:56] planet 41: building queue full (5)
+[08:28:56] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[08:28:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:29:42] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:29:43] planet 41: building queue full (5)
+[08:29:43] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:30:26] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:30:26] planet 41: building queue full (5)
+[08:30:26] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:31:09] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:31:10] planet 41: building queue full (5)
+[08:31:10] planet 41: building queue full (5)
+[08:31:10] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[08:31:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:31:51] ==== loop 17/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:31:53] planet 41: building queue full (5)
+[08:31:53] planet 41: building queue full (5)
+[08:31:53] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[08:31:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:32:36] ==== loop 18/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:32:37] planet 41: building queue full (5)
+[08:32:37] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:33:18] ==== loop 19/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:33:20] planet 41: building queue full (5)
+[08:33:20] planet 41: building queue full (5)
+[08:33:20] attack: idle candidates=45 fresh_intel=33 no_spy_src=12 no_atk_src=33 raidmix_fail=0 cooldown_spy=0
+[08:33:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:34:03] ==== loop 20/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:34:05] planet 41: building queue full (5)
+[08:34:05] planet 41: building queue full (5)
+[08:34:05] attack: idle candidates=45 fresh_intel=29 no_spy_src=16 no_atk_src=29 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:34:51] ==== loop 21/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:34:52] planet 41: building queue full (5)
+[08:34:52] planet 41: building queue full (5)
+[08:34:52] attack: idle candidates=45 fresh_intel=25 no_spy_src=20 no_atk_src=25 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:35:33] ==== loop 22/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:35:33] planet 41: building queue full (5)
+[08:35:33] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[08:35:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:36:17] ==== loop 23/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:36:19] planet 41: building queue full (5)
+[08:36:19] planet 41: building queue full (5)
+[08:36:19] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[08:36:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:37:10] ==== loop 24/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:37:11] planet 41: building queue full (5)
+[08:37:11] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:37:56] ==== loop 25/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:37:57] planet 41: building queue full (5)
+[08:37:57] planet 41: building queue full (5)
+[08:37:57] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:38:33] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:38:34] planet 41: building queue full (5)
+[08:38:34] planet 41: building queue full (5)
+[08:38:34] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[08:38:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:39:11] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:39:12] planet 41: building queue full (5)
+[08:39:12] planet 41: building queue full (5)
+[08:39:12] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:39:57] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:39:57] planet 41: building queue full (5)
+[08:39:57] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[08:39:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:40:45] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:40:46] planet 41: building queue full (5)
+[08:40:46] planet 41: building queue full (5)
+[08:40:46] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:41:29] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:41:29] planet 41: building queue full (5)
+[08:41:29] planet 41: building queue full (5)
+[08:41:29] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[08:41:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:42:15] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:42:15] planet 41: building queue full (5)
+[08:42:15] planet 41: building queue full (5)
+[08:42:15] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[08:42:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:42:59] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:42:59] planet 41: building queue full (5)
+[08:42:59] planet 41: building queue full (5)
+[08:42:59] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:43:42] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:43:43] planet 41: building queue full (5)
+[08:43:43] attack: launch 1:2:10 eta=47s loot=1192074 losses=1 ratio=1192074.00
+[2026-05-11 08:44:28] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:44:29] planet 41: building queue full (5)
+[08:44:29] planet 41: building queue full (5)
+[08:44:29] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:45:12] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:45:14] planet 41: building queue full (5)
+[08:45:14] planet 41: building queue full (5)
+[08:45:14] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:45:55] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:45:56] planet 41: building queue full (5)
+[08:45:56] planet 41: building queue full (5)
+[08:45:56] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[08:45:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:46:40] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:46:42] planet 41: building queue full (5)
+[08:46:42] planet 41: building queue full (5)
+[08:46:42] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:47:24] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:47:25] planet 41: building queue full (5)
+[08:47:25] planet 41: building queue full (5)
+[08:47:25] attack: idle candidates=45 fresh_intel=24 no_spy_src=21 no_atk_src=24 raidmix_fail=0 cooldown_spy=0
+[08:47:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:48:09] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:48:10] planet 41: building queue full (5)
+[08:48:10] planet 41: building queue full (5)
+[08:48:10] attack: idle candidates=45 fresh_intel=20 no_spy_src=25 no_atk_src=20 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:48:55] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:48:56] planet 41: building queue full (5)
+[08:48:56] planet 41: building queue full (5)
+[08:48:56] attack: idle candidates=45 fresh_intel=16 no_spy_src=29 no_atk_src=16 raidmix_fail=0 cooldown_spy=0
+[08:48:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:49:40] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:49:40] planet 41: building queue full (5)
+[08:49:40] planet 41: building queue full (5)
+[08:49:40] attack: idle candidates=45 fresh_intel=15 no_spy_src=30 no_atk_src=15 raidmix_fail=0 cooldown_spy=0
+[08:49:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:50:20] ==== loop 17/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:50:22] planet 41: building queue full (5)
+[08:50:22] planet 41: building queue full (5)
+[08:50:22] attack: idle candidates=45 fresh_intel=11 no_spy_src=34 no_atk_src=11 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:51:06] ==== loop 18/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:51:07] planet 41: building queue full (5)
+[08:51:07] planet 41: building queue full (5)
+[08:51:07] attack: idle candidates=45 fresh_intel=7 no_spy_src=38 no_atk_src=7 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:51:49] ==== loop 19/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:51:50] planet 41: building queue full (5)
+[08:51:50] planet 41: building queue full (5)
+[08:51:50] attack: idle candidates=45 fresh_intel=3 no_spy_src=42 no_atk_src=3 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 08:52:33] ==== loop 20/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:52:34] planet 41: building queue full (5)
+[08:52:34] planet 41: building queue full (5)
+[08:52:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:53:14] ==== loop 21/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:53:15] planet 41: building queue full (5)
+[08:53:15] planet 41: building queue full (5)
+[08:53:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:53:54] ==== loop 22/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:53:55] planet 41: building queue full (5)
+[08:53:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:54:36] ==== loop 23/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:54:37] planet 41: building queue full (5)
+[08:54:37] planet 41: building queue full (5)
+[08:54:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:55:18] ==== loop 24/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:55:18] planet 41: building queue full (5)
+[08:55:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:55:56] ==== loop 25/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:55:58] planet 41: building queue full (5)
+[08:55:58] planet 41: building queue full (5)
+[2026-05-11 08:56:43] ==== loop 26/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:56:44] planet 41: building queue full (5)
+[08:56:44] planet 41: building queue full (5)
+[08:56:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:57:23] ==== loop 27/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:57:24] planet 41: building queue full (5)
+[08:57:24] planet 41: building queue full (5)
+[08:57:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:58:05] ==== loop 28/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:58:07] planet 41: building queue full (5)
+[08:58:07] planet 41: building queue full (5)
+[08:58:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:58:46] ==== loop 29/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:58:48] planet 41: building queue full (5)
+[08:58:48] planet 41: building queue full (5)
+[08:58:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:59:31] ==== loop 30/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[08:59:33] planet 41: building queue full (5)
+[08:59:33] planet 41: building queue full (5)
+[08:59:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:00:12] ==== loop 31/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:00:13] planet 41: building queue full (5)
+[09:00:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:00:56] ==== loop 32/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:00:57] planet 41: queued building_crystal_mine to 22
+[2026-05-11 09:01:37] ==== loop 33/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:01:38] planet 41: building queue full (5)
+[09:01:38] planet 41: building queue full (5)
+[2026-05-11 09:02:22] ==== loop 34/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:02:23] planet 41: building queue full (5)
+[09:02:23] planet 41: building queue full (5)
+[09:02:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:03:05] ==== loop 35/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:03:06] planet 41: building queue full (5)
+[2026-05-11 09:03:45] ==== loop 36/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:03:47] planet 41: building queue full (5)
+[09:03:47] planet 41: building queue full (5)
+[2026-05-11 09:04:28] ==== loop 37/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:04:29] planet 41: building queue full (5)
+[09:04:29] planet 41: building queue full (5)
+[2026-05-11 09:05:10] ==== loop 38/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:05:10] planet 41: building queue full (5)
+[09:05:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:05:48] ==== loop 39/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:05:50] planet 41: building queue full (5)
+[09:05:50] planet 41: building queue full (5)
+[2026-05-11 09:06:31] ==== loop 40/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:06:31] planet 41: building queue full (5)
+[09:06:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:07:11] ==== loop 41/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:07:12] planet 41: building queue full (5)
+[09:07:12] planet 41: building queue full (5)
+[2026-05-11 09:07:52] ==== loop 42/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:07:53] planet 41: building queue full (5)
+[09:07:53] planet 41: building queue full (5)
+[2026-05-11 09:08:31] ==== loop 43/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:08:32] planet 41: building queue full (5)
+[09:08:32] planet 41: building queue full (5)
+[09:08:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:09:12] ==== loop 44/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:09:13] planet 41: building queue full (5)
+[09:09:13] planet 41: building queue full (5)
+[2026-05-11 09:09:54] ==== loop 45/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:09:55] planet 41: building queue full (5)
+[09:09:55] planet 41: building queue full (5)
+[09:09:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:10:35] ==== loop 46/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:10:36] planet 41: building queue full (5)
+[09:10:36] planet 41: building queue full (5)
+[09:10:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:11:15] ==== loop 47/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:11:16] planet 41: building queue full (5)
+[09:11:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:11:58] ==== loop 48/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:11:59] planet 41: building queue full (5)
+[2026-05-11 09:12:43] ==== loop 49/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:12:43] planet 41: building queue full (5)
+[09:12:43] planet 41: building queue full (5)
+[09:12:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:13:25] ==== loop 50/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:13:25] planet 41: building queue full (5)
+[2026-05-11 09:14:05] ==== loop 51/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:14:06] planet 41: building queue full (5)
+[09:14:06] planet 41: building queue full (5)
+[09:14:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:14:56] ==== loop 52/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:14:56] planet 41: building queue full (5)
+[09:14:56] planet 41: building queue full (5)
+[09:14:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:15:40] ==== loop 53/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:15:41] planet 41: building queue full (5)
+[09:15:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:16:23] ==== loop 54/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:16:23] planet 41: building queue full (5)
+[09:16:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:17:08] ==== loop 55/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:17:09] planet 41: building queue full (5)
+[09:17:09] planet 41: building queue full (5)
+[2026-05-11 09:17:54] ==== loop 56/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:17:56] planet 41: building queue full (5)
+[09:17:56] planet 41: building queue full (5)
+[2026-05-11 09:18:43] ==== loop 57/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:18:44] planet 41: building queue full (5)
+[09:18:44] planet 41: building queue full (5)
+[2026-05-11 09:19:31] ==== loop 58/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:19:31] planet 41: building queue full (5)
+[2026-05-11 09:20:09] ==== loop 59/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:20:10] planet 41: queued defense_gauss_cannon +8
+[09:20:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:20:56] ==== loop 60/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:20:57] planet 41: queued defense_gauss_cannon +8
+[09:20:57] planet 41: skipped duplicate defense_gauss_cannon this loop
+[09:20:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:21:42] ==== loop 61/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:21:43] planet 41: queued defense_gauss_cannon +8
+[09:21:43] planet 41: skipped duplicate defense_gauss_cannon this loop
+[2026-05-11 09:22:26] ==== loop 62/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:22:28] planet 41: queued defense_gauss_cannon +5
+[09:22:28] planet 41: queued defense_ion_cannon +8
+[2026-05-11 09:23:09] ==== loop 63/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:23:10] planet 41: queued defense_ion_cannon +8
+[09:23:10] planet 41: skipped duplicate defense_ion_cannon this loop
+[09:23:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:23:55] ==== loop 64/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:23:56] planet 41: queued defense_gauss_cannon +1
+[09:23:56] planet 41: queued defense_ion_cannon +7
+[09:23:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:24:40] ==== loop 65/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:24:41] planet 41: queued defense_gauss_cannon +1
+[09:24:41] planet 41: queued defense_rocket_launcher +8
+[09:24:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:25:29] ==== loop 66/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:25:32] planet 41: queued defense_gauss_cannon +1
+[09:25:32] planet 41: queued defense_rocket_launcher +8
+[2026-05-11 09:26:15] ==== loop 67/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:26:16] planet 41: queued defense_rocket_launcher +8
+[09:26:16] planet 41: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 09:27:01] ==== loop 68/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:27:02] planet 41: queued defense_gauss_cannon +1
+[09:27:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:27:42] ==== loop 69/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:27:43] planet 41: queued defense_gauss_cannon +1
+[09:27:43] planet 41: queued defense_rocket_launcher +8
+[09:27:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:28:27] ==== loop 70/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:28:28] planet 41: queued defense_rocket_launcher +8
+[09:28:28] planet 41: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 09:29:06] ==== loop 71/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:29:06] planet 41: queued defense_gauss_cannon +1
+[09:29:06] planet 41: queued defense_rocket_launcher +8
+[09:29:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:29:49] ==== loop 72/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:29:51] planet 41: queued defense_gauss_cannon +1
+[09:29:51] planet 41: queued defense_rocket_launcher +8
+[2026-05-11 09:30:33] ==== loop 73/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:30:35] planet 41: building queue full (5)
+[09:30:35] planet 41: building queue full (5)
+[2026-05-11 09:31:17] ==== loop 74/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:31:18] planet 41: building queue full (5)
+[09:31:18] planet 41: building queue full (5)
+[09:31:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:32:00] ==== loop 75/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:32:01] planet 41: building queue full (5)
+[2026-05-11 09:32:43] ==== loop 76/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:32:45] planet 41: building queue full (5)
+[09:32:45] planet 41: building queue full (5)
+[09:32:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:33:29] ==== loop 77/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:33:31] planet 41: building queue full (5)
+[09:33:31] planet 41: building queue full (5)
+[2026-05-11 09:34:16] ==== loop 78/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:34:18] planet 41: building queue full (5)
+[09:34:18] planet 41: building queue full (5)
+[2026-05-11 09:35:05] ==== loop 79/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:35:07] planet 41: building queue full (5)
+[09:35:07] planet 41: building queue full (5)
+[2026-05-11 09:35:54] ==== loop 80/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:35:56] planet 41: building queue full (5)
+[09:35:56] planet 41: building queue full (5)
+[09:35:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:36:38] ==== loop 81/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:36:40] planet 41: building queue full (5)
+[09:36:40] planet 41: building queue full (5)
+[09:36:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:37:25] ==== loop 82/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:37:27] planet 41: building queue full (5)
+[09:37:27] planet 41: building queue full (5)
+[09:37:27] attack: spy 1:2:1 probes=4 eta=1s
+[09:37:27] attack: spy 1:2:2 probes=4 eta=1s
+[09:37:27] attack: spy 1:2:3 probes=4 eta=1s
+[09:37:27] attack: skip 1:2:11 (sim defender wins, my_losses=3360000)
+[09:37:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:38:11] ==== loop 83/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:38:13] planet 41: building queue full (5)
+[09:38:13] planet 41: building queue full (5)
+[09:38:13] attack: intel 1:2:1 ships=0 defs=0 res=5562670148
+[09:38:13] attack: intel 1:2:2 ships=0 defs=0 res=5565313777
+[09:38:13] attack: intel 1:2:3 ships=0 defs=0 res=5566842524
+[09:38:13] attack: launch 1:2:1 eta=47s loot=792515 losses=1 ratio=792515.00
+[09:38:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:39:00] ==== loop 84/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:39:00] planet 41: building queue full (5)
+[09:39:00] attack: spy 1:2:4 probes=4 eta=1s
+[09:39:00] attack: spy 1:2:5 probes=4 eta=1s
+[09:39:00] attack: spy 1:2:6 probes=4 eta=1s
+[09:39:00] attack: spy 1:2:7 probes=4 eta=1s
+[2026-05-11 09:40:14] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:40:15] planet 41: building queue full (5)
+[09:40:15] planet 41: building queue full (5)
+[09:40:15] attack: intel 1:2:4 ships=0 defs=0 res=5567274011
+[09:40:15] attack: intel 1:2:5 ships=0 defs=0 res=5433094555
+[09:40:15] attack: intel 1:2:6 ships=0 defs=0 res=5557610842
+[09:40:15] attack: intel 1:2:7 ships=0 defs=0 res=5552241836
+[09:40:15] attack: completed fleet=300 loot=0 losses=0
+[09:40:15] attack: completed fleet=352 (no_data status=outbound)
+[09:40:15] attack: completed fleet=359 (no_data status=outbound)
+[09:40:15] attack: spy 1:2:8 probes=4 eta=1s
+[09:40:15] attack: spy 1:2:9 probes=4 eta=1s
+[09:40:15] attack: spy 1:2:10 probes=4 eta=1s
+[09:40:15] attack: spy 1:2:12 probes=4 eta=1s
+[09:40:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:40:59] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:41:01] planet 41: building queue full (5)
+[09:41:01] planet 41: building queue full (5)
+[09:41:01] attack: intel 1:2:8 ships=0 defs=0 res=5408925270
+[09:41:01] attack: intel 1:2:9 ships=0 defs=0 res=5916894645
+[09:41:01] attack: intel 1:2:10 ships=0 defs=0 res=7115500191
+[09:41:01] attack: intel 1:2:12 ships=0 defs=0 res=7116770991
+[09:41:01] attack: spy 1:2:13 probes=4 eta=1s
+[09:41:01] attack: spy 1:2:14 probes=4 eta=1s
+[09:41:01] attack: spy 1:2:15 probes=4 eta=1s
+[09:41:01] attack: spy 1:3:1 probes=4 eta=1s
+[09:41:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:41:43] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:41:44] planet 41: building queue full (5)
+[09:41:44] planet 41: building queue full (5)
+[09:41:44] attack: intel 1:2:13 ships=0 defs=0 res=5572841952
+[09:41:44] attack: intel 1:2:14 ships=0 defs=0 res=5790650535
+[09:41:44] attack: intel 1:2:15 ships=0 defs=0 res=5828690839
+[09:41:44] attack: intel 1:3:1 ships=0 defs=0 res=5924939442
+[09:41:44] attack: spy 1:3:2 probes=4 eta=1s
+[09:41:44] attack: spy 1:3:3 probes=4 eta=1s
+[09:41:44] attack: spy 1:3:4 probes=4 eta=1s
+[09:41:44] attack: spy 1:3:5 probes=4 eta=1s
+[09:41:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:42:23] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:42:25] planet 41: building queue full (5)
+[09:42:25] planet 41: building queue full (5)
+[09:42:25] attack: intel 1:3:2 ships=0 defs=0 res=5908362383
+[09:42:25] attack: intel 1:3:3 ships=0 defs=0 res=5906622843
+[09:42:25] attack: intel 1:3:4 ships=0 defs=0 res=5556007518
+[09:42:25] attack: intel 1:3:5 ships=0 defs=0 res=5424021857
+[09:42:25] attack: spy 1:3:11 probes=4 eta=1s
+[09:42:25] attack: spy 1:3:12 probes=4 eta=1s
+[2026-05-11 09:43:11] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:43:12] planet 41: building queue full (5)
+[09:43:12] planet 41: building queue full (5)
+[09:43:12] attack: intel 1:3:11 ships=0 defs=0 res=5776424853
+[09:43:12] attack: intel 1:3:12 ships=0 defs=0 res=5428744365
+[09:43:12] attack: idle candidates=45 fresh_intel=4 no_spy_src=23 no_atk_src=4 raidmix_fail=0 cooldown_spy=18
+[2026-05-11 09:44:00] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:44:01] planet 41: building queue full (5)
+[09:44:01] attack: idle candidates=45 fresh_intel=4 no_spy_src=23 no_atk_src=4 raidmix_fail=0 cooldown_spy=18
+[09:44:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:44:47] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:44:48] planet 41: building queue full (5)
+[09:44:48] attack: idle candidates=45 fresh_intel=4 no_spy_src=23 no_atk_src=4 raidmix_fail=0 cooldown_spy=18
+[2026-05-11 09:45:33] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:45:33] planet 41: building queue full (5)
+[09:45:33] planet 41: building queue full (5)
+[09:45:33] attack: spy 1:3:13 probes=4 eta=1s
+[09:45:33] attack: spy 1:4:3 probes=4 eta=1s
+[09:45:33] attack: spy 1:3:6 probes=4 eta=1s
+[09:45:33] attack: spy 1:3:8 probes=4 eta=1s
+[09:45:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:46:16] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:46:16] planet 41: building queue full (5)
+[09:46:16] planet 41: building queue full (5)
+[09:46:16] attack: intel 1:3:13 ships=0 defs=0 res=5580178926
+[09:46:16] attack: intel 1:4:3 ships=0 defs=0 res=5927345701
+[09:46:16] attack: intel 1:3:6 ships=145 defs=67 res=97420510
+[09:46:16] attack: intel 1:3:8 ships=15 defs=58 res=33568419
+[09:46:16] attack: spy 1:3:10 probes=4 eta=1s
+[09:46:16] attack: spy 1:4:4 probes=4 eta=1s
+[09:46:16] attack: spy 1:4:6 probes=4 eta=1s
+[09:46:16] attack: spy 1:4:8 probes=4 eta=1s
+[2026-05-11 09:46:58] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:46:59] planet 41: building queue full (5)
+[09:46:59] attack: intel 1:3:10 ships=78 defs=118 res=95671155
+[09:46:59] attack: intel 1:4:4 ships=113 defs=12 res=144040583
+[09:46:59] attack: intel 1:4:6 ships=64 defs=0 res=123976492
+[09:46:59] attack: intel 1:4:8 ships=136 defs=119 res=73333447
+[09:46:59] attack: spy 1:4:10 probes=4 eta=1s
+[09:46:59] attack: spy 1:4:12 probes=4 eta=1s
+[09:46:59] attack: spy 1:5:4 probes=4 eta=1s
+[09:46:59] attack: spy 1:5:6 probes=4 eta=1s
+[2026-05-11 09:47:45] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:47:47] planet 41: building queue full (5)
+[09:47:47] planet 41: building queue full (5)
+[09:47:47] attack: intel 1:4:10 ships=201 defs=154 res=131154884
+[09:47:47] attack: intel 1:4:12 ships=126 defs=200 res=130555174
+[09:47:47] attack: intel 1:5:4 ships=155 defs=84 res=99107172
+[09:47:47] attack: intel 1:5:6 ships=110 defs=260 res=51507562
+[09:47:47] attack: spy 1:5:10 probes=4 eta=1s
+[09:47:47] attack: spy 1:5:12 probes=4 eta=1s
+[09:47:47] attack: spy 1:6:4 probes=4 eta=1s
+[09:47:47] attack: spy 1:6:6 probes=4 eta=1s
+[09:47:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:48:27] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:48:28] planet 41: building queue full (5)
+[09:48:28] planet 41: building queue full (5)
+[09:48:28] attack: intel 1:5:10 ships=53 defs=56 res=57019221
+[09:48:28] attack: intel 1:5:12 ships=133 defs=181 res=93317745
+[09:48:28] attack: intel 1:6:4 ships=161 defs=104 res=126115128
+[09:48:28] attack: intel 1:6:6 ships=270 defs=191 res=99303218
+[09:48:28] attack: spy 1:6:8 probes=4 eta=1s
+[09:48:28] attack: spy 1:6:10 probes=4 eta=1s
+[09:48:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:49:13] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:49:14] planet 41: building queue full (5)
+[09:49:14] planet 41: building queue full (5)
+[09:49:14] attack: intel 1:6:8 ships=194 defs=0 res=145684488
+[09:49:14] attack: intel 1:6:10 ships=0 defs=0 res=1820630
+[09:49:14] attack: idle candidates=45 fresh_intel=4 no_spy_src=9 no_atk_src=4 raidmix_fail=0 cooldown_spy=32
+[09:49:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:49:59] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:50:01] planet 41: building queue full (5)
+[09:50:01] planet 41: queue busy, throttled building_hangar
+[09:50:01] attack: idle candidates=45 fresh_intel=4 no_spy_src=9 no_atk_src=4 raidmix_fail=0 cooldown_spy=32
+[09:50:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:50:40] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:50:40] planet 41: queue busy, throttled building_hangar
+[09:50:40] planet 41: queue busy, throttled building_hangar
+[09:50:40] attack: idle candidates=45 fresh_intel=4 no_spy_src=13 no_atk_src=4 raidmix_fail=0 cooldown_spy=28
+[09:50:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:51:21] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:51:21] planet 41: queue busy, throttled building_hangar
+[09:51:21] planet 41: queue busy, throttled building_hangar
+[09:51:21] attack: idle candidates=45 fresh_intel=4 no_spy_src=17 no_atk_src=4 raidmix_fail=0 cooldown_spy=24
+[09:51:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:52:01] ==== loop 17/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:52:01] planet 41: queue busy, throttled building_hangar
+[09:52:01] planet 41: queue busy, throttled building_hangar
+[09:52:01] attack: idle candidates=45 fresh_intel=4 no_spy_src=21 no_atk_src=4 raidmix_fail=0 cooldown_spy=20
+[09:52:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:52:42] ==== loop 18/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:52:42] planet 41: queue busy, throttled building_hangar
+[09:52:42] planet 41: queue busy, throttled building_hangar
+[09:52:42] attack: spy 1:2:4 probes=4 eta=1s
+[09:52:42] attack: spy 1:2:5 probes=4 eta=1s
+[09:52:42] attack: spy 1:2:6 probes=4 eta=1s
+[09:52:42] attack: spy 1:2:7 probes=4 eta=1s
+[09:52:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:53:22] ==== loop 19/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:53:22] planet 41: queue busy, throttled building_hangar
+[09:53:22] planet 41: queue busy, throttled building_hangar
+[09:53:22] attack: intel 1:2:4 ships=0 defs=0 res=5581337309
+[09:53:22] attack: intel 1:2:5 ships=0 defs=0 res=5447157855
+[09:53:22] attack: intel 1:2:6 ships=0 defs=0 res=5571674140
+[09:53:22] attack: intel 1:2:7 ships=0 defs=0 res=5566305134
+[09:53:22] attack: spy 1:2:8 probes=4 eta=1s
+[2026-05-11 09:54:06] ==== loop 20/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:54:06] planet 41: queue busy, throttled building_hangar
+[09:54:06] planet 41: queue busy, throttled building_hangar
+[09:54:06] attack: intel 1:2:8 ships=0 defs=0 res=5408925270
+[09:54:06] attack: idle candidates=45 fresh_intel=4 no_spy_src=18 no_atk_src=4 raidmix_fail=0 cooldown_spy=23
+[2026-05-11 09:54:49] ==== loop 21/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:54:49] planet 41: queue busy, throttled building_hangar
+[09:54:49] planet 41: queue busy, throttled building_hangar
+[09:54:49] attack: spy 1:2:9 probes=4 eta=1s
+[09:54:49] attack: spy 1:2:10 probes=4 eta=1s
+[09:54:49] attack: spy 1:2:12 probes=4 eta=1s
+[09:54:49] attack: spy 1:2:13 probes=4 eta=1s
+[09:54:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:55:30] ==== loop 22/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:55:30] planet 41: queue busy, throttled building_hangar
+[09:55:30] planet 41: queue busy, throttled building_hangar
+[09:55:30] attack: intel 1:2:9 ships=0 defs=0 res=5916894645
+[09:55:30] attack: intel 1:2:10 ships=0 defs=0 res=7115500191
+[09:55:30] attack: intel 1:2:12 ships=0 defs=0 res=7116770991
+[09:55:30] attack: intel 1:2:13 ships=0 defs=0 res=5572841952
+[09:55:30] attack: spy 1:2:14 probes=4 eta=1s
+[2026-05-11 09:56:10] ==== loop 23/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:56:10] planet 41: queue busy, throttled building_hangar
+[09:56:10] planet 41: queue busy, throttled building_hangar
+[09:56:10] attack: intel 1:2:14 ships=0 defs=0 res=5790650535
+[09:56:10] attack: idle candidates=45 fresh_intel=4 no_spy_src=17 no_atk_src=4 raidmix_fail=0 cooldown_spy=24
+[2026-05-11 09:56:47] ==== loop 24/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:56:47] planet 41: queue busy, throttled building_hangar
+[09:56:47] attack: spy 1:2:15 probes=4 eta=1s
+[09:56:47] attack: spy 1:3:1 probes=4 eta=1s
+[09:56:47] attack: spy 1:3:2 probes=4 eta=1s
+[09:56:47] attack: spy 1:3:3 probes=4 eta=1s
+[2026-05-11 09:57:25] ==== loop 25/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:57:25] planet 41: queue busy, throttled building_hangar
+[09:57:25] planet 41: queue busy, throttled building_hangar
+[09:57:25] attack: intel 1:2:15 ships=0 defs=0 res=5828690839
+[09:57:25] attack: intel 1:3:1 ships=0 defs=0 res=5924939442
+[09:57:25] attack: intel 1:3:2 ships=0 defs=0 res=5924638079
+[09:57:25] attack: intel 1:3:3 ships=0 defs=0 res=5922898539
+[09:57:25] attack: spy 1:3:4 probes=4 eta=1s
+[09:57:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:58:08] ==== loop 26/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:58:08] planet 41: queue busy, throttled building_hangar
+[09:58:08] attack: intel 1:3:4 ships=0 defs=0 res=5572283214
+[09:58:08] attack: idle candidates=45 fresh_intel=4 no_spy_src=24 no_atk_src=4 raidmix_fail=0 cooldown_spy=17
+[09:58:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:58:49] ==== loop 27/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:58:49] planet 41: queue busy, throttled building_hangar
+[09:58:49] planet 41: queue busy, throttled building_hangar
+[09:58:49] attack: idle candidates=45 fresh_intel=4 no_spy_src=26 no_atk_src=4 raidmix_fail=0 cooldown_spy=15
+[09:58:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:59:32] ==== loop 28/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[09:59:32] planet 41: queue busy, throttled building_hangar
+[09:59:32] planet 41: queue busy, throttled building_hangar
+[09:59:32] attack: spy 1:3:5 probes=4 eta=1s
+[09:59:32] attack: spy 1:3:11 probes=4 eta=1s
+[09:59:32] attack: spy 1:3:12 probes=4 eta=1s
+[09:59:32] attack: spy 1:3:13 probes=4 eta=1s
+[2026-05-11 10:00:13] ==== loop 29/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:00:14] planet 41: building queue full (5)
+[10:00:14] planet 41: building queue full (5)
+[10:00:14] attack: intel 1:3:5 ships=0 defs=0 res=5455304122
+[10:00:14] attack: intel 1:3:11 ships=0 defs=0 res=5804637202
+[10:00:14] attack: intel 1:3:12 ships=0 defs=0 res=5456956714
+[10:00:14] attack: intel 1:3:13 ships=0 defs=0 res=5593984969
+[10:00:14] attack: spy 1:4:3 probes=4 eta=1s
+[10:00:14] attack: spy 1:3:6 probes=4 eta=1s
+[10:00:14] attack: spy 1:3:8 probes=4 eta=1s
+[10:00:14] attack: spy 1:3:10 probes=4 eta=1s
+[10:00:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:00:53] ==== loop 30/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:00:54] planet 41: building queue full (5)
+[10:00:54] planet 41: building queue full (5)
+[10:00:54] attack: intel 1:4:3 ships=0 defs=0 res=5927345701
+[10:00:54] attack: intel 1:3:6 ships=145 defs=114 res=98019692
+[10:00:54] attack: intel 1:3:8 ships=15 defs=58 res=33782561
+[10:00:54] attack: intel 1:3:10 ships=78 defs=119 res=96131857
+[10:00:54] attack: spy 1:4:4 probes=4 eta=1s
+[2026-05-11 10:01:35] ==== loop 31/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:01:36] planet 41: building queue full (5)
+[10:01:36] planet 41: building queue full (5)
+[10:01:36] attack: intel 1:4:4 ships=113 defs=14 res=144706700
+[10:01:36] attack: spy 1:4:6 probes=4 eta=1s
+[10:01:36] attack: spy 1:4:8 probes=4 eta=1s
+[10:01:36] attack: spy 1:4:10 probes=4 eta=1s
+[10:01:36] attack: spy 1:4:12 probes=4 eta=1s
+[2026-05-11 10:02:14] ==== loop 32/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:02:14] planet 41: building queue full (5)
+[10:02:14] attack: intel 1:4:6 ships=92 defs=0 res=124700038
+[10:02:14] attack: intel 1:4:8 ships=136 defs=119 res=73920117
+[10:02:14] attack: intel 1:4:10 ships=201 defs=214 res=131750228
+[10:02:14] attack: intel 1:4:12 ships=126 defs=200 res=131307410
+[10:02:14] attack: spy 1:5:4 probes=4 eta=1s
+[2026-05-11 10:02:47] ==== loop 33/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:02:47] planet 41: building queue full (5)
+[10:02:47] attack: intel 1:5:4 ships=164 defs=154 res=99768035
+[10:02:47] attack: idle candidates=45 fresh_intel=4 no_spy_src=16 no_atk_src=4 raidmix_fail=0 cooldown_spy=25
+[2026-05-11 10:03:26] ==== loop 34/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:03:28] planet 41: building queue full (5)
+[10:03:28] planet 41: building queue full (5)
+[10:03:28] attack: armed 1:2:1 recheck_eta=1s ratio=1192074.00 loot=1192074 losses=1
+[10:03:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:04:08] ==== loop 35/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:04:09] planet 41: building queue full (5)
+[10:04:09] planet 41: building queue full (5)
+[10:04:09] attack: confirmed 1:2:1 eta=47s loot=1262874 losses=1 ratio=1262874.00
+[10:04:09] attack: spy 1:2:4 probes=4 eta=1s
+[10:04:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:04:49] ==== loop 36/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:04:50] planet 41: building queue full (5)
+[10:04:50] planet 41: building queue full (5)
+[10:04:50] attack: intel 1:2:4 ships=0 defs=0 res=5590341251
+[10:04:50] attack: idle candidates=45 fresh_intel=4 no_spy_src=20 no_atk_src=4 raidmix_fail=0 cooldown_spy=21
+[2026-05-11 10:05:29] ==== loop 37/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:05:30] planet 41: building queue full (5)
+[10:05:30] planet 41: building queue full (5)
+[10:05:30] attack: idle candidates=45 fresh_intel=4 no_spy_src=21 no_atk_src=4 raidmix_fail=0 cooldown_spy=20
+[10:05:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:06:07] ==== loop 38/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:06:07] planet 41: building queue full (5)
+[10:06:07] planet 41: building queue full (5)
+[10:06:07] attack: idle candidates=45 fresh_intel=4 no_spy_src=21 no_atk_src=4 raidmix_fail=0 cooldown_spy=20
+[10:06:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:06:45] ==== loop 39/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:06:47] planet 41: building queue full (5)
+[10:06:47] planet 41: building queue full (5)
+[10:06:47] attack: idle candidates=45 fresh_intel=4 no_spy_src=25 no_atk_src=4 raidmix_fail=0 cooldown_spy=16
+[2026-05-11 10:07:26] ==== loop 40/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:07:27] planet 41: building queue full (5)
+[10:07:27] planet 41: building queue full (5)
+[10:07:27] attack: idle candidates=45 fresh_intel=4 no_spy_src=26 no_atk_src=4 raidmix_fail=0 cooldown_spy=15
+[2026-05-11 10:08:06] ==== loop 41/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:08:07] planet 41: building queue full (5)
+[10:08:07] planet 41: building queue full (5)
+[10:08:07] attack: idle candidates=45 fresh_intel=3 no_spy_src=27 no_atk_src=3 raidmix_fail=0 cooldown_spy=15
+[10:08:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:08:41] ==== loop 42/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:08:42] planet 41: building queue full (5)
+[10:08:42] attack: idle candidates=45 fresh_intel=1 no_spy_src=29 no_atk_src=1 raidmix_fail=0 cooldown_spy=15
+[2026-05-11 10:09:15] ==== loop 43/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:09:16] planet 41: building queue full (5)
+[10:09:16] attack: idle candidates=45 fresh_intel=1 no_spy_src=29 no_atk_src=1 raidmix_fail=0 cooldown_spy=15
+[2026-05-11 10:09:51] ==== loop 44/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:09:52] planet 41: building queue full (5)
+[10:09:52] planet 41: building queue full (5)
+[10:09:52] attack: completed fleet=490 (no_data status=outbound)
+[10:09:52] attack: spy 1:2:2 probes=4 eta=1s
+[10:09:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:10:29] ==== loop 45/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:10:30] planet 41: queued ship_light_fighter +5
+[10:10:30] planet 41: skipped duplicate ship_light_fighter this loop
+[10:10:30] attack: intel 1:2:2 ships=0 defs=0 res=5597933770
+[10:10:30] attack: idle candidates=45 fresh_intel=1 no_spy_src=36 no_atk_src=1 raidmix_fail=0 cooldown_spy=8
+[10:10:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:11:17] ==== loop 46/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:11:19] planet 41: queued ship_light_fighter +5
+[10:11:19] planet 41: skipped duplicate ship_light_fighter this loop
+[10:11:19] attack: idle candidates=45 fresh_intel=1 no_spy_src=37 no_atk_src=1 raidmix_fail=0 cooldown_spy=7
+[10:11:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:11:58] ==== loop 47/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:11:58] planet 41: queued ship_light_fighter +5
+[10:11:58] attack: idle candidates=45 fresh_intel=1 no_spy_src=41 no_atk_src=1 raidmix_fail=0 cooldown_spy=3
+[2026-05-11 10:12:37] ==== loop 48/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:12:38] planet 41: queued ship_light_fighter +5
+[10:12:38] planet 41: skipped duplicate ship_light_fighter this loop
+[10:12:38] attack: idle candidates=45 fresh_intel=1 no_spy_src=42 no_atk_src=1 raidmix_fail=0 cooldown_spy=2
+[2026-05-11 10:13:22] ==== loop 49/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:13:23] planet 41: queued ship_light_fighter +5
+[10:13:23] attack: idle candidates=45 fresh_intel=1 no_spy_src=42 no_atk_src=1 raidmix_fail=0 cooldown_spy=2
+[2026-05-11 10:14:05] ==== loop 50/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:14:05] planet 41: queued ship_light_fighter +5
+[10:14:05] planet 41: skipped duplicate ship_light_fighter this loop
+[10:14:05] attack: idle candidates=45 fresh_intel=1 no_spy_src=42 no_atk_src=1 raidmix_fail=0 cooldown_spy=2
+[10:14:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:14:48] ==== loop 51/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:14:49] planet 41: queued ship_light_fighter +5
+[10:14:49] planet 41: skipped duplicate ship_light_fighter this loop
+[10:14:49] attack: idle candidates=45 fresh_intel=1 no_spy_src=43 no_atk_src=1 raidmix_fail=0 cooldown_spy=1
+[2026-05-11 10:15:31] ==== loop 52/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:15:32] planet 41: queued ship_light_fighter +5
+[10:15:32] planet 41: skipped duplicate ship_light_fighter this loop
+[10:15:32] attack: idle candidates=45 fresh_intel=1 no_spy_src=43 no_atk_src=1 raidmix_fail=0 cooldown_spy=1
+[10:15:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:16:13] ==== loop 53/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:16:13] planet 41: queued ship_light_fighter +5
+[10:16:13] planet 41: skipped duplicate ship_light_fighter this loop
+[10:16:13] attack: idle candidates=45 fresh_intel=1 no_spy_src=43 no_atk_src=1 raidmix_fail=0 cooldown_spy=1
+[2026-05-11 10:16:53] ==== loop 54/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:16:53] planet 41: queued ship_light_fighter +5
+[10:16:53] planet 41: skipped duplicate ship_light_fighter this loop
+[10:16:53] attack: spy 1:4:6 probes=4 eta=1s
+[2026-05-11 10:17:39] ==== loop 55/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:17:39] planet 41: queued ship_light_fighter +5
+[10:17:39] planet 41: skipped duplicate ship_light_fighter this loop
+[10:17:39] attack: intel 1:4:6 ships=141 defs=0 res=125395588
+[10:17:39] attack: spy 1:2:3 probes=4 eta=1s
+[10:17:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:18:24] ==== loop 56/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:18:25] planet 41: queued ship_light_fighter +5
+[10:18:25] planet 41: skipped duplicate ship_light_fighter this loop
+[10:18:25] attack: intel 1:2:3 ships=0 defs=0 res=5607797595
+[10:18:25] attack: spy 1:2:4 probes=4 eta=1s
+[2026-05-11 10:19:09] ==== loop 57/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:19:10] planet 41: queued ship_light_fighter +5
+[10:19:10] planet 41: skipped duplicate ship_light_fighter this loop
+[10:19:10] attack: intel 1:2:4 ships=0 defs=0 res=5607800322
+[10:19:10] attack: spy 1:2:5 probes=4 eta=1s
+[10:19:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:19:53] ==== loop 58/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:19:53] planet 41: queued ship_light_fighter +5
+[10:19:53] planet 41: skipped duplicate ship_light_fighter this loop
+[10:19:53] attack: intel 1:2:5 ships=0 defs=0 res=5474581288
+[10:19:53] attack: spy 1:2:2 probes=4 eta=1s
+[10:19:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:20:42] ==== loop 59/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:20:43] planet 41: building queue full (5)
+[10:20:43] planet 41: building queue full (5)
+[10:20:43] attack: intel 1:2:2 ships=0 defs=0 res=5609201560
+[10:20:43] attack: spy 1:2:6 probes=4 eta=1s
+[10:20:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:21:31] ==== loop 60/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:21:33] planet 41: building queue full (5)
+[10:21:33] planet 41: building queue full (5)
+[10:21:33] attack: intel 1:2:6 ships=0 defs=0 res=5600109444
+[10:21:33] attack: idle candidates=46 fresh_intel=1 no_spy_src=39 no_atk_src=1 raidmix_fail=0 cooldown_spy=6
+[2026-05-11 10:22:25] ==== loop 61/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:22:27] planet 41: building queue full (5)
+[10:22:27] planet 41: building queue full (5)
+[10:22:27] attack: spy 1:2:7 probes=4 eta=1s
+[10:22:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:23:12] ==== loop 62/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:23:13] planet 41: building queue full (5)
+[10:23:13] attack: intel 1:2:7 ships=0 defs=0 res=5596918534
+[10:23:13] attack: spy 1:2:8 probes=4 eta=1s
+[2026-05-11 10:23:58] ==== loop 63/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:23:59] planet 41: building queue full (5)
+[10:23:59] planet 41: building queue full (5)
+[10:23:59] attack: intel 1:2:8 ships=0 defs=0 res=5450120446
+[10:23:59] attack: idle candidates=46 fresh_intel=1 no_spy_src=37 no_atk_src=1 raidmix_fail=0 cooldown_spy=8
+[2026-05-11 10:24:44] ==== loop 64/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:24:46] planet 41: building queue full (5)
+[10:24:46] planet 41: building queue full (5)
+[10:24:46] attack: spy 1:2:9 probes=4 eta=1s
+[2026-05-11 10:25:32] ==== loop 65/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:25:33] planet 41: building queue full (5)
+[10:25:33] planet 41: building queue full (5)
+[10:25:33] attack: intel 1:2:9 ships=0 defs=0 res=5962771870
+[10:25:33] attack: spy 1:2:10 probes=4 eta=1s
+[10:25:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:26:19] ==== loop 66/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:26:20] planet 41: building queue full (5)
+[10:26:20] planet 41: building queue full (5)
+[10:26:20] attack: intel 1:2:10 ships=0 defs=0 res=7162080580
+[10:26:20] attack: spy 1:2:11 probes=4 eta=1s
+[2026-05-11 10:27:04] ==== loop 67/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:27:04] planet 41: building queue full (5)
+[10:27:04] planet 41: building queue full (5)
+[10:27:04] attack: intel 1:2:11 ships=0 defs=0 res=7163154447
+[10:27:04] attack: spy 1:4:6 probes=4 eta=1s
+[10:27:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:27:48] ==== loop 68/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:27:51] planet 41: building queue full (5)
+[10:27:51] planet 41: building queue full (5)
+[10:27:51] attack: intel 1:4:6 ships=113 defs=0 res=125895935
+[10:27:51] attack: idle candidates=46 fresh_intel=1 no_spy_src=35 no_atk_src=1 raidmix_fail=0 cooldown_spy=10
+[2026-05-11 10:28:37] ==== loop 69/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:28:39] planet 41: building queue full (5)
+[10:28:39] planet 41: building queue full (5)
+[10:28:39] attack: idle candidates=46 fresh_intel=1 no_spy_src=36 no_atk_src=1 raidmix_fail=0 cooldown_spy=9
+[2026-05-11 10:29:29] ==== loop 70/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=eco actions_per_loop=2 ====
+[10:29:30] planet 41: building queue full (5)
+[10:29:30] planet 41: building queue full (5)
+[10:29:30] attack: armed 1:2:1 recheck_eta=1s ratio=1192074.00 loot=1192074 losses=1

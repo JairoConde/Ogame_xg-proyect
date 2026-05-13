@@ -101,7 +101,7 @@ class Register extends Model
             $this->updateUserPlanet($coords, $this->user_id);
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }

@@ -1,0 +1,543 @@
+[2026-05-13 10:11:47] ==== loop 1/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:11:48] planet 44: queued building_laboratory to 1
+[10:11:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:12:28] ==== loop 2/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:12:29] planet 44: queued building_laboratory to 2
+[10:12:29] research: queued research_energy_technology on planet 44 (5s)
+[2026-05-13 10:13:08] ==== loop 3/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:13:09] planet 44: queued building_laboratory to 3
+[10:13:09] research: already in progress
+[2026-05-13 10:13:49] ==== loop 4/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:13:49] planet 44: queued building_crystal_store to 6
+[10:13:49] research: already in progress
+[2026-05-13 10:14:32] ==== loop 5/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:14:33] planet 44: queued building_crystal_store to 7
+[10:14:33] research: already in progress
+[2026-05-13 10:15:11] ==== loop 6/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:15:12] planet 44: building queue full (5)
+[10:15:12] planet 44: building queue full (5)
+[10:15:12] research: already in progress
+[2026-05-13 10:15:55] ==== loop 7/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:15:57] planet 44: queued building_crystal_store to 8
+[10:15:57] research: already in progress
+[2026-05-13 10:16:40] ==== loop 8/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:16:41] planet 44: building queue full (5)
+[2026-05-13 10:17:23] ==== loop 9/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:17:25] planet 44: building queue full (5)
+[10:17:25] planet 44: building queue full (5)
+[10:17:25] research: already in progress
+[2026-05-13 10:18:06] ==== loop 10/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:18:07] planet 44: queued building_metal_store to 17
+[2026-05-13 10:18:52] ==== loop 11/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:18:53] planet 44: queued building_robot_factory to 9
+[10:18:53] research: already in progress
+[2026-05-13 10:19:38] ==== loop 12/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:19:39] planet 44: building queue full (5)
+[10:19:39] research: already in progress
+[2026-05-13 10:20:18] ==== loop 13/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:20:20] planet 44: building queue full (5)
+[10:20:20] planet 44: building queue full (5)
+[10:20:20] research: already in progress
+[2026-05-13 10:21:02] ==== loop 14/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:21:03] planet 44: building queue full (5)
+[10:21:03] planet 44: building queue full (5)
+[10:21:03] research: queued research_energy_technology on planet 44 (7s)
+[2026-05-13 10:21:49] ==== loop 15/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:21:49] planet 44: building queue full (5)
+[10:21:49] research: queued research_energy_technology on planet 44 (14s)
+[2026-05-13 10:22:35] ==== loop 16/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:22:36] planet 44: building queue full (5)
+[10:22:36] planet 44: building queue full (5)
+[2026-05-13 10:23:20] ==== loop 17/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:23:22] planet 44: building queue full (5)
+[10:23:22] planet 44: building queue full (5)
+[10:23:22] research: already in progress
+[2026-05-13 10:24:09] ==== loop 18/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:24:11] planet 44: building queue full (5)
+[10:24:11] planet 44: building queue full (5)
+[10:24:11] research: already in progress
+[2026-05-13 10:24:58] ==== loop 19/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:24:59] planet 44: building queue full (5)
+[10:24:59] planet 44: building queue full (5)
+[2026-05-13 10:25:43] ==== loop 20/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:25:45] planet 44: building queue full (5)
+[10:25:45] planet 44: building queue full (5)
+[10:25:45] research: already in progress
+[2026-05-13 10:26:29] ==== loop 21/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:26:30] planet 44: building queue full (5)
+[10:26:30] research: already in progress
+[2026-05-13 10:27:16] ==== loop 22/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:27:17] planet 44: building queue full (5)
+[10:27:17] planet 44: building queue full (5)
+[10:27:17] research: already in progress
+[2026-05-13 10:27:58] ==== loop 23/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:27:59] planet 44: building queue full (5)
+[10:27:59] planet 44: building queue full (5)
+[10:27:59] research: already in progress
+[2026-05-13 10:28:49] ==== loop 24/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:28:50] planet 44: building queue full (5)
+[10:28:50] planet 44: building queue full (5)
+[10:28:50] research: already in progress
+[2026-05-13 10:29:35] ==== loop 25/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:29:37] planet 44: building queue full (5)
+[10:29:37] planet 44: building queue full (5)
+[10:29:37] research: already in progress
+[2026-05-13 10:30:19] ==== loop 26/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:30:20] planet 44: building queue full (5)
+[10:30:20] planet 44: building queue full (5)
+[10:30:20] research: already in progress
+[2026-05-13 10:30:59] ==== loop 27/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:31:00] planet 44: building queue full (5)
+[10:31:00] planet 44: building queue full (5)
+[10:31:00] research: already in progress
+[2026-05-13 10:31:38] ==== loop 28/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:31:39] planet 44: building queue full (5)
+[10:31:39] planet 44: building queue full (5)
+[10:31:39] research: already in progress
+[2026-05-13 10:32:22] ==== loop 29/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:32:23] planet 44: building queue full (5)
+[10:32:23] planet 44: building queue full (5)
+[10:32:23] research: already in progress
+[2026-05-13 10:33:07] ==== loop 30/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:33:08] planet 44: building queue full (5)
+[2026-05-13 10:33:50] ==== loop 31/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:33:51] planet 44: building queue full (5)
+[10:33:51] planet 44: building queue full (5)
+[10:33:51] research: already in progress
+[2026-05-13 10:34:34] ==== loop 32/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:34:35] planet 44: building queue full (5)
+[10:34:35] planet 44: building queue full (5)
+[2026-05-13 10:35:17] ==== loop 33/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:35:18] planet 44: building queue full (5)
+[2026-05-13 10:36:03] ==== loop 34/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:36:04] planet 44: building queue full (5)
+[10:36:04] planet 44: building queue full (5)
+[2026-05-13 10:36:46] ==== loop 35/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:36:48] planet 44: building queue full (5)
+[10:36:48] planet 44: building queue full (5)
+[10:36:48] research: queued research_energy_technology on planet 44 (28s)
+[2026-05-13 10:37:24] ==== loop 36/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:37:25] planet 44: building queue full (5)
+[10:37:25] research: already in progress
+[2026-05-13 10:38:04] ==== loop 37/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:38:05] planet 44: building queue full (5)
+[10:38:05] planet 44: building queue full (5)
+[10:38:05] research: already in progress
+[2026-05-13 10:38:46] ==== loop 38/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:38:48] planet 44: building queue full (5)
+[10:38:48] planet 44: building queue full (5)
+[10:38:48] research: already in progress
+[2026-05-13 10:39:29] ==== loop 39/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:39:30] planet 44: building queue full (5)
+[10:39:30] planet 44: building queue full (5)
+[2026-05-13 10:40:12] ==== loop 40/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:40:13] planet 44: building queue full (5)
+[10:40:13] planet 44: building queue full (5)
+[10:40:13] research: already in progress
+[2026-05-13 10:40:53] ==== loop 41/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:40:53] planet 44: building queue full (5)
+[10:40:53] planet 44: building queue full (5)
+[2026-05-13 10:41:38] ==== loop 42/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:41:39] planet 44: building queue full (5)
+[10:41:39] planet 44: building queue full (5)
+[10:41:39] research: already in progress
+[2026-05-13 10:42:27] ==== loop 43/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:42:27] planet 44: building queue full (5)
+[10:42:27] research: already in progress
+[2026-05-13 10:43:10] ==== loop 44/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:43:11] planet 44: building queue full (5)
+[10:43:11] planet 44: building queue full (5)
+[2026-05-13 10:43:57] ==== loop 45/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:43:57] planet 44: building queue full (5)
+[10:43:57] research: already in progress
+[2026-05-13 10:44:41] ==== loop 46/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:44:41] planet 44: building queue full (5)
+[10:44:41] planet 44: building queue full (5)
+[2026-05-13 10:45:23] ==== loop 47/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:45:23] planet 44: building queue full (5)
+[2026-05-13 10:46:09] ==== loop 48/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:46:10] planet 44: building queue full (5)
+[10:46:10] planet 44: building queue full (5)
+[2026-05-13 10:47:00] ==== loop 49/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:47:02] planet 44: building queue full (5)
+[10:47:02] planet 44: building queue full (5)
+[10:47:02] research: already in progress
+[2026-05-13 10:47:50] ==== loop 50/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:47:51] planet 44: building queue full (5)
+[10:47:51] planet 44: building queue full (5)
+[10:47:51] research: already in progress
+[2026-05-13 10:48:39] ==== loop 51/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:48:40] planet 44: building queue full (5)
+[10:48:40] research: already in progress
+[2026-05-13 10:49:28] ==== loop 52/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:49:29] planet 44: building queue full (5)
+[10:49:29] planet 44: building queue full (5)
+[10:49:29] research: already in progress
+[2026-05-13 10:50:21] ==== loop 53/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:50:22] planet 44: building queue full (5)
+[10:50:22] planet 44: building queue full (5)
+[2026-05-13 10:51:10] ==== loop 54/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:51:12] planet 44: building queue full (5)
+[10:51:12] planet 44: building queue full (5)
+[10:51:12] research: already in progress
+[2026-05-13 10:51:59] ==== loop 55/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:52:01] planet 44: building queue full (5)
+[10:52:01] planet 44: building queue full (5)
+[10:52:01] research: already in progress
+[2026-05-13 10:52:46] ==== loop 56/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:52:47] planet 44: building queue full (5)
+[2026-05-13 10:53:30] ==== loop 57/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:53:31] planet 44: building queue full (5)
+[10:53:31] planet 44: building queue full (5)
+[2026-05-13 10:54:17] ==== loop 58/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:54:18] planet 44: building queue full (5)
+[10:54:18] planet 44: building queue full (5)
+[10:54:18] research: queued research_energy_technology on planet 44 (57s)
+[2026-05-13 10:55:06] ==== loop 59/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:55:08] planet 44: building queue full (5)
+[10:55:08] planet 44: building queue full (5)
+[2026-05-13 10:55:53] ==== loop 60/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:55:54] planet 44: building queue full (5)
+[10:55:54] planet 44: building queue full (5)
+[10:55:54] research: already in progress
+[2026-05-13 10:56:42] ==== loop 61/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:56:42] planet 44: building queue full (5)
+[2026-05-13 10:57:24] ==== loop 62/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:57:25] planet 44: building queue full (5)
+[10:57:25] planet 44: building queue full (5)
+[2026-05-13 10:58:11] ==== loop 63/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:58:13] planet 44: building queue full (5)
+[10:58:13] research: already in progress
+[2026-05-13 10:58:55] ==== loop 64/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:58:57] planet 44: building queue full (5)
+[10:58:57] planet 44: building queue full (5)
+[10:58:57] research: already in progress
+[2026-05-13 10:59:42] ==== loop 65/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[10:59:44] planet 44: building queue full (5)
+[10:59:44] planet 44: building queue full (5)
+[10:59:44] research: already in progress
+[2026-05-13 11:00:34] ==== loop 66/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:00:36] planet 44: building queue full (5)
+[11:00:36] planet 44: building queue full (5)
+[11:00:36] research: already in progress
+[2026-05-13 11:01:21] ==== loop 67/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:01:23] planet 44: building queue full (5)
+[11:01:23] planet 44: building queue full (5)
+[2026-05-13 11:02:10] ==== loop 68/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:02:12] planet 44: building queue full (5)
+[11:02:12] planet 44: building queue full (5)
+[11:02:12] research: already in progress
+[2026-05-13 11:03:01] ==== loop 69/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:03:03] planet 44: building queue full (5)
+[11:03:03] planet 44: building queue full (5)
+[11:03:03] research: queued research_energy_technology on planet 44 (115s)
+[2026-05-13 11:03:48] ==== loop 70/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:03:50] planet 44: building queue full (5)
+[11:03:50] planet 44: building queue full (5)
+[2026-05-13 11:04:41] ==== loop 71/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:04:42] planet 44: building queue full (5)
+[11:04:42] research: already in progress
+[2026-05-13 11:05:27] ==== loop 72/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:05:28] planet 44: building queue full (5)
+[11:05:28] research: already in progress
+[2026-05-13 11:06:11] ==== loop 73/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:06:13] planet 44: building queue full (5)
+[11:06:13] planet 44: building queue full (5)
+[11:06:13] research: already in progress
+[2026-05-13 11:06:58] ==== loop 74/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:07:00] planet 44: building queue full (5)
+[11:07:00] planet 44: building queue full (5)
+[11:07:00] research: already in progress
+[2026-05-13 11:07:45] ==== loop 75/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:07:47] planet 44: building queue full (5)
+[11:07:47] planet 44: building queue full (5)
+[11:07:47] research: already in progress
+[2026-05-13 11:08:37] ==== loop 76/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:08:38] planet 44: building queue full (5)
+[11:08:38] planet 44: building queue full (5)
+[2026-05-13 11:09:25] ==== loop 77/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:09:27] planet 44: building queue full (5)
+[11:09:27] planet 44: building queue full (5)
+[11:09:27] research: already in progress
+[2026-05-13 11:10:08] ==== loop 78/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:10:08] planet 44: building queue full (5)
+[2026-05-13 11:10:54] ==== loop 79/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:10:56] planet 44: building queue full (5)
+[11:10:56] planet 44: building queue full (5)
+[2026-05-13 11:11:40] ==== loop 80/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:11:42] planet 44: building queue full (5)
+[11:11:42] planet 44: building queue full (5)
+[11:11:42] research: already in progress
+[2026-05-13 11:12:22] ==== loop 81/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:12:23] planet 44: building queue full (5)
+[11:12:23] planet 44: building queue full (5)
+[11:12:23] research: already in progress
+[2026-05-13 11:13:04] ==== loop 82/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:13:06] planet 44: building queue full (5)
+[11:13:06] planet 44: building queue full (5)
+[11:13:06] research: already in progress
+[2026-05-13 11:13:51] ==== loop 83/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:13:53] planet 44: building queue full (5)
+[11:13:53] planet 44: building queue full (5)
+[2026-05-13 11:14:31] ==== loop 84/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:14:31] planet 44: building queue full (5)
+[11:14:31] research: queued research_energy_technology on planet 44 (230s)
+[2026-05-13 11:15:15] ==== loop 85/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:15:16] planet 44: building queue full (5)
+[11:15:16] planet 44: building queue full (5)
+[2026-05-13 11:15:59] ==== loop 86/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:16:00] planet 44: building queue full (5)
+[11:16:00] planet 44: building queue full (5)
+[11:16:00] research: already in progress
+[2026-05-13 11:16:45] ==== loop 87/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:16:46] planet 44: building queue full (5)
+[11:16:46] planet 44: building queue full (5)
+[11:16:46] research: already in progress
+[2026-05-13 11:17:34] ==== loop 88/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:17:35] planet 44: building queue full (5)
+[11:17:35] planet 44: building queue full (5)
+[2026-05-13 11:18:24] ==== loop 89/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:18:25] planet 44: building queue full (5)
+[11:18:25] planet 44: building queue full (5)
+[2026-05-13 11:19:13] ==== loop 90/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:19:14] planet 44: building queue full (5)
+[11:19:14] planet 44: building queue full (5)
+[11:19:14] research: already in progress
+[2026-05-13 11:20:00] ==== loop 91/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:20:01] planet 44: building queue full (5)
+[11:20:01] planet 44: building queue full (5)
+[11:20:01] research: already in progress
+[2026-05-13 11:20:45] ==== loop 92/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:20:47] planet 44: building queue full (5)
+[11:20:47] planet 44: building queue full (5)
+[2026-05-13 11:21:30] ==== loop 93/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:21:32] planet 44: building queue full (5)
+[11:21:32] planet 44: building queue full (5)
+[11:21:32] research: already in progress
+[2026-05-13 11:22:13] ==== loop 94/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:22:15] planet 44: building queue full (5)
+[11:22:15] planet 44: building queue full (5)
+[2026-05-13 11:22:57] ==== loop 95/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:22:59] planet 44: building queue full (5)
+[11:22:59] planet 44: building queue full (5)
+[11:22:59] research: already in progress
+[2026-05-13 11:23:42] ==== loop 96/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:23:43] planet 44: building queue full (5)
+[11:23:43] planet 44: building queue full (5)
+[11:23:43] research: already in progress
+[2026-05-13 11:24:26] ==== loop 97/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:24:28] planet 44: building queue full (5)
+[11:24:28] planet 44: building queue full (5)
+[11:24:28] research: already in progress
+[2026-05-13 11:25:13] ==== loop 98/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:25:14] planet 44: building queue full (5)
+[11:25:14] planet 44: building queue full (5)
+[11:25:14] research: already in progress
+[2026-05-13 11:26:02] ==== loop 99/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:26:04] planet 44: building queue full (5)
+[11:26:04] planet 44: building queue full (5)
+[11:26:04] research: already in progress
+[2026-05-13 11:26:51] ==== loop 100/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:26:52] planet 44: building queue full (5)
+[11:26:52] planet 44: building queue full (5)
+[2026-05-13 11:27:38] ==== loop 101/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:27:40] planet 44: building queue full (5)
+[11:27:40] planet 44: building queue full (5)
+[2026-05-13 11:28:25] ==== loop 102/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:28:26] planet 44: building queue full (5)
+[11:28:26] planet 44: building queue full (5)
+[11:28:26] research: queued research_energy_technology on planet 44 (461s)
+[2026-05-13 11:29:07] ==== loop 103/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:29:08] planet 44: building queue full (5)
+[11:29:08] research: already in progress
+[2026-05-13 11:29:49] ==== loop 104/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:29:49] planet 44: building queue full (5)
+[11:29:49] planet 44: building queue full (5)
+[11:29:49] research: already in progress
+[2026-05-13 11:30:31] ==== loop 105/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:30:33] planet 44: building queue full (5)
+[11:30:33] planet 44: building queue full (5)
+[11:30:33] research: already in progress
+[2026-05-13 11:31:16] ==== loop 106/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:31:18] planet 44: building queue full (5)
+[11:31:18] planet 44: building queue full (5)
+[2026-05-13 11:31:59] ==== loop 107/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:32:01] planet 44: building queue full (5)
+[11:32:01] planet 44: building queue full (5)
+[11:32:01] research: already in progress
+[2026-05-13 11:32:41] ==== loop 108/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:32:42] planet 44: building queue full (5)
+[11:32:42] planet 44: building queue full (5)
+[11:32:42] research: already in progress
+[2026-05-13 11:33:26] ==== loop 109/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:33:27] planet 44: building queue full (5)
+[11:33:27] planet 44: building queue full (5)
+[11:33:27] research: already in progress
+[2026-05-13 11:34:13] ==== loop 110/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:34:13] planet 44: building queue full (5)
+[11:34:13] planet 44: building queue full (5)
+[11:34:13] research: already in progress
+[2026-05-13 11:34:56] ==== loop 111/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:34:58] planet 44: building queue full (5)
+[11:34:58] planet 44: building queue full (5)
+[2026-05-13 11:35:38] ==== loop 112/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:35:40] planet 44: building queue full (5)
+[11:35:40] planet 44: building queue full (5)
+[11:35:40] research: already in progress
+[2026-05-13 11:36:22] ==== loop 113/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:36:22] planet 44: building queue full (5)
+[11:36:22] planet 44: building queue full (5)
+[2026-05-13 11:37:06] ==== loop 114/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:37:06] planet 44: building queue full (5)
+[11:37:06] planet 44: building queue full (5)
+[2026-05-13 11:37:49] ==== loop 115/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:37:50] planet 44: building queue full (5)
+[11:37:50] planet 44: building queue full (5)
+[11:37:50] research: already in progress
+[2026-05-13 11:38:34] ==== loop 116/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:38:34] planet 44: building queue full (5)
+[11:38:34] research: already in progress
+[2026-05-13 11:39:23] ==== loop 117/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:39:24] planet 44: building queue full (5)
+[11:39:24] planet 44: building queue full (5)
+[2026-05-13 11:40:12] ==== loop 118/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:40:13] planet 44: building queue full (5)
+[11:40:13] planet 44: building queue full (5)
+[2026-05-13 11:40:53] ==== loop 119/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:40:53] planet 44: building queue full (5)
+[11:40:53] planet 44: building queue full (5)
+[2026-05-13 11:41:40] ==== loop 120/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:41:41] planet 44: building queue full (5)
+[11:41:41] research: queued research_computer_technology on planet 44 (1s)
+[2026-05-13 11:42:33] ==== loop 121/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:42:34] planet 44: building queue full (5)
+[11:42:34] planet 44: building queue full (5)
+[11:42:34] research: already in progress
+[2026-05-13 11:43:21] ==== loop 122/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:43:22] planet 44: building queue full (5)
+[11:43:22] research: already in progress
+[2026-05-13 11:44:10] ==== loop 123/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:44:12] planet 44: building queue full (5)
+[11:44:12] planet 44: building queue full (5)
+[2026-05-13 11:44:56] ==== loop 124/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:44:57] planet 44: building queue full (5)
+[11:44:57] planet 44: building queue full (5)
+[11:44:57] research: already in progress
+[2026-05-13 11:45:43] ==== loop 125/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:45:44] planet 44: building queue full (5)
+[11:45:44] research: already in progress
+[2026-05-13 11:46:27] ==== loop 126/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:46:29] planet 44: building queue full (5)
+[11:46:29] planet 44: building queue full (5)
+[2026-05-13 11:47:16] ==== loop 127/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:47:17] planet 44: building queue full (5)
+[11:47:17] planet 44: building queue full (5)
+[11:47:17] research: already in progress
+[2026-05-13 11:48:00] ==== loop 128/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:48:01] planet 44: building queue full (5)
+[11:48:01] planet 44: building queue full (5)
+[11:48:01] research: already in progress
+[2026-05-13 11:48:50] ==== loop 129/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:48:51] planet 44: building queue full (5)
+[11:48:51] planet 44: building queue full (5)
+[11:48:51] research: already in progress
+[2026-05-13 11:49:42] ==== loop 130/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:49:43] planet 44: building queue full (5)
+[11:49:43] planet 44: building queue full (5)
+[11:49:43] research: already in progress
+[2026-05-13 11:50:31] ==== loop 131/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:50:31] planet 44: building queue full (5)
+[2026-05-13 11:51:20] ==== loop 132/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:51:21] planet 44: building queue full (5)
+[11:51:21] planet 44: building queue full (5)
+[11:51:21] research: already in progress
+[2026-05-13 11:52:05] ==== loop 133/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:52:06] planet 44: building queue full (5)
+[11:52:06] planet 44: building queue full (5)
+[11:52:06] research: already in progress
+[2026-05-13 11:52:55] ==== loop 134/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:52:57] planet 44: building queue full (5)
+[11:52:57] research: queued research_computer_technology on planet 44 (3s)
+[2026-05-13 11:53:39] ==== loop 135/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:53:41] planet 44: building queue full (5)
+[11:53:41] research: already in progress
+[2026-05-13 11:54:19] ==== loop 136/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:54:20] planet 44: building queue full (5)
+[11:54:20] research: already in progress
+[2026-05-13 11:54:59] ==== loop 137/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:54:59] planet 44: building queue full (5)
+[2026-05-13 11:55:48] ==== loop 138/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:55:50] planet 44: building queue full (5)
+[11:55:50] planet 44: building queue full (5)
+[11:55:50] research: already in progress
+[2026-05-13 11:56:36] ==== loop 139/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:56:37] planet 44: building queue full (5)
+[11:56:37] planet 44: building queue full (5)
+[11:56:37] research: already in progress
+[2026-05-13 11:57:24] ==== loop 140/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:57:25] planet 44: building queue full (5)
+[11:57:25] research: already in progress
+[2026-05-13 11:58:11] ==== loop 141/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:58:11] planet 44: building queue full (5)
+[11:58:11] planet 44: building queue full (5)
+[11:58:11] research: already in progress
+[2026-05-13 11:58:50] ==== loop 142/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:58:51] planet 44: building queue full (5)
+[11:58:51] planet 44: building queue full (5)
+[11:58:51] research: already in progress
+[2026-05-13 11:59:32] ==== loop 143/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[11:59:33] planet 44: building queue full (5)
+[11:59:33] planet 44: building queue full (5)
+[11:59:33] research: already in progress
+[2026-05-13 12:00:16] ==== loop 144/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:00:18] planet 44: building queue full (5)
+[12:00:18] planet 44: building queue full (5)
+[2026-05-13 12:01:02] ==== loop 145/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:01:04] planet 44: building queue full (5)
+[12:01:04] planet 44: building queue full (5)
+[2026-05-13 12:01:48] ==== loop 146/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:01:49] planet 44: building queue full (5)
+[12:01:49] planet 44: building queue full (5)
+[12:01:49] research: queued research_computer_technology on planet 44 (7s)
+[2026-05-13 12:02:37] ==== loop 147/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:02:37] planet 44: building queue full (5)
+[12:02:37] research: already in progress
+[2026-05-13 12:03:24] ==== loop 148/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:03:25] planet 44: building queue full (5)
+[12:03:25] planet 44: building queue full (5)
+[12:03:25] research: already in progress
+[2026-05-13 12:04:12] ==== loop 149/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:04:13] planet 44: building queue full (5)
+[12:04:13] planet 44: building queue full (5)
+[12:04:13] research: already in progress
+[2026-05-13 12:04:58] ==== loop 150/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:04:59] planet 44: building queue full (5)
+[12:04:59] planet 44: building queue full (5)
+[2026-05-13 12:05:49] ==== loop 151/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:05:50] planet 44: building queue full (5)
+[12:05:50] planet 44: building queue full (5)
+[12:05:50] research: already in progress
+[2026-05-13 12:06:38] ==== loop 152/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:06:39] planet 44: building queue full (5)
+[12:06:39] planet 44: building queue full (5)
+[2026-05-13 12:07:24] ==== loop 153/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:07:26] planet 44: building queue full (5)
+[12:07:26] planet 44: building queue full (5)
+[12:07:26] research: already in progress
+[2026-05-13 12:08:19] ==== loop 154/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:08:21] planet 44: building queue full (5)
+[12:08:21] planet 44: building queue full (5)
+[2026-05-13 12:09:11] ==== loop 155/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:09:12] planet 44: building queue full (5)
+[12:09:12] planet 44: building queue full (5)
+[12:09:12] research: already in progress
+[2026-05-13 12:09:58] ==== loop 156/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:09:59] planet 44: building queue full (5)
+[12:09:59] planet 44: building queue full (5)
+[2026-05-13 12:10:43] ==== loop 157/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:10:45] planet 44: building queue full (5)
+[12:10:45] planet 44: building queue full (5)
+[2026-05-13 12:11:27] ==== loop 158/∞ | seed=866383360325800564 archetype=opportunist personality=flotero focus=tech actions_per_loop=2 ====
+[12:11:29] planet 44: building queue full (5)
+[12:11:29] planet 44: building queue full (5)
+[12:11:29] research: already in progress

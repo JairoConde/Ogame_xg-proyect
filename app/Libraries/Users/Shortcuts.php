@@ -10,7 +10,7 @@ class Shortcuts
 {
     private array $_shortcuts = [];
 
-    public function __construct($shortcuts)
+    public function __construct(?string $shortcuts)
     {
         try {
             if (is_array($shortcuts)) {
@@ -28,7 +28,7 @@ class Shortcuts
      *
      * @param string $shortcuts Shortcuts
      */
-    private function setShortcuts($shortcuts)
+    private function setShortcuts(?string $shortcuts): void
     {
         try {
             if (!empty($shortcuts)) {
@@ -42,9 +42,9 @@ class Shortcuts
     /**
      * Get the shortcuts
      *
-     * @return string
+     * @return array
      */
-    private function getShortcuts()
+    private function getShortcuts(): array
     {
         return $this->_shortcuts;
     }
@@ -62,7 +62,7 @@ class Shortcuts
      *
      * @throws Exception
      */
-    public function addNew($name, $g, $s, $p, $pt)
+    public function addNew(string $name, int $g, int $s, int $p, int $pt): array
     {
         try {
             if (empty($name) or empty($g) or empty($s) or empty($p) or empty($pt)) {
@@ -99,7 +99,7 @@ class Shortcuts
      *
      * @throws Exception
      */
-    public function editById(int $shortcut_id, string $name, int $g, int $s, int $p, int $pt)
+    public function editById(int $shortcut_id, string $name, int $g, int $s, int $p, int $pt): array
     {
         try {
             if (!isset($this->getShortcuts()[$this->validateShortcutId($shortcut_id)])) {
@@ -141,7 +141,7 @@ class Shortcuts
      *
      * @return array
      */
-    public function getAllAsArray()
+    public function getAllAsArray(): array
     {
         return $this->_shortcuts;
     }
@@ -151,7 +151,7 @@ class Shortcuts
      *
      * @return string
      */
-    public function getAllAsJsonString()
+    public function getAllAsJsonString(): string
     {
         try {
             return json_encode($this->_shortcuts, JSON_THROW_ON_ERROR);
@@ -167,7 +167,7 @@ class Shortcuts
      *
      * @return array
      */
-    public function getById($shortcut_id)
+    public function getById(int $shortcut_id): array|int
     {
         return isset($this->_shortcuts[$shortcut_id]) ? $this->_shortcuts[$shortcut_id] : 0;
     }
@@ -175,11 +175,11 @@ class Shortcuts
     /**
      * Validate the shortcut ID
      *
-     * @param type $shortcut_id Shortcut ID
+     * @param int $shortcut_id Shortcut ID
      *
      * @return int
      */
-    private function validateShortcutId($shortcut_id)
+    private function validateShortcutId(int $shortcut_id): int
     {
         if ($shortcut_id < 0) {
             return 0;

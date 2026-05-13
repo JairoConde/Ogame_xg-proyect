@@ -1,16 +1,26 @@
 <?xml version="1.0"?>
-<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bootstrap="bootstrap.php" colors="true" xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/10.0/phpunit.xsd" cacheDirectory=".phpunit.cache">
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" bootstrap="bootstrap.php" colors="true" xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/9.5/phpunit.xsd" cacheResultFile="../storage/compiles/.phpunit.result.cache">
   <coverage>
     <include>
-      <directory>app/</directory>
+      <directory>../app/</directory>
     </include>
+    <report>
+      <clover outputFile="../build/logs/clover.xml"/>
+      <html outputDirectory="../build/logs/coverage"/>
+    </report>
   </coverage>
   <testsuites>
     <testsuite name="xgp_application">
-      <directory>app/</directory>
+      <directory>app/libraries/buildings/</directory>
+      <directory>app/libraries/alliance/</directory>
+      <directory>.</directory>
+      <exclude>scripts/</exclude>
+    </testsuite>
+    <testsuite name="bot_unit">
+      <directory>../scripts/</directory>
     </testsuite>
   </testsuites>
   <logging>
-    <testdoxHtml outputFile="build/logs/testdox.html"/>
+    <testdoxHtml outputFile="../build/logs/testdox.html"/>
   </logging>
 </phpunit>

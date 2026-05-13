@@ -38,11 +38,11 @@ class Researches
     /**
      * Get current research
      *
-     * @return array
+     * @return ?ResearchEntity
      */
-    public function getCurrentResearch()
+    public function getCurrentResearch(): ?ResearchEntity
     {
-        return $this->getResearch()[0];
+        return $this->getResearch()[0] ?? null;
     }
 
     /**
@@ -52,7 +52,7 @@ class Researches
      *
      * @return void
      */
-    private function setUp($researches)
+    private function setUp(array $researches): void
     {
         foreach ($researches as $research) {
             $this->_research[] = $this->createNewResearchEntity($research);
@@ -63,7 +63,7 @@ class Researches
      *
      * @param int $user_id User Id
      */
-    private function setUserId($user_id)
+    private function setUserId(int $user_id): void
     {
         $this->_current_user_id = $user_id;
     }
@@ -72,7 +72,7 @@ class Researches
      *
      * @return int
      */
-    private function getUserId()
+    private function getUserId(): int
     {
         return $this->_current_user_id;
     }
@@ -82,9 +82,9 @@ class Researches
      *
      * @param array $research Research
      *
-     * @return \ResearchEntity
+     * @return ResearchEntity
      */
-    private function createNewResearchEntity($research)
+    private function createNewResearchEntity(array $research): ResearchEntity
     {
         return new ResearchEntity($research);
     }

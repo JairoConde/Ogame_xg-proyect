@@ -35,14 +35,15 @@ class Gauss
     /**
      * Random::getNext()
      * Return an random normal number
-     * @return int
+     * @return float
      */
-    public static function getNext()
+    public static function getNext(): float
     {
         $x = (float) mt_rand() / (float) mt_getrandmax();
         $y = (float) mt_rand() / (float) mt_getrandmax();
         $u = sqrt(-2 * log($x)) * cos(2 * pi() * $y);
         $v = sqrt(-2 * log($x)) * sin(2 * pi() * $y);
+
         return $u;
     }
 

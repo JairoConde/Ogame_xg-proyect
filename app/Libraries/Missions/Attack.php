@@ -12,6 +12,7 @@ use App\Libraries\BattleEngine\Models\Player;
 use App\Libraries\BattleEngine\Models\PlayerGroup;
 use App\Libraries\BattleEngine\Models\Ship;
 use App\Libraries\BattleEngine\Utils\DebugManager;
+use App\Libraries\AllianceDiplomacyFleetHook;
 use App\Libraries\BattleEngine\Utils\LangManager;
 use App\Libraries\Combatreport\Report;
 use App\Libraries\FleetsLib;
@@ -28,6 +29,7 @@ class Attack extends Missions
     public const DEFENSE_MAX_ID = 408;
 
     private array $hyperspace_technology = [];
+    private array $cargo_optimization = [];
 
     public function __construct()
     {
@@ -44,7 +46,7 @@ class Attack extends Missions
      *
      * @return void
      */
-    public function attackMission($fleet_row)
+    public function attackMission(array $fleet_row): void
     {
         // null == use default handlers
         $errorHandler = null;
@@ -178,6 +180,22 @@ class Attack extends Missions
             $this->updateDebris($fleet_row, $report);
             $this->updateMoon($fleet_row, $report, $target_userID);
             $this->createNewReportAndSendIt($fleet_row, $report, $target_planet['planet_name']);
+
+            $attackerUser = $this->missionsModel->getAllUserDataByUserId((int) $fleet_row['fleet_owner']);
+            if (is_array($attackerUser)) {
+                [$mysqli, $prefix] = $this->missionsModel->getDbConnectionAndPrefix();
+                AllianceDiplomacyFleetHook::afterBattleRaid(
+                    $mysqli,
+                    $prefix,
+                    $attackerUser,
+                    $targetUser,
+                    $report,
+                    $afterBattleAttackers,
+                    $steal,
+                    $this->pricelist,
+                    time()
+                );
+            }
         } elseif ($fleet_row['fleet_end_time'] <= time()) {
             $message = sprintf(
                 $this->langs->line('mi_fleet_back_with_resources'),
@@ -213,7 +231,7 @@ class Attack extends Missions
      *
      * @return mixed(Ship|Defense)
      */
-    private function getShipType($id, $count)
+    private function getShipType(int $id, int $count): Ship|Defense
     {
         $rf = isset($this->combat_caps[$id]['sd']) ? $this->combat_caps[$id]['sd'] : 0;
         $shield = $this->combat_caps[$id]['shield'];
@@ -230,17 +248,17 @@ class Attack extends Missions
     private function updatePoints(BattleReport $report, PlayerGroup $afterBattleAttackers, PlayerGroup $afterBattleDefenders): void
     {
         $attackersBefore = $report->getRound('START')->getAfterBattleAttackers();
-        $attackersLostShipsAndDefence = $report->getPlayersLostShips($attackersBefore, $afterBattleAttackers, true);
+        $attackersLostShipsAndDefence = $report->getPlayersLostShips($attackersBefore, $afterBattleAttackers);
 
         $this->updateLostShipsAndDefencePoints($attackersLostShipsAndDefence);
 
         $defendersBefore = $report->getRound('START')->getAfterBattleDefenders();
-        $defendersLostShipsAndDefence = $report->getPlayersLostShips($defendersBefore, $afterBattleDefenders, true);
+        $defendersLostShipsAndDefence = $report->getPlayersLostShips($defendersBefore, $afterBattleDefenders);
 
         $this->updateLostShipsAndDefencePoints($defendersLostShipsAndDefence);
     }
 
-    private function updateLostShipsAndDefencePoints(PlayerGroup $lostShipsAndDefence)
+    private function updateLostShipsAndDefencePoints(PlayerGroup $lostShipsAndDefence): void
     {
         foreach ($lostShipsAndDefence->getIterator() as $player) {
             foreach ($player->getIterator() as $fleet) {
@@ -258,16 +276,16 @@ class Attack extends Missions
     /**
      * updateDebris
      *
-     * @param array  $fleet_row Fleet row
-     * @param Report $report    Report
+     * @param array         $fleet_row Fleet row
+     * @param BattleReport  $report    Report
      *
      * @return void
      */
-    private function updateDebris($fleet_row, $report)
+    private function updateDebris(array $fleet_row, BattleReport $report): void
     {
         list($metal, $crystal) = $report->getDebris();
 
-        if (($metal + $crystal) > 0) {
+        if (((int) $metal + (int) $crystal) > 0) {
             $this->missionsModel->updatePlanetDebrisByCoords(
                 [
                     'time' => time(),
@@ -290,9 +308,9 @@ class Attack extends Missions
      *
      * @param array  $fleet_row Fleet row
      *
-     * @return \PlayerGroup
+     * @return PlayerGroup
      */
-    private function getPlayerGroup($fleet_row)
+    private function getPlayerGroup($fleet_row): PlayerGroup
     {
         $playerGroup = new PlayerGroup();
         $serializedTypes = FleetsLib::getFleetShipsArray($fleet_row['fleet_array']);
@@ -300,6 +318,7 @@ class Attack extends Missions
         $fleet = new Fleet($fleet_row['fleet_id']);
 
         $this->setHyperspaceTechLevel($idPlayer, $fleet_row['research_hyperspace_technology']);
+        $this->setCargoOptimizationLevel($idPlayer, (int) ($fleet_row['research_cargo_optimization'] ?? 0));
 
         foreach ($serializedTypes as $id => $count) {
             if ($id != 0 && $count != 0) {
@@ -332,12 +351,12 @@ class Attack extends Missions
     /**
      * Get player group from query
      *
-     * @param array   $result      Result
-     * @param boolean $target_user Target User
+     * @param array       $result      Result
+     * @param array|null  $target_user Target User
      *
-     * @return \PlayerGroup
+     * @return PlayerGroup
      */
-    private function getPlayerGroupFromQuery($result, ?array $target_user = [])
+    private function getPlayerGroupFromQuery(mixed $result, ?array $target_user = []): PlayerGroup
     {
         $playerGroup = new PlayerGroup();
 
@@ -361,10 +380,11 @@ class Attack extends Missions
                     } else {
                         $player_info = $this->missionsModel->getTechnologiesByUserId($idPlayer);
                         $this->setHyperspaceTechLevel($idPlayer, $player_info['research_hyperspace_technology']);
+                        $this->setCargoOptimizationLevel($idPlayer, (int) ($player_info['research_cargo_optimization'] ?? 0));
                     }
 
                     if (isset($target_user['planet_id']) && $target_user['planet_id'] == $idPlayer) {
-                        $fleetSouther = new Fleet();
+                        $fleetSouther = new Fleet($idPlayer);
                         $player = new Player($idPlayer, [$fleetSouther]);
                     } else {
                         $player = new Player($idPlayer, [$fleet]);
@@ -401,13 +421,13 @@ class Attack extends Missions
     /**
      * updateMoon
      *
-     * @param array  $fleet_row     Fleet Row
-     * @param Report $report        Report
-     * @param int    $target_userId Target User ID
+     * @param array         $fleet_row     Fleet Row
+     * @param BattleReport  $report        Report
+     * @param int           $target_userId Target User ID
      *
      * @return void
      */
-    private function updateMoon($fleet_row, $report, $target_userId)
+    private function updateMoon(array $fleet_row, BattleReport $report, int $target_userId): void
     {
         $moon = $report->tryMoon();
 
@@ -442,12 +462,12 @@ class Attack extends Missions
     /**
      * Create a new report and attach it to a message
      *
-     * @param array  $fleet_row Fleet Row
-     * @param Report $report    Report
+     * @param array         $fleet_row Fleet Row
+     * @param BattleReport  $report    Report
      *
      * @return void
      */
-    private function createNewReportAndSendIt($fleet_row, $report, $target_planet_name)
+    private function createNewReportAndSendIt(array $fleet_row, BattleReport $report, string $target_planet_name): void
     {
         $idAtts = $report->getAttackersId();
         $idDefs = $report->getDefendersId();
@@ -530,7 +550,7 @@ class Attack extends Missions
      *
      * @return int
      */
-    private function getCapacity(PlayerGroup $players)
+    private function getCapacity(PlayerGroup $players): int
     {
         $capacity = 0;
 
@@ -539,7 +559,9 @@ class Attack extends Missions
                 foreach ($fleet->getIterator() as $idShipType => $shipType) {
                     $capacity += $shipType->getCount() * FleetsLib::getMaxStorage(
                         $this->pricelist[$idShipType]['capacity'],
-                        $this->hyperspace_technology[$idPlayer]
+                        $this->hyperspace_technology[$idPlayer],
+                        (int) ($this->cargo_optimization[$idPlayer] ?? 0),
+                        (int) $idShipType
                     );
                 }
             }
@@ -551,13 +573,13 @@ class Attack extends Missions
     /**
      * updateAttackers
      *
-     * @param Battle $playerGroupBeforeBattle Player Group before battle
-     * @param Battle $playerGroupAfterBattle  Player Group after battle
-     * @param array  $target_planet           Target planet
+     * @param PlayerGroup $playerGroupBeforeBattle Player Group before battle
+     * @param PlayerGroup $playerGroupAfterBattle  Player Group after battle
+     * @param array       $target_planet           Target planet
      *
      * @return array
      */
-    private function updateAttackers($playerGroupBeforeBattle, $playerGroupAfterBattle, $target_planet)
+    private function updateAttackers(PlayerGroup $playerGroupBeforeBattle, PlayerGroup $playerGroupAfterBattle, array $target_planet): array
     {
         $fleetArray = '';
         $emptyFleets = [];
@@ -597,7 +619,12 @@ class Attack extends Missions
                     if ($existShipType) {
                         $XshipType = $Xfleet->getShipType($idShipType);
                         $amount = $XshipType->getCount();
-                        $fleetCapacity += $amount * $this->pricelist[$idShipType]['capacity'];
+                        $fleetCapacity += $amount * FleetsLib::getMaxStorage(
+                            $this->pricelist[$idShipType]['capacity'],
+                            (int) ($this->hyperspace_technology[$idPlayer] ?? 0),
+                            (int) ($this->cargo_optimization[$idPlayer] ?? 0),
+                            (int) $idShipType
+                        );
                         $totalCount += $amount;
                         $fleetArray[$idShipType] = $amount;
                     }
@@ -654,14 +681,14 @@ class Attack extends Missions
     /**
      * updateDefenders
      *
-     * @param Battle $playerGroupBeforeBattle Player Group before battle
-     * @param Battle $playerGroupAfterBattle  Player Group after battle
-     * @param array  $target_planet           Target planet
-     * @param array  $steal                   Stealed resources
+     * @param PlayerGroup $playerGroupBeforeBattle Player Group before battle
+     * @param PlayerGroup $playerGroupAfterBattle  Player Group after battle
+     * @param array       $target_planet           Target planet
+     * @param array       $steal                   Stealed resources
      *
      * @return void
      */
-    private function updateDefenders($playerGroupBeforeBattle, $playerGroupAfterBattle, $target_planet, $steal)
+    private function updateDefenders(PlayerGroup $playerGroupBeforeBattle, PlayerGroup $playerGroupAfterBattle, array $target_planet, array $steal): void
     {
         $Xplayer = $Xfleet = $XshipType = null;
         $fleetArray = '';
@@ -726,8 +753,12 @@ class Attack extends Missions
      *
      * @return array
      */
-    private function plunder($capacity, $metal, $crystal, $deuterium)
+    private function plunder(int|float $capacity, int|float $metal, int|float $crystal, int|float $deuterium): array
     {
+        $capacity = (int) $capacity;
+        $metal = (int) $metal;
+        $crystal = (int) $crystal;
+        $deuterium = (int) $deuterium;
         /**
          * 1. Fill up to 1/3 of cargo capacity with metal
          * 2. Fill up to half remaining capacity with crystal
@@ -791,7 +822,7 @@ class Attack extends Missions
      *
      * @return string
      */
-    private function buildReportLink($color, $rid, $target_planet_name, $g, $s, $p)
+    private function buildReportLink(string $color, string $rid, string $target_planet_name, int $g, int $s, int $p): string
     {
         $style = 'style="color:' . $color . ';"';
         $js = "OnClick=\'f(\"game.php?page=combatreport&report=" . $rid . "\", \"\");\'";
@@ -815,5 +846,10 @@ class Attack extends Missions
     private function setHyperspaceTechLevel(int $user_id, int $level): void
     {
         $this->hyperspace_technology[$user_id] = $level;
+    }
+
+    private function setCargoOptimizationLevel(int $user_id, int $level): void
+    {
+        $this->cargo_optimization[$user_id] = $level;
     }
 }

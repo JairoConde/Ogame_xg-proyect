@@ -28,7 +28,7 @@ class Options
     /**
      * @return mixed
      */
-    public function getOptions(string $option = '')
+    public function getOptions(string $option = ''): mixed
     {
         if ($option == '') {
             return $this->optionsModel->getAllOptions();

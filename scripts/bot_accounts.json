@@ -1,0 +1,93 @@
+{
+  "profiles": {
+    "eco_agresivo": {
+      "bot_style": "granja",
+      "aggressiveness": 4,
+      "schedule_mode": "windows",
+      "schedule_windows": [
+        { "start": 0, "end": 7 },
+        { "start": 8, "end": 15 },
+        { "start": 16, "end": 23 }
+      ],
+      "actions_per_loop": 3,
+      "skip_chance": 0.1,
+      "action_chance_idle": 0.15,
+      "action_chance_one": 0.25,
+      "action_chance_two": 0.35,
+      "action_chance_three": 0.25,
+      "eco_focus": 0.85,
+      "defense_focus": 0.1,
+      "research_focus": 0.7
+    },
+    "balanceado": {
+      "bot_style": "raider",
+      "aggressiveness": 3,
+      "schedule_mode": "windows",
+      "schedule_windows": [
+        { "start": 0, "end": 7 },
+        { "start": 8, "end": 15 },
+        { "start": 16, "end": 23 }
+      ],
+      "actions_per_loop": 2,
+      "skip_chance": 0.15,
+      "action_chance_idle": 0.15,
+      "action_chance_one": 0.25,
+      "action_chance_two": 0.35,
+      "action_chance_three": 0.25,
+      "eco_focus": 0.7,
+      "defense_focus": 0.2,
+      "research_focus": 0.6
+    },
+    "defensivo": {
+      "bot_style": "bunker",
+      "aggressiveness": 2,
+      "schedule_mode": "windows",
+      "schedule_windows": [
+        { "start": 0, "end": 7 },
+        { "start": 8, "end": 15 },
+        { "start": 16, "end": 23 }
+      ],
+      "actions_per_loop": 2,
+      "skip_chance": 0.2,
+      "action_chance_idle": 0.15,
+      "action_chance_one": 0.25,
+      "action_chance_two": 0.35,
+      "action_chance_three": 0.25,
+      "eco_focus": 0.55,
+      "defense_focus": 0.45,
+      "research_focus": 0.5
+    }
+  },
+  "accounts": [
+    { "user": "bot1", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot2", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot3", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot4", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot5", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot6", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot7", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot8", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot9", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot10", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot11", "profile": "defensivo", "schedule_mode": "always_on" },
+    { "user": "bot12", "profile": "defensivo", "schedule_mode": "always_on" },
+    { "user": "bot13", "profile": "defensivo", "schedule_mode": "always_on" },
+    { "user": "bot14", "profile": "defensivo", "schedule_mode": "always_on" },
+    { "user": "bot15", "profile": "defensivo", "schedule_mode": "always_on" },
+    { "user": "bot16", "profile": "defensivo", "schedule_mode": "always_on" },
+    { "user": "bot17", "profile": "balanceado", "schedule_mode": "always_on" },
+    { "user": "bot18", "profile": "balanceado", "schedule_mode": "always_on" },
+    { "user": "bot19", "profile": "balanceado", "schedule_mode": "always_on" },
+    { "user": "bot20", "profile": "balanceado", "schedule_mode": "always_on" },
+    { "user": "bot21", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot22", "profile": "defensivo", "schedule_mode": "always_on" },
+    { "user": "bot23", "profile": "balanceado", "schedule_mode": "always_on" },
+    { "user": "bot24", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot25", "profile": "defensivo", "schedule_mode": "always_on" },
+    { "user": "bot26", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot27", "profile": "defensivo", "schedule_mode": "always_on" },
+    { "user": "bot28", "profile": "balanceado", "schedule_mode": "always_on" },
+    { "user": "bot29", "profile": "eco_agresivo", "schedule_mode": "always_on" },
+    { "user": "bot30", "profile": "defensivo", "schedule_mode": "always_on" }
+  ]
+}

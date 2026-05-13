@@ -90,12 +90,10 @@ class GalaxyController extends BaseController
         $CurrentPlID = $this->planet['planet_id'];
         $CurrentSP = $this->planet['ship_espionage_probe'];
 
-        if (!isset($mode)) {
-            if (isset($_GET['mode'])) {
-                $mode = intval($_GET['mode']);
-            } else {
-                $mode = 0;
-            }
+        if (isset($_GET['mode'])) {
+            $mode = intval($_GET['mode']);
+        } else {
+            $mode = 0;
         }
 
         $setted_position = $this->validatePosition($mode);
@@ -207,11 +205,12 @@ class GalaxyController extends BaseController
                 $galaxy = $this->planet['planet_galaxy'];
                 $system = $this->planet['planet_system'];
                 $planet = $this->planet['planet_planet'];
+
                 break;
             case 1:
                 // validate, we want only numbers
-                $galaxy = (isset($_POST['galaxy']) && intval($_POST['galaxy'])) ? preg_replace('[^0-9]', '', $_POST['galaxy']) : 1;
-                $system = (isset($_POST['system']) && intval($_POST['system'])) ? preg_replace('[^0-9]', '', $_POST['system']) : 1;
+                $galaxy = (isset($_POST['galaxy']) && intval($_POST['galaxy'])) ? (int) preg_replace('[^0-9]', '', $_POST['galaxy']) : 1;
+                $system = (isset($_POST['system']) && intval($_POST['system'])) ? (int) preg_replace('[^0-9]', '', $_POST['system']) : 1;
 
                 /**
                  * Change galaxy
@@ -250,19 +249,23 @@ class GalaxyController extends BaseController
                         $system--;
                     }
                 }
+
                 break;
             case 2:
                 $galaxy = intval($_GET['galaxy']);
                 $system = intval($_GET['system']);
                 $planet = intval($_GET['planet']);
+
                 break;
             case 3:
                 $galaxy = intval($_GET['galaxy']);
                 $system = intval($_GET['system']);
+
                 break;
             default:
                 $galaxy = 1;
                 $system = 1;
+
                 break;
         }
 
@@ -278,7 +281,7 @@ class GalaxyController extends BaseController
      * param
      * return send missiles routine
      */
-    private function sendMissiles()
+    private function sendMissiles(): void
     {
         $galaxy = intval($_GET['galaxy']);
         $system = intval($_GET['system']);
@@ -357,7 +360,7 @@ class GalaxyController extends BaseController
             Functions::message($error, 'game.php?page=galaxy&mode=0&galaxy=' . $galaxy . '&system=' . $system, 3);
         }
 
-        $flight_time = round(((30 + (60 * $tempvar1)) * 2500) / Functions::readConfig('fleet_speed'));
+        $flight_time = round(((30 + (60 * $tempvar1)) * 2500) / (int) Functions::readConfig('fleet_speed'));
 
         $DefenseLabel = [
             0 => $this->langs->line('gl_all_defenses'),
@@ -396,7 +399,7 @@ class GalaxyController extends BaseController
      * param
      * return send fleet routine
      */
-    private function sendFleet()
+    private function sendFleet(): void
     {
         $max_spy_probes = $this->user['preference_spy_probes'];
         $UserSpyProbes = $this->planet['ship_espionage_probe'];
@@ -415,12 +418,15 @@ class GalaxyController extends BaseController
         switch ($order) {
             case 6:
                 $_POST['ship210'] = $_POST['shipcount'];
+
                 break;
             case 7:
                 $_POST['ship208'] = $_POST['shipcount'];
+
                 break;
             case 8:
                 $_POST['ship209'] = $_POST['shipcount'];
+
                 break;
         }
 
@@ -535,7 +541,7 @@ class GalaxyController extends BaseController
             die('601 ');
         }
 
-        $Distance = FleetsLib::targetDistance($this->planet['planet_galaxy'], $_POST['galaxy'], $this->planet['planet_system'], $_POST['system'], $this->planet['planet_planet'], $_POST['planet']);
+        $Distance = FleetsLib::targetDistance((int) $this->planet['planet_galaxy'], (int) $_POST['galaxy'], (int) $this->planet['planet_system'], (int) $_POST['system'], (int) $this->planet['planet_planet'], (int) $_POST['planet']);
         $speedall = FleetsLib::fleetMaxSpeed($FleetArray, 0, $this->user);
         $SpeedAllMin = min($speedall);
         $Duration = FleetsLib::missionDuration(10, $SpeedAllMin, $Distance, Functions::fleetSpeedFactor());
@@ -548,13 +554,13 @@ class GalaxyController extends BaseController
         $FleetDBArray = [];
         $fleet_sub_query = [];
         $consumption = 0;
-        $SpeedFactor = Functions::fleetSpeedFactor();
+        $SpeedFactor = (float) Functions::fleetSpeedFactor();
 
         foreach ($FleetArray as $Ship => $Count) {
             if ($Ship != '') {
-                $ShipSpeed = $this->_pricelist[$Ship]['speed'];
+                $ShipSpeed = (int) $this->_pricelist[$Ship]['speed'];
                 $spd = 35000 / ($Duration * $SpeedFactor - 10) * sqrt($Distance * 10 / $ShipSpeed);
-                $basicConsumption = $this->_pricelist[$Ship]['consumption'] * $Count;
+                $basicConsumption = (int) $this->_pricelist[$Ship]['consumption'] * $Count;
                 $consumption += $basicConsumption * $Distance / 35000 * (($spd / 10) + 1) * (($spd / 10) + 1);
                 $FleetShipCount += $Count;
                 $FleetDBArray[$Ship] = $Count;
@@ -566,10 +572,6 @@ class GalaxyController extends BaseController
 
         if ($UserDeuterium < $consumption) {
             die('613 ');
-        }
-
-        if (Functions::readConfig('adm_attack') == 1 && $target_user['user_authlevel'] > 0) {
-            die('601 ');
         }
 
         $this->fleetModel->insertNewFleet(

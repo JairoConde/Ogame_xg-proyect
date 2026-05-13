@@ -97,7 +97,9 @@ class Maker extends Model
     /**
      * Check if the planet exists
      *
-     * @param string $email
+     * @param int $galaxy
+     * @param int $system
+     * @param int $planet
      * @return array
      */
     public function checkPlanet(int $galaxy, int $system, int $planet): array
@@ -186,7 +188,7 @@ class Maker extends Model
             );
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }
@@ -212,11 +214,7 @@ class Maker extends Model
     /**
      * Create a new alliance
      *
-     * @param string $alliance_name
-     * @param string $alliance_tag
-     * @param int $alliance_founder
-     * @param string $rank
-     * @return array
+     * @return void
      */
     public function createAlliance(string $alliance_name, string $alliance_tag, int $alliance_founder, string $rank): void
     {
@@ -231,7 +229,7 @@ class Maker extends Model
                 'INSERT INTO `' . ALLIANCE . "` SET
                 `alliance_name` = '" . $alliance_name . "',
                 `alliance_tag` = '" . $alliance_tag . "' ,
-                `alliance_owner` = '" . (int) $user_id . "',
+                `alliance_owner` = '" . (int) $alliance_founder . "',
                 `alliance_register_time` = '" . time() . "',
                 `alliance_ranks` = '" . $rights_string . "'"
             );
@@ -251,7 +249,7 @@ class Maker extends Model
             );
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }
@@ -273,12 +271,7 @@ class Maker extends Model
     /**
      * Create new planet with the provided details
      *
-     * @param integer $galaxy
-     * @param integer $system
-     * @param integer $planet
-     * @param integer $user_id
-     * @param integer $field_max
-     * @param integer $name
+     * @param string $name
      * @return void
      */
     public function createNewPlanet(int $galaxy, int $system, int $planet, int $user_id, int $field_max, string $name): void
@@ -287,7 +280,7 @@ class Maker extends Model
             $this->db->beginTransaction();
 
             $creator = new PlanetLib();
-            $creator->setNewPlanet($galaxy, $system, $planet, $user_id, '', '', false);
+            $creator->setNewPlanet($galaxy, $system, $planet, $user_id, '', false);
 
             $this->db->query(
                 'UPDATE `' . PLANETS . "` SET
@@ -300,14 +293,14 @@ class Maker extends Model
             );
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }
 
     /**
      * @param int $planet_id
-     * @return mixed
+     * @return array
      */
     public function checkMoon(int $planet_id): array
     {

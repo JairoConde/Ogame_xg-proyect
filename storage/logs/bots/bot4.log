@@ -1,0 +1,2741 @@
+[2026-05-08 12:15:29] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:15:30] planet 30: queued ship_solar_satellite +5
+[12:15:30] planet 30: queued ship_solar_satellite +5
+[12:15:30] planet 30: queued ship_solar_satellite +5
+[12:15:30] planet 30: queued ship_solar_satellite +5
+[2026-05-08 12:16:06] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:16:08] planet 30: queued ship_solar_satellite +5
+[12:16:08] planet 30: queued ship_solar_satellite +5
+[12:16:08] planet 30: no resources for ship_solar_satellite+5
+[12:16:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:16:40] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:16:41] planet 30: no resources for ship_solar_satellite+5
+[2026-05-08 12:17:12] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:17:13] planet 30: no resources for ship_solar_satellite+5
+[12:17:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:17:46] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:17:47] planet 30: no resources for ship_solar_satellite+5
+[12:17:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:18:10] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:18:10] planet 30: no resources for ship_solar_satellite+5
+[12:18:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:18:40] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:18:41] planet 30: no resources for ship_solar_satellite+5
+[12:18:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:19:16] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:19:16] planet 30: no resources for ship_solar_satellite+5
+[2026-05-08 12:19:48] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:19:49] planet 30: no resources for ship_solar_satellite+5
+[12:19:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:20:23] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:20:23] planet 30: no resources for ship_solar_satellite+5
+[12:20:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:20:46] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:20:47] planet 30: no resources for ship_solar_satellite+5
+[12:20:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:21:20] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:21:21] planet 30: no resources for ship_solar_satellite+5
+[12:21:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:21:53] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:21:54] planet 30: no resources for ship_solar_satellite+5
+[12:21:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:22:26] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:22:27] planet 30: no resources for ship_solar_satellite+5
+[12:22:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:23:01] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:23:02] planet 30: no resources for ship_solar_satellite+5
+[12:23:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:23:25] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:23:26] planet 30: no resources for building_solar_plant+1
+[12:23:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:23:59] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:24:00] planet 30: no resources for building_solar_plant+1
+[12:24:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:24:33] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:24:34] planet 30: no resources for building_solar_plant+1
+[12:24:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:25:06] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:25:07] planet 30: no resources for building_solar_plant+1
+[2026-05-08 12:25:31] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:25:31] planet 30: no resources for building_solar_plant+1
+[12:25:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:26:02] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:26:03] planet 30: no resources for building_solar_plant+1
+[12:26:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:26:36] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:26:36] planet 30: no resources for building_solar_plant+1
+[2026-05-08 12:27:11] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:27:12] planet 30: no resources for building_solar_plant+1
+[2026-05-08 12:27:43] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:27:43] planet 30: no resources for building_solar_plant+1
+[12:27:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:28:05] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:28:06] planet 30: no resources for building_solar_plant+1
+[12:28:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:28:37] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:28:38] planet 30: no resources for building_solar_plant+1
+[12:28:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:29:09] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:29:09] planet 30: no resources for building_solar_plant+1
+[12:29:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:29:42] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:29:42] planet 30: no resources for building_solar_plant+1
+[12:29:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:30:14] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:30:15] planet 30: queued building_crystal_mine to 1
+[2026-05-08 12:30:38] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:30:38] planet 30: queued building_crystal_mine to 2
+[12:30:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:31:13] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:31:14] planet 30: queued building_crystal_mine to 3
+[12:31:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:31:46] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:31:47] planet 30: queued building_crystal_mine to 4
+[12:31:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:32:20] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:32:21] planet 30: queued building_crystal_mine to 5
+[12:32:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:32:55] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:32:56] planet 30: queued building_crystal_mine to 6
+[2026-05-08 12:33:28] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:33:28] planet 30: queued building_crystal_mine to 7
+[2026-05-08 12:33:59] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:34:00] planet 30: queued building_crystal_mine to 8
+[12:34:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:34:21] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:34:22] planet 30: queued building_crystal_mine to 9
+[2026-05-08 12:34:56] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:34:57] planet 30: queued building_crystal_mine to 10
+[12:34:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:35:29] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:35:30] planet 30: queued building_crystal_mine to 11
+[12:35:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:36:04] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:36:05] planet 30: queued building_crystal_mine to 12
+[12:36:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:36:38] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:36:39] planet 30: no resources for building_crystal_mine+1
+[12:36:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:37:12] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:37:13] planet 30: no resources for building_crystal_mine+1
+[12:37:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:37:48] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:37:48] planet 30: no resources for building_crystal_mine+1
+[12:37:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:38:21] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:38:22] planet 30: no resources for building_crystal_mine+1
+[12:38:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:38:54] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:38:55] planet 30: no resources for building_crystal_mine+1
+[12:38:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:39:29] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:39:31] planet 30: no resources for building_crystal_mine+1
+[12:39:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:40:03] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:40:04] planet 30: queued building_crystal_store to 1
+[12:40:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:40:38] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:40:38] planet 30: queued building_crystal_store to 2
+[12:40:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:41:08] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:41:09] planet 30: queued building_crystal_store to 3
+[12:41:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:41:41] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:41:41] planet 30: queued building_crystal_store to 4
+[12:41:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:41:54] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:41:54] planet 30: no resources for building_crystal_store+1
+[12:41:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:42:31] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:42:31] planet 30: no resources for building_crystal_store+1
+[2026-05-08 12:43:09] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:43:10] planet 30: no resources for building_crystal_store+1
+[2026-05-08 12:43:47] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:43:48] planet 30: no resources for building_crystal_store+1
+[2026-05-08 12:44:26] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:44:26] planet 30: no resources for building_crystal_store+1
+[12:44:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:45:01] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:45:02] planet 30: no resources for building_crystal_store+1
+[12:45:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:45:38] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:45:39] planet 30: no resources for building_crystal_store+1
+[2026-05-08 12:46:16] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:46:17] planet 30: no resources for building_crystal_store+1
+[2026-05-08 12:46:52] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:46:53] planet 30: no resources for building_crystal_store+1
+[2026-05-08 12:47:31] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:47:32] planet 30: no resources for building_crystal_store+1
+[12:47:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:48:11] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:48:12] planet 30: no resources for building_crystal_store+1
+[12:48:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:48:49] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:48:49] planet 30: no resources for building_crystal_store+1
+[12:48:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:49:24] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:49:25] planet 30: no resources for building_crystal_store+1
+[12:49:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:50:03] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:50:04] planet 30: queued building_deuterium_sintetizer to 1
+[12:50:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:50:38] ==== loop 15/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:50:38] planet 30: queued building_deuterium_sintetizer to 2
+[12:50:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:51:16] ==== loop 16/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:51:16] planet 30: queued building_deuterium_sintetizer to 3
+[12:51:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:51:39] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:51:40] planet 30: queued building_deuterium_sintetizer to 4
+[12:51:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:52:17] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:52:18] planet 30: queued building_deuterium_sintetizer to 5
+[12:52:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:52:52] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:52:52] planet 30: queued building_deuterium_sintetizer to 6
+[12:52:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:53:31] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:53:32] planet 30: queued building_metal_store to 1
+[2026-05-08 12:54:09] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:54:11] planet 30: queued building_deuterium_sintetizer to 7
+[12:54:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:54:49] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:54:50] planet 30: queued building_metal_store to 2
+[2026-05-08 12:55:26] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:55:27] planet 30: queued building_deuterium_sintetizer to 8
+[12:55:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:56:02] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:56:02] planet 30: queued building_deuterium_sintetizer to 9
+[12:56:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:56:41] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:56:42] planet 30: queued building_metal_store to 3
+[2026-05-08 12:57:17] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:57:18] planet 30: queued building_metal_store to 4
+[12:57:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:57:55] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:57:56] planet 30: queued building_metal_store to 5
+[12:57:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:58:28] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:58:29] planet 30: queued building_deuterium_sintetizer to 10
+[12:58:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:59:04] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:59:05] planet 30: queued building_deuterium_sintetizer to 11
+[12:59:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:59:41] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:59:41] planet 30: queued building_deuterium_sintetizer to 12
+[12:59:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:00:17] ==== loop 15/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:00:18] planet 30: queued building_deuterium_sintetizer to 13
+[13:00:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:00:54] ==== loop 16/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:00:55] planet 30: queued building_deuterium_sintetizer to 14
+[13:00:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:01:26] ==== loop 17/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:01:29] planet 30: building queue full (5)
+[13:01:29] planet 30: building queue full (5)
+[13:01:29] planet 30: building queue full (5)
+[13:01:29] planet 30: building queue full (5)
+[2026-05-08 13:02:05] ==== loop 18/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:02:06] planet 30: queued building_deuterium_sintetizer to 15
+[2026-05-08 13:02:42] ==== loop 19/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:02:46] planet 30: building queue full (5)
+[13:02:46] planet 30: building queue full (5)
+[13:02:46] planet 30: building queue full (5)
+[13:02:46] planet 30: building queue full (5)
+[13:02:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:03:22] ==== loop 20/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:03:23] planet 30: building queue full (5)
+[13:03:23] planet 30: building queue full (5)
+[13:03:23] planet 30: building queue full (5)
+[13:03:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:03:58] ==== loop 21/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:04:01] planet 30: building queue full (5)
+[13:04:01] planet 30: building queue full (5)
+[13:04:01] planet 30: building queue full (5)
+[13:04:01] planet 30: building queue full (5)
+[13:04:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:04:36] ==== loop 22/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:04:37] planet 30: building queue full (5)
+[13:04:37] planet 30: building queue full (5)
+[13:04:37] planet 30: building queue full (5)
+[13:04:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:05:13] ==== loop 23/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:05:14] planet 30: queued building_crystal_store to 5
+[13:05:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:05:55] ==== loop 24/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:05:57] planet 30: building queue full (5)
+[13:05:57] planet 30: building queue full (5)
+[13:05:57] planet 30: building queue full (5)
+[13:05:57] planet 30: building queue full (5)
+[13:05:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:06:33] ==== loop 25/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:06:36] planet 30: building queue full (5)
+[13:06:36] planet 30: building queue full (5)
+[13:06:36] planet 30: building queue full (5)
+[13:06:36] planet 30: building queue full (5)
+[13:06:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:07:13] ==== loop 26/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:07:17] planet 30: building queue full (5)
+[13:07:17] planet 30: building queue full (5)
+[13:07:17] planet 30: building queue full (5)
+[13:07:17] planet 30: building queue full (5)
+[13:07:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:07:53] ==== loop 27/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:07:56] planet 30: building queue full (5)
+[13:07:56] planet 30: building queue full (5)
+[13:07:56] planet 30: building queue full (5)
+[13:07:56] planet 30: building queue full (5)
+[13:07:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:08:32] ==== loop 28/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:08:34] planet 30: building queue full (5)
+[13:08:34] planet 30: building queue full (5)
+[13:08:34] planet 30: building queue full (5)
+[13:08:34] planet 30: building queue full (5)
+[2026-05-08 13:09:12] ==== loop 29/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:09:13] planet 30: queued building_crystal_store to 6
+[2026-05-08 13:09:50] ==== loop 30/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:09:53] planet 30: building queue full (5)
+[13:09:53] planet 30: building queue full (5)
+[13:09:53] planet 30: building queue full (5)
+[13:09:53] planet 30: building queue full (5)
+[2026-05-08 13:10:33] ==== loop 31/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:10:36] planet 30: building queue full (5)
+[13:10:36] planet 30: building queue full (5)
+[13:10:36] planet 30: building queue full (5)
+[13:10:36] planet 30: building queue full (5)
+[13:10:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:11:05] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:11:07] planet 30: building queue full (5)
+[13:11:07] planet 30: building queue full (5)
+[13:11:07] planet 30: building queue full (5)
+[13:11:07] planet 30: building queue full (5)
+[13:11:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:11:46] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:11:49] planet 30: building queue full (5)
+[13:11:49] planet 30: building queue full (5)
+[13:11:49] planet 30: building queue full (5)
+[13:11:49] planet 30: building queue full (5)
+[2026-05-08 13:12:24] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:12:27] planet 30: building queue full (5)
+[13:12:27] planet 30: building queue full (5)
+[13:12:27] planet 30: building queue full (5)
+[13:12:27] planet 30: building queue full (5)
+[13:12:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:13:04] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:13:07] planet 30: building queue full (5)
+[13:13:07] planet 30: building queue full (5)
+[13:13:07] planet 30: building queue full (5)
+[13:13:07] planet 30: building queue full (5)
+[13:13:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:13:45] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:13:47] planet 30: building queue full (5)
+[13:13:47] planet 30: building queue full (5)
+[13:13:47] planet 30: building queue full (5)
+[13:13:47] planet 30: building queue full (5)
+[13:13:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:14:23] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:14:26] planet 30: building queue full (5)
+[13:14:26] planet 30: building queue full (5)
+[13:14:26] planet 30: building queue full (5)
+[13:14:26] planet 30: building queue full (5)
+[13:14:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:15:03] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:15:04] planet 30: queued building_crystal_store to 7
+[13:15:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:15:42] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:15:44] planet 30: building queue full (5)
+[13:15:44] planet 30: building queue full (5)
+[13:15:44] planet 30: building queue full (5)
+[13:15:44] planet 30: building queue full (5)
+[13:15:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:16:23] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:16:24] planet 30: building queue full (5)
+[13:16:24] planet 30: building queue full (5)
+[13:16:24] planet 30: building queue full (5)
+[13:16:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:17:03] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:17:03] planet 30: building queue full (5)
+[13:17:03] planet 30: building queue full (5)
+[13:17:03] planet 30: building queue full (5)
+[13:17:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:17:36] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:17:38] planet 30: building queue full (5)
+[13:17:38] planet 30: building queue full (5)
+[13:17:38] planet 30: building queue full (5)
+[13:17:38] planet 30: building queue full (5)
+[2026-05-08 13:18:21] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:18:24] planet 30: building queue full (5)
+[13:18:24] planet 30: building queue full (5)
+[13:18:24] planet 30: building queue full (5)
+[13:18:24] planet 30: building queue full (5)
+[13:18:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:19:02] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:19:03] planet 30: building queue full (5)
+[13:19:03] planet 30: building queue full (5)
+[13:19:03] planet 30: building queue full (5)
+[13:19:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:19:42] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:19:44] planet 30: building queue full (5)
+[13:19:44] planet 30: building queue full (5)
+[13:19:44] planet 30: building queue full (5)
+[2026-05-08 13:20:23] ==== loop 15/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:20:27] planet 30: building queue full (5)
+[13:20:27] planet 30: building queue full (5)
+[13:20:27] planet 30: building queue full (5)
+[13:20:27] planet 30: building queue full (5)
+[13:20:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:21:04] ==== loop 16/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:21:08] planet 30: building queue full (5)
+[13:21:08] planet 30: building queue full (5)
+[13:21:08] planet 30: building queue full (5)
+[13:21:08] planet 30: building queue full (5)
+[13:21:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:21:47] ==== loop 17/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:21:51] planet 30: building queue full (5)
+[13:21:51] planet 30: building queue full (5)
+[13:21:51] planet 30: building queue full (5)
+[13:21:51] planet 30: building queue full (5)
+[13:21:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:22:27] ==== loop 18/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:22:30] planet 30: building queue full (5)
+[13:22:30] planet 30: building queue full (5)
+[13:22:30] planet 30: building queue full (5)
+[13:22:30] planet 30: building queue full (5)
+[13:22:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:23:09] ==== loop 19/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:23:12] planet 30: building queue full (5)
+[13:23:12] planet 30: building queue full (5)
+[13:23:12] planet 30: building queue full (5)
+[13:23:12] planet 30: building queue full (5)
+[13:23:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:23:52] ==== loop 20/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:23:56] planet 30: building queue full (5)
+[13:23:56] planet 30: building queue full (5)
+[13:23:56] planet 30: building queue full (5)
+[13:23:56] planet 30: building queue full (5)
+[13:23:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:24:35] ==== loop 21/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:24:36] planet 30: queued building_crystal_mine to 13
+[13:24:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:25:15] ==== loop 22/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:25:18] planet 30: building queue full (5)
+[13:25:18] planet 30: building queue full (5)
+[13:25:18] planet 30: building queue full (5)
+[13:25:18] planet 30: building queue full (5)
+[13:25:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:25:56] ==== loop 23/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:25:56] planet 30: building queue full (5)
+[13:25:56] planet 30: building queue full (5)
+[13:25:56] planet 30: building queue full (5)
+[13:25:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:26:34] ==== loop 24/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:26:36] planet 30: building queue full (5)
+[13:26:36] planet 30: building queue full (5)
+[13:26:36] planet 30: building queue full (5)
+[2026-05-08 13:27:12] ==== loop 25/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:27:15] planet 30: building queue full (5)
+[13:27:15] planet 30: building queue full (5)
+[13:27:15] planet 30: building queue full (5)
+[13:27:15] planet 30: building queue full (5)
+[13:27:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:27:53] ==== loop 26/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:27:55] planet 30: building queue full (5)
+[13:27:55] planet 30: building queue full (5)
+[13:27:55] planet 30: building queue full (5)
+[13:27:55] planet 30: building queue full (5)
+[2026-05-08 13:28:27] ==== loop 27/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:28:30] planet 30: building queue full (5)
+[13:28:30] planet 30: building queue full (5)
+[13:28:30] planet 30: building queue full (5)
+[13:28:30] planet 30: building queue full (5)
+[13:28:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:29:03] ==== loop 28/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:29:05] planet 30: building queue full (5)
+[13:29:05] planet 30: building queue full (5)
+[13:29:05] planet 30: building queue full (5)
+[13:29:05] planet 30: building queue full (5)
+[2026-05-08 13:29:44] ==== loop 29/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:29:46] planet 30: building queue full (5)
+[13:29:46] planet 30: building queue full (5)
+[13:29:46] planet 30: building queue full (5)
+[13:29:46] planet 30: building queue full (5)
+[2026-05-08 13:30:23] ==== loop 30/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:30:25] planet 30: building queue full (5)
+[13:30:25] planet 30: building queue full (5)
+[13:30:25] planet 30: building queue full (5)
+[13:30:25] planet 30: building queue full (5)
+[2026-05-08 13:31:03] ==== loop 31/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:31:07] planet 30: building queue full (5)
+[13:31:07] planet 30: building queue full (5)
+[13:31:07] planet 30: building queue full (5)
+[13:31:07] planet 30: building queue full (5)
+[13:31:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:31:44] ==== loop 32/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:31:47] planet 30: building queue full (5)
+[13:31:47] planet 30: building queue full (5)
+[13:31:47] planet 30: building queue full (5)
+[13:31:47] planet 30: building queue full (5)
+[2026-05-08 13:32:21] ==== loop 33/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:32:25] planet 30: building queue full (5)
+[13:32:25] planet 30: building queue full (5)
+[13:32:25] planet 30: building queue full (5)
+[13:32:25] planet 30: building queue full (5)
+[13:32:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:33:06] ==== loop 34/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:33:09] planet 30: building queue full (5)
+[13:33:09] planet 30: building queue full (5)
+[13:33:09] planet 30: building queue full (5)
+[13:33:09] planet 30: building queue full (5)
+[13:33:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:33:45] ==== loop 35/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:33:47] planet 30: building queue full (5)
+[13:33:47] planet 30: building queue full (5)
+[13:33:47] planet 30: building queue full (5)
+[13:33:47] planet 30: building queue full (5)
+[13:33:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:34:25] ==== loop 36/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:34:28] planet 30: building queue full (5)
+[13:34:28] planet 30: building queue full (5)
+[13:34:28] planet 30: building queue full (5)
+[13:34:28] planet 30: building queue full (5)
+[13:34:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:35:10] ==== loop 37/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:35:12] planet 30: building queue full (5)
+[13:35:12] planet 30: building queue full (5)
+[13:35:12] planet 30: building queue full (5)
+[13:35:12] planet 30: building queue full (5)
+[13:35:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:35:52] ==== loop 38/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:35:55] planet 30: building queue full (5)
+[13:35:55] planet 30: building queue full (5)
+[13:35:55] planet 30: building queue full (5)
+[13:35:55] planet 30: building queue full (5)
+[13:35:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:36:37] ==== loop 39/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:36:39] planet 30: building queue full (5)
+[13:36:39] planet 30: building queue full (5)
+[13:36:39] planet 30: building queue full (5)
+[13:36:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:37:18] ==== loop 40/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:37:20] planet 30: building queue full (5)
+[13:37:20] planet 30: building queue full (5)
+[13:37:20] planet 30: building queue full (5)
+[13:37:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:37:57] ==== loop 41/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:37:59] planet 30: building queue full (5)
+[13:37:59] planet 30: building queue full (5)
+[13:37:59] planet 30: building queue full (5)
+[13:37:59] planet 30: building queue full (5)
+[13:37:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:38:35] ==== loop 42/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:38:36] planet 30: queued building_metal_mine to 9
+[2026-05-08 13:39:15] ==== loop 43/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:39:17] planet 30: building queue full (5)
+[13:39:17] planet 30: building queue full (5)
+[13:39:17] planet 30: building queue full (5)
+[13:39:17] planet 30: building queue full (5)
+[13:39:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:39:53] ==== loop 44/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:39:55] planet 30: building queue full (5)
+[13:39:55] planet 30: building queue full (5)
+[13:39:55] planet 30: building queue full (5)
+[13:39:55] planet 30: building queue full (5)
+[2026-05-08 13:40:33] ==== loop 45/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:40:38] planet 30: building queue full (5)
+[13:40:38] planet 30: building queue full (5)
+[13:40:38] planet 30: building queue full (5)
+[13:40:38] planet 30: building queue full (5)
+[2026-05-08 13:41:23] ==== loop 46/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:41:24] planet 30: queued building_metal_mine to 10
+[2026-05-08 13:42:01] ==== loop 47/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:42:03] planet 30: building queue full (5)
+[13:42:03] planet 30: building queue full (5)
+[13:42:03] planet 30: building queue full (5)
+[2026-05-08 13:42:37] ==== loop 48/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:42:41] planet 30: building queue full (5)
+[13:42:41] planet 30: building queue full (5)
+[13:42:41] planet 30: building queue full (5)
+[13:42:41] planet 30: building queue full (5)
+[13:42:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:43:17] ==== loop 49/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:43:20] planet 30: building queue full (5)
+[13:43:20] planet 30: building queue full (5)
+[13:43:20] planet 30: building queue full (5)
+[13:43:20] planet 30: building queue full (5)
+[2026-05-08 13:43:59] ==== loop 50/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:44:01] planet 30: building queue full (5)
+[13:44:01] planet 30: building queue full (5)
+[13:44:01] planet 30: building queue full (5)
+[13:44:01] planet 30: building queue full (5)
+[13:44:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:44:40] ==== loop 51/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:44:41] planet 30: building queue full (5)
+[13:44:41] planet 30: building queue full (5)
+[13:44:41] planet 30: building queue full (5)
+[13:44:41] planet 30: building queue full (5)
+[2026-05-08 13:45:22] ==== loop 52/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:45:24] planet 30: building queue full (5)
+[13:45:24] planet 30: building queue full (5)
+[13:45:24] planet 30: building queue full (5)
+[13:45:24] planet 30: building queue full (5)
+[13:45:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:46:04] ==== loop 53/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:46:07] planet 30: building queue full (5)
+[13:46:07] planet 30: building queue full (5)
+[13:46:07] planet 30: building queue full (5)
+[13:46:07] planet 30: building queue full (5)
+[13:46:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:46:42] ==== loop 54/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:46:44] planet 30: building queue full (5)
+[13:46:44] planet 30: building queue full (5)
+[13:46:44] planet 30: building queue full (5)
+[13:46:44] planet 30: building queue full (5)
+[13:46:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:47:23] ==== loop 55/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:47:26] planet 30: building queue full (5)
+[13:47:26] planet 30: building queue full (5)
+[13:47:26] planet 30: building queue full (5)
+[13:47:26] planet 30: building queue full (5)
+[13:47:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:48:06] ==== loop 56/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:48:10] planet 30: building queue full (5)
+[13:48:10] planet 30: building queue full (5)
+[13:48:10] planet 30: building queue full (5)
+[13:48:10] planet 30: building queue full (5)
+[13:48:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:48:50] ==== loop 57/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:48:51] planet 30: queued building_metal_mine to 11
+[2026-05-08 13:49:30] ==== loop 58/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:49:32] planet 30: building queue full (5)
+[13:49:32] planet 30: building queue full (5)
+[13:49:32] planet 30: building queue full (5)
+[13:49:32] planet 30: building queue full (5)
+[13:49:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:50:13] ==== loop 59/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:50:16] planet 30: building queue full (5)
+[13:50:16] planet 30: building queue full (5)
+[13:50:16] planet 30: building queue full (5)
+[13:50:16] planet 30: building queue full (5)
+[13:50:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:50:56] ==== loop 60/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:50:59] planet 30: building queue full (5)
+[13:50:59] planet 30: building queue full (5)
+[13:50:59] planet 30: building queue full (5)
+[13:50:59] planet 30: building queue full (5)
+[2026-05-08 13:51:41] ==== loop 61/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:51:43] planet 30: building queue full (5)
+[13:51:43] planet 30: building queue full (5)
+[13:51:43] planet 30: building queue full (5)
+[13:51:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:52:22] ==== loop 62/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:52:25] planet 30: building queue full (5)
+[13:52:25] planet 30: building queue full (5)
+[13:52:25] planet 30: building queue full (5)
+[13:52:25] planet 30: building queue full (5)
+[2026-05-08 13:53:10] ==== loop 63/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:53:13] planet 30: building queue full (5)
+[13:53:13] planet 30: building queue full (5)
+[13:53:13] planet 30: building queue full (5)
+[13:53:13] planet 30: building queue full (5)
+[13:53:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:53:55] ==== loop 64/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:53:56] planet 30: building queue full (5)
+[13:53:56] planet 30: building queue full (5)
+[13:53:56] planet 30: building queue full (5)
+[13:53:56] planet 30: building queue full (5)
+[13:53:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:54:44] ==== loop 65/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:54:48] planet 30: building queue full (5)
+[13:54:48] planet 30: building queue full (5)
+[13:54:48] planet 30: building queue full (5)
+[13:54:48] planet 30: building queue full (5)
+[13:54:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:55:31] ==== loop 66/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:55:34] planet 30: building queue full (5)
+[13:55:34] planet 30: building queue full (5)
+[13:55:34] planet 30: building queue full (5)
+[13:55:34] planet 30: building queue full (5)
+[13:55:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:56:11] ==== loop 67/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:56:14] planet 30: building queue full (5)
+[13:56:14] planet 30: building queue full (5)
+[13:56:14] planet 30: building queue full (5)
+[13:56:14] planet 30: building queue full (5)
+[13:56:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:56:56] ==== loop 68/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:56:58] planet 30: building queue full (5)
+[13:56:58] planet 30: building queue full (5)
+[13:56:58] planet 30: building queue full (5)
+[13:56:58] planet 30: building queue full (5)
+[13:56:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:57:37] ==== loop 69/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:57:39] planet 30: building queue full (5)
+[13:57:39] planet 30: building queue full (5)
+[13:57:39] planet 30: building queue full (5)
+[2026-05-08 13:58:17] ==== loop 70/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:58:20] planet 30: building queue full (5)
+[13:58:20] planet 30: building queue full (5)
+[13:58:20] planet 30: building queue full (5)
+[13:58:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:58:56] ==== loop 71/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:58:58] planet 30: building queue full (5)
+[13:58:58] planet 30: building queue full (5)
+[13:58:58] planet 30: building queue full (5)
+[13:58:58] planet 30: building queue full (5)
+[13:58:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:59:40] ==== loop 72/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[13:59:42] planet 30: building queue full (5)
+[13:59:42] planet 30: building queue full (5)
+[13:59:42] planet 30: building queue full (5)
+[13:59:42] planet 30: building queue full (5)
+[13:59:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:00:19] ==== loop 73/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:00:21] planet 30: building queue full (5)
+[14:00:21] planet 30: building queue full (5)
+[14:00:21] planet 30: building queue full (5)
+[14:00:21] planet 30: building queue full (5)
+[14:00:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:00:57] ==== loop 74/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:00:59] planet 30: building queue full (5)
+[14:00:59] planet 30: building queue full (5)
+[14:00:59] planet 30: building queue full (5)
+[14:00:59] planet 30: building queue full (5)
+[14:00:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:01:36] ==== loop 75/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:01:38] planet 30: building queue full (5)
+[14:01:38] planet 30: building queue full (5)
+[14:01:38] planet 30: building queue full (5)
+[14:01:38] planet 30: building queue full (5)
+[2026-05-08 14:02:13] ==== loop 76/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:02:15] planet 30: building queue full (5)
+[14:02:15] planet 30: building queue full (5)
+[14:02:15] planet 30: building queue full (5)
+[14:02:15] planet 30: building queue full (5)
+[2026-05-08 14:02:50] ==== loop 77/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:02:52] planet 30: building queue full (5)
+[14:02:52] planet 30: building queue full (5)
+[14:02:52] planet 30: building queue full (5)
+[14:02:52] planet 30: building queue full (5)
+[2026-05-08 14:03:26] ==== loop 78/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:03:28] planet 30: building queue full (5)
+[14:03:28] planet 30: building queue full (5)
+[14:03:28] planet 30: building queue full (5)
+[14:03:28] planet 30: building queue full (5)
+[14:03:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:04:06] ==== loop 79/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:04:06] planet 30: queued building_deuterium_tank to 1
+[14:04:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:04:40] ==== loop 80/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:04:43] planet 30: building queue full (5)
+[14:04:43] planet 30: building queue full (5)
+[14:04:43] planet 30: building queue full (5)
+[14:04:43] planet 30: building queue full (5)
+[14:04:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:05:25] ==== loop 81/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:05:28] planet 30: building queue full (5)
+[14:05:28] planet 30: building queue full (5)
+[14:05:28] planet 30: building queue full (5)
+[14:05:28] planet 30: building queue full (5)
+[14:05:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:06:01] ==== loop 82/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:06:04] planet 30: building queue full (5)
+[14:06:04] planet 30: building queue full (5)
+[14:06:04] planet 30: building queue full (5)
+[14:06:04] planet 30: building queue full (5)
+[2026-05-08 14:06:37] ==== loop 83/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:06:39] planet 30: building queue full (5)
+[14:06:39] planet 30: building queue full (5)
+[14:06:39] planet 30: building queue full (5)
+[14:06:39] planet 30: building queue full (5)
+[14:06:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:07:17] ==== loop 84/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:07:18] planet 30: queued building_deuterium_tank to 2
+[2026-05-08 14:07:51] ==== loop 85/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:07:52] planet 30: queued building_deuterium_tank to 3
+[2026-05-08 14:08:26] ==== loop 86/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:08:27] planet 30: queued building_deuterium_tank to 4
+[14:08:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:09:03] ==== loop 87/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:09:03] planet 30: queued building_deuterium_tank to 5
+[14:09:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:09:39] ==== loop 88/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:09:40] planet 30: queued building_deuterium_tank to 6
+[14:09:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:10:14] ==== loop 89/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:10:14] planet 30: queued building_metal_mine to 12
+[14:10:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:10:51] ==== loop 90/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:10:52] planet 30: queued building_metal_mine to 13
+[14:10:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:11:33] ==== loop 91/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:11:33] planet 30: queued building_metal_mine to 14
+[14:11:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:12:10] ==== loop 92/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:12:12] planet 30: building queue full (5)
+[14:12:12] planet 30: building queue full (5)
+[14:12:12] planet 30: building queue full (5)
+[14:12:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:12:47] ==== loop 93/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:12:49] planet 30: building queue full (5)
+[14:12:49] planet 30: building queue full (5)
+[14:12:49] planet 30: building queue full (5)
+[14:12:49] planet 30: building queue full (5)
+[14:12:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:13:29] ==== loop 94/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:13:30] planet 30: building queue full (5)
+[14:13:30] planet 30: building queue full (5)
+[14:13:30] planet 30: building queue full (5)
+[2026-05-08 14:14:10] ==== loop 95/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:14:10] planet 30: queued building_metal_mine to 15
+[2026-05-08 14:14:50] ==== loop 96/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:14:53] planet 30: building queue full (5)
+[14:14:53] planet 30: building queue full (5)
+[14:14:53] planet 30: building queue full (5)
+[14:14:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:15:33] ==== loop 97/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:15:36] planet 30: building queue full (5)
+[14:15:36] planet 30: building queue full (5)
+[14:15:36] planet 30: building queue full (5)
+[14:15:36] planet 30: building queue full (5)
+[14:15:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:16:17] ==== loop 98/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:16:19] planet 30: building queue full (5)
+[14:16:19] planet 30: building queue full (5)
+[14:16:19] planet 30: building queue full (5)
+[14:16:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:16:58] ==== loop 99/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:17:00] planet 30: building queue full (5)
+[14:17:00] planet 30: building queue full (5)
+[14:17:00] planet 30: building queue full (5)
+[14:17:00] planet 30: building queue full (5)
+[14:17:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:17:36] ==== loop 100/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:17:38] planet 30: building queue full (5)
+[14:17:38] planet 30: building queue full (5)
+[14:17:38] planet 30: building queue full (5)
+[14:17:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:18:15] ==== loop 101/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:18:19] planet 30: building queue full (5)
+[14:18:19] planet 30: building queue full (5)
+[14:18:19] planet 30: building queue full (5)
+[14:18:19] planet 30: building queue full (5)
+[2026-05-08 14:18:54] ==== loop 102/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:18:56] planet 30: building queue full (5)
+[14:18:56] planet 30: building queue full (5)
+[14:18:56] planet 30: building queue full (5)
+[2026-05-08 14:19:35] ==== loop 103/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:19:39] planet 30: building queue full (5)
+[14:19:39] planet 30: building queue full (5)
+[14:19:39] planet 30: building queue full (5)
+[14:19:39] planet 30: building queue full (5)
+[2026-05-08 14:20:15] ==== loop 104/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:20:19] planet 30: building queue full (5)
+[14:20:19] planet 30: building queue full (5)
+[14:20:19] planet 30: building queue full (5)
+[14:20:19] planet 30: building queue full (5)
+[14:20:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:20:57] ==== loop 105/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:20:59] planet 30: building queue full (5)
+[14:20:59] planet 30: building queue full (5)
+[14:20:59] planet 30: building queue full (5)
+[2026-05-08 14:21:35] ==== loop 106/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:21:39] planet 30: building queue full (5)
+[14:21:39] planet 30: building queue full (5)
+[14:21:39] planet 30: building queue full (5)
+[14:21:39] planet 30: building queue full (5)
+[14:21:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:22:16] ==== loop 107/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:22:19] planet 30: building queue full (5)
+[14:22:19] planet 30: building queue full (5)
+[14:22:19] planet 30: building queue full (5)
+[14:22:19] planet 30: building queue full (5)
+[2026-05-08 14:22:59] ==== loop 108/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:23:00] planet 30: building queue full (5)
+[14:23:00] planet 30: building queue full (5)
+[14:23:00] planet 30: building queue full (5)
+[14:23:00] planet 30: building queue full (5)
+[14:23:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:23:41] ==== loop 109/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:23:44] planet 30: building queue full (5)
+[14:23:44] planet 30: building queue full (5)
+[14:23:44] planet 30: building queue full (5)
+[14:23:44] planet 30: building queue full (5)
+[14:23:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:24:21] ==== loop 110/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:24:21] planet 30: queued building_crystal_mine to 14
+[14:24:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:25:00] ==== loop 111/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:25:03] planet 30: building queue full (5)
+[14:25:03] planet 30: building queue full (5)
+[14:25:03] planet 30: building queue full (5)
+[14:25:03] planet 30: building queue full (5)
+[14:25:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:25:38] ==== loop 112/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:25:39] planet 30: queued building_deuterium_sintetizer to 16
+[14:25:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:26:17] ==== loop 113/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:26:20] planet 30: building queue full (5)
+[14:26:20] planet 30: building queue full (5)
+[14:26:20] planet 30: building queue full (5)
+[14:26:20] planet 30: building queue full (5)
+[14:26:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:26:59] ==== loop 114/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:26:59] planet 30: queued building_deuterium_sintetizer to 17
+[14:26:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:27:38] ==== loop 115/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:27:41] planet 30: building queue full (5)
+[14:27:41] planet 30: building queue full (5)
+[14:27:41] planet 30: building queue full (5)
+[14:27:41] planet 30: building queue full (5)
+[2026-05-08 14:28:17] ==== loop 116/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:28:19] planet 30: building queue full (5)
+[14:28:19] planet 30: building queue full (5)
+[14:28:19] planet 30: building queue full (5)
+[14:28:19] planet 30: building queue full (5)
+[14:28:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:29:01] ==== loop 117/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:29:04] planet 30: building queue full (5)
+[14:29:04] planet 30: building queue full (5)
+[14:29:04] planet 30: building queue full (5)
+[14:29:04] planet 30: building queue full (5)
+[14:29:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:29:45] ==== loop 118/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:29:45] planet 30: queued building_deuterium_sintetizer to 18
+[14:29:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:30:23] ==== loop 119/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:30:26] planet 30: building queue full (5)
+[14:30:26] planet 30: building queue full (5)
+[14:30:26] planet 30: building queue full (5)
+[14:30:26] planet 30: building queue full (5)
+[2026-05-08 14:31:07] ==== loop 120/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:31:10] planet 30: building queue full (5)
+[14:31:10] planet 30: building queue full (5)
+[14:31:10] planet 30: building queue full (5)
+[14:31:10] planet 30: building queue full (5)
+[14:31:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:31:47] ==== loop 121/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:31:51] planet 30: building queue full (5)
+[14:31:51] planet 30: building queue full (5)
+[14:31:51] planet 30: building queue full (5)
+[14:31:51] planet 30: building queue full (5)
+[2026-05-08 14:32:30] ==== loop 122/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:32:32] planet 30: building queue full (5)
+[14:32:32] planet 30: building queue full (5)
+[14:32:32] planet 30: building queue full (5)
+[14:32:32] planet 30: building queue full (5)
+[2026-05-08 14:33:11] ==== loop 123/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:33:12] planet 30: queued building_crystal_mine to 15
+[14:33:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:33:47] ==== loop 124/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:33:50] planet 30: building queue full (5)
+[14:33:50] planet 30: building queue full (5)
+[14:33:50] planet 30: building queue full (5)
+[14:33:50] planet 30: building queue full (5)
+[14:33:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:34:29] ==== loop 125/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:34:31] planet 30: building queue full (5)
+[14:34:31] planet 30: building queue full (5)
+[14:34:31] planet 30: building queue full (5)
+[14:34:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:35:12] ==== loop 126/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:35:14] planet 30: building queue full (5)
+[14:35:14] planet 30: building queue full (5)
+[14:35:14] planet 30: building queue full (5)
+[14:35:14] planet 30: building queue full (5)
+[14:35:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:35:53] ==== loop 127/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:35:56] planet 30: building queue full (5)
+[14:35:56] planet 30: building queue full (5)
+[14:35:56] planet 30: building queue full (5)
+[14:35:56] planet 30: building queue full (5)
+[14:35:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:36:34] ==== loop 128/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:36:37] planet 30: building queue full (5)
+[14:36:37] planet 30: building queue full (5)
+[14:36:37] planet 30: building queue full (5)
+[14:36:37] planet 30: building queue full (5)
+[2026-05-08 14:37:14] ==== loop 129/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:37:16] planet 30: building queue full (5)
+[14:37:16] planet 30: building queue full (5)
+[14:37:16] planet 30: building queue full (5)
+[2026-05-08 14:37:54] ==== loop 130/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:37:55] planet 30: queued building_crystal_mine to 16
+[14:37:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:38:35] ==== loop 131/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:38:37] planet 30: building queue full (5)
+[14:38:37] planet 30: building queue full (5)
+[14:38:37] planet 30: building queue full (5)
+[14:38:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:39:16] ==== loop 132/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:39:19] planet 30: building queue full (5)
+[14:39:19] planet 30: building queue full (5)
+[14:39:19] planet 30: building queue full (5)
+[14:39:19] planet 30: building queue full (5)
+[14:39:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:39:57] ==== loop 133/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:39:59] planet 30: building queue full (5)
+[14:39:59] planet 30: building queue full (5)
+[14:39:59] planet 30: building queue full (5)
+[14:39:59] planet 30: building queue full (5)
+[2026-05-08 14:40:36] ==== loop 134/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:40:36] planet 30: queue busy, throttled building_hangar
+[14:40:36] planet 30: queue busy, throttled building_hangar
+[14:40:36] planet 30: queue busy, throttled building_hangar
+[14:40:36] planet 30: queue busy, throttled building_hangar
+[14:40:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:41:10] ==== loop 135/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:41:10] planet 30: queue busy, throttled building_hangar
+[14:41:10] planet 30: queue busy, throttled building_hangar
+[14:41:10] planet 30: queue busy, throttled building_hangar
+[14:41:10] planet 30: queue busy, throttled building_hangar
+[14:41:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:41:49] ==== loop 136/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:41:49] planet 30: queue busy, throttled building_hangar
+[14:41:49] planet 30: queue busy, throttled building_hangar
+[14:41:49] planet 30: queue busy, throttled building_hangar
+[14:41:49] planet 30: queue busy, throttled building_hangar
+[2026-05-08 14:42:26] ==== loop 137/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:42:26] planet 30: queue busy, throttled building_hangar
+[14:42:26] planet 30: queue busy, throttled building_hangar
+[14:42:26] planet 30: queue busy, throttled building_hangar
+[14:42:26] planet 30: queue busy, throttled building_hangar
+[14:42:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:43:08] ==== loop 138/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:43:08] planet 30: queue busy, throttled building_hangar
+[14:43:08] planet 30: queue busy, throttled building_hangar
+[14:43:08] planet 30: queue busy, throttled building_hangar
+[14:43:08] planet 30: queue busy, throttled building_hangar
+[14:43:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:43:46] ==== loop 139/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:43:46] planet 30: queue busy, throttled building_hangar
+[14:43:46] planet 30: queue busy, throttled building_hangar
+[14:43:46] planet 30: queue busy, throttled building_hangar
+[14:43:46] planet 30: queue busy, throttled building_hangar
+[14:43:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:44:23] ==== loop 140/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:44:23] planet 30: queue busy, throttled building_hangar
+[14:44:23] planet 30: queue busy, throttled building_hangar
+[14:44:23] planet 30: queue busy, throttled building_hangar
+[14:44:23] planet 30: queue busy, throttled building_hangar
+[14:44:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:45:01] ==== loop 141/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:45:01] planet 30: queue busy, throttled building_hangar
+[14:45:01] planet 30: queue busy, throttled building_hangar
+[14:45:01] planet 30: queue busy, throttled building_hangar
+[14:45:01] planet 30: queue busy, throttled building_hangar
+[14:45:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:45:39] ==== loop 142/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:45:39] planet 30: queue busy, throttled building_hangar
+[14:45:39] planet 30: queue busy, throttled building_hangar
+[14:45:39] planet 30: queue busy, throttled building_hangar
+[14:45:39] planet 30: queue busy, throttled building_hangar
+[14:45:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:46:18] ==== loop 143/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:46:18] planet 30: queue busy, throttled building_hangar
+[14:46:18] planet 30: queue busy, throttled building_hangar
+[14:46:18] planet 30: queue busy, throttled building_hangar
+[14:46:18] planet 30: queue busy, throttled building_hangar
+[14:46:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:46:59] ==== loop 144/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:46:59] planet 30: queue busy, throttled building_hangar
+[14:46:59] planet 30: queue busy, throttled building_hangar
+[14:46:59] planet 30: queue busy, throttled building_hangar
+[14:46:59] planet 30: queue busy, throttled building_hangar
+[14:46:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:47:38] ==== loop 145/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:47:39] planet 30: queue busy, throttled building_hangar
+[14:47:39] planet 30: queue busy, throttled building_hangar
+[14:47:39] planet 30: queue busy, throttled building_hangar
+[14:47:39] planet 30: queue busy, throttled building_hangar
+[14:47:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:48:18] ==== loop 146/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:48:18] planet 30: queue busy, throttled building_hangar
+[14:48:18] planet 30: queue busy, throttled building_hangar
+[14:48:18] planet 30: queue busy, throttled building_hangar
+[14:48:18] planet 30: queue busy, throttled building_hangar
+[14:48:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:48:56] ==== loop 147/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:48:56] planet 30: queue busy, throttled building_hangar
+[14:48:56] planet 30: queue busy, throttled building_hangar
+[14:48:56] planet 30: queue busy, throttled building_hangar
+[14:48:56] planet 30: queue busy, throttled building_hangar
+[14:48:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:49:35] ==== loop 148/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:49:35] planet 30: queue busy, throttled building_hangar
+[14:49:35] planet 30: queue busy, throttled building_hangar
+[14:49:35] planet 30: queue busy, throttled building_hangar
+[14:49:35] planet 30: queue busy, throttled building_hangar
+[14:49:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:50:14] ==== loop 149/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:50:17] planet 30: building queue full (5)
+[14:50:17] planet 30: building queue full (5)
+[14:50:17] planet 30: building queue full (5)
+[14:50:17] planet 30: building queue full (5)
+[14:50:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:50:58] ==== loop 150/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:50:59] planet 30: building queue full (5)
+[14:50:59] planet 30: building queue full (5)
+[14:50:59] planet 30: building queue full (5)
+[2026-05-08 14:51:35] ==== loop 151/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:51:37] planet 30: building queue full (5)
+[14:51:37] planet 30: building queue full (5)
+[14:51:37] planet 30: building queue full (5)
+[14:51:37] planet 30: building queue full (5)
+[14:51:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:52:16] ==== loop 152/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:52:19] planet 30: building queue full (5)
+[14:52:19] planet 30: building queue full (5)
+[14:52:19] planet 30: building queue full (5)
+[14:52:19] planet 30: building queue full (5)
+[14:52:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:01:41] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:01:42] planet 30: queued ship_solar_satellite +29
+[07:01:42] planet 30: queued building_metal_store to 6
+[07:01:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:02:12] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:02:13] planet 30: queued building_metal_store to 7
+[2026-05-11 07:02:40] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:02:41] planet 30: queued building_metal_store to 8
+[07:02:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:03:06] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:03:06] planet 30: queued building_metal_store to 9
+[07:03:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:03:31] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:03:31] planet 30: queued building_metal_store to 10
+[07:03:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:03:54] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:03:58] planet 30: building queue full (5)
+[07:03:58] planet 30: building queue full (5)
+[07:03:58] planet 30: building queue full (5)
+[07:03:58] planet 30: building queue full (5)
+[2026-05-11 07:04:29] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:04:32] planet 30: building queue full (5)
+[07:04:32] planet 30: building queue full (5)
+[07:04:32] planet 30: building queue full (5)
+[07:04:32] planet 30: building queue full (5)
+[07:04:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:05:07] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:05:09] planet 30: building queue full (5)
+[07:05:09] planet 30: building queue full (5)
+[07:05:09] planet 30: building queue full (5)
+[07:05:09] planet 30: building queue full (5)
+[07:05:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:05:41] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:05:44] planet 30: building queue full (5)
+[07:05:44] planet 30: building queue full (5)
+[07:05:44] planet 30: building queue full (5)
+[07:05:44] planet 30: building queue full (5)
+[07:05:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:06:19] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:06:21] planet 30: building queue full (5)
+[07:06:21] planet 30: building queue full (5)
+[07:06:21] planet 30: building queue full (5)
+[07:06:21] planet 30: building queue full (5)
+[07:06:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:06:58] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:06:58] planet 30: queued building_deuterium_sintetizer to 19
+[2026-05-11 07:07:36] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:07:38] planet 30: building queue full (5)
+[07:07:38] planet 30: building queue full (5)
+[07:07:38] planet 30: building queue full (5)
+[07:07:38] planet 30: building queue full (5)
+[07:07:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:08:13] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:08:15] planet 30: building queue full (5)
+[07:08:15] planet 30: building queue full (5)
+[07:08:15] planet 30: building queue full (5)
+[07:08:15] planet 30: building queue full (5)
+[07:08:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:08:48] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:08:49] planet 30: building queue full (5)
+[07:08:49] planet 30: building queue full (5)
+[07:08:49] planet 30: building queue full (5)
+[07:08:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:09:24] ==== loop 15/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:09:27] planet 30: building queue full (5)
+[07:09:27] planet 30: building queue full (5)
+[07:09:27] planet 30: building queue full (5)
+[07:09:27] planet 30: building queue full (5)
+[07:09:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:10:06] ==== loop 16/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:10:08] planet 30: building queue full (5)
+[07:10:08] planet 30: building queue full (5)
+[07:10:08] planet 30: building queue full (5)
+[07:10:08] planet 30: building queue full (5)
+[2026-05-11 07:10:43] ==== loop 17/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:10:46] planet 30: building queue full (5)
+[07:10:46] planet 30: building queue full (5)
+[07:10:46] planet 30: building queue full (5)
+[07:10:46] planet 30: building queue full (5)
+[07:10:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:11:22] ==== loop 18/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:11:24] planet 30: building queue full (5)
+[07:11:24] planet 30: building queue full (5)
+[07:11:24] planet 30: building queue full (5)
+[07:11:24] planet 30: building queue full (5)
+[07:11:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:12:05] ==== loop 19/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:12:07] planet 30: building queue full (5)
+[07:12:07] planet 30: building queue full (5)
+[07:12:07] planet 30: building queue full (5)
+[07:12:07] planet 30: building queue full (5)
+[07:12:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:12:47] ==== loop 20/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:12:50] planet 30: building queue full (5)
+[07:12:50] planet 30: building queue full (5)
+[07:12:50] planet 30: building queue full (5)
+[07:12:50] planet 30: building queue full (5)
+[2026-05-11 07:13:31] ==== loop 21/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:13:33] planet 30: building queue full (5)
+[07:13:33] planet 30: building queue full (5)
+[07:13:33] planet 30: building queue full (5)
+[07:13:33] planet 30: building queue full (5)
+[07:13:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:14:16] ==== loop 22/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:14:18] planet 30: building queue full (5)
+[07:14:18] planet 30: building queue full (5)
+[07:14:18] planet 30: building queue full (5)
+[07:14:18] planet 30: building queue full (5)
+[07:14:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:14:59] ==== loop 23/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:15:03] planet 30: building queue full (5)
+[07:15:03] planet 30: building queue full (5)
+[07:15:03] planet 30: building queue full (5)
+[07:15:03] planet 30: building queue full (5)
+[07:15:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:15:44] ==== loop 24/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:15:47] planet 30: building queue full (5)
+[07:15:47] planet 30: building queue full (5)
+[07:15:47] planet 30: building queue full (5)
+[07:15:47] planet 30: building queue full (5)
+[2026-05-11 07:16:32] ==== loop 25/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:16:34] planet 30: building queue full (5)
+[07:16:34] planet 30: building queue full (5)
+[07:16:34] planet 30: building queue full (5)
+[07:16:34] planet 30: building queue full (5)
+[07:16:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:17:19] ==== loop 26/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:17:20] planet 30: queued building_deuterium_tank to 7
+[07:17:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:18:02] ==== loop 27/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:18:03] planet 30: building queue full (5)
+[07:18:03] planet 30: building queue full (5)
+[07:18:03] planet 30: building queue full (5)
+[07:18:03] planet 30: building queue full (5)
+[07:18:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:18:44] ==== loop 28/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:18:48] planet 30: building queue full (5)
+[07:18:48] planet 30: building queue full (5)
+[07:18:48] planet 30: building queue full (5)
+[07:18:48] planet 30: building queue full (5)
+[07:18:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:19:30] ==== loop 29/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:19:33] planet 30: building queue full (5)
+[07:19:33] planet 30: building queue full (5)
+[07:19:33] planet 30: building queue full (5)
+[07:19:33] planet 30: building queue full (5)
+[2026-05-11 07:20:11] ==== loop 30/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:20:13] planet 30: queued defense_heavy_laser +8
+[07:20:13] planet 30: queued defense_rocket_launcher +8
+[07:20:13] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:20:13] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:20:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:20:49] ==== loop 31/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:20:50] planet 30: queued defense_rocket_launcher +8
+[07:20:50] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:20:50] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:20:50] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:20:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:21:25] ==== loop 32/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:21:26] planet 30: queued defense_rocket_launcher +8
+[07:21:26] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:21:26] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:21:26] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:21:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:22:04] ==== loop 33/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:22:05] planet 30: queued defense_rocket_launcher +8
+[07:22:05] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:22:05] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:22:05] planet 30: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 07:22:45] ==== loop 34/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:22:46] planet 30: queued defense_rocket_launcher +8
+[07:22:46] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:22:46] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:22:46] planet 30: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 07:23:25] ==== loop 35/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:23:26] planet 30: queued defense_rocket_launcher +8
+[07:23:26] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:23:26] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:23:26] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:23:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:24:07] ==== loop 36/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:24:07] planet 30: queued defense_rocket_launcher +8
+[07:24:07] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:24:07] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:24:07] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:24:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:24:48] ==== loop 37/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:24:48] planet 30: queued defense_rocket_launcher +8
+[07:24:48] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:24:48] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:24:48] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:24:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:25:27] ==== loop 38/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:25:28] planet 30: queued defense_rocket_launcher +8
+[07:25:28] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:25:28] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:25:28] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:25:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:26:06] ==== loop 39/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:26:06] planet 30: queued defense_rocket_launcher +8
+[07:26:06] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:26:06] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:26:06] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:26:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:26:39] ==== loop 40/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:26:40] planet 30: queued defense_rocket_launcher +8
+[07:26:40] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:26:40] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:26:40] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:26:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:27:17] ==== loop 41/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:27:18] planet 30: queued defense_rocket_launcher +8
+[07:27:18] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:27:18] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:27:18] planet 30: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 07:27:59] ==== loop 42/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:27:59] planet 30: queued defense_rocket_launcher +8
+[07:27:59] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:27:59] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:27:59] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:27:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:28:37] ==== loop 43/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:28:37] planet 30: queued defense_rocket_launcher +8
+[07:28:37] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:28:37] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:28:37] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:28:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:29:14] ==== loop 44/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:29:14] planet 30: queued defense_rocket_launcher +8
+[07:29:14] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:29:14] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:29:14] planet 30: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 07:29:52] ==== loop 45/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:29:53] planet 30: queued defense_rocket_launcher +8
+[07:29:53] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:29:53] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:29:53] planet 30: skipped duplicate defense_rocket_launcher this loop
+[07:29:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:30:41] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:30:45] planet 30: building queue full (5)
+[07:30:45] planet 30: building queue full (5)
+[07:30:45] planet 30: building queue full (5)
+[07:30:45] planet 30: building queue full (5)
+[07:30:45] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:30:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:31:26] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:31:28] planet 30: building queue full (5)
+[07:31:28] planet 30: building queue full (5)
+[07:31:28] planet 30: building queue full (5)
+[07:31:28] planet 30: building queue full (5)
+[07:31:28] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:32:07] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:32:10] planet 30: building queue full (5)
+[07:32:10] planet 30: building queue full (5)
+[07:32:10] planet 30: building queue full (5)
+[07:32:10] planet 30: building queue full (5)
+[07:32:10] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:32:48] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:32:50] planet 30: building queue full (5)
+[07:32:50] planet 30: building queue full (5)
+[07:32:50] planet 30: building queue full (5)
+[07:32:50] planet 30: building queue full (5)
+[07:32:50] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:32:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:33:26] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:33:28] planet 30: building queue full (5)
+[07:33:28] planet 30: building queue full (5)
+[07:33:28] planet 30: building queue full (5)
+[07:33:28] planet 30: building queue full (5)
+[07:33:28] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:34:08] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:34:10] planet 30: building queue full (5)
+[07:34:10] planet 30: building queue full (5)
+[07:34:10] planet 30: building queue full (5)
+[07:34:10] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:34:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:34:45] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:34:48] planet 30: building queue full (5)
+[07:34:48] planet 30: building queue full (5)
+[07:34:48] planet 30: building queue full (5)
+[07:34:48] planet 30: building queue full (5)
+[07:34:48] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:35:27] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:35:30] planet 30: building queue full (5)
+[07:35:30] planet 30: building queue full (5)
+[07:35:30] planet 30: building queue full (5)
+[07:35:30] planet 30: building queue full (5)
+[07:35:30] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:36:05] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:36:08] planet 30: building queue full (5)
+[07:36:08] planet 30: building queue full (5)
+[07:36:08] planet 30: building queue full (5)
+[07:36:08] planet 30: building queue full (5)
+[07:36:08] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:36:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:36:43] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:36:46] planet 30: building queue full (5)
+[07:36:46] planet 30: building queue full (5)
+[07:36:46] planet 30: building queue full (5)
+[07:36:46] planet 30: building queue full (5)
+[07:36:46] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:36:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:37:26] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:37:28] planet 30: building queue full (5)
+[07:37:28] planet 30: building queue full (5)
+[07:37:28] planet 30: building queue full (5)
+[07:37:28] planet 30: building queue full (5)
+[07:37:28] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:38:03] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:38:04] planet 30: queued building_deuterium_tank to 8
+[07:38:04] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:38:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:38:41] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:38:44] planet 30: building queue full (5)
+[07:38:44] planet 30: building queue full (5)
+[07:38:44] planet 30: building queue full (5)
+[07:38:44] planet 30: building queue full (5)
+[07:38:44] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:38:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:39:22] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:39:25] planet 30: building queue full (5)
+[07:39:25] planet 30: building queue full (5)
+[07:39:25] planet 30: building queue full (5)
+[07:39:25] planet 30: building queue full (5)
+[07:39:25] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:39:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:40:06] ==== loop 15/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:40:08] planet 30: building queue full (5)
+[07:40:08] planet 30: building queue full (5)
+[07:40:08] planet 30: building queue full (5)
+[07:40:08] planet 30: building queue full (5)
+[07:40:08] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:40:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:40:45] ==== loop 16/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:40:46] planet 30: building queue full (5)
+[07:40:46] planet 30: building queue full (5)
+[07:40:46] planet 30: building queue full (5)
+[07:40:46] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:40:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:41:23] ==== loop 17/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:41:24] planet 30: building queue full (5)
+[07:41:24] planet 30: building queue full (5)
+[07:41:24] planet 30: building queue full (5)
+[07:41:24] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:41:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:42:07] ==== loop 18/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:42:10] planet 30: building queue full (5)
+[07:42:10] planet 30: building queue full (5)
+[07:42:10] planet 30: building queue full (5)
+[07:42:10] planet 30: building queue full (5)
+[07:42:10] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:42:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:42:44] ==== loop 19/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:42:47] planet 30: building queue full (5)
+[07:42:47] planet 30: building queue full (5)
+[07:42:47] planet 30: building queue full (5)
+[07:42:47] planet 30: building queue full (5)
+[07:42:47] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:43:22] ==== loop 20/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:43:24] planet 30: building queue full (5)
+[07:43:24] planet 30: building queue full (5)
+[07:43:24] planet 30: building queue full (5)
+[07:43:24] planet 30: building queue full (5)
+[07:43:24] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:43:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:44:05] ==== loop 21/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:44:08] planet 30: building queue full (5)
+[07:44:08] planet 30: building queue full (5)
+[07:44:08] planet 30: building queue full (5)
+[07:44:08] planet 30: building queue full (5)
+[07:44:08] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:44:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:44:47] ==== loop 22/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:44:49] planet 30: building queue full (5)
+[07:44:49] planet 30: building queue full (5)
+[07:44:49] planet 30: building queue full (5)
+[07:44:49] planet 30: building queue full (5)
+[07:44:49] attack: idle candidates=46 fresh_intel=0 no_spy_src=46 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:44:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:45:20] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:45:22] planet 30: building queue full (5)
+[07:45:22] planet 30: building queue full (5)
+[07:45:22] planet 30: building queue full (5)
+[07:45:22] planet 30: building queue full (5)
+[07:45:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:45:56] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:45:59] planet 30: building queue full (5)
+[07:45:59] planet 30: building queue full (5)
+[07:45:59] planet 30: building queue full (5)
+[07:45:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:46:39] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:46:40] planet 30: building queue full (5)
+[07:46:40] planet 30: building queue full (5)
+[07:46:40] planet 30: building queue full (5)
+[07:46:40] planet 30: building queue full (5)
+[07:46:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:47:19] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:47:22] planet 30: building queue full (5)
+[07:47:22] planet 30: building queue full (5)
+[07:47:22] planet 30: building queue full (5)
+[07:47:22] planet 30: building queue full (5)
+[07:47:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:48:02] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:48:03] planet 30: building queue full (5)
+[07:48:03] planet 30: building queue full (5)
+[07:48:03] planet 30: building queue full (5)
+[07:48:03] planet 30: building queue full (5)
+[07:48:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:48:42] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:48:45] planet 30: building queue full (5)
+[07:48:45] planet 30: building queue full (5)
+[07:48:45] planet 30: building queue full (5)
+[07:48:45] planet 30: building queue full (5)
+[2026-05-11 07:49:24] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:49:27] planet 30: building queue full (5)
+[07:49:27] planet 30: building queue full (5)
+[07:49:27] planet 30: building queue full (5)
+[07:49:27] planet 30: building queue full (5)
+[07:49:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:50:08] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:50:11] planet 30: building queue full (5)
+[07:50:11] planet 30: building queue full (5)
+[07:50:11] planet 30: building queue full (5)
+[2026-05-11 07:50:47] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:50:49] planet 30: building queue full (5)
+[07:50:49] planet 30: building queue full (5)
+[07:50:49] planet 30: building queue full (5)
+[07:50:49] planet 30: building queue full (5)
+[07:50:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:51:28] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:51:30] planet 30: building queue full (5)
+[07:51:30] planet 30: building queue full (5)
+[07:51:30] planet 30: building queue full (5)
+[2026-05-11 07:52:12] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:52:15] planet 30: building queue full (5)
+[07:52:15] planet 30: building queue full (5)
+[07:52:15] planet 30: building queue full (5)
+[07:52:15] planet 30: building queue full (5)
+[07:52:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:52:57] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:53:00] planet 30: building queue full (5)
+[07:53:00] planet 30: building queue full (5)
+[07:53:00] planet 30: building queue full (5)
+[07:53:00] planet 30: building queue full (5)
+[07:53:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:53:45] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:53:46] planet 30: building queue full (5)
+[07:53:46] planet 30: building queue full (5)
+[07:53:46] planet 30: building queue full (5)
+[07:53:46] planet 30: building queue full (5)
+[07:53:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:54:26] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:54:28] planet 30: building queue full (5)
+[07:54:28] planet 30: building queue full (5)
+[07:54:28] planet 30: building queue full (5)
+[07:54:28] planet 30: building queue full (5)
+[2026-05-11 07:55:07] ==== loop 15/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:55:09] planet 30: building queue full (5)
+[07:55:09] planet 30: building queue full (5)
+[07:55:09] planet 30: building queue full (5)
+[07:55:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:55:50] ==== loop 16/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:55:52] planet 30: building queue full (5)
+[07:55:52] planet 30: building queue full (5)
+[07:55:52] planet 30: building queue full (5)
+[07:55:52] planet 30: building queue full (5)
+[07:55:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:56:31] ==== loop 17/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:56:35] planet 30: building queue full (5)
+[07:56:35] planet 30: building queue full (5)
+[07:56:35] planet 30: building queue full (5)
+[07:56:35] planet 30: building queue full (5)
+[07:56:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:57:18] ==== loop 18/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:57:21] planet 30: building queue full (5)
+[07:57:21] planet 30: building queue full (5)
+[07:57:21] planet 30: building queue full (5)
+[07:57:21] planet 30: building queue full (5)
+[07:57:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:58:02] ==== loop 19/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:58:04] planet 30: building queue full (5)
+[07:58:04] planet 30: building queue full (5)
+[07:58:04] planet 30: building queue full (5)
+[07:58:04] planet 30: building queue full (5)
+[2026-05-11 07:58:44] ==== loop 20/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:58:46] planet 30: building queue full (5)
+[07:58:46] planet 30: building queue full (5)
+[07:58:46] planet 30: building queue full (5)
+[07:58:46] planet 30: building queue full (5)
+[07:58:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:59:27] ==== loop 21/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[07:59:29] planet 30: building queue full (5)
+[07:59:29] planet 30: building queue full (5)
+[07:59:29] planet 30: building queue full (5)
+[07:59:29] planet 30: building queue full (5)
+[07:59:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:00:11] ==== loop 22/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:00:13] planet 30: building queue full (5)
+[08:00:13] planet 30: building queue full (5)
+[08:00:13] planet 30: building queue full (5)
+[08:00:13] planet 30: building queue full (5)
+[08:00:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:00:55] ==== loop 23/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:00:58] planet 30: building queue full (5)
+[08:00:58] planet 30: building queue full (5)
+[08:00:58] planet 30: building queue full (5)
+[08:00:58] planet 30: building queue full (5)
+[08:00:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:01:38] ==== loop 24/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:01:41] planet 30: building queue full (5)
+[08:01:41] planet 30: building queue full (5)
+[08:01:41] planet 30: building queue full (5)
+[08:01:41] planet 30: building queue full (5)
+[2026-05-11 08:02:12] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:02:15] planet 30: building queue full (5)
+[08:02:15] planet 30: building queue full (5)
+[08:02:15] planet 30: building queue full (5)
+[08:02:15] planet 30: building queue full (5)
+[08:02:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:02:52] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:02:55] planet 30: building queue full (5)
+[08:02:55] planet 30: building queue full (5)
+[08:02:55] planet 30: building queue full (5)
+[08:02:55] planet 30: building queue full (5)
+[2026-05-11 08:03:33] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:03:35] planet 30: building queue full (5)
+[08:03:35] planet 30: building queue full (5)
+[08:03:35] planet 30: building queue full (5)
+[08:03:35] planet 30: building queue full (5)
+[2026-05-11 08:04:16] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:04:18] planet 30: building queue full (5)
+[08:04:18] planet 30: building queue full (5)
+[08:04:18] planet 30: building queue full (5)
+[08:04:18] planet 30: building queue full (5)
+[08:04:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:04:55] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:04:57] planet 30: building queue full (5)
+[08:04:57] planet 30: building queue full (5)
+[08:04:57] planet 30: building queue full (5)
+[08:04:57] planet 30: building queue full (5)
+[08:04:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:05:48] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:05:51] planet 30: building queue full (5)
+[08:05:51] planet 30: building queue full (5)
+[08:05:51] planet 30: building queue full (5)
+[08:05:51] planet 30: building queue full (5)
+[2026-05-11 08:06:28] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:06:31] planet 30: building queue full (5)
+[08:06:31] planet 30: building queue full (5)
+[08:06:31] planet 30: building queue full (5)
+[08:06:31] planet 30: building queue full (5)
+[08:06:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:07:10] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:07:13] planet 30: building queue full (5)
+[08:07:13] planet 30: building queue full (5)
+[08:07:13] planet 30: building queue full (5)
+[08:07:13] planet 30: building queue full (5)
+[08:07:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:07:57] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:07:59] planet 30: building queue full (5)
+[08:07:59] planet 30: building queue full (5)
+[08:07:59] planet 30: building queue full (5)
+[08:07:59] planet 30: building queue full (5)
+[08:07:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:08:35] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:08:38] planet 30: building queue full (5)
+[08:08:38] planet 30: building queue full (5)
+[08:08:38] planet 30: building queue full (5)
+[08:08:38] planet 30: building queue full (5)
+[2026-05-11 08:09:17] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:09:18] planet 30: building queue full (5)
+[08:09:18] planet 30: building queue full (5)
+[08:09:18] planet 30: building queue full (5)
+[08:09:18] planet 30: building queue full (5)
+[08:09:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:09:59] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:10:01] planet 30: building queue full (5)
+[08:10:01] planet 30: building queue full (5)
+[08:10:01] planet 30: building queue full (5)
+[2026-05-11 08:10:43] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:10:47] planet 30: building queue full (5)
+[08:10:47] planet 30: building queue full (5)
+[08:10:47] planet 30: building queue full (5)
+[08:10:47] planet 30: building queue full (5)
+[08:10:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:11:31] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:11:33] planet 30: building queue full (5)
+[08:11:33] planet 30: building queue full (5)
+[08:11:33] planet 30: building queue full (5)
+[08:11:33] planet 30: building queue full (5)
+[08:11:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:12:14] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:12:18] planet 30: building queue full (5)
+[08:12:18] planet 30: building queue full (5)
+[08:12:18] planet 30: building queue full (5)
+[08:12:18] planet 30: building queue full (5)
+[08:12:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:12:52] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:12:55] planet 30: building queue full (5)
+[08:12:55] planet 30: building queue full (5)
+[08:12:55] planet 30: building queue full (5)
+[08:12:55] planet 30: building queue full (5)
+[08:12:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:13:39] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:13:41] planet 30: building queue full (5)
+[08:13:41] planet 30: building queue full (5)
+[08:13:41] planet 30: building queue full (5)
+[08:13:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:14:24] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:14:27] planet 30: building queue full (5)
+[08:14:27] planet 30: building queue full (5)
+[08:14:27] planet 30: building queue full (5)
+[08:14:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:15:12] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:15:14] planet 30: building queue full (5)
+[08:15:14] planet 30: building queue full (5)
+[08:15:14] planet 30: building queue full (5)
+[08:15:14] planet 30: building queue full (5)
+[08:15:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:15:50] ==== loop 15/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:15:53] planet 30: building queue full (5)
+[08:15:53] planet 30: building queue full (5)
+[08:15:53] planet 30: building queue full (5)
+[08:15:53] planet 30: building queue full (5)
+[08:15:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:16:38] ==== loop 16/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:16:41] planet 30: building queue full (5)
+[08:16:41] planet 30: building queue full (5)
+[08:16:41] planet 30: building queue full (5)
+[08:16:41] planet 30: building queue full (5)
+[08:16:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:17:23] ==== loop 17/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:17:25] planet 30: building queue full (5)
+[08:17:25] planet 30: building queue full (5)
+[08:17:25] planet 30: building queue full (5)
+[08:17:25] planet 30: building queue full (5)
+[08:17:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:18:06] ==== loop 18/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:18:08] planet 30: building queue full (5)
+[08:18:08] planet 30: building queue full (5)
+[08:18:08] planet 30: building queue full (5)
+[08:18:08] planet 30: building queue full (5)
+[08:18:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:18:47] ==== loop 19/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:18:48] planet 30: queued building_metal_store to 11
+[2026-05-11 08:19:29] ==== loop 20/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:19:30] planet 30: building queue full (5)
+[08:19:30] planet 30: building queue full (5)
+[08:19:30] planet 30: building queue full (5)
+[08:19:30] planet 30: building queue full (5)
+[2026-05-11 08:19:52] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:19:55] planet 30: building queue full (5)
+[08:19:55] planet 30: building queue full (5)
+[08:19:55] planet 30: building queue full (5)
+[08:19:55] planet 30: building queue full (5)
+[08:19:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:20:39] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:20:41] planet 30: building queue full (5)
+[08:20:41] planet 30: building queue full (5)
+[08:20:41] planet 30: building queue full (5)
+[08:20:41] planet 30: building queue full (5)
+[08:20:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:21:22] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:21:25] planet 30: building queue full (5)
+[08:21:25] planet 30: building queue full (5)
+[08:21:25] planet 30: building queue full (5)
+[08:21:25] planet 30: building queue full (5)
+[08:21:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:22:05] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:22:06] planet 30: building queue full (5)
+[08:22:06] planet 30: building queue full (5)
+[08:22:06] planet 30: building queue full (5)
+[08:22:06] planet 30: building queue full (5)
+[08:22:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:22:51] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:22:53] planet 30: building queue full (5)
+[08:22:53] planet 30: building queue full (5)
+[08:22:53] planet 30: building queue full (5)
+[08:22:53] planet 30: building queue full (5)
+[08:22:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:23:36] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:23:39] planet 30: building queue full (5)
+[08:23:39] planet 30: building queue full (5)
+[08:23:39] planet 30: building queue full (5)
+[08:23:39] planet 30: building queue full (5)
+[2026-05-11 08:24:20] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:24:23] planet 30: building queue full (5)
+[08:24:23] planet 30: building queue full (5)
+[08:24:23] planet 30: building queue full (5)
+[08:24:23] planet 30: building queue full (5)
+[08:24:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:25:04] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:25:07] planet 30: building queue full (5)
+[08:25:07] planet 30: building queue full (5)
+[08:25:07] planet 30: building queue full (5)
+[08:25:07] planet 30: building queue full (5)
+[2026-05-11 08:25:49] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:25:52] planet 30: building queue full (5)
+[08:25:52] planet 30: building queue full (5)
+[08:25:52] planet 30: building queue full (5)
+[08:25:52] planet 30: building queue full (5)
+[08:25:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:26:32] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:26:35] planet 30: building queue full (5)
+[08:26:35] planet 30: building queue full (5)
+[08:26:35] planet 30: building queue full (5)
+[08:26:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:27:14] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:27:17] planet 30: building queue full (5)
+[08:27:17] planet 30: building queue full (5)
+[08:27:17] planet 30: building queue full (5)
+[08:27:17] planet 30: building queue full (5)
+[08:27:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:27:57] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:28:00] planet 30: building queue full (5)
+[08:28:00] planet 30: building queue full (5)
+[08:28:00] planet 30: building queue full (5)
+[08:28:00] planet 30: building queue full (5)
+[08:28:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:28:40] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:28:42] planet 30: building queue full (5)
+[08:28:42] planet 30: building queue full (5)
+[08:28:42] planet 30: building queue full (5)
+[08:28:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:29:24] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:29:27] planet 30: building queue full (5)
+[08:29:27] planet 30: building queue full (5)
+[08:29:27] planet 30: building queue full (5)
+[08:29:27] planet 30: building queue full (5)
+[2026-05-11 08:30:10] ==== loop 15/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:30:13] planet 30: building queue full (5)
+[08:30:13] planet 30: building queue full (5)
+[08:30:13] planet 30: building queue full (5)
+[08:30:13] planet 30: building queue full (5)
+[08:30:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:30:49] ==== loop 16/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:30:52] planet 30: building queue full (5)
+[08:30:52] planet 30: building queue full (5)
+[08:30:52] planet 30: building queue full (5)
+[2026-05-11 08:31:34] ==== loop 17/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:31:37] planet 30: building queue full (5)
+[08:31:37] planet 30: building queue full (5)
+[08:31:37] planet 30: building queue full (5)
+[08:31:37] planet 30: building queue full (5)
+[08:31:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:32:18] ==== loop 18/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:32:21] planet 30: building queue full (5)
+[08:32:21] planet 30: building queue full (5)
+[08:32:21] planet 30: building queue full (5)
+[08:32:21] planet 30: building queue full (5)
+[08:32:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:33:01] ==== loop 19/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:33:03] planet 30: building queue full (5)
+[08:33:03] planet 30: building queue full (5)
+[08:33:03] planet 30: building queue full (5)
+[2026-05-11 08:33:44] ==== loop 20/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:33:47] planet 30: building queue full (5)
+[08:33:47] planet 30: building queue full (5)
+[08:33:47] planet 30: building queue full (5)
+[08:33:47] planet 30: building queue full (5)
+[08:33:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:34:31] ==== loop 21/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:34:34] planet 30: building queue full (5)
+[08:34:34] planet 30: building queue full (5)
+[08:34:34] planet 30: building queue full (5)
+[08:34:34] planet 30: building queue full (5)
+[08:34:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:35:16] ==== loop 22/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:35:18] planet 30: building queue full (5)
+[08:35:18] planet 30: building queue full (5)
+[08:35:18] planet 30: building queue full (5)
+[08:35:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:35:58] ==== loop 23/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:36:00] planet 30: building queue full (5)
+[08:36:00] planet 30: building queue full (5)
+[08:36:00] planet 30: building queue full (5)
+[08:36:00] planet 30: building queue full (5)
+[08:36:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:36:47] ==== loop 24/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:36:50] planet 30: building queue full (5)
+[08:36:50] planet 30: building queue full (5)
+[08:36:50] planet 30: building queue full (5)
+[08:36:50] planet 30: building queue full (5)
+[2026-05-11 08:37:36] ==== loop 25/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:37:39] planet 30: building queue full (5)
+[08:37:39] planet 30: building queue full (5)
+[08:37:39] planet 30: building queue full (5)
+[08:37:39] planet 30: building queue full (5)
+[08:37:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:38:15] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:38:17] planet 30: building queue full (5)
+[08:38:17] planet 30: building queue full (5)
+[08:38:17] planet 30: building queue full (5)
+[2026-05-11 08:38:56] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:38:58] planet 30: building queue full (5)
+[08:38:58] planet 30: building queue full (5)
+[08:38:58] planet 30: building queue full (5)
+[08:38:58] planet 30: building queue full (5)
+[2026-05-11 08:39:37] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:39:40] planet 30: building queue full (5)
+[08:39:40] planet 30: building queue full (5)
+[08:39:40] planet 30: building queue full (5)
+[08:39:40] planet 30: building queue full (5)
+[08:39:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:40:26] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:40:28] planet 30: building queue full (5)
+[08:40:28] planet 30: building queue full (5)
+[08:40:28] planet 30: building queue full (5)
+[08:40:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:41:11] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:41:13] planet 30: building queue full (5)
+[08:41:13] planet 30: building queue full (5)
+[08:41:13] planet 30: building queue full (5)
+[08:41:13] planet 30: building queue full (5)
+[2026-05-11 08:41:56] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:41:59] planet 30: building queue full (5)
+[08:41:59] planet 30: building queue full (5)
+[08:41:59] planet 30: building queue full (5)
+[08:41:59] planet 30: building queue full (5)
+[2026-05-11 08:42:41] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:42:43] planet 30: building queue full (5)
+[08:42:43] planet 30: building queue full (5)
+[08:42:43] planet 30: building queue full (5)
+[08:42:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:43:24] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:43:26] planet 30: building queue full (5)
+[08:43:26] planet 30: building queue full (5)
+[08:43:26] planet 30: building queue full (5)
+[08:43:26] planet 30: building queue full (5)
+[08:43:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:44:08] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:44:10] planet 30: building queue full (5)
+[08:44:10] planet 30: building queue full (5)
+[08:44:10] planet 30: building queue full (5)
+[08:44:10] planet 30: building queue full (5)
+[08:44:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:44:54] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:44:56] planet 30: building queue full (5)
+[08:44:56] planet 30: building queue full (5)
+[08:44:56] planet 30: building queue full (5)
+[08:44:56] planet 30: building queue full (5)
+[08:44:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:45:38] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:45:39] planet 30: building queue full (5)
+[08:45:39] planet 30: building queue full (5)
+[08:45:39] planet 30: building queue full (5)
+[08:45:39] planet 30: building queue full (5)
+[2026-05-11 08:46:22] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:46:25] planet 30: building queue full (5)
+[08:46:25] planet 30: building queue full (5)
+[08:46:25] planet 30: building queue full (5)
+[08:46:25] planet 30: building queue full (5)
+[08:46:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:47:10] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:47:13] planet 30: building queue full (5)
+[08:47:13] planet 30: building queue full (5)
+[08:47:13] planet 30: building queue full (5)
+[08:47:13] planet 30: building queue full (5)
+[2026-05-11 08:47:50] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:47:53] planet 30: building queue full (5)
+[08:47:53] planet 30: building queue full (5)
+[08:47:53] planet 30: building queue full (5)
+[08:47:53] planet 30: building queue full (5)
+[08:47:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:48:36] ==== loop 15/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:48:39] planet 30: building queue full (5)
+[08:48:39] planet 30: building queue full (5)
+[08:48:39] planet 30: building queue full (5)
+[08:48:39] planet 30: building queue full (5)
+[2026-05-11 08:49:21] ==== loop 16/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:49:25] planet 30: building queue full (5)
+[08:49:25] planet 30: building queue full (5)
+[08:49:25] planet 30: building queue full (5)
+[08:49:25] planet 30: building queue full (5)
+[2026-05-11 08:50:03] ==== loop 17/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:50:06] planet 30: building queue full (5)
+[08:50:06] planet 30: building queue full (5)
+[08:50:06] planet 30: building queue full (5)
+[08:50:06] planet 30: building queue full (5)
+[08:50:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:50:48] ==== loop 18/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:50:51] planet 30: building queue full (5)
+[08:50:51] planet 30: building queue full (5)
+[08:50:51] planet 30: building queue full (5)
+[08:50:51] planet 30: building queue full (5)
+[08:50:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:51:30] ==== loop 19/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:51:32] planet 30: building queue full (5)
+[08:51:32] planet 30: building queue full (5)
+[08:51:32] planet 30: building queue full (5)
+[08:51:32] planet 30: building queue full (5)
+[08:51:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:52:15] ==== loop 20/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:52:18] planet 30: building queue full (5)
+[08:52:18] planet 30: building queue full (5)
+[08:52:18] planet 30: building queue full (5)
+[08:52:18] planet 30: building queue full (5)
+[08:52:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:52:56] ==== loop 21/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:52:59] planet 30: building queue full (5)
+[08:52:59] planet 30: building queue full (5)
+[08:52:59] planet 30: building queue full (5)
+[08:52:59] planet 30: building queue full (5)
+[08:52:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:53:39] ==== loop 22/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:53:41] planet 30: building queue full (5)
+[08:53:41] planet 30: building queue full (5)
+[08:53:41] planet 30: building queue full (5)
+[08:53:41] planet 30: building queue full (5)
+[2026-05-11 08:54:19] ==== loop 23/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:54:22] planet 30: building queue full (5)
+[08:54:22] planet 30: building queue full (5)
+[08:54:22] planet 30: building queue full (5)
+[08:54:22] planet 30: building queue full (5)
+[08:54:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:55:01] ==== loop 24/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:55:03] planet 30: building queue full (5)
+[08:55:03] planet 30: building queue full (5)
+[08:55:03] planet 30: building queue full (5)
+[08:55:03] planet 30: building queue full (5)
+[2026-05-11 08:55:38] ==== loop 25/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:55:42] planet 30: building queue full (5)
+[08:55:42] planet 30: building queue full (5)
+[08:55:42] planet 30: building queue full (5)
+[08:55:42] planet 30: building queue full (5)
+[2026-05-11 08:56:25] ==== loop 26/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:56:27] planet 30: building queue full (5)
+[08:56:27] planet 30: building queue full (5)
+[08:56:27] planet 30: building queue full (5)
+[08:56:27] planet 30: building queue full (5)
+[08:56:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:57:05] ==== loop 27/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:57:09] planet 30: building queue full (5)
+[08:57:09] planet 30: building queue full (5)
+[08:57:09] planet 30: building queue full (5)
+[08:57:09] planet 30: building queue full (5)
+[08:57:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:57:47] ==== loop 28/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:57:50] planet 30: building queue full (5)
+[08:57:50] planet 30: building queue full (5)
+[08:57:50] planet 30: building queue full (5)
+[08:57:50] planet 30: building queue full (5)
+[08:57:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:58:27] ==== loop 29/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:58:30] planet 30: building queue full (5)
+[08:58:30] planet 30: building queue full (5)
+[08:58:30] planet 30: building queue full (5)
+[08:58:30] planet 30: building queue full (5)
+[2026-05-11 08:59:12] ==== loop 30/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:59:14] planet 30: building queue full (5)
+[08:59:14] planet 30: building queue full (5)
+[08:59:14] planet 30: building queue full (5)
+[08:59:14] planet 30: building queue full (5)
+[08:59:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:59:57] ==== loop 31/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[08:59:59] planet 30: building queue full (5)
+[08:59:59] planet 30: building queue full (5)
+[08:59:59] planet 30: building queue full (5)
+[08:59:59] planet 30: building queue full (5)
+[08:59:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:00:35] ==== loop 32/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:00:38] planet 30: building queue full (5)
+[09:00:38] planet 30: building queue full (5)
+[09:00:38] planet 30: building queue full (5)
+[09:00:38] planet 30: building queue full (5)
+[09:00:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:01:19] ==== loop 33/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:01:22] planet 30: building queue full (5)
+[09:01:22] planet 30: building queue full (5)
+[09:01:22] planet 30: building queue full (5)
+[09:01:22] planet 30: building queue full (5)
+[2026-05-11 09:02:00] ==== loop 34/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:02:03] planet 30: building queue full (5)
+[09:02:03] planet 30: building queue full (5)
+[09:02:03] planet 30: building queue full (5)
+[09:02:03] planet 30: building queue full (5)
+[09:02:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:02:46] ==== loop 35/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:02:49] planet 30: building queue full (5)
+[09:02:49] planet 30: building queue full (5)
+[09:02:49] planet 30: building queue full (5)
+[09:02:49] planet 30: building queue full (5)
+[2026-05-11 09:03:28] ==== loop 36/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:03:30] planet 30: building queue full (5)
+[09:03:30] planet 30: building queue full (5)
+[09:03:30] planet 30: building queue full (5)
+[09:03:30] planet 30: building queue full (5)
+[09:03:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:04:08] ==== loop 37/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:04:11] planet 30: building queue full (5)
+[09:04:11] planet 30: building queue full (5)
+[09:04:11] planet 30: building queue full (5)
+[09:04:11] planet 30: building queue full (5)
+[09:04:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:04:50] ==== loop 38/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:04:55] planet 30: building queue full (5)
+[09:04:55] planet 30: building queue full (5)
+[09:04:55] planet 30: building queue full (5)
+[09:04:55] planet 30: building queue full (5)
+[2026-05-11 09:05:31] ==== loop 39/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:05:34] planet 30: building queue full (5)
+[09:05:34] planet 30: building queue full (5)
+[09:05:34] planet 30: building queue full (5)
+[09:05:34] planet 30: building queue full (5)
+[09:05:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:06:14] ==== loop 40/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:06:16] planet 30: building queue full (5)
+[09:06:16] planet 30: building queue full (5)
+[09:06:16] planet 30: building queue full (5)
+[09:06:16] planet 30: building queue full (5)
+[2026-05-11 09:06:53] ==== loop 41/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:06:57] planet 30: building queue full (5)
+[09:06:57] planet 30: building queue full (5)
+[09:06:57] planet 30: building queue full (5)
+[09:06:57] planet 30: building queue full (5)
+[2026-05-11 09:07:33] ==== loop 42/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:07:36] planet 30: building queue full (5)
+[09:07:36] planet 30: building queue full (5)
+[09:07:36] planet 30: building queue full (5)
+[09:07:36] planet 30: building queue full (5)
+[09:07:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:08:16] ==== loop 43/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:08:19] planet 30: building queue full (5)
+[09:08:19] planet 30: building queue full (5)
+[09:08:19] planet 30: building queue full (5)
+[09:08:19] planet 30: building queue full (5)
+[09:08:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:08:54] ==== loop 44/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:08:55] planet 30: building queue full (5)
+[09:08:55] planet 30: building queue full (5)
+[09:08:55] planet 30: building queue full (5)
+[09:08:55] planet 30: building queue full (5)
+[09:08:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:09:36] ==== loop 45/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:09:39] planet 30: building queue full (5)
+[09:09:39] planet 30: building queue full (5)
+[09:09:39] planet 30: building queue full (5)
+[09:09:39] planet 30: building queue full (5)
+[09:09:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:10:18] ==== loop 46/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:10:20] planet 30: building queue full (5)
+[09:10:20] planet 30: building queue full (5)
+[09:10:20] planet 30: building queue full (5)
+[09:10:20] planet 30: building queue full (5)
+[09:10:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:11:00] ==== loop 47/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:11:03] planet 30: building queue full (5)
+[09:11:03] planet 30: building queue full (5)
+[09:11:03] planet 30: building queue full (5)
+[09:11:03] planet 30: building queue full (5)
+[09:11:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:11:40] ==== loop 48/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:11:43] planet 30: building queue full (5)
+[09:11:43] planet 30: building queue full (5)
+[09:11:43] planet 30: building queue full (5)
+[09:11:43] planet 30: building queue full (5)
+[09:11:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:12:23] ==== loop 49/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:12:26] planet 30: building queue full (5)
+[09:12:26] planet 30: building queue full (5)
+[09:12:26] planet 30: building queue full (5)
+[09:12:26] planet 30: building queue full (5)
+[09:12:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:13:06] ==== loop 50/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:13:09] planet 30: building queue full (5)
+[09:13:09] planet 30: building queue full (5)
+[09:13:09] planet 30: building queue full (5)
+[09:13:09] planet 30: building queue full (5)
+[09:13:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:13:49] ==== loop 51/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:13:51] planet 30: building queue full (5)
+[09:13:51] planet 30: building queue full (5)
+[09:13:51] planet 30: building queue full (5)
+[09:13:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:14:36] ==== loop 52/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:14:39] planet 30: building queue full (5)
+[09:14:39] planet 30: building queue full (5)
+[09:14:39] planet 30: building queue full (5)
+[09:14:39] planet 30: building queue full (5)
+[09:14:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:15:22] ==== loop 53/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:15:24] planet 30: building queue full (5)
+[09:15:24] planet 30: building queue full (5)
+[09:15:24] planet 30: building queue full (5)
+[09:15:24] planet 30: building queue full (5)
+[09:15:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:16:08] ==== loop 54/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:16:10] planet 30: building queue full (5)
+[09:16:10] planet 30: building queue full (5)
+[09:16:10] planet 30: building queue full (5)
+[09:16:10] planet 30: building queue full (5)
+[09:16:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:16:50] ==== loop 55/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:16:52] planet 30: building queue full (5)
+[09:16:52] planet 30: building queue full (5)
+[09:16:52] planet 30: building queue full (5)
+[09:16:52] planet 30: building queue full (5)
+[09:16:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:17:35] ==== loop 56/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:17:38] planet 30: building queue full (5)
+[09:17:38] planet 30: building queue full (5)
+[09:17:38] planet 30: building queue full (5)
+[09:17:38] planet 30: building queue full (5)
+[09:17:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:18:23] ==== loop 57/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:18:26] planet 30: building queue full (5)
+[09:18:26] planet 30: building queue full (5)
+[09:18:26] planet 30: building queue full (5)
+[09:18:26] planet 30: building queue full (5)
+[09:18:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:19:10] ==== loop 58/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:19:14] planet 30: building queue full (5)
+[09:19:14] planet 30: building queue full (5)
+[09:19:14] planet 30: building queue full (5)
+[09:19:14] planet 30: building queue full (5)
+[2026-05-11 09:19:55] ==== loop 59/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:19:58] planet 30: building queue full (5)
+[09:19:58] planet 30: building queue full (5)
+[09:19:58] planet 30: building queue full (5)
+[09:19:58] planet 30: building queue full (5)
+[09:19:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:20:38] ==== loop 60/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:20:39] planet 30: building queue full (5)
+[09:20:39] planet 30: building queue full (5)
+[09:20:39] planet 30: building queue full (5)
+[09:20:39] planet 30: building queue full (5)
+[2026-05-11 09:21:23] ==== loop 61/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:21:25] planet 30: building queue full (5)
+[09:21:25] planet 30: building queue full (5)
+[09:21:25] planet 30: building queue full (5)
+[09:21:25] planet 30: building queue full (5)
+[09:21:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:22:07] ==== loop 62/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:22:10] planet 30: building queue full (5)
+[09:22:10] planet 30: building queue full (5)
+[09:22:10] planet 30: building queue full (5)
+[09:22:10] planet 30: building queue full (5)
+[09:22:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:22:54] ==== loop 63/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:22:55] planet 30: building queue full (5)
+[09:22:55] planet 30: building queue full (5)
+[09:22:55] planet 30: building queue full (5)
+[2026-05-11 09:23:36] ==== loop 64/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:23:40] planet 30: building queue full (5)
+[09:23:40] planet 30: building queue full (5)
+[09:23:40] planet 30: building queue full (5)
+[09:23:40] planet 30: building queue full (5)
+[09:23:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:24:23] ==== loop 65/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:24:26] planet 30: building queue full (5)
+[09:24:26] planet 30: building queue full (5)
+[09:24:26] planet 30: building queue full (5)
+[09:24:26] planet 30: building queue full (5)
+[2026-05-11 09:25:09] ==== loop 66/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:25:11] planet 30: building queue full (5)
+[09:25:11] planet 30: building queue full (5)
+[09:25:11] planet 30: building queue full (5)
+[09:25:11] planet 30: building queue full (5)
+[09:25:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:25:58] ==== loop 67/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:26:01] planet 30: building queue full (5)
+[09:26:01] planet 30: building queue full (5)
+[09:26:01] planet 30: building queue full (5)
+[09:26:01] planet 30: building queue full (5)
+[09:26:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:26:40] ==== loop 68/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:26:43] planet 30: building queue full (5)
+[09:26:43] planet 30: building queue full (5)
+[09:26:43] planet 30: building queue full (5)
+[09:26:43] planet 30: building queue full (5)
+[2026-05-11 09:27:26] ==== loop 69/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:27:29] planet 30: building queue full (5)
+[09:27:29] planet 30: building queue full (5)
+[09:27:29] planet 30: building queue full (5)
+[09:27:29] planet 30: building queue full (5)
+[09:27:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:28:09] ==== loop 70/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:28:11] planet 30: building queue full (5)
+[09:28:11] planet 30: building queue full (5)
+[09:28:11] planet 30: building queue full (5)
+[09:28:11] planet 30: building queue full (5)
+[09:28:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:28:53] ==== loop 71/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:28:54] planet 30: building queue full (5)
+[09:28:54] planet 30: building queue full (5)
+[09:28:54] planet 30: building queue full (5)
+[09:28:54] planet 30: building queue full (5)
+[09:28:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:29:32] ==== loop 72/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:29:34] planet 30: building queue full (5)
+[09:29:34] planet 30: building queue full (5)
+[09:29:34] planet 30: building queue full (5)
+[09:29:34] planet 30: building queue full (5)
+[2026-05-11 09:30:19] ==== loop 73/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:30:22] planet 30: building queue full (5)
+[09:30:22] planet 30: building queue full (5)
+[09:30:22] planet 30: building queue full (5)
+[09:30:22] planet 30: building queue full (5)
+[09:30:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:31:00] ==== loop 74/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:31:02] planet 30: building queue full (5)
+[09:31:02] planet 30: building queue full (5)
+[09:31:02] planet 30: building queue full (5)
+[09:31:02] planet 30: building queue full (5)
+[2026-05-11 09:31:41] ==== loop 75/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:31:43] planet 30: building queue full (5)
+[09:31:43] planet 30: building queue full (5)
+[09:31:43] planet 30: building queue full (5)
+[09:31:43] planet 30: building queue full (5)
+[2026-05-11 09:32:29] ==== loop 76/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:32:30] planet 30: building queue full (5)
+[09:32:30] planet 30: building queue full (5)
+[09:32:30] planet 30: building queue full (5)
+[09:32:30] planet 30: building queue full (5)
+[09:32:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:33:10] ==== loop 77/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:33:13] planet 30: building queue full (5)
+[09:33:13] planet 30: building queue full (5)
+[09:33:13] planet 30: building queue full (5)
+[09:33:13] planet 30: building queue full (5)
+[09:33:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:33:58] ==== loop 78/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:34:02] planet 30: building queue full (5)
+[09:34:02] planet 30: building queue full (5)
+[09:34:02] planet 30: building queue full (5)
+[09:34:02] planet 30: building queue full (5)
+[2026-05-11 09:34:44] ==== loop 79/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:34:45] planet 30: building queue full (5)
+[09:34:45] planet 30: building queue full (5)
+[09:34:45] planet 30: building queue full (5)
+[09:34:45] planet 30: building queue full (5)
+[09:34:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:35:36] ==== loop 80/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:35:38] planet 30: building queue full (5)
+[09:35:38] planet 30: building queue full (5)
+[09:35:38] planet 30: building queue full (5)
+[09:35:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:36:21] ==== loop 81/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:36:22] planet 30: building queue full (5)
+[09:36:22] planet 30: building queue full (5)
+[09:36:22] planet 30: building queue full (5)
+[09:36:22] planet 30: building queue full (5)
+[09:36:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:37:07] ==== loop 82/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:37:08] planet 30: building queue full (5)
+[09:37:08] planet 30: building queue full (5)
+[09:37:08] planet 30: building queue full (5)
+[09:37:08] planet 30: building queue full (5)
+[09:37:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:37:53] ==== loop 83/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:37:55] planet 30: building queue full (5)
+[09:37:55] planet 30: building queue full (5)
+[09:37:55] planet 30: building queue full (5)
+[2026-05-11 09:38:41] ==== loop 84/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:38:43] planet 30: building queue full (5)
+[09:38:43] planet 30: building queue full (5)
+[09:38:43] planet 30: building queue full (5)
+[09:38:43] planet 30: building queue full (5)
+[09:38:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:39:25] ==== loop 85/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:39:27] planet 30: building queue full (5)
+[09:39:27] planet 30: building queue full (5)
+[09:39:27] planet 30: building queue full (5)
+[09:39:27] planet 30: building queue full (5)
+[2026-05-11 09:39:53] ==== loop 1/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:39:56] planet 30: building queue full (5)
+[09:39:56] planet 30: building queue full (5)
+[09:39:56] planet 30: building queue full (5)
+[09:39:56] planet 30: building queue full (5)
+[2026-05-11 09:40:39] ==== loop 2/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:40:40] planet 30: queued building_crystal_mine to 17
+[09:40:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:41:26] ==== loop 3/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:41:28] planet 30: building queue full (5)
+[09:41:28] planet 30: building queue full (5)
+[09:41:28] planet 30: building queue full (5)
+[09:41:28] planet 30: building queue full (5)
+[2026-05-11 09:42:04] ==== loop 4/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:42:07] planet 30: building queue full (5)
+[09:42:07] planet 30: building queue full (5)
+[09:42:07] planet 30: building queue full (5)
+[09:42:07] planet 30: building queue full (5)
+[2026-05-11 09:42:51] ==== loop 5/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:42:54] planet 30: building queue full (5)
+[09:42:54] planet 30: building queue full (5)
+[09:42:54] planet 30: building queue full (5)
+[09:42:54] planet 30: building queue full (5)
+[2026-05-11 09:43:38] ==== loop 6/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:43:40] planet 30: building queue full (5)
+[09:43:40] planet 30: building queue full (5)
+[09:43:40] planet 30: building queue full (5)
+[09:43:40] planet 30: building queue full (5)
+[09:43:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:44:26] ==== loop 7/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:44:28] planet 30: building queue full (5)
+[09:44:28] planet 30: building queue full (5)
+[09:44:28] planet 30: building queue full (5)
+[09:44:28] planet 30: building queue full (5)
+[09:44:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:45:12] ==== loop 8/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:45:14] planet 30: building queue full (5)
+[09:45:14] planet 30: building queue full (5)
+[09:45:14] planet 30: building queue full (5)
+[09:45:14] planet 30: building queue full (5)
+[09:45:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:45:57] ==== loop 9/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:45:59] planet 30: building queue full (5)
+[09:45:59] planet 30: building queue full (5)
+[09:45:59] planet 30: building queue full (5)
+[09:45:59] planet 30: building queue full (5)
+[2026-05-11 09:46:37] ==== loop 10/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:46:40] planet 30: building queue full (5)
+[09:46:40] planet 30: building queue full (5)
+[09:46:40] planet 30: building queue full (5)
+[09:46:40] planet 30: building queue full (5)
+[2026-05-11 09:47:23] ==== loop 11/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:47:26] planet 30: building queue full (5)
+[09:47:26] planet 30: building queue full (5)
+[09:47:26] planet 30: building queue full (5)
+[09:47:26] planet 30: building queue full (5)
+[09:47:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:48:10] ==== loop 12/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:48:12] planet 30: building queue full (5)
+[09:48:12] planet 30: building queue full (5)
+[09:48:12] planet 30: building queue full (5)
+[09:48:12] planet 30: building queue full (5)
+[09:48:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:48:51] ==== loop 13/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:48:54] planet 30: building queue full (5)
+[09:48:54] planet 30: building queue full (5)
+[09:48:54] planet 30: building queue full (5)
+[09:48:54] planet 30: building queue full (5)
+[09:48:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:49:38] ==== loop 14/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:49:41] planet 30: building queue full (5)
+[09:49:41] planet 30: building queue full (5)
+[09:49:41] planet 30: building queue full (5)
+[09:49:41] planet 30: building queue full (5)
+[09:49:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:50:25] ==== loop 15/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:50:27] planet 30: building queue full (5)
+[09:50:27] planet 30: building queue full (5)
+[09:50:27] planet 30: building queue full (5)
+[09:50:27] planet 30: building queue full (5)
+[2026-05-11 09:51:03] ==== loop 16/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:51:06] planet 30: building queue full (5)
+[09:51:06] planet 30: building queue full (5)
+[09:51:06] planet 30: building queue full (5)
+[09:51:06] planet 30: building queue full (5)
+[09:51:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:51:44] ==== loop 17/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:51:48] planet 30: building queue full (5)
+[09:51:48] planet 30: building queue full (5)
+[09:51:48] planet 30: building queue full (5)
+[09:51:48] planet 30: building queue full (5)
+[09:51:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:52:26] ==== loop 18/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:52:28] planet 30: building queue full (5)
+[09:52:28] planet 30: building queue full (5)
+[09:52:28] planet 30: building queue full (5)
+[09:52:28] planet 30: building queue full (5)
+[2026-05-11 09:53:07] ==== loop 19/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:53:09] planet 30: building queue full (5)
+[09:53:09] planet 30: building queue full (5)
+[09:53:09] planet 30: building queue full (5)
+[09:53:09] planet 30: building queue full (5)
+[09:53:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:53:48] ==== loop 20/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:53:50] planet 30: building queue full (5)
+[09:53:50] planet 30: building queue full (5)
+[09:53:50] planet 30: building queue full (5)
+[09:53:50] planet 30: building queue full (5)
+[09:53:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:54:30] ==== loop 21/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:54:33] planet 30: building queue full (5)
+[09:54:33] planet 30: building queue full (5)
+[09:54:33] planet 30: building queue full (5)
+[09:54:33] planet 30: building queue full (5)
+[09:54:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:55:13] ==== loop 22/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:55:15] planet 30: building queue full (5)
+[09:55:15] planet 30: building queue full (5)
+[09:55:15] planet 30: building queue full (5)
+[2026-05-11 09:55:54] ==== loop 23/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:55:55] planet 30: building queue full (5)
+[09:55:55] planet 30: building queue full (5)
+[09:55:55] planet 30: building queue full (5)
+[09:55:55] planet 30: building queue full (5)
+[09:55:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:56:32] ==== loop 24/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:56:34] planet 30: building queue full (5)
+[09:56:34] planet 30: building queue full (5)
+[09:56:34] planet 30: building queue full (5)
+[09:56:34] planet 30: building queue full (5)
+[09:56:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:57:10] ==== loop 25/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:57:12] planet 30: building queue full (5)
+[09:57:12] planet 30: building queue full (5)
+[09:57:12] planet 30: building queue full (5)
+[09:57:12] planet 30: building queue full (5)
+[09:57:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:57:51] ==== loop 26/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:57:53] planet 30: building queue full (5)
+[09:57:53] planet 30: building queue full (5)
+[09:57:53] planet 30: building queue full (5)
+[09:57:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:58:32] ==== loop 27/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:58:36] planet 30: building queue full (5)
+[09:58:36] planet 30: building queue full (5)
+[09:58:36] planet 30: building queue full (5)
+[09:58:36] planet 30: building queue full (5)
+[09:58:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:59:13] ==== loop 28/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:59:15] planet 30: building queue full (5)
+[09:59:15] planet 30: building queue full (5)
+[09:59:15] planet 30: building queue full (5)
+[09:59:15] planet 30: building queue full (5)
+[09:59:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:59:56] ==== loop 29/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[09:59:58] planet 30: building queue full (5)
+[09:59:58] planet 30: building queue full (5)
+[09:59:58] planet 30: building queue full (5)
+[09:59:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:00:35] ==== loop 30/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:00:36] planet 30: building queue full (5)
+[10:00:36] planet 30: building queue full (5)
+[10:00:36] planet 30: building queue full (5)
+[10:00:36] planet 30: building queue full (5)
+[2026-05-11 10:01:16] ==== loop 31/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:01:18] planet 30: building queue full (5)
+[10:01:18] planet 30: building queue full (5)
+[10:01:18] planet 30: building queue full (5)
+[10:01:18] planet 30: building queue full (5)
+[10:01:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:01:55] ==== loop 32/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:01:57] planet 30: building queue full (5)
+[10:01:57] planet 30: building queue full (5)
+[10:01:57] planet 30: building queue full (5)
+[10:01:57] planet 30: building queue full (5)
+[10:01:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:02:33] ==== loop 33/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:02:35] planet 30: building queue full (5)
+[10:02:35] planet 30: building queue full (5)
+[10:02:35] planet 30: building queue full (5)
+[10:02:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:03:09] ==== loop 34/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:03:12] planet 30: building queue full (5)
+[10:03:12] planet 30: building queue full (5)
+[10:03:12] planet 30: building queue full (5)
+[10:03:12] planet 30: building queue full (5)
+[10:03:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:03:52] ==== loop 35/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:03:53] planet 30: building queue full (5)
+[10:03:53] planet 30: building queue full (5)
+[10:03:53] planet 30: building queue full (5)
+[10:03:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:04:28] ==== loop 36/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:04:32] planet 30: building queue full (5)
+[10:04:32] planet 30: building queue full (5)
+[10:04:32] planet 30: building queue full (5)
+[10:04:32] planet 30: building queue full (5)
+[2026-05-11 10:05:11] ==== loop 37/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:05:13] planet 30: building queue full (5)
+[10:05:13] planet 30: building queue full (5)
+[10:05:13] planet 30: building queue full (5)
+[10:05:13] planet 30: building queue full (5)
+[10:05:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:05:51] ==== loop 38/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:05:52] planet 30: building queue full (5)
+[10:05:52] planet 30: building queue full (5)
+[10:05:52] planet 30: building queue full (5)
+[2026-05-11 10:06:28] ==== loop 39/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:06:31] planet 30: building queue full (5)
+[10:06:31] planet 30: building queue full (5)
+[10:06:31] planet 30: building queue full (5)
+[10:06:31] planet 30: building queue full (5)
+[10:06:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:07:08] ==== loop 40/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:07:10] planet 30: building queue full (5)
+[10:07:10] planet 30: building queue full (5)
+[10:07:10] planet 30: building queue full (5)
+[10:07:10] planet 30: building queue full (5)
+[10:07:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:07:47] ==== loop 41/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:07:49] planet 30: building queue full (5)
+[10:07:49] planet 30: building queue full (5)
+[10:07:49] planet 30: building queue full (5)
+[10:07:49] planet 30: building queue full (5)
+[10:07:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:08:25] ==== loop 42/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:08:27] planet 30: building queue full (5)
+[10:08:27] planet 30: building queue full (5)
+[10:08:27] planet 30: building queue full (5)
+[10:08:27] planet 30: building queue full (5)
+[2026-05-11 10:09:01] ==== loop 43/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:09:03] planet 30: building queue full (5)
+[10:09:03] planet 30: building queue full (5)
+[10:09:03] planet 30: building queue full (5)
+[10:09:03] planet 30: building queue full (5)
+[10:09:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:09:33] ==== loop 44/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:09:36] planet 30: building queue full (5)
+[10:09:36] planet 30: building queue full (5)
+[10:09:36] planet 30: building queue full (5)
+[10:09:36] planet 30: building queue full (5)
+[10:09:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:10:15] ==== loop 45/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:10:18] planet 30: building queue full (5)
+[10:10:18] planet 30: building queue full (5)
+[10:10:18] planet 30: building queue full (5)
+[10:10:18] planet 30: building queue full (5)
+[10:10:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:10:57] ==== loop 46/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:11:00] planet 30: building queue full (5)
+[10:11:00] planet 30: building queue full (5)
+[10:11:00] planet 30: building queue full (5)
+[10:11:00] planet 30: building queue full (5)
+[10:11:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:11:44] ==== loop 47/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:11:46] planet 30: building queue full (5)
+[10:11:46] planet 30: building queue full (5)
+[10:11:46] planet 30: building queue full (5)
+[10:11:46] planet 30: building queue full (5)
+[2026-05-11 10:12:23] ==== loop 48/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:12:24] planet 30: building queue full (5)
+[10:12:24] planet 30: building queue full (5)
+[10:12:24] planet 30: building queue full (5)
+[10:12:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:13:05] ==== loop 49/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:13:07] planet 30: building queue full (5)
+[10:13:07] planet 30: building queue full (5)
+[10:13:07] planet 30: building queue full (5)
+[2026-05-11 10:13:49] ==== loop 50/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:13:52] planet 30: building queue full (5)
+[10:13:52] planet 30: building queue full (5)
+[10:13:52] planet 30: building queue full (5)
+[10:13:52] planet 30: building queue full (5)
+[10:13:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:14:32] ==== loop 51/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:14:35] planet 30: building queue full (5)
+[10:14:35] planet 30: building queue full (5)
+[10:14:35] planet 30: building queue full (5)
+[10:14:35] planet 30: building queue full (5)
+[10:14:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:15:15] ==== loop 52/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:15:16] planet 30: building queue full (5)
+[10:15:16] planet 30: building queue full (5)
+[10:15:16] planet 30: building queue full (5)
+[10:15:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:15:58] ==== loop 53/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:16:01] planet 30: building queue full (5)
+[10:16:01] planet 30: building queue full (5)
+[10:16:01] planet 30: building queue full (5)
+[10:16:01] planet 30: building queue full (5)
+[10:16:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:16:37] ==== loop 54/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:16:40] planet 30: building queue full (5)
+[10:16:40] planet 30: building queue full (5)
+[10:16:40] planet 30: building queue full (5)
+[10:16:40] planet 30: building queue full (5)
+[2026-05-11 10:17:22] ==== loop 55/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:17:25] planet 30: building queue full (5)
+[10:17:25] planet 30: building queue full (5)
+[10:17:25] planet 30: building queue full (5)
+[10:17:25] planet 30: building queue full (5)
+[10:17:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:18:08] ==== loop 56/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:18:11] planet 30: building queue full (5)
+[10:18:11] planet 30: building queue full (5)
+[10:18:11] planet 30: building queue full (5)
+[10:18:11] planet 30: building queue full (5)
+[2026-05-11 10:18:54] ==== loop 57/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:18:57] planet 30: building queue full (5)
+[10:18:57] planet 30: building queue full (5)
+[10:18:57] planet 30: building queue full (5)
+[10:18:57] planet 30: building queue full (5)
+[10:18:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:19:35] ==== loop 58/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:19:39] planet 30: building queue full (5)
+[10:19:39] planet 30: building queue full (5)
+[10:19:39] planet 30: building queue full (5)
+[10:19:39] planet 30: building queue full (5)
+[10:19:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:20:19] ==== loop 59/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:20:22] planet 30: building queue full (5)
+[10:20:22] planet 30: building queue full (5)
+[10:20:22] planet 30: building queue full (5)
+[10:20:22] planet 30: building queue full (5)
+[10:20:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:21:09] ==== loop 60/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:21:12] planet 30: building queue full (5)
+[10:21:12] planet 30: building queue full (5)
+[10:21:12] planet 30: building queue full (5)
+[10:21:12] planet 30: building queue full (5)
+[10:21:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:22:03] ==== loop 61/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:22:06] planet 30: building queue full (5)
+[10:22:06] planet 30: building queue full (5)
+[10:22:06] planet 30: building queue full (5)
+[10:22:06] planet 30: building queue full (5)
+[2026-05-11 10:22:53] ==== loop 62/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:22:55] planet 30: building queue full (5)
+[10:22:55] planet 30: building queue full (5)
+[10:22:55] planet 30: building queue full (5)
+[10:22:55] planet 30: building queue full (5)
+[10:22:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:23:36] ==== loop 63/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:23:39] planet 30: building queue full (5)
+[10:23:39] planet 30: building queue full (5)
+[10:23:39] planet 30: building queue full (5)
+[10:23:39] planet 30: building queue full (5)
+[10:23:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:24:26] ==== loop 64/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:24:29] planet 30: building queue full (5)
+[10:24:29] planet 30: building queue full (5)
+[10:24:29] planet 30: building queue full (5)
+[10:24:29] planet 30: building queue full (5)
+[10:24:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:25:12] ==== loop 65/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:25:14] planet 30: building queue full (5)
+[10:25:14] planet 30: building queue full (5)
+[10:25:14] planet 30: building queue full (5)
+[10:25:14] planet 30: building queue full (5)
+[10:25:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:26:01] ==== loop 66/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:26:03] planet 30: building queue full (5)
+[10:26:03] planet 30: building queue full (5)
+[10:26:03] planet 30: building queue full (5)
+[10:26:03] planet 30: building queue full (5)
+[2026-05-11 10:26:45] ==== loop 67/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:26:47] planet 30: building queue full (5)
+[10:26:47] planet 30: building queue full (5)
+[10:26:47] planet 30: building queue full (5)
+[10:26:47] planet 30: building queue full (5)
+[10:26:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:27:32] ==== loop 68/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:27:35] planet 30: building queue full (5)
+[10:27:35] planet 30: building queue full (5)
+[10:27:35] planet 30: building queue full (5)
+[10:27:35] planet 30: building queue full (5)
+[10:27:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:28:16] ==== loop 69/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:28:17] planet 30: building queue full (5)
+[10:28:17] planet 30: building queue full (5)
+[10:28:17] planet 30: building queue full (5)
+[2026-05-11 10:29:08] ==== loop 70/∞ | seed=630860493361450395 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:29:11] planet 30: building queue full (5)
+[10:29:11] planet 30: building queue full (5)
+[10:29:11] planet 30: building queue full (5)
+[10:29:11] planet 30: building queue full (5)
+[10:29:11] research: blocked research_energy_technology (building_laboratory 0/1)

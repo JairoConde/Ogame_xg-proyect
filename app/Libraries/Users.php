@@ -9,8 +9,8 @@ use App\Models\Libraries\UsersLibrary;
 
 class Users
 {
-    private $user_data;
-    private $planet_data;
+    private ?array $user_data = null;
+    private ?array $planet_data = null;
     private UsersLibrary $usersModel;
 
     public function __construct()
@@ -43,9 +43,9 @@ class Users
      * @param int    $user_id   User ID
      * @param string $password  Password
      *
-     * @return void
+     * @return bool
      */
-    public function userLogin($user_id = 0, $password = '')
+    public function userLogin(int $user_id = 0, string $password = ''): bool
     {
         if ($user_id != 0 && !empty($password) && (strlen($password) == 60)) {
             $_SESSION['user_id'] = $user_id;
@@ -62,7 +62,7 @@ class Users
      *
      * @return array
      */
-    public function getUserData()
+    public function getUserData(): ?array
     {
         return $this->user_data;
     }
@@ -72,7 +72,7 @@ class Users
      *
      * @return array
      */
-    public function getPlanetData()
+    public function getPlanetData(): ?array
     {
         return $this->planet_data;
     }
@@ -82,7 +82,7 @@ class Users
      *
      * @return void
      */
-    public static function checkSession()
+    public static function checkSession(): void
     {
         if (!self::isSessionSet()) {
             Functions::redirect(SYSTEM_ROOT);
@@ -96,7 +96,7 @@ class Users
      *
      * @return void
      */
-    public function deleteUser($user_id)
+    public function deleteUser(int $user_id): void
     {
         $user_data = $this->usersModel->getAllyIdByUserId($user_id);
 
@@ -111,6 +111,7 @@ class Users
                 foreach ($ranks->getAllRanksAsArray() as $id => $rank) {
                     if (isset($rank['rights'][AllianceRanks::RIGHT_HAND]) && $rank['rights'][AllianceRanks::RIGHT_HAND] == SwitchInt::on) {
                         $userRank = $id;
+
                         break;
                     }
                 }
@@ -139,9 +140,9 @@ class Users
      *
      * @return boolean
      */
-    public function isOnVacations($user)
+    public function isOnVacations(array $user): bool
     {
-        return ($user['preference_vacation_mode'] > 0);
+        return $user['preference_vacation_mode'] > 0;
     }
 
     /**
@@ -151,9 +152,9 @@ class Users
      *
      * @return boolean
      */
-    public function isInactive($user)
+    public function isInactive(array $user): bool
     {
-        return ($user['user_onlinetime'] < (time() - ONE_WEEK));
+        return $user['user_onlinetime'] < (time() - ONE_WEEK);
     }
     //##########################################################################
     //
@@ -166,7 +167,7 @@ class Users
      *
      * @return boolean
      */
-    private static function isSessionSet()
+    private static function isSessionSet(): bool
     {
         return !(!isset($_SESSION['user_id']) or !isset($_SESSION['user_password']));
     }
@@ -176,7 +177,7 @@ class Users
      *
      * @return void
      */
-    private function setUserData()
+    private function setUserData(): void
     {
         $user_row = $this->usersModel->setUserDataByUserId($_SESSION['user_id']);
 
@@ -204,7 +205,7 @@ class Users
      *
      * @return void
      */
-    private function displayLoginErrors($user_row)
+    private function displayLoginErrors(array $user_row): void
     {
         if ($user_row['user_id'] != $_SESSION['user_id'] && !defined('IN_LOGIN')) {
             Functions::redirect(SYSTEM_ROOT);
@@ -220,7 +221,7 @@ class Users
      *
      * @return void
      */
-    private function setPlanetData()
+    private function setPlanetData(): void
     {
         $this->planet_data = $this->usersModel->setPlanetData(
             $this->user_data['user_current_planet'],
@@ -233,12 +234,12 @@ class Users
      *
      * @return void
      */
-    private function setPlanet()
+    private function setPlanet(): void
     {
         $select = isset($_GET['cp']) ? (int) $_GET['cp'] : '';
         $restore = isset($_GET['re']) ? (int) $_GET['re'] : '';
 
-        if (isset($select) && is_numeric($select) && isset($restore) && $restore == 0 && $select != 0) {
+        if ($select && is_numeric($select) && $restore == 0 && $select != 0) {
             $owned = $this->usersModel->getUserPlanetByIdAndUserId($select, $this->user_data['user_id']);
 
             if ($owned) {
@@ -256,7 +257,7 @@ class Users
      *
      * @return void
      */
-    public function createUserWithOptions($data, $full_insert = true)
+    public function createUserWithOptions(array $data, bool $full_insert = true): mixed
     {
         if (is_array($data)) {
             $insert_query = 'INSERT INTO ' . USERS . ' SET ';

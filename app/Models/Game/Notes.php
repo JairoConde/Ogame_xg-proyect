@@ -30,6 +30,7 @@ class Notes extends Model
 
     public function createNewNote(array $note_data): void
     {
+        $sql = [];
         foreach ($note_data as $field => $value) {
             $sql[] = '`' . $field . "` = '" . $value . "'";
         }
@@ -51,6 +52,7 @@ class Notes extends Model
      */
     public function updateNoteById(int $user_id, int $note_id, array $note_data): void
     {
+        $sql = [];
         foreach ($note_data as $field => $value) {
             $sql[] = 'n.`' . $field . "` = '" . $value . "'";
         }

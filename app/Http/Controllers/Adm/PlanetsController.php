@@ -84,7 +84,7 @@ class PlanetsController extends BaseController
     /**
      * Get new planet settings
      *
-     * @return void
+     * @return array
      */
     private function getNewPlanetSettings(): array
     {

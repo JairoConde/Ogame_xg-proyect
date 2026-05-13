@@ -22,7 +22,7 @@ class Stay extends Missions
      *
      * @return void
      */
-    public function stayMission($fleet_row)
+    public function stayMission(array $fleet_row): void
     {
         $friendly_planet = $this->missionsModel->getFriendlyPlanetData([
             'coords' => [
@@ -118,7 +118,7 @@ class Stay extends Missions
      *
      * @return void
      */
-    private function startStay($fleet_id)
+    private function startStay(int $fleet_id): void
     {
         $this->missionsModel->updateFleetStatusToStayById($fleet_id);
     }
@@ -133,8 +133,8 @@ class Stay extends Missions
      *
      * @return void
      */
-    private function stayMessage($owner, $message, $time, $status_message)
+    private function stayMessage(int $owner, string $message, int $time, string $status_message): void
     {
-        Functions::sendMessage($owner, '', $time, 5, $this->langs->line('mi_fleet_command'), $status_message, $message);
+        Functions::sendMessage($owner, 0, $time, 5, $this->langs->line('mi_fleet_command'), $status_message, $message);
     }
 }

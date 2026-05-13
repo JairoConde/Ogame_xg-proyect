@@ -1,0 +1,931 @@
+[2026-05-08 12:42:07] ==== loop 1/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:42:08] planet 51: queued building_crystal_mine to 1
+[2026-05-08 12:42:43] ==== loop 2/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:42:43] planet 51: queued building_crystal_mine to 2
+[2026-05-08 12:43:22] ==== loop 3/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:43:22] planet 51: queued building_crystal_mine to 3
+[2026-05-08 12:43:58] ==== loop 4/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:44:00] planet 51: queued building_crystal_mine to 4
+[2026-05-08 12:44:37] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:44:37] planet 51: queued building_crystal_mine to 5
+[12:44:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:45:14] ==== loop 6/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:45:14] planet 51: queued building_crystal_mine to 6
+[12:45:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:45:50] ==== loop 7/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:45:51] planet 51: queued building_crystal_mine to 7
+[12:45:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:46:29] ==== loop 8/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:46:29] planet 51: no resources for building_crystal_mine+1
+[12:46:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:47:04] ==== loop 9/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:47:05] planet 51: no resources for building_crystal_mine+1
+[12:47:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:47:45] ==== loop 10/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:47:46] planet 51: no resources for building_crystal_mine+1
+[12:47:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:49:00] ==== loop 12/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:49:01] planet 51: no resources for building_crystal_mine+1
+[12:49:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:49:37] ==== loop 13/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:49:37] planet 51: queued building_crystal_mine to 8
+[2026-05-08 12:51:51] ==== loop 1/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:51:52] planet 51: queued building_solar_plant to 1
+[12:51:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:53:05] ==== loop 3/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:53:06] planet 51: queued building_solar_plant to 2
+[12:53:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:54:24] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:54:25] planet 51: queued building_solar_plant to 3
+[2026-05-08 12:55:03] ==== loop 6/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:55:04] planet 51: queued building_solar_plant to 4
+[12:55:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:55:37] ==== loop 7/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:55:38] planet 51: queued building_solar_plant to 5
+[12:55:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:56:16] ==== loop 8/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:56:17] planet 51: queued building_solar_plant to 6
+[12:56:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:56:52] ==== loop 9/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:56:53] planet 51: no resources for building_crystal_mine+1
+[12:56:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:57:31] ==== loop 10/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:57:32] planet 51: no resources for building_crystal_mine+1
+[12:57:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:59:18] ==== loop 13/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[12:59:18] planet 51: queued building_crystal_mine to 9
+[12:59:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:00:30] ==== loop 15/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:00:31] planet 51: no resources for building_crystal_mine+1
+[13:00:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:01:04] ==== loop 16/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:01:04] planet 51: no resources for building_crystal_mine+1
+[2026-05-08 13:01:41] ==== loop 17/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:01:42] planet 51: no resources for building_crystal_mine+1
+[13:01:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:02:58] ==== loop 19/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:02:58] planet 51: no resources for building_crystal_mine+1
+[2026-05-08 13:03:33] ==== loop 20/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:03:34] planet 51: no resources for building_crystal_mine+1
+[13:03:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:04:12] ==== loop 21/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:04:13] planet 51: no resources for building_crystal_mine+1
+[2026-05-08 13:04:48] ==== loop 22/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:04:48] planet 51: no resources for building_crystal_mine+1
+[13:04:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:05:28] ==== loop 23/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:05:29] planet 51: no resources for building_crystal_mine+1
+[13:05:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:06:50] ==== loop 25/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:06:50] planet 51: no resources for building_crystal_mine+1
+[13:06:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:07:27] ==== loop 26/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:07:28] planet 51: no resources for building_crystal_mine+1
+[13:07:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:08:06] ==== loop 27/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:08:07] planet 51: no resources for building_crystal_mine+1
+[13:08:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:08:46] ==== loop 28/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:08:47] planet 51: no resources for building_crystal_mine+1
+[13:08:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:09:23] ==== loop 29/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:09:24] planet 51: no resources for building_crystal_mine+1
+[13:09:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:10:05] ==== loop 30/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:10:06] planet 51: queued building_solar_plant to 7
+[2026-05-08 13:10:48] ==== loop 31/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:10:48] planet 51: queued building_deuterium_sintetizer to 1
+[13:10:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:11:20] ==== loop 1/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:11:21] planet 51: queued building_deuterium_sintetizer to 2
+[2026-05-08 13:12:00] ==== loop 2/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:12:01] planet 51: queued building_deuterium_sintetizer to 3
+[2026-05-08 13:13:59] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:14:00] planet 51: queued building_solar_plant to 8
+[13:14:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:14:37] ==== loop 6/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:14:37] planet 51: queued building_deuterium_sintetizer to 4
+[13:14:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:15:17] ==== loop 7/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:15:18] planet 51: queued building_deuterium_sintetizer to 5
+[13:15:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:15:56] ==== loop 8/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:15:57] planet 51: queued building_solar_plant to 9
+[2026-05-08 13:17:11] ==== loop 10/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:17:12] planet 51: queued building_deuterium_sintetizer to 6
+[2026-05-08 13:17:55] ==== loop 11/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:17:56] planet 51: queued building_solar_plant to 10
+[13:17:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:18:38] ==== loop 12/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:18:38] planet 51: queued building_deuterium_sintetizer to 7
+[13:18:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:19:16] ==== loop 13/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:19:17] planet 51: no resources for building_deuterium_sintetizer+1
+[2026-05-08 13:19:58] ==== loop 14/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:19:59] planet 51: queued building_deuterium_sintetizer to 8
+[13:19:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:21:20] ==== loop 16/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:21:22] planet 51: no resources for building_solar_plant+1
+[13:21:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:22:03] ==== loop 17/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:22:03] planet 51: no resources for building_solar_plant+1
+[13:22:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:22:44] ==== loop 18/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:22:44] planet 51: no resources for building_solar_plant+1
+[2026-05-08 13:24:10] ==== loop 20/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:24:11] planet 51: no resources for building_solar_plant+1
+[2026-05-08 13:24:50] ==== loop 21/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:24:51] planet 51: no resources for building_solar_plant+1
+[13:24:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:25:31] ==== loop 22/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:25:32] planet 51: no resources for building_solar_plant+1
+[13:25:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:26:08] ==== loop 23/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:26:08] planet 51: queued building_solar_plant to 11
+[2026-05-08 13:26:48] ==== loop 24/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:26:48] planet 51: no resources for building_solar_plant+1
+[2026-05-08 13:27:29] ==== loop 25/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:27:30] planet 51: no resources for defense_rocket_launcher+8
+[2026-05-08 13:28:04] ==== loop 26/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:28:04] planet 51: no resources for defense_rocket_launcher+8
+[13:28:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:29:20] ==== loop 28/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:29:21] planet 51: no resources for defense_rocket_launcher+8
+[2026-05-08 13:29:58] ==== loop 29/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:29:59] planet 51: no resources for defense_rocket_launcher+8
+[13:29:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:30:39] ==== loop 30/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:30:40] planet 51: queued building_laboratory to 1
+[2026-05-08 13:31:19] ==== loop 31/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:31:19] planet 51: queued building_laboratory to 2
+[13:31:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:32:39] ==== loop 33/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:32:39] planet 51: queued building_laboratory to 3
+[13:32:39] research: upgraded research_energy_technology to 1
+[2026-05-08 13:33:20] ==== loop 34/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:33:20] planet 51: queued building_laboratory to 4
+[13:33:20] research: upgraded research_energy_technology to 2
+[2026-05-08 13:34:45] ==== loop 36/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:34:46] planet 51: queued building_laboratory to 5
+[13:34:46] research: upgraded research_energy_technology to 3
+[2026-05-08 13:35:27] ==== loop 37/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:35:28] planet 51: no resources for building_laboratory+1
+[2026-05-08 13:36:12] ==== loop 38/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:36:14] planet 51: no resources for building_laboratory+1
+[2026-05-08 13:36:54] ==== loop 39/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:36:55] planet 51: no resources for building_laboratory+1
+[2026-05-08 13:37:33] ==== loop 40/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:37:33] planet 51: no resources for building_laboratory+1
+[2026-05-08 13:38:12] ==== loop 41/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:38:12] planet 51: no resources for building_laboratory+1
+[2026-05-08 13:38:50] ==== loop 42/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:38:51] planet 51: no resources for building_laboratory+1
+[2026-05-08 13:40:07] ==== loop 44/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:40:08] planet 51: queued building_crystal_mine to 10
+[2026-05-08 13:40:54] ==== loop 45/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:40:55] planet 51: queued building_crystal_mine to 11
+[13:40:55] research: upgraded research_energy_technology to 4
+[2026-05-08 13:42:13] ==== loop 47/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:42:13] planet 51: no resources for building_solar_plant+1
+[13:42:13] research: upgraded research_energy_technology to 5
+[2026-05-08 13:42:53] ==== loop 48/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:42:53] planet 51: no resources for building_solar_plant+1
+[13:42:53] research: upgraded research_energy_technology to 6
+[2026-05-08 13:44:14] ==== loop 50/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:44:15] planet 51: no resources for building_solar_plant+1
+[13:44:15] research: upgraded research_computer_technology to 1
+[2026-05-08 13:44:56] ==== loop 51/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:44:56] planet 51: no resources for building_solar_plant+1
+[13:44:56] research: upgraded research_computer_technology to 2
+[2026-05-08 13:45:38] ==== loop 52/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:45:40] planet 51: no resources for building_solar_plant+1
+[2026-05-08 13:46:57] ==== loop 54/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:46:58] planet 51: no resources for building_solar_plant+1
+[2026-05-08 13:47:41] ==== loop 55/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:47:42] planet 51: no resources for building_solar_plant+1
+[2026-05-08 13:49:45] ==== loop 58/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:49:46] planet 51: no resources for building_solar_plant+1
+[2026-05-08 13:50:30] ==== loop 59/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:50:31] planet 51: no resources for building_solar_plant+1
+[13:50:31] research: upgraded research_computer_technology to 3
+[2026-05-08 13:51:14] ==== loop 60/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:51:14] planet 51: no resources for building_solar_plant+1
+[13:51:14] research: upgraded research_computer_technology to 4
+[2026-05-08 13:51:56] ==== loop 61/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:51:56] planet 51: queued building_solar_plant to 12
+[2026-05-08 13:52:42] ==== loop 62/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:52:42] planet 51: no resources for building_solar_plant+1
+[13:52:42] research: upgraded research_espionage_technology to 1
+[2026-05-08 13:53:25] ==== loop 63/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:53:26] planet 51: no resources for building_laboratory+1
+[13:53:26] research: upgraded research_espionage_technology to 2
+[2026-05-08 13:54:16] ==== loop 64/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:54:17] planet 51: no resources for building_laboratory+1
+[13:54:17] research: upgraded research_espionage_technology to 3
+[2026-05-08 13:57:12] ==== loop 68/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:57:13] planet 51: no resources for building_laboratory+1
+[13:57:13] research: upgraded research_espionage_technology to 4
+[2026-05-08 13:57:52] ==== loop 69/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:57:52] planet 51: no resources for building_laboratory+1
+[13:57:52] research: upgraded research_laser_technology to 1
+[2026-05-08 13:58:31] ==== loop 70/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:58:32] planet 51: no resources for building_laboratory+1
+[13:58:32] research: upgraded research_laser_technology to 2
+[2026-05-08 13:59:13] ==== loop 71/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:59:14] planet 51: no resources for building_laboratory+1
+[2026-05-08 13:59:53] ==== loop 72/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[13:59:54] planet 51: no resources for building_laboratory+1
+[13:59:54] research: upgraded research_laser_technology to 3
+[2026-05-08 14:00:34] ==== loop 73/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:00:34] planet 51: no resources for defense_rocket_launcher+8
+[14:00:34] research: upgraded research_laser_technology to 4
+[2026-05-08 14:01:49] ==== loop 75/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:01:49] planet 51: no resources for defense_rocket_launcher+8
+[14:01:49] research: upgraded research_combustion_drive to 1
+[2026-05-08 14:02:28] ==== loop 76/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:02:28] planet 51: no resources for defense_rocket_launcher+8
+[2026-05-08 14:03:04] ==== loop 77/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:03:04] planet 51: no resources for defense_rocket_launcher+8
+[14:03:04] research: upgraded research_computer_technology to 5
+[2026-05-08 14:03:42] ==== loop 78/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:03:43] planet 51: no resources for defense_rocket_launcher+8
+[14:03:43] research: upgraded research_combustion_drive to 2
+[2026-05-08 14:05:03] ==== loop 80/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:05:03] planet 51: no resources for defense_rocket_launcher+8
+[14:05:03] research: blocked research_ionic_technology (research_laser_technology 4/5)
+[2026-05-08 14:05:39] ==== loop 81/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:05:39] planet 51: no resources for defense_rocket_launcher+8
+[14:05:39] research: blocked research_ionic_technology (research_laser_technology 4/5)
+[2026-05-08 14:06:53] ==== loop 83/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:06:54] planet 51: no resources for defense_rocket_launcher+8
+[2026-05-08 14:08:40] ==== loop 86/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:08:40] planet 51: no resources for defense_rocket_launcher+8
+[14:08:40] research: blocked research_ionic_technology (research_laser_technology 4/5)
+[2026-05-08 14:09:17] ==== loop 87/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:09:18] planet 51: no resources for defense_rocket_launcher+8
+[14:09:18] research: blocked research_ionic_technology (research_laser_technology 4/5)
+[2026-05-08 14:09:50] ==== loop 88/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:09:51] planet 51: no resources for defense_rocket_launcher+8
+[14:09:51] research: blocked research_ionic_technology (research_laser_technology 4/5)
+[2026-05-08 14:10:26] ==== loop 89/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:10:27] planet 51: queued building_metal_mine to 1
+[2026-05-08 14:11:06] ==== loop 90/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:11:07] planet 51: queued building_metal_mine to 2
+[2026-05-08 14:12:23] ==== loop 92/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:12:23] planet 51: queued building_metal_mine to 3
+[14:12:23] research: upgraded research_weapons_technology to 1
+[2026-05-08 14:13:04] ==== loop 93/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:13:04] planet 51: queued building_metal_mine to 4
+[2026-05-08 14:13:44] ==== loop 94/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:13:45] planet 51: queued building_metal_mine to 5
+[14:13:45] research: blocked research_ionic_technology (research_laser_technology 4/5)
+[2026-05-08 14:14:26] ==== loop 95/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:14:27] planet 51: queued building_metal_mine to 6
+[14:14:27] research: upgraded research_armour_technology to 1
+[2026-05-08 14:15:52] ==== loop 97/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:15:53] planet 51: no resources for building_solar_plant+1
+[2026-05-08 14:16:33] ==== loop 98/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:16:34] planet 51: no resources for building_solar_plant+1
+[2026-05-08 14:17:12] ==== loop 99/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:17:12] planet 51: no resources for building_solar_plant+1
+[14:17:12] research: upgraded research_laser_technology to 5
+[2026-05-08 14:17:50] ==== loop 100/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:17:51] planet 51: no resources for building_solar_plant+1
+[14:17:51] research: upgraded research_ionic_technology to 1
+[2026-05-08 14:18:30] ==== loop 101/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:18:30] planet 51: no resources for building_solar_plant+1
+[14:18:30] research: upgraded research_combustion_drive to 3
+[2026-05-08 14:19:11] ==== loop 102/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:19:12] planet 51: no resources for building_solar_plant+1
+[14:19:12] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-08 14:19:51] ==== loop 103/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:19:52] planet 51: no resources for building_solar_plant+1
+[14:19:52] research: upgraded research_ionic_technology to 2
+[2026-05-08 14:20:33] ==== loop 104/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:20:34] planet 51: no resources for building_solar_plant+1
+[2026-05-08 14:21:12] ==== loop 105/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:21:13] planet 51: no resources for building_solar_plant+1
+[14:21:13] research: upgraded research_impulse_drive to 1
+[2026-05-08 14:21:53] ==== loop 106/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:21:54] planet 51: no resources for building_solar_plant+1
+[14:21:54] research: upgraded research_weapons_technology to 2
+[2026-05-08 14:22:36] ==== loop 107/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:22:37] planet 51: no resources for building_solar_plant+1
+[14:22:37] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-08 14:23:16] ==== loop 108/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:23:17] planet 51: no resources for building_solar_plant+1
+[2026-05-08 14:25:15] ==== loop 111/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:25:16] planet 51: no resources for building_solar_plant+1
+[14:25:16] research: upgraded research_combustion_drive to 4
+[2026-05-08 14:25:55] ==== loop 112/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:25:55] planet 51: no resources for building_solar_plant+1
+[2026-05-08 14:26:36] ==== loop 113/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:26:37] planet 51: no resources for building_solar_plant+1
+[14:26:37] research: upgraded research_ionic_technology to 3
+[2026-05-08 14:27:15] ==== loop 114/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:27:16] planet 51: no resources for building_solar_plant+1
+[14:27:16] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-08 14:29:21] ==== loop 117/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:29:22] planet 51: no resources for building_solar_plant+1
+[2026-05-08 14:30:01] ==== loop 118/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:30:02] planet 51: no resources for building_solar_plant+1
+[2026-05-08 14:30:43] ==== loop 119/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:30:43] planet 51: no resources for building_solar_plant+1
+[14:30:43] research: upgraded research_computer_technology to 6
+[2026-05-08 14:31:21] ==== loop 120/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:31:22] planet 51: queued building_solar_plant to 13
+[2026-05-08 14:32:04] ==== loop 121/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:32:05] planet 51: no resources for building_solar_plant+1
+[2026-05-08 14:32:46] ==== loop 122/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:32:47] planet 51: no resources for building_solar_plant+1
+[14:32:47] research: upgraded research_ionic_technology to 4
+[2026-05-08 14:33:21] ==== loop 123/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:33:22] planet 51: no resources for building_solar_plant+1
+[14:33:22] research: upgraded research_impulse_drive to 2
+[2026-05-08 14:34:03] ==== loop 124/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:34:04] planet 51: no resources for building_laboratory+1
+[14:34:04] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-08 14:34:46] ==== loop 125/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:34:47] planet 51: no resources for building_laboratory+1
+[2026-05-08 14:35:27] ==== loop 126/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:35:28] planet 51: no resources for building_laboratory+1
+[2026-05-08 14:36:09] ==== loop 127/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:36:10] planet 51: no resources for building_laboratory+1
+[14:36:10] research: upgraded research_armour_technology to 2
+[2026-05-08 14:36:48] ==== loop 128/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:36:48] planet 51: no resources for building_laboratory+1
+[14:36:48] research: upgraded research_weapons_technology to 3
+[2026-05-08 14:37:27] ==== loop 129/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:37:28] planet 51: no resources for building_laboratory+1
+[14:37:28] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-08 14:38:09] ==== loop 130/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:38:10] planet 51: no resources for building_laboratory+1
+[14:38:10] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-08 14:38:52] ==== loop 131/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:38:53] planet 51: no resources for building_laboratory+1
+[2026-05-08 14:39:31] ==== loop 132/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:39:32] planet 51: no resources for building_laboratory+1
+[2026-05-08 14:40:10] ==== loop 133/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:40:10] planet 51: queued building_robot_factory to 1
+[2026-05-08 14:42:00] ==== loop 136/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:42:01] planet 51: queued building_robot_factory to 2
+[14:42:01] research: upgraded research_laser_technology to 6
+[2026-05-08 14:42:42] ==== loop 137/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:42:43] planet 51: queued building_robot_factory to 3
+[14:42:43] research: upgraded research_armour_technology to 3
+[2026-05-08 14:44:35] ==== loop 140/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:44:36] planet 51: queued building_robot_factory to 4
+[14:44:36] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-08 14:46:33] ==== loop 143/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:46:34] planet 51: queued building_robot_factory to 5
+[14:46:34] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-08 14:47:13] ==== loop 144/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:47:14] planet 51: no resources for building_robot_factory+1
+[2026-05-08 14:47:53] ==== loop 145/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:47:53] planet 51: no resources for building_robot_factory+1
+[2026-05-08 14:48:30] ==== loop 146/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:48:30] planet 51: no resources for building_robot_factory+1
+[2026-05-08 14:49:10] ==== loop 147/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:49:11] planet 51: no resources for building_robot_factory+1
+[14:49:11] research: upgraded research_combustion_drive to 5
+[2026-05-08 14:49:49] ==== loop 148/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:49:49] planet 51: no resources for building_robot_factory+1
+[2026-05-08 14:50:31] ==== loop 149/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:50:32] planet 51: queued building_metal_mine to 7
+[14:50:32] research: upgraded research_weapons_technology to 4
+[2026-05-08 14:51:10] ==== loop 150/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:51:10] planet 51: queued building_metal_mine to 8
+[2026-05-08 14:51:51] ==== loop 151/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[14:51:51] planet 51: queued building_metal_mine to 9
+[2026-05-11 07:01:59] ==== loop 1/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:02:00] planet 51: queued building_metal_store to 1
+[2026-05-11 07:02:27] ==== loop 2/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:02:28] planet 51: queued building_deuterium_tank to 1
+[2026-05-11 07:03:40] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:03:41] planet 51: queued building_crystal_store to 1
+[2026-05-11 07:04:13] ==== loop 6/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:04:13] planet 51: queued building_deuterium_sintetizer to 9
+[2026-05-11 07:04:51] ==== loop 7/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:04:51] planet 51: queued building_solar_plant to 14
+[07:04:51] research: upgraded research_energy_technology to 7
+[2026-05-11 07:05:26] ==== loop 8/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:05:26] planet 51: queued building_deuterium_sintetizer to 10
+[2026-05-11 07:06:05] ==== loop 9/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:06:06] planet 51: queued building_deuterium_sintetizer to 11
+[07:06:06] research: upgraded research_energy_technology to 8
+[2026-05-11 07:06:41] ==== loop 10/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:06:42] planet 51: queued building_solar_plant to 15
+[2026-05-11 07:07:20] ==== loop 11/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:07:21] planet 51: queued building_deuterium_sintetizer to 12
+[2026-05-11 07:07:56] ==== loop 12/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:07:57] planet 51: queued building_solar_plant to 16
+[07:07:57] research: upgraded research_ionic_technology to 5
+[2026-05-11 07:08:33] ==== loop 13/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:08:33] planet 51: queued building_solar_plant to 17
+[07:08:33] research: upgraded research_ionic_technology to 6
+[2026-05-11 07:09:49] ==== loop 15/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:09:50] planet 51: queued building_deuterium_sintetizer to 13
+[2026-05-11 07:12:30] ==== loop 19/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:12:31] planet 51: queued building_metal_mine to 10
+[07:12:31] research: upgraded research_laser_technology to 7
+[2026-05-11 07:13:13] ==== loop 20/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:13:14] planet 51: queued building_metal_mine to 11
+[07:13:14] research: upgraded research_laser_technology to 8
+[2026-05-11 07:13:59] ==== loop 21/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:14:00] planet 51: queued building_metal_mine to 12
+[2026-05-11 07:14:40] ==== loop 22/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:14:41] planet 51: queued building_metal_mine to 13
+[07:14:41] research: upgraded research_combustion_drive to 6
+[2026-05-11 07:17:00] ==== loop 25/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:17:01] planet 51: queued building_metal_mine to 14
+[07:17:01] research: upgraded research_combustion_drive to 7
+[2026-05-11 07:19:13] ==== loop 28/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:19:14] planet 51: queued building_solar_plant to 18
+[07:19:14] research: upgraded research_combustion_drive to 8
+[2026-05-11 07:21:12] ==== loop 31/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:21:13] planet 51: queued ship_small_cargo_ship +8
+[07:21:13] research: upgraded research_impulse_drive to 3
+[2026-05-11 07:21:50] ==== loop 32/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:21:51] planet 51: queued ship_small_cargo_ship +8
+[07:21:51] research: upgraded research_astrophysics to 1
+[2026-05-11 07:22:32] ==== loop 33/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:22:33] planet 51: queued ship_small_cargo_ship +8
+[07:22:33] research: upgraded research_astrophysics to 2
+[2026-05-11 07:23:13] ==== loop 34/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:23:13] planet 51: queued ship_small_cargo_ship +8
+[07:23:13] research: upgraded research_astrophysics to 3
+[2026-05-11 07:23:53] ==== loop 35/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:23:54] planet 51: queued ship_small_cargo_ship +8
+[07:23:54] research: upgraded research_astrophysics to 4
+[2026-05-11 07:24:34] ==== loop 36/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:24:35] planet 51: queued ship_small_cargo_ship +8
+[07:24:35] research: upgraded research_astrophysics to 5
+[2026-05-11 07:27:05] ==== loop 40/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:27:05] planet 51: queued ship_small_cargo_ship +8
+[07:27:05] research: upgraded research_astrophysics to 6
+[2026-05-11 07:27:46] ==== loop 41/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:27:47] planet 51: queued ship_small_cargo_ship +8
+[2026-05-11 07:32:32] ==== loop 3/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:32:33] planet 51: queued building_metal_mine to 15
+[07:32:33] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:32:33] research: upgraded research_impulse_drive to 4
+[2026-05-11 07:33:11] ==== loop 4/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:33:12] planet 51: queued building_metal_mine to 16
+[07:33:12] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:33:12] research: upgraded research_impulse_drive to 5
+[2026-05-11 07:33:51] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:33:52] planet 51: queued building_metal_mine to 17
+[07:33:52] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:33:52] research: upgraded research_impulse_drive to 6
+[2026-05-11 07:34:30] ==== loop 6/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:34:31] planet 51: queued building_metal_mine to 18
+[07:34:31] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:36:28] ==== loop 9/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:36:29] planet 51: queued ship_solar_satellite +7
+[07:36:29] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:36:29] research: upgraded research_armour_technology to 4
+[2026-05-11 07:37:50] ==== loop 11/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:37:51] planet 51: queued building_metal_mine to 19
+[07:37:51] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:37:51] research: upgraded research_armour_technology to 5
+[2026-05-11 07:38:25] ==== loop 12/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:38:26] planet 51: queued building_metal_mine to 20
+[07:38:26] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:38:26] research: upgraded research_armour_technology to 6
+[2026-05-11 07:39:07] ==== loop 13/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:39:08] planet 51: queued building_metal_mine to 21
+[07:39:08] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:39:08] research: upgraded research_armour_technology to 7
+[2026-05-11 07:40:31] ==== loop 15/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:40:32] planet 51: queued ship_solar_satellite +5
+[07:40:32] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:40:32] research: upgraded research_armour_technology to 8
+[2026-05-11 07:41:08] ==== loop 16/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:41:08] planet 51: queued building_crystal_store to 2
+[07:41:08] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:41:08] research: upgraded research_armour_technology to 9
+[2026-05-11 07:41:52] ==== loop 17/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:41:53] planet 51: queued building_crystal_store to 3
+[07:41:53] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:41:53] research: upgraded research_armour_technology to 10
+[2026-05-11 07:42:29] ==== loop 18/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:42:30] planet 51: queued ship_solar_satellite +5
+[07:42:30] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:42:30] research: upgraded research_weapons_technology to 5
+[2026-05-11 07:43:09] ==== loop 19/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:43:09] planet 51: queued building_crystal_store to 4
+[07:43:09] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:43:49] ==== loop 20/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:43:49] planet 51: queued building_crystal_store to 5
+[07:43:49] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:45:42] ==== loop 1/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:45:42] planet 51: building queue full (5)
+[07:45:42] research: upgraded research_weapons_technology to 6
+[2026-05-11 07:46:26] ==== loop 2/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:46:27] planet 51: building queue full (5)
+[2026-05-11 07:47:05] ==== loop 3/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:47:06] planet 51: queued ship_solar_satellite +7
+[07:47:06] research: upgraded research_weapons_technology to 7
+[2026-05-11 07:48:27] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:48:28] planet 51: queued building_crystal_store to 6
+[2026-05-11 07:49:09] ==== loop 6/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:49:10] planet 51: queued building_crystal_store to 7
+[07:49:10] research: upgraded research_weapons_technology to 8
+[2026-05-11 07:51:12] ==== loop 9/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:51:13] planet 51: queued building_crystal_mine to 12
+[2026-05-11 07:51:56] ==== loop 10/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:51:57] planet 51: queued ship_solar_satellite +1
+[2026-05-11 07:52:41] ==== loop 11/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:52:41] planet 51: queued building_crystal_mine to 13
+[07:52:41] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 07:53:28] ==== loop 12/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:53:28] planet 51: queued ship_solar_satellite +3
+[2026-05-11 07:54:10] ==== loop 13/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:54:10] planet 51: queued building_crystal_mine to 14
+[2026-05-11 07:57:03] ==== loop 17/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:57:04] planet 51: queued ship_solar_satellite +2
+[07:57:04] research: upgraded research_weapons_technology to 9
+[2026-05-11 07:57:46] ==== loop 18/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:57:46] planet 51: queued building_deuterium_sintetizer to 14
+[07:57:46] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 07:58:28] ==== loop 19/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:58:29] planet 51: queued building_deuterium_sintetizer to 15
+[2026-05-11 07:59:52] ==== loop 21/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[07:59:53] planet 51: queued ship_solar_satellite +5
+[07:59:53] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:01:19] ==== loop 23/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:01:20] planet 51: queued ship_solar_satellite +6
+[2026-05-11 08:04:00] ==== loop 3/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:04:01] planet 51: queued building_deuterium_sintetizer to 16
+[08:04:01] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:04:37] ==== loop 4/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:04:39] planet 51: queued building_deuterium_sintetizer to 17
+[2026-05-11 08:05:20] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:05:20] planet 51: no resources for building_deuterium_sintetizer+1
+[2026-05-11 08:06:11] ==== loop 1/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:06:11] planet 51: no resources for building_deuterium_sintetizer+1
+[08:06:11] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:06:54] ==== loop 2/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:06:54] planet 51: no resources for building_deuterium_sintetizer+1
+[08:06:54] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:07:38] ==== loop 3/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:07:39] planet 51: no resources for building_deuterium_sintetizer+1
+[08:07:39] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:08:18] ==== loop 4/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:08:18] planet 51: queued building_deuterium_sintetizer to 18
+[2026-05-11 08:08:57] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:08:58] planet 51: no resources for building_deuterium_sintetizer+1
+[2026-05-11 08:10:27] ==== loop 7/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:10:28] planet 51: queued building_hangar to 1
+[08:10:28] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:11:13] ==== loop 8/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:11:14] planet 51: queued building_hangar to 2
+[08:11:14] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:12:00] ==== loop 9/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:12:00] planet 51: queue busy, throttled building_hangar
+[2026-05-11 08:13:22] ==== loop 11/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:13:22] planet 51: queue busy, throttled building_hangar
+[08:13:22] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:14:09] ==== loop 12/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:14:09] planet 51: queue busy, throttled building_hangar
+[08:14:09] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:14:56] ==== loop 13/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:14:56] planet 51: queued building_hangar to 3
+[2026-05-11 08:15:36] ==== loop 14/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:15:36] planet 51: queued building_hangar to 4
+[2026-05-11 08:16:22] ==== loop 15/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:16:22] planet 51: queued building_hangar to 5
+[2026-05-11 08:17:07] ==== loop 16/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:17:07] planet 51: queued building_hangar to 6
+[2026-05-11 08:19:12] ==== loop 19/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:19:13] planet 51: queued building_hangar to 7
+[2026-05-11 08:20:19] ==== loop 1/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:20:21] planet 51: queued building_robot_factory to 6
+[08:20:21] research: upgraded research_weapons_technology to 10
+[2026-05-11 08:21:05] ==== loop 2/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:21:06] planet 51: queued building_robot_factory to 7
+[2026-05-11 08:21:48] ==== loop 3/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:21:49] planet 51: queued building_robot_factory to 8
+[08:21:49] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:23:17] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:23:17] planet 51: no resources for building_robot_factory+1
+[08:23:17] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:24:02] ==== loop 6/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:24:03] planet 51: queued building_robot_factory to 9
+[2026-05-11 08:24:47] ==== loop 7/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:24:48] planet 51: no resources for building_robot_factory+1
+[2026-05-11 08:25:31] ==== loop 8/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:25:32] planet 51: no resources for building_robot_factory+1
+[2026-05-11 08:26:58] ==== loop 10/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:26:59] planet 51: no resources for building_robot_factory+1
+[2026-05-11 08:27:39] ==== loop 11/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:27:39] planet 51: no resources for building_robot_factory+1
+[08:27:39] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:29:07] ==== loop 13/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:29:08] planet 51: queued building_robot_factory to 10
+[08:29:08] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:31:18] ==== loop 16/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:31:19] planet 51: queued defense_light_laser +8
+[2026-05-11 08:32:01] ==== loop 17/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:32:02] planet 51: queued defense_light_laser +8
+[08:32:02] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:32:44] ==== loop 18/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:32:45] planet 51: queued defense_light_laser +2
+[08:32:45] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:34:12] ==== loop 20/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:34:13] planet 51: no resources for defense_plasma_turret+8
+[08:34:13] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:35:00] ==== loop 21/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:35:01] planet 51: no resources for defense_plasma_turret+8
+[2026-05-11 08:35:42] ==== loop 22/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:35:43] planet 51: no resources for defense_plasma_turret+8
+[2026-05-11 08:36:30] ==== loop 23/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:36:30] planet 51: no resources for defense_plasma_turret+8
+[08:36:30] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:39:20] ==== loop 2/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:39:20] planet 51: no resources for defense_plasma_turret+8
+[08:39:20] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:40:07] ==== loop 3/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:40:08] planet 51: queued building_deuterium_tank to 2
+[08:40:08] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:40:53] ==== loop 4/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:40:53] planet 51: queued building_deuterium_tank to 3
+[08:40:53] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:42:24] ==== loop 6/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:42:25] planet 51: queued building_deuterium_tank to 4
+[2026-05-11 08:43:07] ==== loop 7/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:43:07] planet 51: queued building_deuterium_tank to 5
+[08:43:07] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:44:36] ==== loop 9/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:44:37] planet 51: queued building_deuterium_tank to 6
+[08:44:37] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:45:21] ==== loop 10/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:45:22] planet 51: queued building_deuterium_tank to 7
+[08:45:22] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:46:03] ==== loop 11/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:46:04] planet 51: queued building_deuterium_tank to 8
+[08:46:04] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:46:50] ==== loop 12/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:46:52] planet 51: queued building_deuterium_tank to 9
+[08:46:52] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:48:19] ==== loop 14/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:48:20] planet 51: queued building_deuterium_tank to 10
+[08:48:20] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:49:47] ==== loop 16/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:49:48] planet 51: no resources for building_deuterium_tank+1
+[08:49:48] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:50:33] ==== loop 17/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:50:33] planet 51: queued building_metal_mine to 22
+[08:50:33] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:51:15] ==== loop 18/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:51:16] planet 51: queued building_metal_mine to 23
+[2026-05-11 08:51:59] ==== loop 19/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:52:00] planet 51: no resources for building_metal_mine+1
+[2026-05-11 08:52:43] ==== loop 20/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:52:44] planet 51: no resources for building_metal_mine+1
+[08:52:44] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:53:25] ==== loop 21/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:53:25] planet 51: no resources for building_metal_mine+1
+[08:53:25] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:54:46] ==== loop 23/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:54:47] planet 51: no resources for building_metal_mine+1
+[2026-05-11 08:56:08] ==== loop 25/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:56:08] planet 51: queued building_metal_mine to 24
+[08:56:08] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:56:52] ==== loop 26/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:56:52] planet 51: no resources for building_metal_mine+1
+[08:56:52] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:57:33] ==== loop 27/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:57:34] planet 51: no resources for building_metal_mine+1
+[08:57:34] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:58:57] ==== loop 29/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:58:57] planet 51: no resources for building_metal_mine+1
+[08:58:57] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 08:59:42] ==== loop 30/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[08:59:42] planet 51: no resources for building_metal_mine+1
+[2026-05-11 09:02:32] ==== loop 34/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:02:33] planet 51: queued building_crystal_mine to 15
+[09:02:33] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:03:15] ==== loop 35/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:03:15] planet 51: queued building_crystal_mine to 16
+[2026-05-11 09:04:38] ==== loop 37/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:04:39] planet 51: queued building_crystal_mine to 17
+[09:04:39] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:07:19] ==== loop 41/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:07:20] planet 51: queued ship_solar_satellite +12
+[09:07:20] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:08:04] ==== loop 42/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:08:04] planet 51: queued building_crystal_mine to 18
+[09:08:04] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:08:42] ==== loop 43/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:08:42] planet 51: queued building_crystal_mine to 19
+[09:08:42] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:09:21] ==== loop 44/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:09:22] planet 51: queued building_crystal_mine to 20
+[09:09:22] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:10:42] ==== loop 46/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:10:43] planet 51: queued ship_cruiser +5
+[09:10:43] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:12:08] ==== loop 48/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:12:08] planet 51: queued ship_cruiser +5
+[2026-05-11 09:12:52] ==== loop 49/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:12:53] planet 51: queued ship_cruiser +5
+[09:12:53] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:13:31] ==== loop 50/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:13:32] planet 51: queued ship_cruiser +5
+[09:13:32] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:15:04] ==== loop 52/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:15:04] planet 51: queued ship_solar_satellite +6
+[09:15:04] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:15:52] ==== loop 53/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:15:53] planet 51: queued ship_cruiser +5
+[09:15:53] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:16:32] ==== loop 54/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:16:33] planet 51: queued ship_cruiser +5
+[2026-05-11 09:18:05] ==== loop 56/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:18:06] planet 51: queued ship_cruiser +5
+[09:18:06] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:18:50] ==== loop 57/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:18:51] planet 51: queued ship_cruiser +5
+[09:18:51] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:19:38] ==== loop 58/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:19:39] planet 51: queued ship_cruiser +5
+[2026-05-11 09:20:21] ==== loop 59/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:20:21] planet 51: queued building_metal_store to 2
+[09:20:21] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:21:52] ==== loop 61/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:21:52] planet 51: queued building_metal_store to 3
+[2026-05-11 09:23:18] ==== loop 63/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:23:19] planet 51: queued building_metal_store to 4
+[09:23:19] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:24:05] ==== loop 64/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:24:05] planet 51: queued building_metal_store to 5
+[09:24:05] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:27:09] ==== loop 68/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:27:10] planet 51: queued building_metal_store to 6
+[09:27:10] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:29:59] ==== loop 72/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:30:00] planet 51: queued building_metal_store to 7
+[2026-05-11 09:31:24] ==== loop 74/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:31:25] planet 51: queued building_metal_store to 8
+[09:31:25] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:32:11] ==== loop 75/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:32:12] planet 51: queued building_metal_store to 9
+[09:32:12] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:32:51] ==== loop 76/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:32:52] planet 51: queued building_metal_store to 10
+[2026-05-11 09:33:39] ==== loop 77/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:33:40] planet 51: no resources for building_metal_store+1
+[2026-05-11 09:34:26] ==== loop 78/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:34:26] planet 51: no resources for building_metal_store+1
+[2026-05-11 09:35:18] ==== loop 79/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:35:18] planet 51: no resources for building_metal_store+1
+[2026-05-11 09:36:04] ==== loop 80/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:36:04] planet 51: no resources for building_metal_store+1
+[2026-05-11 09:36:49] ==== loop 81/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:36:50] planet 51: no resources for building_metal_store+1
+[2026-05-11 09:38:23] ==== loop 83/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:38:24] planet 51: no resources for building_metal_store+1
+[09:38:24] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:39:07] ==== loop 84/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:39:08] planet 51: no resources for building_metal_store+1
+[09:39:08] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:40:23] ==== loop 1/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:40:23] planet 51: queued building_laboratory to 6
+[09:40:23] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:41:12] ==== loop 2/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:41:13] planet 51: queued building_laboratory to 7
+[09:41:13] research: blocked research_intergalactic_research_network (building_laboratory 5/10)
+[2026-05-11 09:41:50] ==== loop 3/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:41:50] planet 51: queued building_laboratory to 8
+[2026-05-11 09:42:33] ==== loop 4/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:42:34] planet 51: queued building_laboratory to 9
+[2026-05-11 09:43:20] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:43:20] planet 51: queued building_laboratory to 10
+[09:43:20] research: upgraded research_shielding_technology to 1
+[2026-05-11 09:44:09] ==== loop 6/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:44:10] planet 51: queued building_laboratory to 11
+[09:44:10] research: upgraded research_shielding_technology to 2
+[2026-05-11 09:44:55] ==== loop 7/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:44:56] planet 51: no resources for building_laboratory+1
+[2026-05-11 09:45:43] ==== loop 8/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:45:43] planet 51: no resources for building_laboratory+1
+[09:45:43] research: upgraded research_shielding_technology to 3
+[2026-05-11 09:46:22] ==== loop 9/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:46:23] planet 51: no resources for building_laboratory+1
+[2026-05-11 09:47:06] ==== loop 10/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:47:06] planet 51: no resources for building_laboratory+1
+[2026-05-11 09:47:54] ==== loop 11/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:47:54] planet 51: no resources for building_laboratory+1
+[2026-05-11 09:48:37] ==== loop 12/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:48:37] planet 51: queued building_laboratory to 12
+[2026-05-11 09:49:23] ==== loop 13/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:49:23] planet 51: no resources for building_laboratory+1
+[09:49:23] research: upgraded research_shielding_technology to 4
+[2026-05-11 09:50:08] ==== loop 14/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:50:09] planet 51: no resources for building_deuterium_tank+1
+[2026-05-11 09:50:46] ==== loop 15/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:50:46] planet 51: no resources for building_deuterium_tank+1
+[09:50:46] research: upgraded research_shielding_technology to 5
+[2026-05-11 09:52:49] ==== loop 18/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:52:50] planet 51: no resources for building_deuterium_tank+1
+[09:52:50] research: upgraded research_hyperspace_technology to 1
+[2026-05-11 09:53:31] ==== loop 19/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:53:31] planet 51: no resources for building_deuterium_tank+1
+[09:53:31] research: upgraded research_hyperspace_technology to 2
+[2026-05-11 09:54:13] ==== loop 20/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:54:14] planet 51: no resources for building_deuterium_tank+1
+[2026-05-11 09:54:56] ==== loop 21/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:54:57] planet 51: no resources for building_deuterium_tank+1
+[09:54:57] research: upgraded research_hyperspace_technology to 3
+[2026-05-11 09:55:38] ==== loop 22/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:55:38] planet 51: no resources for building_deuterium_tank+1
+[09:55:38] research: upgraded research_hyperspace_technology to 4
+[2026-05-11 09:56:17] ==== loop 23/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:56:17] planet 51: no resources for building_deuterium_tank+1
+[09:56:17] research: upgraded research_hyperspace_drive to 1
+[2026-05-11 09:56:54] ==== loop 24/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:56:55] planet 51: no resources for building_deuterium_tank+1
+[09:56:55] research: upgraded research_hyperspace_drive to 2
+[2026-05-11 09:57:32] ==== loop 25/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:57:33] planet 51: no resources for building_deuterium_tank+1
+[09:57:33] research: upgraded research_hyperspace_drive to 3
+[2026-05-11 09:58:16] ==== loop 26/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:58:16] planet 51: no resources for building_deuterium_tank+1
+[09:58:16] research: upgraded research_hyperspace_drive to 4
+[2026-05-11 09:58:57] ==== loop 27/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:58:57] planet 51: no resources for building_deuterium_tank+1
+[09:58:57] research: upgraded research_shielding_technology to 6
+[2026-05-11 09:59:39] ==== loop 28/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[09:59:39] planet 51: no resources for building_deuterium_tank+1
+[09:59:39] research: upgraded research_shielding_technology to 7
+[2026-05-11 10:00:19] ==== loop 29/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:00:20] planet 51: queued building_metal_store to 11
+[2026-05-11 10:01:01] ==== loop 30/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:01:02] planet 51: no resources for building_metal_store+1
+[10:01:02] research: upgraded research_shielding_technology to 8
+[2026-05-11 10:01:41] ==== loop 31/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:01:42] planet 51: no resources for building_metal_store+1
+[10:01:42] research: upgraded research_shielding_technology to 9
+[2026-05-11 10:02:20] ==== loop 32/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:02:20] planet 51: no resources for building_metal_store+1
+[2026-05-11 10:02:55] ==== loop 33/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:02:55] planet 51: no resources for building_metal_store+1
+[10:02:55] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:03:35] ==== loop 34/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:03:35] planet 51: no resources for building_metal_store+1
+[10:03:35] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:04:55] ==== loop 36/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:04:56] planet 51: no resources for building_metal_store+1
+[10:04:56] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:05:36] ==== loop 37/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:05:37] planet 51: no resources for building_metal_store+1
+[2026-05-11 10:06:53] ==== loop 39/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:06:53] planet 51: queued building_deuterium_sintetizer to 19
+[2026-05-11 10:08:12] ==== loop 41/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:08:12] planet 51: queued building_deuterium_sintetizer to 20
+[10:08:12] research: upgraded research_shielding_technology to 10
+[2026-05-11 10:09:56] ==== loop 44/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:09:56] planet 51: queued ship_solar_satellite +4
+[10:09:56] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:12:48] ==== loop 48/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:12:49] planet 51: queued building_solar_plant to 19
+[2026-05-11 10:14:57] ==== loop 51/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:14:58] planet 51: queued building_solar_plant to 20
+[10:14:58] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:15:42] ==== loop 52/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:15:42] planet 51: no resources for building_solar_plant+1
+[10:15:42] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:16:21] ==== loop 53/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:16:21] planet 51: queued building_solar_plant to 21
+[2026-05-11 10:17:02] ==== loop 54/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:17:03] planet 51: no resources for building_solar_plant+1
+[10:17:03] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:17:50] ==== loop 55/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:17:51] planet 51: no resources for building_solar_plant+1
+[2026-05-11 10:18:34] ==== loop 56/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:18:35] planet 51: no resources for building_solar_plant+1
+[2026-05-11 10:19:20] ==== loop 57/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:19:21] planet 51: no resources for building_solar_plant+1
+[10:19:21] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:20:51] ==== loop 59/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:20:52] planet 51: no resources for building_deuterium_tank+1
+[2026-05-11 10:21:43] ==== loop 60/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:21:44] planet 51: no resources for building_deuterium_tank+1
+[10:21:44] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:22:36] ==== loop 61/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:22:37] planet 51: no resources for building_deuterium_tank+1
+[2026-05-11 10:23:20] ==== loop 62/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:23:21] planet 51: no resources for building_deuterium_tank+1
+[10:23:21] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:24:54] ==== loop 64/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:24:55] planet 51: no resources for building_deuterium_tank+1
+[2026-05-11 10:27:15] ==== loop 67/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:27:15] planet 51: no resources for building_deuterium_tank+1
+[10:27:15] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:28:50] ==== loop 69/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:28:50] planet 51: no resources for building_deuterium_tank+1
+[10:28:50] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-11 10:29:39] ==== loop 70/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=eco actions_per_loop=1 ====
+[10:29:40] planet 51: no resources for building_deuterium_tank+1
+[10:29:40] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)

@@ -34,20 +34,20 @@ use Exception;
 class ShipsCleaner
 {
     private $fighters;
-    private $lastShipHit;
-    private $lastShots;
+    private int $lastShipHit;
+    private int $lastShots;
     private $exploded;
     private $remainLife;
 
     /**
      * ShipsCleaner::__construct()
      *
-     * @param mixed $shipType
+     * @param ShipType $shipType
      * @param int $lastShipHit
-     * @param int $lastShot
-     * @return ShipsCleaner
+     * @param int $lastShots
+     * @return void
      */
-    public function __construct(ShipType $shipType, $lastShipHit, $lastShots)
+    public function __construct(ShipType $shipType, int $lastShipHit, int $lastShots)
     {
         if ($lastShipHit < 0) {
             throw new Exception('Negative $lastShipHit');
@@ -63,9 +63,9 @@ class ShipsCleaner
     /**
      * ShipsCleaner::start()
      * Start the system
-     * @return null
+     * @return void
      */
-    public function start()
+    public function start(): void
     {
         /*         * * calculating probability to explode ** */
 

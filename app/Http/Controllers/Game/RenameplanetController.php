@@ -51,10 +51,12 @@ class RenameplanetController extends BaseController
         switch ((isset($_POST['action']) ? $_POST['action'] : null)) {
             case $this->langs->line('rp_planet_rename_action'):
                 $this->rename_planet($_POST['newname']);
+
                 break;
             case $this->langs->line('rp_abandon_planet'):
                 // DELETE VIEW
                 $current_view = 'renameplanet/renameplanet_delete_view';
+
                 break;
         } // switch
 
@@ -76,7 +78,7 @@ class RenameplanetController extends BaseController
      * param $new_name
      * return main method, loads everything
      */
-    private function rename_planet($new_name)
+    private function rename_planet(string $new_name): void
     {
         $new_name = strip_tags(trim($new_name));
 
@@ -95,7 +97,7 @@ class RenameplanetController extends BaseController
      * param
      * return deletes the planet
      */
-    private function delete_planet()
+    private function delete_planet(): void
     {
         $own_fleet = 0;
         $enemy_fleet = 0;
@@ -105,6 +107,9 @@ class RenameplanetController extends BaseController
             $this->planet['planet_system'],
             $this->planet['planet_planet']
         );
+
+        $end_type = 0;
+        $mess = 0;
 
         foreach ($fleets_incoming as $fleet) {
             $own_fleet = $fleet['fleet_owner'];

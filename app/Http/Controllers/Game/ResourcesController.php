@@ -77,8 +77,14 @@ class ResourcesController extends BaseController
         $this->planet['planet_energy_used'] = 0;
 
         $BuildTemp = $this->planet['planet_temp_max'];
+        $miningDrillBoost = 1 + ((int) ($this->planet['ship_mining_drill'] ?? 0) * 0.01);
 
         $plasmaBoost = [
+            'metal' => 0,
+            'crystal' => 0,
+            'deuterium' => 0,
+        ];
+        $drillBoost = [
             'metal' => 0,
             'crystal' => 0,
             'deuterium' => 0,
@@ -105,6 +111,15 @@ class ResourcesController extends BaseController
                 $crystal_prod = eval($this->prodGrid[$ProdID]['formule']['crystal']);
                 $deuterium_prod = eval($this->prodGrid[$ProdID]['formule']['deuterium']);
                 $energy_prod = eval($this->prodGrid[$ProdID]['formule']['energy']);
+                $baseMetalProd = $metal_prod;
+                $baseCrystalProd = $crystal_prod;
+                $baseDeuteriumProd = $deuterium_prod;
+
+                if (in_array($ProdID, [1, 2, 3], true)) {
+                    $metal_prod *= $miningDrillBoost;
+                    $crystal_prod *= $miningDrillBoost;
+                    $deuterium_prod *= $miningDrillBoost;
+                }
 
                 // PRODUCTION
                 $resourcesTotal['metal'] += ProductionLib::productionAmount($metal_prod, $geologe_boost, $game_resource_multiplier);
@@ -115,6 +130,22 @@ class ResourcesController extends BaseController
                 $metalBoost = Formulas::getPlasmaTechnologyBonus($this->user['research_plasma_technology'], 'metal');
                 $crystalBoost = Formulas::getPlasmaTechnologyBonus($this->user['research_plasma_technology'], 'crystal');
                 $deuteriumBoost = Formulas::getPlasmaTechnologyBonus($this->user['research_plasma_technology'], 'deuterium');
+
+                if (in_array($ProdID, [1, 2, 3], true)) {
+                    $drillBoost['metal'] += ProductionLib::productionAmount($metal_prod, $geologe_boost, $game_resource_multiplier)
+                        - ProductionLib::productionAmount($baseMetalProd, $geologe_boost, $game_resource_multiplier);
+                    $drillBoost['crystal'] += ProductionLib::productionAmount($crystal_prod, $geologe_boost, $game_resource_multiplier)
+                        - ProductionLib::productionAmount($baseCrystalProd, $geologe_boost, $game_resource_multiplier);
+                    $drillBoost['deuterium'] += ProductionLib::productionAmount($deuterium_prod, $geologe_boost, $game_resource_multiplier)
+                        - ProductionLib::productionAmount($baseDeuteriumProd, $geologe_boost, $game_resource_multiplier);
+
+                    $drillBoost['metal'] += ProductionLib::productionAmount($metal_prod, $metalBoost, $game_resource_multiplier)
+                        - ProductionLib::productionAmount($baseMetalProd, $metalBoost, $game_resource_multiplier);
+                    $drillBoost['crystal'] += ProductionLib::productionAmount($crystal_prod, $crystalBoost, $game_resource_multiplier)
+                        - ProductionLib::productionAmount($baseCrystalProd, $crystalBoost, $game_resource_multiplier);
+                    $drillBoost['deuterium'] += ProductionLib::productionAmount($deuterium_prod, $deuteriumBoost, $game_resource_multiplier)
+                        - ProductionLib::productionAmount($baseDeuteriumProd, $deuteriumBoost, $game_resource_multiplier);
+                }
 
                 // PRODUCTION
                 $plasmaBoostMetal = ProductionLib::productionAmount($metal_prod, $metalBoost, $game_resource_multiplier);
@@ -145,9 +176,21 @@ class ResourcesController extends BaseController
                 $this->planet['planet_crystal_perhour'] += $resourcesTotal['crystal'];
                 $this->planet['planet_deuterium_perhour'] += $resourcesTotal['deuterium'];
 
-                $metal = ProductionLib::currentProduction($metal_prod, $post_percent);
-                $crystal = ProductionLib::currentProduction($crystal_prod, $post_percent);
-                $deuterium = ProductionLib::currentProduction($deuterium_prod, $post_percent);
+                $metal = ProductionLib::currentProduction(
+                    ProductionLib::productionAmount($baseMetalProd, $geologe_boost, $game_resource_multiplier)
+                    + ProductionLib::productionAmount($baseMetalProd, $metalBoost, $game_resource_multiplier),
+                    $post_percent
+                );
+                $crystal = ProductionLib::currentProduction(
+                    ProductionLib::productionAmount($baseCrystalProd, $geologe_boost, $game_resource_multiplier)
+                    + ProductionLib::productionAmount($baseCrystalProd, $crystalBoost, $game_resource_multiplier),
+                    $post_percent
+                );
+                $deuterium = ProductionLib::currentProduction(
+                    ProductionLib::productionAmount($baseDeuteriumProd, $geologe_boost, $game_resource_multiplier)
+                    + ProductionLib::productionAmount($baseDeuteriumProd, $deuteriumBoost, $game_resource_multiplier),
+                    $post_percent
+                );
                 $energy = ProductionLib::currentProduction($energy, $post_percent);
                 $Field = 'planet_' . $this->resource[$ProdID] . '_percent';
                 $CurrRow = [];
@@ -161,10 +204,10 @@ class ResourcesController extends BaseController
                 $CurrRow['crystal_type'] = FormatLib::prettyNumber($crystal);
                 $CurrRow['deuterium_type'] = FormatLib::prettyNumber($deuterium);
                 $CurrRow['energy_type'] = FormatLib::prettyNumber($energy);
-                $CurrRow['metal_type'] = FormatLib::colorNumber($CurrRow['metal_type']);
-                $CurrRow['crystal_type'] = FormatLib::colorNumber($CurrRow['crystal_type']);
-                $CurrRow['deuterium_type'] = FormatLib::colorNumber($CurrRow['deuterium_type']);
-                $CurrRow['energy_type'] = FormatLib::colorNumber($CurrRow['energy_type']);
+                $CurrRow['metal_type'] = FormatLib::colorNumber($metal);
+                $CurrRow['crystal_type'] = FormatLib::colorNumber($crystal);
+                $CurrRow['deuterium_type'] = FormatLib::colorNumber($deuterium);
+                $CurrRow['energy_type'] = FormatLib::colorNumber($energy);
                 $parse['resource_row'] .= $this->template->set(
                     'resources/resources_row',
                     $CurrRow
@@ -181,18 +224,22 @@ class ResourcesController extends BaseController
         $parse['energy_basic_income'] = $game_energy_basic_income;
 
         $parse['plasma_level'] = $this->user['research_plasma_technology'];
-        $parse['plasma_metal'] = FormatLib::colorNumber(FormatLib::prettyNumber($plasmaBoost['metal']));
-        $parse['plasma_crystal'] = FormatLib::colorNumber(FormatLib::prettyNumber($plasmaBoost['crystal']));
-        $parse['plasma_deuterium'] = FormatLib::colorNumber(FormatLib::prettyNumber($plasmaBoost['deuterium']));
+        $parse['plasma_metal'] = FormatLib::colorNumber((int) $plasmaBoost['metal']);
+        $parse['plasma_crystal'] = FormatLib::colorNumber((int) $plasmaBoost['crystal']);
+        $parse['plasma_deuterium'] = FormatLib::colorNumber((int) $plasmaBoost['deuterium']);
+        $parse['mining_drill_level'] = (int) ($this->planet['ship_mining_drill'] ?? 0);
+        $parse['mining_drill_metal'] = FormatLib::colorNumber((int) $drillBoost['metal']);
+        $parse['mining_drill_crystal'] = FormatLib::colorNumber((int) $drillBoost['crystal']);
+        $parse['mining_drill_deuterium'] = FormatLib::colorNumber((int) $drillBoost['deuterium']);
 
         $parse['planet_metal_max'] = $this->resource_color($this->planet['planet_metal'], $this->planet['planet_metal_max']);
         $parse['planet_crystal_max'] = $this->resource_color($this->planet['planet_crystal'], $this->planet['planet_crystal_max']);
         $parse['planet_deuterium_max'] = $this->resource_color($this->planet['planet_deuterium'], $this->planet['planet_deuterium_max']);
 
-        $parse['metal_total'] = FormatLib::colorNumber(FormatLib::prettyNumber(floor((($this->planet['planet_metal_perhour'] * 0.01 * $parse['production_level']) + $parse['metal_basic_income']))));
-        $parse['crystal_total'] = FormatLib::colorNumber(FormatLib::prettyNumber(floor((($this->planet['planet_crystal_perhour'] * 0.01 * $parse['production_level']) + $parse['crystal_basic_income']))));
-        $parse['deuterium_total'] = FormatLib::colorNumber(FormatLib::prettyNumber(floor((($this->planet['planet_deuterium_perhour'] * 0.01 * $parse['production_level']) + $parse['deuterium_basic_income']))));
-        $parse['energy_total'] = FormatLib::colorNumber(FormatLib::prettyNumber(floor(($this->planet['planet_energy_max'] + $parse['energy_basic_income']) + $this->planet['planet_energy_used'])));
+        $parse['metal_total'] = FormatLib::colorNumber((int) floor((($this->planet['planet_metal_perhour'] * 0.01 * $parse['production_level']) + $parse['metal_basic_income'])));
+        $parse['crystal_total'] = FormatLib::colorNumber((int) floor((($this->planet['planet_crystal_perhour'] * 0.01 * $parse['production_level']) + $parse['crystal_basic_income'])));
+        $parse['deuterium_total'] = FormatLib::colorNumber((int) floor((($this->planet['planet_deuterium_perhour'] * 0.01 * $parse['production_level']) + $parse['deuterium_basic_income'])));
+        $parse['energy_total'] = FormatLib::colorNumber((int) floor(($this->planet['planet_energy_max'] + $parse['energy_basic_income']) + $this->planet['planet_energy_used']));
 
         $parse['daily_metal'] = $this->calculate_daily($this->planet['planet_metal_perhour'], $parse['production_level'], $parse['metal_basic_income']);
         $parse['weekly_metal'] = $this->calculate_weekly($this->planet['planet_metal_perhour'], $parse['production_level'], $parse['metal_basic_income']);
@@ -203,14 +250,14 @@ class ResourcesController extends BaseController
         $parse['daily_deuterium'] = $this->calculate_daily($this->planet['planet_deuterium_perhour'], $parse['production_level'], $parse['deuterium_basic_income']);
         $parse['weekly_deuterium'] = $this->calculate_weekly($this->planet['planet_deuterium_perhour'], $parse['production_level'], $parse['deuterium_basic_income']);
 
-        $parse['daily_metal'] = FormatLib::colorNumber(FormatLib::prettyNumber($parse['daily_metal']));
-        $parse['weekly_metal'] = FormatLib::colorNumber(FormatLib::prettyNumber($parse['weekly_metal']));
+        $parse['daily_metal'] = FormatLib::colorNumber((int) $parse['daily_metal']);
+        $parse['weekly_metal'] = FormatLib::colorNumber((int) $parse['weekly_metal']);
 
-        $parse['daily_crystal'] = FormatLib::colorNumber(FormatLib::prettyNumber($parse['daily_crystal']));
-        $parse['weekly_crystal'] = FormatLib::colorNumber(FormatLib::prettyNumber($parse['weekly_crystal']));
+        $parse['daily_crystal'] = FormatLib::colorNumber((int) $parse['daily_crystal']);
+        $parse['weekly_crystal'] = FormatLib::colorNumber((int) $parse['weekly_crystal']);
 
-        $parse['daily_deuterium'] = FormatLib::colorNumber(FormatLib::prettyNumber($parse['daily_deuterium']));
-        $parse['weekly_deuterium'] = FormatLib::colorNumber(FormatLib::prettyNumber($parse['weekly_deuterium']));
+        $parse['daily_deuterium'] = FormatLib::colorNumber((int) $parse['daily_deuterium']);
+        $parse['weekly_deuterium'] = FormatLib::colorNumber((int) $parse['weekly_deuterium']);
 
         $ValidList['percent'] = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
         $SubQry = '';
@@ -299,9 +346,9 @@ class ResourcesController extends BaseController
     private function resource_color($current_amount, $max_amount)
     {
         if ($max_amount < $current_amount) {
-            return (FormatLib::colorRed(FormatLib::prettyNumber($max_amount / 1000) . 'k'));
+            return FormatLib::colorRed(FormatLib::prettyNumber($max_amount / 1000) . 'k');
         } else {
-            return (FormatLib::colorGreen(FormatLib::prettyNumber($max_amount / 1000) . 'k'));
+            return FormatLib::colorGreen(FormatLib::prettyNumber($max_amount / 1000) . 'k');
         }
     }
 

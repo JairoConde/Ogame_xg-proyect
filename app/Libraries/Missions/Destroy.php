@@ -15,6 +15,7 @@ use App\Libraries\BattleEngine\Models\Ship;
 use App\Libraries\BattleEngine\Utils\DebugManager;
 use App\Libraries\BattleEngine\Utils\LangManager;
 use App\Libraries\Combatreport\Report;
+use App\Libraries\AllianceDiplomacyFleetHook;
 use App\Libraries\FleetsLib;
 use App\Libraries\FormatLib;
 use App\Libraries\Formulas;
@@ -28,19 +29,9 @@ class Destroy extends Missions
     public const DEFENSE_MIN_ID = 401;
     public const DEFENSE_MAX_ID = 408;
 
-    /**
-     * Contains each player hyperspace technology level
-     *
-     * @var array
-     */
-    private $hyperspace_technology = [];
-
-    /**
-     * Contains current destruction data
-     *
-     * @var array
-     */
-    private $_destruction = [
+    private array $hyperspace_technology = [];
+    private array $cargo_optimization = [];
+    private array $_destruction = [
         'flag' => false,
         'destroyed' => 'none',
         'moon_chance' => 0,
@@ -62,7 +53,7 @@ class Destroy extends Missions
      *
      * @return void
      */
-    public function destroyMission($fleet_row)
+    public function destroyMission(array $fleet_row): void
     {
         // null == use default handlers
         $errorHandler = null;
@@ -196,6 +187,22 @@ class Destroy extends Missions
             $this->updateDebris($fleet_row, $report);
             $this->createNewReportAndSendIt($fleet_row, $report, $target_planet['planet_name']);
 
+            $attackerUser = $this->missionsModel->getAllUserDataByUserId((int) $fleet_row['fleet_owner']);
+            if (is_array($attackerUser)) {
+                [$mysqli, $prefix] = $this->missionsModel->getDbConnectionAndPrefix();
+                AllianceDiplomacyFleetHook::afterBattleRaid(
+                    $mysqli,
+                    $prefix,
+                    $attackerUser,
+                    $targetUser,
+                    $report,
+                    $afterBattleAttackers,
+                    $steal,
+                    $this->pricelist,
+                    time()
+                );
+            }
+
             if ($this->_destruction['destroyed'] == 'moon') {
                 $this->missionsModel->updateFleetsStatusToMakeThemReturn([
                     'coords' => [
@@ -253,7 +260,7 @@ class Destroy extends Missions
      *
      * @return mixed(Ship|Defense)
      */
-    private function getShipType($id, $count)
+    private function getShipType(int $id, int $count): Ship|Defense
     {
         $rf = isset($this->combat_caps[$id]['sd']) ? $this->combat_caps[$id]['sd'] : 0;
         $shield = $this->combat_caps[$id]['shield'];
@@ -270,17 +277,17 @@ class Destroy extends Missions
     private function updatePoints(BattleReport $report, PlayerGroup $afterBattleAttackers, PlayerGroup $afterBattleDefenders): void
     {
         $attackersBefore = $report->getRound('START')->getAfterBattleAttackers();
-        $attackersLostShipsAndDefence = $report->getPlayersLostShips($attackersBefore, $afterBattleAttackers, true);
+        $attackersLostShipsAndDefence = $report->getPlayersLostShips($attackersBefore, $afterBattleAttackers);
 
         $this->updateLostShipsAndDefencePoints($attackersLostShipsAndDefence);
 
         $defendersBefore = $report->getRound('START')->getAfterBattleDefenders();
-        $defendersLostShipsAndDefence = $report->getPlayersLostShips($defendersBefore, $afterBattleDefenders, true);
+        $defendersLostShipsAndDefence = $report->getPlayersLostShips($defendersBefore, $afterBattleDefenders);
 
         $this->updateLostShipsAndDefencePoints($defendersLostShipsAndDefence);
     }
 
-    private function updateLostShipsAndDefencePoints(PlayerGroup $lostShipsAndDefence)
+    private function updateLostShipsAndDefencePoints(PlayerGroup $lostShipsAndDefence): void
     {
         foreach ($lostShipsAndDefence->getIterator() as $player) {
             foreach ($player->getIterator() as $fleet) {
@@ -298,16 +305,16 @@ class Destroy extends Missions
     /**
      * updateDebris
      *
-     * @param array  $fleet_row Fleet row
-     * @param Report $report    Report
+     * @param array         $fleet_row Fleet row
+     * @param BattleReport  $report    Report
      *
      * @return void
      */
-    private function updateDebris($fleet_row, $report)
+    private function updateDebris(array $fleet_row, BattleReport $report): void
     {
         list($metal, $crystal) = $report->getDebris();
 
-        if (($metal + $crystal) > 0) {
+        if (((int) $metal + (int) $crystal) > 0) {
             $this->missionsModel->updatePlanetDebrisByCoords(
                 [
                     'time' => time(),
@@ -330,9 +337,9 @@ class Destroy extends Missions
      *
      * @param array  $fleet_row Fleet row
      *
-     * @return \PlayerGroup
+     * @return PlayerGroup
      */
-    private function getPlayerGroup($fleet_row)
+    private function getPlayerGroup($fleet_row): PlayerGroup
     {
         $playerGroup = new PlayerGroup();
         $serializedTypes = FleetsLib::getFleetShipsArray($fleet_row['fleet_array']);
@@ -340,6 +347,7 @@ class Destroy extends Missions
         $fleet = new Fleet($fleet_row['fleet_id']);
 
         $this->setHyperspaceTechLevel($idPlayer, $fleet_row['research_hyperspace_technology']);
+        $this->setCargoOptimizationLevel($idPlayer, (int) ($fleet_row['research_cargo_optimization'] ?? 0));
 
         foreach ($serializedTypes as $id => $count) {
             if ($id != 0 && $count != 0) {
@@ -372,12 +380,12 @@ class Destroy extends Missions
     /**
      * Get player group from query
      *
-     * @param array   $result      Result
-     * @param boolean $target_user Target User
+     * @param array       $result      Result
+     * @param array|null  $target_user Target User
      *
-     * @return \PlayerGroup
+     * @return PlayerGroup
      */
-    private function getPlayerGroupFromQuery($result, ?array $target_user = [])
+    private function getPlayerGroupFromQuery(mixed $result, ?array $target_user = []): PlayerGroup
     {
         $playerGroup = new PlayerGroup();
 
@@ -401,10 +409,11 @@ class Destroy extends Missions
                     } else {
                         $player_info = $this->missionsModel->getTechnologiesByUserId($idPlayer);
                         $this->setHyperspaceTechLevel($idPlayer, $player_info['research_hyperspace_technology']);
+                        $this->setCargoOptimizationLevel($idPlayer, (int) ($player_info['research_cargo_optimization'] ?? 0));
                     }
 
                     if (isset($target_user['planet_id']) && $target_user['planet_id'] == $idPlayer) {
-                        $fleetSouther = new Fleet();
+                        $fleetSouther = new Fleet($idPlayer);
                         $player = new Player($idPlayer, [$fleetSouther]);
                     } else {
                         $player = new Player($idPlayer, [$fleet]);
@@ -441,15 +450,15 @@ class Destroy extends Missions
     /**
      * updateMoon
      *
-     * @param Report $target_data Target Data
-     * @param int    $death_stars Amount of death stars
+     * @param array $target_data Target Data
+     * @param int   $death_stars Amount of death stars
      *
      * @return void
      */
-    private function updateMoon($target_data, $death_stars)
+    private function updateMoon(array $target_data, int $death_stars): void
     {
         if ($this->_destruction['flag']) {
-            return null;
+            return;
         }
 
         $this->_destruction['flag'] = true;
@@ -483,20 +492,20 @@ class Destroy extends Missions
     /**
      * Create a new report and attach it to a message
      *
-     * @param array  $fleet_row Fleet Row
-     * @param Report $report    Report
+     * @param array         $fleet_row Fleet Row
+     * @param BattleReport  $report    Report
      *
      * @return void
      */
-    private function createNewReportAndSendIt($fleet_row, $report, $target_planet_name)
+    private function createNewReportAndSendIt(array $fleet_row, BattleReport $report, string $target_planet_name): void
     {
         $idAtts = $report->getAttackersId();
         $idDefs = $report->getDefendersId();
         $idAll = array_merge($idAtts, $idDefs);
         $owners = join(',', $idAll);
-        $rid = md5($report) . time();
+        $rid = md5((string) $report) . time();
         $destroyed = ($report->getLastRoundNumber() == 1) ? 1 : 0;
-        $report_data = $report . $this->buildDestroyReport($fleet_row, $report);
+        $report_data = (string) $report . $this->buildDestroyReport($fleet_row, $report);
 
         $this->missionsModel->insertReport([
             'owners' => $owners,
@@ -572,7 +581,7 @@ class Destroy extends Missions
      *
      * @return int
      */
-    private function getCapacity(PlayerGroup $players)
+    private function getCapacity(PlayerGroup $players): int
     {
         $capacity = 0;
 
@@ -581,7 +590,9 @@ class Destroy extends Missions
                 foreach ($fleet->getIterator() as $idShipType => $shipType) {
                     $capacity += $shipType->getCount() * FleetsLib::getMaxStorage(
                         $this->pricelist[$idShipType]['capacity'],
-                        $this->hyperspace_technology[$idPlayer]
+                        $this->hyperspace_technology[$idPlayer],
+                        (int) ($this->cargo_optimization[$idPlayer] ?? 0),
+                        (int) $idShipType
                     );
                 }
             }
@@ -593,13 +604,13 @@ class Destroy extends Missions
     /**
      * updateAttackers
      *
-     * @param Battle $playerGroupBeforeBattle Player Group before battle
-     * @param Battle $playerGroupAfterBattle  Player Group after battle
-     * @param array  $target_planet           Target planet
+     * @param PlayerGroup $playerGroupBeforeBattle Player Group before battle
+     * @param PlayerGroup $playerGroupAfterBattle  Player Group after battle
+     * @param array       $target_planet           Target planet
      *
      * @return array
      */
-    private function updateAttackers($playerGroupBeforeBattle, $playerGroupAfterBattle, $target_planet)
+    private function updateAttackers(PlayerGroup $playerGroupBeforeBattle, PlayerGroup $playerGroupAfterBattle, array $target_planet): array
     {
         $fleetArray = '';
         $emptyFleets = [];
@@ -702,14 +713,14 @@ class Destroy extends Missions
     /**
      * updateDefenders
      *
-     * @param Battle $playerGroupBeforeBattle Player Group before battle
-     * @param Battle $playerGroupAfterBattle  Player Group after battle
-     * @param array  $target_planet           Target planet
-     * @param array  $steal                   Stealed resources
+     * @param PlayerGroup $playerGroupBeforeBattle Player Group before battle
+     * @param PlayerGroup $playerGroupAfterBattle  Player Group after battle
+     * @param array       $target_planet           Target planet
+     * @param array       $steal                   Stealed resources
      *
      * @return void
      */
-    private function updateDefenders($playerGroupBeforeBattle, $playerGroupAfterBattle, $target_planet, $steal)
+    private function updateDefenders(PlayerGroup $playerGroupBeforeBattle, PlayerGroup $playerGroupAfterBattle, array $target_planet, array $steal): void
     {
         $Xplayer = $Xfleet = $XshipType = null;
         $fleetArray = '';
@@ -774,7 +785,7 @@ class Destroy extends Missions
      *
      * @return array
      */
-    private function plunder($capacity, $metal, $crystal, $deuterium)
+    private function plunder(int $capacity, int $metal, int $crystal, int $deuterium): array
     {
         /**
          * 1. Fill up to 1/3 of cargo capacity with metal
@@ -839,7 +850,7 @@ class Destroy extends Missions
      *
      * @return string
      */
-    private function buildReportLink($color, $rid, $target_planet_name, $g, $s, $p)
+    private function buildReportLink(string $color, string $rid, string $target_planet_name, int $g, int $s, int $p): string
     {
         $style = 'style="color:' . $color . ';"';
         $js = "OnClick=\'f(\"game.php?page=combatreport&report=" . $rid . "\", \"\");\'";
@@ -856,12 +867,12 @@ class Destroy extends Missions
     /**
      * Extend the base report with destruction data
      *
-     * @param array  $fleet_row
-     * @param type   $report
+     * @param array         $fleet_row
+     * @param BattleReport  $report
      *
      * @return string
      */
-    private function buildDestroyReport(array $fleet_row, $report): string
+    private function buildDestroyReport(array $fleet_row, BattleReport $report): string
     {
         $destruction_info = sprintf(
             $this->langs->line('des_report_start'),
@@ -902,5 +913,10 @@ class Destroy extends Missions
     private function setHyperspaceTechLevel(int $user_id, int $level): void
     {
         $this->hyperspace_technology[$user_id] = $level;
+    }
+
+    private function setCargoOptimizationLevel(int $user_id, int $level): void
+    {
+        $this->cargo_optimization[$user_id] = $level;
     }
 }

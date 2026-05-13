@@ -41,6 +41,7 @@ abstract class GeometricDistribution
         if ($m <= 1) {
             return 1;
         }
+
         return 1 / $m;
     }
 
@@ -55,6 +56,7 @@ abstract class GeometricDistribution
         if ($p == 0) {
             return INF;
         }
+
         return 1 / $p;
     }
 
@@ -69,6 +71,7 @@ abstract class GeometricDistribution
         if ($p == 0) {
             return INF;
         }
+
         return (1 - $p) / ($p * $p);
     }
 

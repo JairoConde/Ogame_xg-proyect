@@ -74,7 +74,8 @@ class Empire extends Model
                     s.`ship_solar_satellite`,
                     s.`ship_destroyer`,
                     s.`ship_deathstar`,
-                    s.`ship_battlecruiser`
+                    s.`ship_battlecruiser`,
+                    s.`ship_mining_drill`
                 FROM `' . PLANETS . '` AS p
                 INNER JOIN `' . BUILDINGS . '` AS b ON b.building_planet_id = p.`planet_id`
                 INNER JOIN `' . DEFENSES . '` AS d ON d.defense_planet_id = p.`planet_id`

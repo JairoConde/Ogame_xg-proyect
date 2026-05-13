@@ -6,7 +6,7 @@ use App\Core\Entity;
 
 class AllianceEntity extends Entity
 {
-    public function __construct($data)
+    public function __construct(array $data)
     {
         parent::__construct($data);
     }
@@ -14,11 +14,11 @@ class AllianceEntity extends Entity
     /**
      * Return the alliance id
      *
-     * @return string
+     * @return int
      */
-    public function getAllianceId()
+    public function getAllianceId(): int
     {
-        return $this->data['alliance_id'];
+        return (int) $this->data['alliance_id'];
     }
 
     /**
@@ -26,7 +26,7 @@ class AllianceEntity extends Entity
      *
      * @return string
      */
-    public function getAllianceName()
+    public function getAllianceName(): string
     {
         return $this->data['alliance_name'];
     }
@@ -36,7 +36,7 @@ class AllianceEntity extends Entity
      *
      * @return string
      */
-    public function getAllianceTag()
+    public function getAllianceTag(): string
     {
         return $this->data['alliance_tag'];
     }
@@ -44,29 +44,29 @@ class AllianceEntity extends Entity
     /**
      * Return the alliance owner
      *
-     * @return string
+     * @return int
      */
-    public function getAllianceOwner()
+    public function getAllianceOwner(): int
     {
-        return $this->data['alliance_owner'];
+        return (int) $this->data['alliance_owner'];
     }
 
     /**
      * Return the alliance register time
      *
-     * @return string
+     * @return int
      */
-    public function getAllianceRegisterTime()
+    public function getAllianceRegisterTime(): int
     {
-        return $this->data['alliance_register_time'];
+        return (int) $this->data['alliance_register_time'];
     }
 
     /**
      * Return the alliance description
      *
-     * @return string
+     * @return string|null
      */
-    public function getAllianceDescription()
+    public function getAllianceDescription(): ?string
     {
         return $this->data['alliance_description'];
     }
@@ -74,9 +74,9 @@ class AllianceEntity extends Entity
     /**
      * Return the alliance web
      *
-     * @return string
+     * @return string|null
      */
-    public function getAllianceWeb()
+    public function getAllianceWeb(): ?string
     {
         return $this->data['alliance_web'];
     }
@@ -84,9 +84,9 @@ class AllianceEntity extends Entity
     /**
      * Return the alliance text
      *
-     * @return string
+     * @return string|null
      */
-    public function getAllianceText()
+    public function getAllianceText(): ?string
     {
         return $this->data['alliance_text'];
     }
@@ -94,9 +94,9 @@ class AllianceEntity extends Entity
     /**
      * Return the alliance image
      *
-     * @return string
+     * @return string|null
      */
-    public function getAllianceImage()
+    public function getAllianceImage(): ?string
     {
         return $this->data['alliance_image'];
     }
@@ -104,9 +104,9 @@ class AllianceEntity extends Entity
     /**
      * Return the alliance request
      *
-     * @return string
+     * @return string|null
      */
-    public function getAllianceRequest()
+    public function getAllianceRequest(): ?string
     {
         return $this->data['alliance_request'];
     }
@@ -114,9 +114,9 @@ class AllianceEntity extends Entity
     /**
      * Return the alliance request not allow
      *
-     * @return string
+     * @return string|null
      */
-    public function getAllianceRequestNotAllow()
+    public function getAllianceRequestNotAllow(): ?string
     {
         return $this->data['alliance_request_notallow'];
     }
@@ -126,7 +126,7 @@ class AllianceEntity extends Entity
      *
      * @return string
      */
-    public function getAllianceRanks()
+    public function getAllianceRanks(): string
     {
         return $this->data['alliance_ranks'];
     }
@@ -134,10 +134,10 @@ class AllianceEntity extends Entity
     /**
      * Return the alliance members
      *
-     * @return string
+     * @return int
      */
-    public function getAllianceMembers()
+    public function getAllianceMembers(): int
     {
-        return $this->data['alliance_members'];
+        return (int) $this->data['alliance_members'];
     }
 }

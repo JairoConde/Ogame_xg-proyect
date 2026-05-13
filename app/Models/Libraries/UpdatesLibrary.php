@@ -172,7 +172,7 @@ class UpdatesLibrary extends Model
     /**
      * Update all planet data, before any action takes place
      *
-     * @param type $data Planet data to update
+     * @param array $data Planet data to update
      *
      * @return void
      */

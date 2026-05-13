@@ -2,61 +2,28 @@
 
 namespace App\Libraries\Buildings;
 
+use App\Core\Objects;
 use App\Libraries\DevelopmentsLib;
 use App\Libraries\OfficiersLib;
 
 class Building
 {
-    /**
-     *
-     * @var string $_queue Queue
-     */
-    private $_queue = '';
-
-    /**
-     *
-     * @var array $_planet Planet Data
-     */
-    private $_planet = '';
-
-    /**
-     *
-     * @var array $_user User Data
-     */
-    private $_user = '';
-
-    /**
-     *
-     * @var array $_objects Objects
-     */
-    private $_objects = '';
-
-    /**
-     *
-     * @var int $_building building ID
-     */
-    private $_building = 0;
-
-    /**
-     *
-     * @var int $_build_level current building level
-     */
-    private $_build_level = 0;
-
-    /**
-     *
-     * @var int $_build_time building time
-     */
-    private $_build_time = 0;
+    private Queue $_queue;
+    private array $_planet = [];
+    private array $_user = [];
+    private Objects $_objects;
+    private int $_building = 0;
+    private int $_build_level = 0;
+    private int $_build_time = 0;
 
     /**
      * Init the class with some values
      *
-     * @param array $planet  Planet
-     * @param array $user    User
-     * @param array $objects Objects
+     * @param array   $planet  Planet
+     * @param array   $user    User
+     * @param Objects $objects Objects
      */
-    public function __construct($planet, $user, $objects)
+    public function __construct(array $planet, array $user, Objects $objects)
     {
         $this->_queue = new Queue($planet['planet_b_building_id']);
         $this->_planet = $planet;
@@ -71,7 +38,7 @@ class Building
      *
      * @return void
      */
-    public function addBuilding($building_id)
+    public function addBuilding(int $building_id): void
     {
         $this->_building = $building_id;
 
@@ -81,11 +48,11 @@ class Building
     /**
      * Remove building from list
      *
-     * @param type $element_id
+     * @param int $element_id
      *
      * @return void
      */
-    public function removeBuilding($element_id)
+    public function removeBuilding(int $element_id): void
     {
         $this->removeElementFromBuildingQueue($element_id);
     }
@@ -95,7 +62,7 @@ class Building
      *
      * @return void
      */
-    public function cancelBuilding()
+    public function cancelBuilding(): void
     {
         $this->removeFirstElementFromBuildingQueue();
     }
@@ -107,7 +74,7 @@ class Building
      *
      * @return void
      */
-    public function tearDownBuilding($building_id)
+    public function tearDownBuilding(int $building_id): void
     {
         $this->_building = $building_id;
 
@@ -119,7 +86,7 @@ class Building
      *
      * @return int
      */
-    public function getCountElementsOnQueue()
+    public function getCountElementsOnQueue(): int
     {
         return $this->_queue->countQueueElements();
     }
@@ -129,7 +96,7 @@ class Building
      *
      * @return string
      */
-    public function getNewQueueAsString()
+    public function getNewQueueAsString(): string
     {
         return $this->_queue->returnQueueAsString();
     }
@@ -137,9 +104,9 @@ class Building
     /**
      * Get the updated queue as an array
      *
-     * @return string
+     * @return array
      */
-    public function getNewQueueAsArray()
+    public function getNewQueueAsArray(): array
     {
         return $this->_queue->returnQueueAsArray();
     }
@@ -149,7 +116,7 @@ class Building
      *
      * @return boolean
      */
-    public function isQueueFull()
+    public function isQueueFull(): bool
     {
         $queue_size = 1;
 
@@ -167,7 +134,7 @@ class Building
      *
      * @return QueueElements
      */
-    private function buildQueueElementsBlock($build_mode)
+    private function buildQueueElementsBlock(string $build_mode): ?QueueElements
     {
         $build_level = $this->calculateBuildLevel($build_mode);
 
@@ -190,7 +157,7 @@ class Building
      *
      * @return void
      */
-    private function queueElementToBuild()
+    private function queueElementToBuild(): void
     {
         $this->_queue->addElementToQueue(
             $this->buildQueueElementsBlock('build')
@@ -200,9 +167,9 @@ class Building
     /**
      * Queue an element to tear down
      *
-     * @return void
+     * @return string
      */
-    private function queueElementToTearDown()
+    private function queueElementToTearDown(): string
     {
         $this->_queue->addElementToQueue(
             $this->buildQueueElementsBlock('teardown')
@@ -216,7 +183,7 @@ class Building
      *
      * @return void
      */
-    private function removeElementFromBuildingQueue($element_id)
+    private function removeElementFromBuildingQueue(int $element_id): void
     {
         $this->_queue->removeElementFromQueue($element_id);
     }
@@ -226,7 +193,7 @@ class Building
      *
      * @return void
      */
-    private function removeFirstElementFromBuildingQueue()
+    private function removeFirstElementFromBuildingQueue(): void
     {
         $this->removeElementFromBuildingQueue(0);
     }
@@ -236,7 +203,7 @@ class Building
      *
      * @return int
      */
-    private function getBuildingCurrentLevel()
+    private function getBuildingCurrentLevel(): int
     {
         return $this->_planet[$this->_objects->getObjects($this->_building)];
     }
@@ -248,7 +215,7 @@ class Building
      *
      * @return int
      */
-    private function calculateBuildLevel($build_mode)
+    private function calculateBuildLevel(string $build_mode): int
     {
         $difference = ($build_mode == 'teardown') ? -1 : 1;
 
@@ -262,7 +229,7 @@ class Building
      *
      * @return int
      */
-    private function calculateBuildTime($build_mode)
+    private function calculateBuildTime(string $build_mode): int
     {
         $difference = ($build_mode == 'teardown') ? 2 : 1;
 
@@ -282,7 +249,7 @@ class Building
      *
      * @return int
      */
-    private function calculateBuildEndTime()
+    private function calculateBuildEndTime(): int
     {
         if ($this->getCountElementsOnQueue() <= 0) {
             return time() + $this->_build_time;
@@ -290,7 +257,7 @@ class Building
             $prev_element = $this->getCountElementsOnQueue() - 1;
             $prev_element_time = $this->_queue->getElementFromQueueAsArray($prev_element)[2];
 
-            return $prev_element_time + $this->build_time;
+            return (int) $prev_element_time + $this->_build_time;
         }
     }
 }

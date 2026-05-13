@@ -87,22 +87,22 @@
                                 <tr>
                                     <th>
                                         <a title="Sell your Metal and get Crystal or Deuterium. Costs: 3.500 Dark Matter">Metal</a>
-                                        <input type="radio" name="sell" value="metal">
+                                        <input type="radio" name="sell" value="metal" required>
                                     </th>
                                     <th>
                                         <a title="Sell your Crystal and get Metal or Deuterium. Costs: 3.500 Dark Matter">Crystal</a>
-                                        <input type="radio" name="sell" value="crystal">
+                                        <input type="radio" name="sell" value="crystal" required>
                                     </th>
                                     <th>
                                         <a title="Sell your Deuterium and get Metal or Crystal. Costs: 3.500 Dark Matter">Deuterium</a>
-                                        <input type="radio" name="sell" value="deuterium">
+                                        <input type="radio" name="sell" value="deuterium" required>
                                     </th>
                                 </tr>
                             </table>
                         </th>
                         <th width="50%">
                             {tr_price}<br>
-                            <input type="button" value="{tr_call_button}">
+                            <input type="submit" name="call_merchant" value="{tr_call_button}">
                         </th>
                     </tr>
                 </table>

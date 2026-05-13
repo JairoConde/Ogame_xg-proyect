@@ -26,8 +26,7 @@
  * @version beta(26-10-2013)
  * @link https://github.com/jstar88/opbe
  */
-
-function log_var($name, $value)
+function log_var(string $name, $value): void
 {
     if (is_array($value)) {
         $value = var_export($value);
@@ -35,7 +34,7 @@ function log_var($name, $value)
     log_comment("$name = $value");
 }
 
-function log_comment($comment)
+function log_comment(string $comment): void
 {
     echo "[log]$comment<br>\n";
 }

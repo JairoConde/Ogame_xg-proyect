@@ -96,7 +96,7 @@ class LanguagesController extends BaseController
     {
         if (empty($this->current_file)) {
             return [
-                'contents' => $contents ?? '',
+                'contents' => '',
             ];
         }
 
@@ -119,7 +119,7 @@ class LanguagesController extends BaseController
         }
 
         return [
-            'contents' => $contents ?? '',
+            'contents' => $contents,
         ];
     }
 

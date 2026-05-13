@@ -12,9 +12,9 @@ use CiLang;
 class Missions
 {
     protected MissionsModel $missionsModel;
-    protected $resource;
-    protected $pricelist;
-    protected $combat_caps;
+    protected mixed $resource = null;
+    protected mixed $pricelist = null;
+    protected mixed $combat_caps = null;
     protected ?CiLang $langs = null;
 
     public function __construct()
@@ -84,7 +84,7 @@ class Missions
         $this->missionsModel->updatePlanetsShipsByCoords($updateArray);
     }
 
-    protected function storeResources(array $fleetRow, $start = false): void
+    protected function storeResources(array $fleetRow, bool $start = false): void
     {
         if ($start) {
             $galaxy = $fleetRow['fleet_start_galaxy'];
@@ -138,12 +138,12 @@ class Missions
 
     protected function canStartMission(array $fleet): bool
     {
-        return ($fleet['fleet_mess'] == 0 && $fleet['fleet_start_time'] <= time() && $fleet['fleet_end_stay'] <= time());
+        return $fleet['fleet_mess'] == 0 && $fleet['fleet_start_time'] <= time() && $fleet['fleet_end_stay'] <= time();
     }
 
     protected function canCompleteMission(array $fleet): bool
     {
-        return ($fleet['fleet_end_time'] <= time());
+        return $fleet['fleet_end_time'] <= time();
     }
 
     protected function loadLang(array $requiredLang): void

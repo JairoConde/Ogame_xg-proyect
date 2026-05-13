@@ -9,7 +9,7 @@ class OfficiersLib
 {
     public static function isOfficierActive(int $expireTime): int
     {
-        return ($expireTime > time() && $expireTime != 0);
+        return $expireTime > time() && $expireTime != 0;
     }
 
     public static function getMaxEspionage(int $espionageTech, int $technocrateLevel): int

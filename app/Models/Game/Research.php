@@ -61,14 +61,20 @@ class Research extends Model
      */
     public function getAllLabsLevel(int $user_id, int $labs_limit): int
     {
+        $labs_limit = max(1, $labs_limit);
+
         return (int) $this->db->queryFetch(
             'SELECT
-                SUM(`building_laboratory`) AS `total_level`
-            FROM `' . BUILDINGS . '` AS b
-            INNER JOIN `' . PLANETS . "` AS p ON p.`planet_id` = b.building_planet_id
-            WHERE planet_user_id = '" . $user_id . "'
-            ORDER BY building_laboratory DESC
-            LIMIT " . $labs_limit . ''
+                COALESCE(SUM(`lab_level`), 0) AS `total_level`
+            FROM (
+                SELECT
+                    b.`building_laboratory` AS `lab_level`
+                FROM `' . BUILDINGS . '` AS b
+                INNER JOIN `' . PLANETS . "` AS p ON p.`planet_id` = b.`building_planet_id`
+                WHERE p.`planet_user_id` = '" . $user_id . "'
+                ORDER BY b.`building_laboratory` DESC
+                LIMIT " . $labs_limit . '
+            ) AS `top_labs`'
         )['total_level'];
     }
 }

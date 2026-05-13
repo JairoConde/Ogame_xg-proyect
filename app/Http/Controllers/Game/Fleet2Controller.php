@@ -59,7 +59,7 @@ class Fleet2Controller extends BaseController
      *
      * @return void
      */
-    private function setUpFleets()
+    private function setUpFleets(): void
     {
         $this->_research = new Researches(
             [$this->user],
@@ -141,7 +141,9 @@ class Fleet2Controller extends BaseController
                         'speed' => FleetsLib::fleetMaxSpeed(null, $ship_id, $this->user),
                         'capacity' => FleetsLib::getMaxStorage(
                             $price[$ship_id]['capacity'],
-                            $this->_research->getCurrentResearch()->getResearchHyperspaceTechnology()
+                            $this->_research->getCurrentResearch()->getResearchHyperspaceTechnology(),
+                            $this->_research->getCurrentResearch()->getResearchCargoOptimization(),
+                            $ship_id
                         ),
                         'ship' => $amount_to_set,
                     ];
@@ -192,7 +194,7 @@ class Fleet2Controller extends BaseController
      *
      * @return string
      */
-    private function buildShortcutsBlock()
+    private function buildShortcutsBlock(): string
     {
         if (!OfficiersLib::isOfficierActive($this->_premium->getCurrentPremium()->getPremiumOfficierCommander())) {
             return '';
@@ -248,7 +250,7 @@ class Fleet2Controller extends BaseController
      *
      * @return string
      */
-    private function buildColoniesBlock()
+    private function buildColoniesBlock(): string
     {
         $planets = $this->fleetModel->getAllPlanetsByUserId($this->user['user_id']);
         $list_of_planets = [];
@@ -284,9 +286,9 @@ class Fleet2Controller extends BaseController
     /**
      * Build the acs shortcuts block
      *
-     * @return string
+     * @return array
      */
-    private function buildAcsBlock()
+    private function buildAcsBlock(): array
     {
         $current_acs = $this->fleetModel->getOngoingAcs($this->user['user_id']);
         $acs_fleets = [];
@@ -312,7 +314,7 @@ class Fleet2Controller extends BaseController
      *
      * @return array
      */
-    private function setInputsData()
+    private function setInputsData(): array
     {
         $data = filter_input_array(INPUT_POST, [
             'galaxy' => [

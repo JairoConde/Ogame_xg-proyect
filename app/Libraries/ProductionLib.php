@@ -9,11 +9,14 @@ class ProductionLib
      *
      * @param int $storage_level Storage level
      *
-     * @return void
+     * @return int
      */
-    public static function maxStorable($storage_level)
+    public static function maxStorable(int $storage_level): int
     {
-        return (int) (2.5 * pow(M_E, (20 * ($storage_level) / 33))) * 5000;
+        $baseStorage = (int) (2.5 * pow(M_E, (20 * ($storage_level) / 33))) * 5000;
+        $resourceMultiplier = (float) Functions::readConfig('resource_multiplier');
+
+        return (int) floor($baseStorage * ($resourceMultiplier / 2));
     }
 
     /**
@@ -24,7 +27,7 @@ class ProductionLib
      *
      * @return int
      */
-    public static function maxProduction($max_energy, $energy_used)
+    public static function maxProduction(int $max_energy, int $energy_used): int
     {
         if (($max_energy == 0) && ($energy_used > 0)) {
             $percentage = 0;
@@ -51,7 +54,7 @@ class ProductionLib
      *
      * @return int
      */
-    public static function productionAmount($production, $boost, $mult = 0, $is_energy = false)
+    public static function productionAmount($production, $boost, int $mult = 0, bool $is_energy = false): int
     {
         if ($is_energy) {
             return ceil($production * $boost);
@@ -68,8 +71,8 @@ class ProductionLib
      *
      * @return int
      */
-    public static function currentProduction($resource, $max_production)
+    public static function currentProduction($resource, $max_production): int
     {
-        return ($resource * 0.01 * $max_production);
+        return (int) round($resource * 0.01 * $max_production);
     }
 }

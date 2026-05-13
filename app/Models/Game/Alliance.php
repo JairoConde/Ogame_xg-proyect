@@ -345,8 +345,7 @@ class Alliance extends Model
     /**
      * Remove user from alliance
      *
-     * @param int $user_id     User ID
-     * @param int $alliance_id Alliance ID
+     * @param int $user_id User ID
      *
      * @return void
      */
@@ -495,21 +494,27 @@ class Alliance extends Model
         switch ($sort_field) {
             case 1:
                 $sort = ' ORDER BY `user_name`';
+
                 break;
             case 2:
                 $sort = ' ORDER BY `user_ally_rank_id`';
+
                 break;
             case 3:
                 $sort = ' ORDER BY `user_statistic_total_points`';
+
                 break;
             case 4:
                 $sort = ' ORDER BY `user_ally_register_time`';
+
                 break;
             case 5:
                 $sort = ' ORDER BY `user_onlinetime`';
+
                 break;
             default:
                 $sort = ' ORDER BY `user_id`';
+
                 break;
         }
 

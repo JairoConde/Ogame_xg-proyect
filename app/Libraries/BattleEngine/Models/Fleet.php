@@ -34,19 +34,18 @@ use Exception;
  */
 class Fleet extends IterableUtil
 {
-    protected $array = [];
-    private $count;
-    private $id;
+    private int $count;
+    private int $id;
     // added but only used in report templates
-    private $weapons_tech = 0;
-    private $shields_tech = 0;
-    private $armour_tech = 0;
-    private $name;
-    private $galaxy;
-    private $system;
-    private $planet;
+    private int $weapons_tech = 0;
+    private int $shields_tech = 0;
+    private int $armour_tech = 0;
+    private string $name;
+    private ?int $galaxy;
+    private ?int $system;
+    private ?int $planet;
 
-    public function __construct($id, $shipTypes = [], $weapons_tech = null, $shields_tech = null, $armour_tech = null, $name = '', $galaxy = null, $system = null, $planet = null)
+    public function __construct(int $id, array $shipTypes = [], ?int $weapons_tech = null, ?int $shields_tech = null, ?int $armour_tech = null, string $name = '', ?int $galaxy = null, ?int $system = null, ?int $planet = null)
     {
         $this->id = $id;
         $this->count = 0;
@@ -60,22 +59,22 @@ class Fleet extends IterableUtil
         }
     }
 
-    public function getName()
+    public function getName(): string
     {
         return $this->name;
     }
 
-    public function setName($name)
+    public function setName(string $name): void
     {
         $this->name = $name;
     }
 
-    public function getId()
+    public function getId(): int
     {
         return $this->id;
     }
 
-    public function setTech($weapons = null, $shields = null, $armour = null)
+    public function setTech($weapons = null, $shields = null, $armour = null): void
     {
         foreach ($this->array as $id => $shipType) {
             $shipType->setWeaponsTech($weapons);
@@ -93,14 +92,14 @@ class Fleet extends IterableUtil
         }
     }
 
-    public function setCoords($galaxy = null, $system = null, $planet = null)
+    public function setCoords($galaxy = null, $system = null, $planet = null): void
     {
         $this->galaxy = $galaxy;
         $this->system = $system;
         $this->planet = $planet;
     }
 
-    public function addShipType(ShipType $shipType)
+    public function addShipType(ShipType $shipType): void
     {
         if (isset($this->array[$shipType->getId()])) {
             $this->array[$shipType->getId()]->increment($shipType->getCount());
@@ -116,7 +115,7 @@ class Fleet extends IterableUtil
         $this->count += $shipType->getCount();
     }
 
-    public function decrement($id, $count)
+    public function decrement($id, $count): void
     {
         $this->array[$id]->decrement($count);
         $this->count -= $count;
@@ -125,43 +124,44 @@ class Fleet extends IterableUtil
         }
     }
 
-    public function mergeFleet(Fleet $other)
+    public function mergeFleet(Fleet $other): void
     {
         foreach ($other->getIterator() as $idShipType => $shipType) {
             $this->addShipType($shipType);
         }
     }
 
-    public function getShipType($id)
+    public function getShipType($id): ShipType
     {
         return $this->array[$id];
     }
 
-    public function existShipType($id)
+    public function existShipType($id): bool
     {
         return isset($this->array[$id]);
     }
 
-    public function getTypeCount($type)
+    public function getTypeCount($type): int
     {
         return $this->array[$type]->getCount();
     }
 
-    public function getTotalCount()
+    public function getTotalCount(): int
     {
         return $this->count;
     }
 
-    public function __toString()
+    public function __toString(): string
     {
         ob_start();
         $_fleet = $this;
         $_st = '';
         require OPBEPATH . 'Views/fleet.html';
+
         return ob_get_clean();
     }
 
-    public function inflictDamage(FireManager $fires)
+    public function inflictDamage(FireManager $fires): array
     {
         $physicShots = [];
         //doesn't matter who shot first, but who receive first the damage
@@ -194,18 +194,20 @@ class Fleet extends IterableUtil
                 $physicShots[$f][] = $ps;
             }
         }
+
         return $physicShots;
     }
 
-    public function getOrderedIterator()
+    public function getOrderedIterator(): array
     {
         if (!ksort($this->array)) {
             throw new Exception('Unable to order types');
         }
+
         return $this->array;
     }
 
-    public function cleanShips()
+    public function cleanShips(): array
     {
         $shipsCleaners = [];
         foreach ($this->array as $id => $shipType) {
@@ -217,60 +219,63 @@ class Fleet extends IterableUtil
             }
             $shipsCleaners[$shipType->getId()] = $sc;
         }
+
         return $shipsCleaners;
     }
 
-    public function repairShields()
+    public function repairShields(): void
     {
         foreach ($this->array as $id => $shipTypeDefender) {
             $shipTypeDefender->repairShields();
         }
     }
 
-    public function isEmpty()
+    public function isEmpty(): bool
     {
         foreach ($this->array as $id => $shipType) {
             if (!$shipType->isEmpty()) {
                 return false;
             }
         }
+
         return true;
     }
 
-    public function getWeaponsTech()
+    public function getWeaponsTech(): int
     {
         return $this->weapons_tech;
     }
 
-    public function getShieldsTech()
+    public function getShieldsTech(): int
     {
         return $this->shields_tech;
     }
 
-    public function getArmourTech()
+    public function getArmourTech(): int
     {
         return $this->armour_tech;
     }
 
-    public function getGalaxy()
+    public function getGalaxy(): ?int
     {
         return $this->galaxy;
     }
 
-    public function getSystem()
+    public function getSystem(): ?int
     {
         return $this->system;
     }
 
-    public function getPlanet()
+    public function getPlanet(): ?int
     {
         return $this->planet;
     }
 
-    public function cloneMe()
+    public function cloneMe(): Fleet
     {
         $types = array_values($this->array);
         $class = get_class($this);
-        return new $class($this->id, $types, $this->weapons_tech, $this->shields_tech, $this->armour_tech, $this->galaxy, $this->system, $this->planet);
+
+        return new $class($this->id, $types, $this->weapons_tech, $this->shields_tech, $this->armour_tech, $this->name, $this->galaxy, $this->system, $this->planet);
     }
 }

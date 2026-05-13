@@ -6,7 +6,7 @@ use App\Core\Entity;
 
 class ResearchEntity extends Entity
 {
-    public function __construct($data)
+    public function __construct(array $data)
     {
         parent::__construct($data);
     }
@@ -16,7 +16,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchId()
+    public function getResearchId(): string
     {
         return $this->data['research_id'];
     }
@@ -26,7 +26,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchUserId()
+    public function getResearchUserId(): string
     {
         return $this->data['research_user_id'];
     }
@@ -36,7 +36,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchCurrentResearch()
+    public function getResearchCurrentResearch(): string
     {
         return $this->data['research_current_research'];
     }
@@ -46,7 +46,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchEspionageTechnology()
+    public function getResearchEspionageTechnology(): string
     {
         return $this->data['research_espionage_technology'];
     }
@@ -56,7 +56,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchComputerTechnology()
+    public function getResearchComputerTechnology(): string
     {
         return $this->data['research_computer_technology'];
     }
@@ -66,7 +66,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchWeaponsTechnology()
+    public function getResearchWeaponsTechnology(): string
     {
         return $this->data['research_weapons_technology'];
     }
@@ -76,7 +76,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchShieldingTechnology()
+    public function getResearchShieldingTechnology(): string
     {
         return $this->data['research_shielding_technology'];
     }
@@ -86,7 +86,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchArmourTechnology()
+    public function getResearchArmourTechnology(): string
     {
         return $this->data['research_armour_technology'];
     }
@@ -96,7 +96,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchEnergyTechnology()
+    public function getResearchEnergyTechnology(): string
     {
         return $this->data['research_energy_technology'];
     }
@@ -106,7 +106,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchHyperspaceTechnology()
+    public function getResearchHyperspaceTechnology(): string
     {
         return $this->data['research_hyperspace_technology'];
     }
@@ -116,7 +116,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchCombustionDrive()
+    public function getResearchCombustionDrive(): string
     {
         return $this->data['research_combustion_drive'];
     }
@@ -126,7 +126,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchImpulseDrive()
+    public function getResearchImpulseDrive(): string
     {
         return $this->data['research_impulse_drive'];
     }
@@ -136,7 +136,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchHyperspaceDrive()
+    public function getResearchHyperspaceDrive(): string
     {
         return $this->data['research_hyperspace_drive'];
     }
@@ -146,7 +146,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchLaserTechnology()
+    public function getResearchLaserTechnology(): string
     {
         return $this->data['research_laser_technology'];
     }
@@ -156,7 +156,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchIonicTechnology()
+    public function getResearchIonicTechnology(): string
     {
         return $this->data['research_ionic_technology'];
     }
@@ -166,7 +166,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchPlasmaTechnology()
+    public function getResearchPlasmaTechnology(): string
     {
         return $this->data['research_plasma_technology'];
     }
@@ -176,7 +176,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchIntergalacticResearchNetwork()
+    public function getResearchIntergalacticResearchNetwork(): string
     {
         return $this->data['research_intergalactic_research_network'];
     }
@@ -186,9 +186,19 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchAstrophysics()
+    public function getResearchAstrophysics(): string
     {
         return $this->data['research_astrophysics'];
+    }
+
+    /**
+     * Return the research cargo optimization
+     *
+     * @return string
+     */
+    public function getResearchCargoOptimization(): string
+    {
+        return $this->data['research_cargo_optimization'];
     }
 
     /**
@@ -196,7 +206,7 @@ class ResearchEntity extends Entity
      *
      * @return string
      */
-    public function getResearchGravitonTechnology()
+    public function getResearchGravitonTechnology(): string
     {
         return $this->data['research_graviton_technology'];
     }

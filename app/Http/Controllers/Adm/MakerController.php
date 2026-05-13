@@ -183,6 +183,7 @@ class MakerController extends BaseController
             $name = (string) $_POST['name'];
             $field_max = (int) $_POST['planet_field_max'];
             $i = 0;
+            $error = '';
 
             $check_planet = $this->makerModel->checkPlanet($galaxy, $system, $planet);
             $user_query = $this->makerModel->checkUserById($user_id);

@@ -69,7 +69,7 @@ class Changelog extends Model
             );
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }
@@ -101,7 +101,7 @@ class Changelog extends Model
             );
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }

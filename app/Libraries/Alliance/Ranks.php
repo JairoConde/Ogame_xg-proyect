@@ -12,7 +12,7 @@ class Ranks
 {
     private array $_ranks = [];
 
-    public function __construct($alliance_ranks)
+    public function __construct(string $alliance_ranks)
     {
         try {
             if (is_array($alliance_ranks)) {
@@ -30,7 +30,7 @@ class Ranks
      *
      * @param string $ranks Ranks
      */
-    private function setRanks($ranks)
+    private function setRanks(string $ranks): void
     {
         try {
             if (!empty($ranks)) {
@@ -44,9 +44,9 @@ class Ranks
     /**
      * Get the ranks
      *
-     * @return string
+     * @return array
      */
-    private function getRanks()
+    private function getRanks(): array
     {
         return $this->_ranks;
     }
@@ -58,7 +58,7 @@ class Ranks
      *
      * @return array
      */
-    public function addNew($name)
+    public function addNew(string $name): array
     {
         try {
             if (empty($name) or is_null($name)) {
@@ -98,7 +98,7 @@ class Ranks
      *
      * @return array
      */
-    public function editRankById($rank_id, $rights)
+    public function editRankById(int $rank_id, array $rights): array
     {
         try {
             if (!isset($this->getRanks()[$this->validateRankId($rank_id)])) {
@@ -145,12 +145,11 @@ class Ranks
 
     /**
      *
-     * @param RanksTypes $rank
-     * @param SwitchTypes $value
+     * @param mixed $rank_id
      *
      * @return array
      */
-    public function deleteRankById($rank_id)
+    public function deleteRankById(mixed $rank_id): array
     {
         array_splice($this->_ranks, $this->validateRankId($rank_id), 1);
 
@@ -162,7 +161,7 @@ class Ranks
      *
      * @return array
      */
-    public function getAllRanksAsArray()
+    public function getAllRanksAsArray(): array
     {
         return $this->_ranks;
     }
@@ -172,7 +171,7 @@ class Ranks
      *
      * @return string
      */
-    public function getAllRanksAsJsonString()
+    public function getAllRanksAsJsonString(): string
     {
         try {
             return json_encode($this->_ranks, JSON_THROW_ON_ERROR);
@@ -188,7 +187,7 @@ class Ranks
      *
      * @return array
      */
-    public function getRankById($rank_id)
+    public function getRankById(int $rank_id): array
     {
         return isset($this->_ranks[$rank_id]) ? $this->_ranks[$rank_id] : $this->_ranks[1];
     }
@@ -196,11 +195,11 @@ class Ranks
     /**
      * Validate the rank ID
      *
-     * @param type $rank_id Rank ID
+     * @param int $rank_id Rank ID
      *
      * @return int
      */
-    private function validateRankId($rank_id)
+    private function validateRankId(int $rank_id): int
     {
         if ($rank_id < 0) {
             return 0;

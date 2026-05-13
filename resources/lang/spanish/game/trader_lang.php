@@ -29,6 +29,11 @@ $lang = [
     'tr_call_button' => 'Llamar al mercader',
     'tr_no_enough_storage' => 'No hay suficiente capacidad de almacenamiento.',
     'tr_no_enough_dark_matter' => 'No hay suficiente materia oscura disponible',
+    'tr_exchange_done' => 'Intercambio realizado correctamente.',
+    'tr_invalid_resource_selection' => 'Seleccion de recurso invalida.',
+    'tr_invalid_trade_amount' => 'Debes indicar una cantidad valida para intercambiar.',
+    'tr_not_enough_sell_resource' => 'No tienes suficiente recurso para vender.',
+    'tr_trade_failed' => 'No se pudo completar el intercambio. Intentalo de nuevo.',
 
     // traderAuctioneer
 

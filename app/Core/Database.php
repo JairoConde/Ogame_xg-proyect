@@ -40,7 +40,7 @@ class Database
     /**
      * @return mixed
      */
-    public function openConnection()
+    public function openConnection(): mixed
     {
         if (isset($this->db_data['host']) && isset($this->db_data['user']) && isset($this->db_data['pass']) && isset($this->db_data['name'])) {
             if (!$this->tryConnection($this->db_data['host'], $this->db_data['user'], $this->db_data['pass'])) {
@@ -65,9 +65,11 @@ class Database
 
             return false;
         }
+
+        return false;
     }
 
-    public function tryConnection(string $host = '', string $user = '', string $pass = null): bool
+    public function tryConnection(string $host = '', string $user = '', ?string $pass = null): bool
     {
         try {
             if (empty($host) or empty($user)) {
@@ -130,7 +132,7 @@ class Database
         return false;
     }
 
-    public function query(string $sql = '')
+    public function query(string $sql = ''): mixed
     {
         if ($sql != '') {
             $sql = $this->prepareSql($sql);
@@ -145,7 +147,7 @@ class Database
         return false;
     }
 
-    public function queryFetch(string $sql = '')
+    public function queryFetch(string $sql = ''): mixed
     {
         if ($sql != '') {
             $sql = $this->prepareSql($sql);
@@ -160,7 +162,7 @@ class Database
         return false;
     }
 
-    public function queryFetchAll($sql = '')
+    public function queryFetchAll(string $sql = ''): mixed
     {
         try {
             if ($sql != '') {
@@ -186,7 +188,7 @@ class Database
      *
      * @return mixed
      */
-    public function queryMulty($sql = '')
+    public function queryMulty(string $sql = ''): mixed
     {
         try {
             if ($sql != '') {
@@ -205,17 +207,36 @@ class Database
         }
     }
 
-    public function escapeValue($value)
+    /**
+     * Raw mysqli handle. Exposes the connection so reusable helpers
+     * outside the ORM-like wrappers (e.g. bot library helpers shared
+     * with the in-game controllers) can run their own transactions.
+     */
+    public function getConnection(): mysqli
+    {
+        return $this->connection;
+    }
+
+    /**
+     * Returns the configured table prefix (e.g. "xgp_") so helpers can
+     * build prefixed table names without re-reading the config file.
+     */
+    public function getPrefix(): string
+    {
+        return (string) ($this->db_data['prefix'] ?? '');
+    }
+
+    public function escapeValue($value): string
     {
         return $this->connection->real_escape_string($value);
     }
 
-    public function fetchArray($result_set)
+    public function fetchArray($result_set): mixed
     {
         return $result_set->fetch_array(MYSQLI_ASSOC);
     }
 
-    public function fetchAll($result_set)
+    public function fetchAll($result_set): array
     {
         if (function_exists('mysqli_fetch_all')) {
             return $result_set->fetch_all(MYSQLI_ASSOC);
@@ -230,38 +251,38 @@ class Database
         return $results_array;
     }
 
-    public function fetchAssoc($result_set)
+    public function fetchAssoc($result_set): mixed
     {
         return $result_set->fetch_assoc();
     }
 
-    public function fetchRow($result_set)
+    public function fetchRow($result_set): mixed
     {
         return $result_set->fetch_row();
     }
 
-    public function numRows($result_set)
+    public function numRows($result_set): int
     {
         return $result_set->num_rows;
     }
 
-    public function numFields($result_set)
+    public function numFields($result_set): int
     {
         return $result_set->field_count;
     }
 
-    public function insertId()
+    public function insertId(): mixed
     {
         // get the last id inserted over the current db connection
         return $this->connection->insert_id;
     }
 
-    public function affectedRows()
+    public function affectedRows(): mixed
     {
         return $this->connection->affected_rows;
     }
 
-    public function serverInfo()
+    public function serverInfo(): mixed
     {
         return $this->connection->server_info;
     }
@@ -276,7 +297,7 @@ class Database
         $this->connection->autocommit($status);
     }
 
-    public function beginTransaction()
+    public function beginTransaction(): void
     {
         // disable auto commit
         $this->setAutoCommit(false);
@@ -284,7 +305,7 @@ class Database
         $this->connection->begin_transaction();
     }
 
-    public function commitTransaction()
+    public function commitTransaction(): void
     {
         $this->connection->commit();
 
@@ -292,7 +313,7 @@ class Database
         $this->setAutoCommit();
     }
 
-    public function rollbackTransaction()
+    public function rollbackTransaction(): void
     {
         $this->connection->rollback();
 
@@ -300,7 +321,7 @@ class Database
         $this->setAutoCommit();
     }
 
-    public function backupDb($tables = '*')
+    public function backupDb($tables = '*'): mixed
     {
         // GET ALL THE TABLES
         if ($tables == '*') {
@@ -360,7 +381,7 @@ class Database
         return $writed;
     }
 
-    private function confirmQuery($result)
+    private function confirmQuery($result): void
     {
         if (!$result) {
             $output = 'Database query failed: ' . $this->connection->error;

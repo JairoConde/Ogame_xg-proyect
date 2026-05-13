@@ -82,8 +82,7 @@ window.onload = t;
 </script>
 <br />
 {sy_remaining}
-<form name="Atr" method="get" action="game.php?page={current_page}">
-<input type="hidden" name="mode" value="fleet">
+<form name="Atr" method="post" action="game.php?page={current_page}">
 <table width="530">
 <tr>
 	<td class="c" ></td>
@@ -92,7 +91,9 @@ window.onload = t;
 	<th ><select name="auftr" size="10"></select></th>
 </tr>
 <tr>
-	<td class="c" ></td>
+	<td class="c" >
+        <input type="submit" name="cancel_queue" value="{sy_cancel_queue}">
+    </td>
 </tr>
 </table>
 </form>

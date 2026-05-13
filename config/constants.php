@@ -165,7 +165,7 @@ define('SYSTEM_SEPARATION_FACTOR', 1);
 define('PLANET_SEPARATION_FACTOR', 2);
 
 // FIELDS FOR EACH LEVEL OF THE LUNAR BASE
-define('FIELDS_BY_MOONBASIS_LEVEL', 3);
+define('FIELDS_BY_MOONBASIS_LEVEL', 30);
 
 // FIELDS FOR EACH LEVEL OF THE TERRAFORMER
 define('FIELDS_BY_TERRAFORMER', 5);
@@ -174,7 +174,7 @@ define('FIELDS_BY_TERRAFORMER', 5);
 define('MAX_BUILDING_QUEUE_SIZE', 5);
 
 // NUMBER OF SHIPS THAT CAN BUILD FOR ONCE
-define('MAX_FLEET_OR_DEFS_PER_ROW', 9999);
+define('MAX_FLEET_OR_DEFS_PER_ROW', 10000000);
 
 // MAX RESULTS TO SHOW IN SEARCH
 define('MAX_SEARCH_RESULTS', 25);
@@ -230,8 +230,14 @@ define('PHALANX_COST', 10000);
 define('ACS', '{xgp_prefix}acs');
 define('ACS_MEMBERS', '{xgp_prefix}acs_members');
 define('ALLIANCE', '{xgp_prefix}alliance');
+define('ALLIANCE_DIPLOMACY', '{xgp_prefix}alliance_diplomacy');
+define('ALLIANCE_DIPLOMACY_PRESSURE', '{xgp_prefix}alliance_diplomacy_pressure');
+define('ALLIANCE_DIPLOMACY_COOLDOWN', '{xgp_prefix}alliance_diplomacy_cooldown');
+define('ALLIANCE_DIPLOMACY_LOG', '{xgp_prefix}alliance_diplomacy_log');
+define('ALLIANCE_DIPLOMACY_PROPOSAL', '{xgp_prefix}alliance_diplomacy_proposal');
 define('ALLIANCE_STATISTICS', '{xgp_prefix}alliance_statistics');
 define('BANNED', '{xgp_prefix}banned');
+define('BOT_STATE', '{xgp_prefix}bot_state');
 define('BUDDY', '{xgp_prefix}buddys');
 define('BUILDINGS', '{xgp_prefix}buildings');
 define('CHANGELOG', '{xgp_prefix}changelog');

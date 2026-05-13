@@ -39,6 +39,7 @@ class InstallationController extends BaseController
     {
         $parse = $this->langs->language;
         $continue = true;
+        $alert = '';
 
         if (!$this->serverRequirementes()) {
             $alert = $this->saveMessage($this->langs->line('ins_no_server_requirements'), 'error');
@@ -56,6 +57,8 @@ class InstallationController extends BaseController
             $alert = $this->saveMessage($this->langs->line('ins_already_installed'), 'error');
             $continue = false;
         }
+
+        $current_page = '';
 
         if (!$continue) {
             $this->page->displayInstall(
@@ -147,10 +150,12 @@ class InstallationController extends BaseController
                     'install/in_database_view',
                     $parse
                 );
+
                 break;
 
             case 'step4':
                 Functions::redirect('?page=installation&mode=step5');
+
                 break;
 
             case 'step5':
@@ -189,6 +194,7 @@ class InstallationController extends BaseController
                     // This will continue on false meaning "This is the end of the installation, no else where to go"
                     $continue = false;
                 }
+
                 break;
 
             case '':
@@ -298,7 +304,7 @@ class InstallationController extends BaseController
      *
      * @return boolean
      */
-    private function isWritable()
+    private function isWritable(): bool
     {
         $config_dir = XGP_ROOT . 'config/';
 
@@ -310,7 +316,7 @@ class InstallationController extends BaseController
      *
      * @return boolean
      */
-    private function isInstalled()
+    private function isInstalled(): bool
     {
         // if file not exists
         $config_file = XGP_ROOT . CONFIGS_PATH . 'config.php';
@@ -342,7 +348,7 @@ class InstallationController extends BaseController
      *
      * @return boolean
      */
-    private function tablesExists()
+    private function tablesExists(): bool
     {
         $result = $this->installationModel->getListOfTables(DB_NAME);
         $arr = [];
@@ -355,7 +361,7 @@ class InstallationController extends BaseController
             }
         }
 
-        return (count($arr) > 0);
+        return count($arr) > 0;
     }
 
     /**
@@ -363,7 +369,7 @@ class InstallationController extends BaseController
      *
      * @return boolean
      */
-    private function adminExists()
+    private function adminExists(): bool
     {
         return $this->installationModel->getAdmin()['count'] >= 1;
     }
@@ -373,7 +379,7 @@ class InstallationController extends BaseController
      *
      * @return boolean
      */
-    private function tryConnection()
+    private function tryConnection(): bool
     {
         return $this->installationModel->tryConnection($this->db_host, $this->db_user, $this->db_password);
     }
@@ -383,7 +389,7 @@ class InstallationController extends BaseController
      *
      * @return boolean
      */
-    private function tryDatabase()
+    private function tryDatabase(): bool
     {
         return $this->installationModel->tryDatabase($this->db_name);
     }
@@ -393,7 +399,7 @@ class InstallationController extends BaseController
      *
      * @return boolean
      */
-    private function writeConfigFile()
+    private function writeConfigFile(): bool
     {
         $config_file = fopen(XGP_ROOT . CONFIGS_PATH . 'config.php', 'w');
 
@@ -430,7 +436,7 @@ class InstallationController extends BaseController
      *
      * @return boolean
      */
-    private function insertDbData()
+    private function insertDbData(): bool
     {
         // init
         $tables = [];
@@ -510,9 +516,9 @@ class InstallationController extends BaseController
      *
      * @return boolean
      */
-    private function validateDbData()
+    private function validateDbData(): bool
     {
-        return (!empty($this->db_host) && !empty($this->db_name) && !empty($this->db_user) && !empty($this->db_prefix));
+        return !empty($this->db_host) && !empty($this->db_name) && !empty($this->db_user) && !empty($this->db_prefix);
     }
 
     /**
@@ -544,22 +550,25 @@ class InstallationController extends BaseController
      *
      * @return array
      */
-    private function saveMessage($message, $result = 'ok')
+    private function saveMessage(string $message, string $result = 'ok'): array
     {
         switch ($result) {
             case 'ok':
                 $parse['color'] = 'alert-success';
                 $parse['status'] = $this->langs->line('ins_ok_title');
+
                 break;
 
             case 'error':
                 $parse['color'] = 'alert-error';
                 $parse['status'] = $this->langs->line('ins_error_title');
+
                 break;
 
             case 'warning':
                 $parse['color'] = 'alert-block';
                 $parse['status'] = $this->langs->line('ins_warning_title');
+
                 break;
         }
 

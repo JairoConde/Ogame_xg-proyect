@@ -1,105 +1,49 @@
 <div id="merchant">
-    <div style="margin:0px auto;">
-        <form id="TraderForm" action="javascript:void(0);" onsubmit="trySubmit();">
-            <table id="merchanttable" cellpadding="0" cellspacing="0" width="582px">
-                <thead>
-                    <td class="c" colspan="6">
-                        There is a trader here buying crystal.
-                    </td>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td class="freeStorage">Free storage capacity</td>
-                        <td class="tradingRate">Exchange rate</td>
-                    </tr>
-                    <tr class="alt">
-                        <td class="cresIcon noCenter">
-                            <img border="0" src="{dpath}resources/metal.gif" width="42" height="22">
-                        </td>
-                        <td class="noCenter">
-                            {metal}
-                        </td>
-                        <td>
-                            <input type="text" pattern="[0-9,.]*" tabindex="1" class="textinput" size="11" name="1_value" id="1_value" value="0" onchange="checkValue(1)" onkeyup="checkValue(1)">
-                        </td>
-                        <td>
-                            <a href="javascript:void(0);" onclick="setMaxValue(1); return false;" class="tooltip js_hideTipOnMobile max" title="Exchange maximum amount">
-                                max
-                            </a>
-                        </td>
-                        <td>
-                            <span id="1_storage">0</span>
-                        </td>
-                        <td class="rate tooltipHTML tooltipRight" title="">
-                            <span class="middlemark">2.46</span>
-                        </td>
-                    </tr>
-                    <tr class=" toSell">
-                        <td class="resIcon noCenter">
-                            <img border="0" src="{dpath}resources/crystal.gif" width="42" height="22">
-                        </td>
-                        <td class="noCenter">
-                            {crystal}
-                        </td>
-                        <td id="toSell">
-                            <span id="2_value_label">0</span>
-                        </td>
-                        <td>
-                            &nbsp;
-                        </td>
-                        <td>
-                            Being sold
-                        </td>
-                        <td class="rate">
-                            <span class="tooltipHTML tooltipRight" title="">2</span>
-                        </td>
-                        <input type="hidden" name="2_value" id="2_value" value="0">
-                    </tr>
-                    <tr class="alt">
-                        <td class="resIcon noCenter">
-                            <img border="0" src="{dpath}resources/deuterium.gif" width="42" height="22">
-                        </td>
-                        <td class="noCenter">
-                            {deuterium}
-                        </td>
-                        <td>
-                            <input type="text" pattern="[0-9,.]*" tabindex="3" class="textinput" size="11" name="3_value" id="3_value" value="0" onchange="checkValue(3)" onkeyup="checkValue(3)">
-                        </td>
-                        <td>
-                            <a href="javascript:void(0);" onclick="setMaxValue(3); return false;" class="tooltip js_hideTipOnMobile max" title="Exchange maximum amount">
-                                max
-                            </a>
-                        </td>
-                        <td>
-                            <span id="3_storage">10.000</span>
-                        </td>
-                        <td class="rate tooltipHTML tooltipRight" title="">
-                            <span class="undermark">1</span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="6" style="padding:10px">
-                            <span>A trader only delivers as much resources as there is free storage capacity.</span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="3" rowspan="2" style="text-align:center">
-                            <input type="button" tabindex="3" name="tradebutton" class="btn_blue" value="Trade resources!" onclick="trySubmit(); ">
-                        </td>
-                        <td colspan="3" rowspan="2" class="newRate" style="text-align:center">
-                            <a href="javascript:void(0);" tabindex="4" name="tradebuttonRate" class="buttonTraderNewRate" data-offer-id="2" data-ask-overwrite="false">
-                                New exchange rate
-                            </a>
-                            <br>
-                            Costs: 3.500 Dark Matter
-                        </td>
-                    </tr>
-                </tbody>
+    <div style="margin:0 auto; width: 665px;">
+        {status_message}
+
+        <form method="POST" action="game.php?page=traderLayer&mode=traderResources&sell={sell_resource}">
+            <input type="hidden" name="sell" value="{sell_resource}">
+            <table width="100%">
+                <tr>
+                    <td class="c" colspan="2">Mercader de recursos</td>
+                </tr>
+                <tr>
+                    <th colspan="2" style="text-align:left">
+                        Vendiendo: <strong>{sell_resource_name}</strong> | Disponible: {sell_available}
+                    </th>
+                </tr>
+                <tr>
+                    <th width="50%">
+                        <img border="0" src="{dpath}resources/{resource_a}.gif" width="42" height="22"><br>
+                        {resource_a_name}<br>
+                        Actual: {resource_a_current}<br>
+                        Espacio libre: {resource_a_free}<br>
+                        Ratio: 1 {resource_a_name} = {ratio_a} {sell_resource_name}
+                    </th>
+                    <th width="50%">
+                        <img border="0" src="{dpath}resources/{resource_b}.gif" width="42" height="22"><br>
+                        {resource_b_name}<br>
+                        Actual: {resource_b_current}<br>
+                        Espacio libre: {resource_b_free}<br>
+                        Ratio: 1 {resource_b_name} = {ratio_b} {sell_resource_name}
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        <input type="number" min="0" name="{resource_a}" value="0" style="width:140px">
+                    </th>
+                    <th>
+                        <input type="number" min="0" name="{resource_b}" value="0" style="width:140px">
+                    </th>
+                </tr>
+                <tr>
+                    <th colspan="2" style="text-align:center">
+                        Coste: {call_price} Materia Oscura (por llamada)<br><br>
+                        <input type="submit" name="execute_trade" class="btn_blue" value="Intercambiar recursos">
+                    </th>
+                </tr>
             </table>
         </form>
-    </div><!-- wrapper -->
+    </div>
 </div>

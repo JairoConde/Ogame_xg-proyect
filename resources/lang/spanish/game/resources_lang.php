@@ -10,4 +10,5 @@ $lang = [
     'rs_daily' => 'Total por día:',
     'rs_weekly' => 'Total por semana:',
     'rs_calculate' => 'Recalcular',
+    'rs_mining_drill_bonus' => 'Bonus Nave Taladro',
 ];

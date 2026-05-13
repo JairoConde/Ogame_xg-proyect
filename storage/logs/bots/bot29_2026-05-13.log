@@ -1,0 +1,877 @@
+[2026-05-13 10:11:58] ==== loop 1/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:11:58] planet 77: queue busy, throttled building_robot_factory
+[10:11:58] planet 77: queue busy, throttled building_robot_factory
+[10:11:58] planet 77: queue busy, throttled building_robot_factory
+[10:11:58] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:12:37] ==== loop 2/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:12:37] planet 77: queue busy, throttled building_robot_factory
+[10:12:37] planet 77: queue busy, throttled building_robot_factory
+[10:12:37] planet 77: queue busy, throttled building_robot_factory
+[10:12:37] planet 77: queue busy, throttled building_robot_factory
+[10:12:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:13:19] ==== loop 3/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:13:19] planet 77: queue busy, throttled building_robot_factory
+[10:13:19] planet 77: queue busy, throttled building_robot_factory
+[10:13:19] planet 77: queue busy, throttled building_robot_factory
+[10:13:19] planet 77: queue busy, throttled building_robot_factory
+[10:13:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:13:57] ==== loop 4/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:13:57] planet 77: queue busy, throttled building_robot_factory
+[10:13:57] planet 77: queue busy, throttled building_robot_factory
+[10:13:57] planet 77: queue busy, throttled building_robot_factory
+[10:13:57] planet 77: queue busy, throttled building_robot_factory
+[10:13:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:14:40] ==== loop 5/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:14:40] planet 77: queue busy, throttled building_robot_factory
+[10:14:40] planet 77: queue busy, throttled building_robot_factory
+[10:14:40] planet 77: queue busy, throttled building_robot_factory
+[10:14:40] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:15:20] ==== loop 6/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:15:20] planet 77: queue busy, throttled building_robot_factory
+[10:15:20] planet 77: queue busy, throttled building_robot_factory
+[10:15:20] planet 77: queue busy, throttled building_robot_factory
+[10:15:20] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:16:05] ==== loop 7/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:16:05] planet 77: queue busy, throttled building_robot_factory
+[10:16:05] planet 77: queue busy, throttled building_robot_factory
+[10:16:05] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:16:47] ==== loop 8/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:16:47] planet 77: queue busy, throttled building_robot_factory
+[10:16:47] planet 77: queue busy, throttled building_robot_factory
+[10:16:47] planet 77: queue busy, throttled building_robot_factory
+[10:16:47] planet 77: queue busy, throttled building_robot_factory
+[10:16:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:17:33] ==== loop 9/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:17:33] planet 77: queue busy, throttled building_robot_factory
+[10:17:33] planet 77: queue busy, throttled building_robot_factory
+[10:17:33] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:18:16] ==== loop 10/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:18:16] planet 77: queue busy, throttled building_robot_factory
+[10:18:16] planet 77: queue busy, throttled building_robot_factory
+[10:18:16] planet 77: queue busy, throttled building_robot_factory
+[10:18:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:19:04] ==== loop 11/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:19:04] planet 77: queue busy, throttled building_robot_factory
+[10:19:04] planet 77: queue busy, throttled building_robot_factory
+[10:19:04] planet 77: queue busy, throttled building_robot_factory
+[10:19:04] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:19:52] ==== loop 12/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:19:52] planet 77: queue busy, throttled building_robot_factory
+[10:19:52] planet 77: queue busy, throttled building_robot_factory
+[10:19:52] planet 77: queue busy, throttled building_robot_factory
+[10:19:52] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:20:29] ==== loop 13/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:20:29] planet 77: queue busy, throttled building_robot_factory
+[10:20:29] planet 77: queue busy, throttled building_robot_factory
+[10:20:29] planet 77: queue busy, throttled building_robot_factory
+[10:20:29] planet 77: queue busy, throttled building_robot_factory
+[10:20:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:21:17] ==== loop 14/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:21:17] planet 77: queue busy, throttled building_robot_factory
+[10:21:17] planet 77: queue busy, throttled building_robot_factory
+[10:21:17] planet 77: queue busy, throttled building_robot_factory
+[10:21:17] planet 77: queue busy, throttled building_robot_factory
+[10:21:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:22:00] ==== loop 15/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:22:00] planet 77: queue busy, throttled building_robot_factory
+[10:22:00] planet 77: queue busy, throttled building_robot_factory
+[10:22:00] planet 77: queue busy, throttled building_robot_factory
+[10:22:00] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:22:49] ==== loop 16/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:22:49] planet 77: queue busy, throttled building_robot_factory
+[10:22:49] planet 77: queue busy, throttled building_robot_factory
+[10:22:49] planet 77: queue busy, throttled building_robot_factory
+[10:22:49] planet 77: queue busy, throttled building_robot_factory
+[10:22:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:23:34] ==== loop 17/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:23:34] alliance: idle no_candidate
+[10:23:34] planet 77: queue busy, throttled building_robot_factory
+[10:23:34] planet 77: queue busy, throttled building_robot_factory
+[10:23:34] planet 77: queue busy, throttled building_robot_factory
+[10:23:34] planet 77: queue busy, throttled building_robot_factory
+[10:23:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:24:21] ==== loop 18/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:24:21] planet 77: queue busy, throttled building_robot_factory
+[10:24:21] planet 77: queue busy, throttled building_robot_factory
+[10:24:21] planet 77: queue busy, throttled building_robot_factory
+[10:24:21] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:25:11] ==== loop 19/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:25:11] planet 77: queue busy, throttled building_robot_factory
+[10:25:11] planet 77: queue busy, throttled building_robot_factory
+[10:25:11] planet 77: queue busy, throttled building_robot_factory
+[10:25:11] planet 77: queue busy, throttled building_robot_factory
+[10:25:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:25:56] ==== loop 20/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:25:56] planet 77: queue busy, throttled building_robot_factory
+[10:25:56] planet 77: queue busy, throttled building_robot_factory
+[10:25:56] planet 77: queue busy, throttled building_robot_factory
+[10:25:56] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:26:44] ==== loop 21/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:26:44] planet 77: queue busy, throttled building_robot_factory
+[10:26:44] planet 77: queue busy, throttled building_robot_factory
+[10:26:44] planet 77: queue busy, throttled building_robot_factory
+[10:26:44] planet 77: queue busy, throttled building_robot_factory
+[10:26:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:27:27] ==== loop 22/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:27:27] planet 77: queue busy, throttled building_robot_factory
+[10:27:27] planet 77: queue busy, throttled building_robot_factory
+[10:27:27] planet 77: queue busy, throttled building_robot_factory
+[10:27:27] planet 77: queue busy, throttled building_robot_factory
+[10:27:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:28:14] ==== loop 23/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:28:14] planet 77: queue busy, throttled building_robot_factory
+[10:28:14] planet 77: queue busy, throttled building_robot_factory
+[10:28:14] planet 77: queue busy, throttled building_robot_factory
+[10:28:14] planet 77: queue busy, throttled building_robot_factory
+[10:28:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:29:02] ==== loop 24/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:29:02] planet 77: queue busy, throttled building_robot_factory
+[10:29:02] planet 77: queue busy, throttled building_robot_factory
+[10:29:02] planet 77: queue busy, throttled building_robot_factory
+[10:29:02] planet 77: queue busy, throttled building_robot_factory
+[10:29:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:29:48] ==== loop 25/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:29:48] planet 77: queue busy, throttled building_robot_factory
+[10:29:48] planet 77: queue busy, throttled building_robot_factory
+[10:29:48] planet 77: queue busy, throttled building_robot_factory
+[10:29:48] planet 77: queue busy, throttled building_robot_factory
+[10:29:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:30:30] ==== loop 26/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:30:30] planet 77: queue busy, throttled building_robot_factory
+[10:30:30] planet 77: queue busy, throttled building_robot_factory
+[10:30:30] planet 77: queue busy, throttled building_robot_factory
+[10:30:30] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:31:11] ==== loop 27/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:31:11] planet 77: queue busy, throttled building_robot_factory
+[10:31:11] planet 77: queue busy, throttled building_robot_factory
+[10:31:11] planet 77: queue busy, throttled building_robot_factory
+[10:31:11] planet 77: queue busy, throttled building_robot_factory
+[10:31:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:31:52] ==== loop 28/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:31:52] planet 77: queue busy, throttled building_robot_factory
+[10:31:52] planet 77: queue busy, throttled building_robot_factory
+[10:31:52] planet 77: queue busy, throttled building_robot_factory
+[10:31:52] planet 77: queue busy, throttled building_robot_factory
+[10:31:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:32:34] ==== loop 29/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:32:34] planet 77: queue busy, throttled building_robot_factory
+[10:32:34] planet 77: queue busy, throttled building_robot_factory
+[10:32:34] planet 77: queue busy, throttled building_robot_factory
+[10:32:34] planet 77: queue busy, throttled building_robot_factory
+[10:32:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:33:19] ==== loop 30/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:33:19] planet 77: queue busy, throttled building_robot_factory
+[10:33:19] planet 77: queue busy, throttled building_robot_factory
+[10:33:19] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:34:03] ==== loop 31/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:34:03] planet 77: queue busy, throttled building_robot_factory
+[10:34:03] planet 77: queue busy, throttled building_robot_factory
+[10:34:03] planet 77: queue busy, throttled building_robot_factory
+[10:34:03] planet 77: queue busy, throttled building_robot_factory
+[10:34:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:34:47] ==== loop 32/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:34:47] planet 77: queue busy, throttled building_robot_factory
+[10:34:47] planet 77: queue busy, throttled building_robot_factory
+[10:34:47] planet 77: queue busy, throttled building_robot_factory
+[10:34:47] planet 77: queue busy, throttled building_robot_factory
+[10:34:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:35:31] ==== loop 33/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:35:31] planet 77: queue busy, throttled building_robot_factory
+[10:35:31] planet 77: queue busy, throttled building_robot_factory
+[10:35:31] planet 77: queue busy, throttled building_robot_factory
+[10:35:31] planet 77: queue busy, throttled building_robot_factory
+[10:35:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:36:16] ==== loop 34/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:36:16] planet 77: queue busy, throttled building_robot_factory
+[10:36:16] planet 77: queue busy, throttled building_robot_factory
+[10:36:16] planet 77: queue busy, throttled building_robot_factory
+[10:36:16] planet 77: queue busy, throttled building_robot_factory
+[10:36:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:36:55] ==== loop 35/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:36:55] planet 77: queue busy, throttled building_robot_factory
+[10:36:55] planet 77: queue busy, throttled building_robot_factory
+[10:36:55] planet 77: queue busy, throttled building_robot_factory
+[10:36:55] planet 77: queue busy, throttled building_robot_factory
+[10:36:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:37:32] ==== loop 36/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:37:32] planet 77: queue busy, throttled building_robot_factory
+[10:37:32] planet 77: queue busy, throttled building_robot_factory
+[10:37:32] planet 77: queue busy, throttled building_robot_factory
+[10:37:32] planet 77: queue busy, throttled building_robot_factory
+[10:37:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:38:14] ==== loop 37/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:38:14] alliance: idle no_candidate
+[10:38:14] planet 77: queue busy, throttled building_robot_factory
+[10:38:14] planet 77: queue busy, throttled building_robot_factory
+[10:38:14] planet 77: queue busy, throttled building_robot_factory
+[10:38:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:38:57] ==== loop 38/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:38:57] planet 77: queue busy, throttled building_robot_factory
+[10:38:57] planet 77: queue busy, throttled building_robot_factory
+[10:38:57] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:39:40] ==== loop 39/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:39:41] planet 77: queue busy, throttled building_robot_factory
+[10:39:41] planet 77: queue busy, throttled building_robot_factory
+[10:39:41] planet 77: queue busy, throttled building_robot_factory
+[10:39:41] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:40:19] ==== loop 40/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:40:19] planet 77: queue busy, throttled building_robot_factory
+[10:40:19] planet 77: queue busy, throttled building_robot_factory
+[10:40:19] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:41:04] ==== loop 41/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:41:04] planet 77: queue busy, throttled building_robot_factory
+[10:41:04] planet 77: queue busy, throttled building_robot_factory
+[10:41:04] planet 77: queue busy, throttled building_robot_factory
+[10:41:04] planet 77: queue busy, throttled building_robot_factory
+[10:41:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:41:51] ==== loop 42/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:41:51] planet 77: queue busy, throttled building_robot_factory
+[10:41:51] planet 77: queue busy, throttled building_robot_factory
+[10:41:51] planet 77: queue busy, throttled building_robot_factory
+[10:41:51] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:42:35] ==== loop 43/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:42:35] planet 77: queue busy, throttled building_robot_factory
+[10:42:35] planet 77: queue busy, throttled building_robot_factory
+[10:42:35] planet 77: queue busy, throttled building_robot_factory
+[10:42:35] planet 77: queue busy, throttled building_robot_factory
+[10:42:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:43:22] ==== loop 44/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:43:22] planet 77: queue busy, throttled building_robot_factory
+[10:43:22] planet 77: queue busy, throttled building_robot_factory
+[10:43:22] planet 77: queue busy, throttled building_robot_factory
+[10:43:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:44:07] ==== loop 45/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:44:07] planet 77: queue busy, throttled building_robot_factory
+[10:44:07] planet 77: queue busy, throttled building_robot_factory
+[10:44:07] planet 77: queue busy, throttled building_robot_factory
+[10:44:07] planet 77: queue busy, throttled building_robot_factory
+[10:44:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:44:49] ==== loop 46/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:44:49] planet 77: queue busy, throttled building_robot_factory
+[10:44:49] planet 77: queue busy, throttled building_robot_factory
+[10:44:49] planet 77: queue busy, throttled building_robot_factory
+[10:44:49] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:45:37] ==== loop 47/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:45:37] planet 77: queue busy, throttled building_robot_factory
+[10:45:37] planet 77: queue busy, throttled building_robot_factory
+[10:45:37] planet 77: queue busy, throttled building_robot_factory
+[10:45:37] planet 77: queue busy, throttled building_robot_factory
+[10:45:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:46:23] ==== loop 48/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:46:23] planet 77: queue busy, throttled building_robot_factory
+[10:46:23] planet 77: queue busy, throttled building_robot_factory
+[10:46:23] planet 77: queue busy, throttled building_robot_factory
+[10:46:23] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:47:17] ==== loop 49/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:47:17] planet 77: queue busy, throttled building_robot_factory
+[10:47:17] planet 77: queue busy, throttled building_robot_factory
+[10:47:17] planet 77: queue busy, throttled building_robot_factory
+[10:47:17] planet 77: queue busy, throttled building_robot_factory
+[10:47:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:48:02] ==== loop 50/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:48:02] planet 77: queue busy, throttled building_robot_factory
+[10:48:02] planet 77: queue busy, throttled building_robot_factory
+[10:48:02] planet 77: queue busy, throttled building_robot_factory
+[10:48:02] planet 77: queue busy, throttled building_robot_factory
+[10:48:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:48:50] ==== loop 51/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:48:50] planet 77: queue busy, throttled building_robot_factory
+[10:48:50] planet 77: queue busy, throttled building_robot_factory
+[10:48:50] planet 77: queue busy, throttled building_robot_factory
+[10:48:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:49:43] ==== loop 52/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:49:43] planet 77: queue busy, throttled building_robot_factory
+[10:49:43] planet 77: queue busy, throttled building_robot_factory
+[10:49:43] planet 77: queue busy, throttled building_robot_factory
+[10:49:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:50:33] ==== loop 53/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:50:33] planet 77: queue busy, throttled building_robot_factory
+[10:50:33] planet 77: queue busy, throttled building_robot_factory
+[10:50:33] planet 77: queue busy, throttled building_robot_factory
+[10:50:33] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:51:23] ==== loop 54/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:51:23] planet 77: queue busy, throttled building_robot_factory
+[10:51:23] planet 77: queue busy, throttled building_robot_factory
+[10:51:23] planet 77: queue busy, throttled building_robot_factory
+[10:51:23] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:52:10] ==== loop 55/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:52:10] planet 77: queue busy, throttled building_robot_factory
+[10:52:10] planet 77: queue busy, throttled building_robot_factory
+[10:52:10] planet 77: queue busy, throttled building_robot_factory
+[10:52:10] planet 77: queue busy, throttled building_robot_factory
+[10:52:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:52:54] ==== loop 56/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:52:54] planet 77: queue busy, throttled building_robot_factory
+[10:52:54] planet 77: queue busy, throttled building_robot_factory
+[10:52:54] planet 77: queue busy, throttled building_robot_factory
+[10:52:54] planet 77: queue busy, throttled building_robot_factory
+[10:52:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:53:38] ==== loop 57/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:53:38] alliance: idle no_candidate
+[10:53:38] planet 77: queue busy, throttled building_robot_factory
+[10:53:38] planet 77: queue busy, throttled building_robot_factory
+[10:53:38] planet 77: queue busy, throttled building_robot_factory
+[10:53:38] planet 77: queue busy, throttled building_robot_factory
+[10:53:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:54:26] ==== loop 58/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:54:26] planet 77: queue busy, throttled building_robot_factory
+[10:54:26] planet 77: queue busy, throttled building_robot_factory
+[10:54:26] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:55:14] ==== loop 59/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:55:14] planet 77: queue busy, throttled building_robot_factory
+[10:55:14] planet 77: queue busy, throttled building_robot_factory
+[10:55:14] planet 77: queue busy, throttled building_robot_factory
+[10:55:14] planet 77: queue busy, throttled building_robot_factory
+[10:55:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:56:01] ==== loop 60/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:56:01] planet 77: queue busy, throttled building_robot_factory
+[10:56:01] planet 77: queue busy, throttled building_robot_factory
+[10:56:01] planet 77: queue busy, throttled building_robot_factory
+[10:56:01] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:56:49] ==== loop 61/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:56:49] planet 77: queue busy, throttled building_robot_factory
+[10:56:49] planet 77: queue busy, throttled building_robot_factory
+[10:56:49] planet 77: queue busy, throttled building_robot_factory
+[10:56:49] planet 77: queue busy, throttled building_robot_factory
+[10:56:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:57:35] ==== loop 62/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:57:35] planet 77: queue busy, throttled building_robot_factory
+[10:57:35] planet 77: queue busy, throttled building_robot_factory
+[10:57:35] planet 77: queue busy, throttled building_robot_factory
+[10:57:35] planet 77: queue busy, throttled building_robot_factory
+[10:57:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:58:18] ==== loop 63/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:58:18] planet 77: queue busy, throttled building_robot_factory
+[10:58:18] planet 77: queue busy, throttled building_robot_factory
+[10:58:18] planet 77: queue busy, throttled building_robot_factory
+[10:58:18] planet 77: queue busy, throttled building_robot_factory
+[10:58:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 10:59:04] ==== loop 64/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:59:04] planet 77: queue busy, throttled building_robot_factory
+[10:59:04] planet 77: queue busy, throttled building_robot_factory
+[10:59:04] planet 77: queue busy, throttled building_robot_factory
+[10:59:04] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 10:59:53] ==== loop 65/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[10:59:53] planet 77: queue busy, throttled building_robot_factory
+[10:59:53] planet 77: queue busy, throttled building_robot_factory
+[10:59:53] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:00:46] ==== loop 66/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:00:46] planet 77: queue busy, throttled building_robot_factory
+[11:00:46] planet 77: queue busy, throttled building_robot_factory
+[11:00:46] planet 77: queue busy, throttled building_robot_factory
+[11:00:46] planet 77: queue busy, throttled building_robot_factory
+[11:00:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:01:30] ==== loop 67/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:01:30] planet 77: queue busy, throttled building_robot_factory
+[11:01:30] planet 77: queue busy, throttled building_robot_factory
+[11:01:30] planet 77: queue busy, throttled building_robot_factory
+[11:01:30] planet 77: queue busy, throttled building_robot_factory
+[11:01:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:02:23] ==== loop 68/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:02:23] planet 77: queue busy, throttled building_robot_factory
+[11:02:23] planet 77: queue busy, throttled building_robot_factory
+[11:02:23] planet 77: queue busy, throttled building_robot_factory
+[11:02:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:03:12] ==== loop 69/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:03:12] planet 77: queue busy, throttled building_robot_factory
+[11:03:12] planet 77: queue busy, throttled building_robot_factory
+[11:03:12] planet 77: queue busy, throttled building_robot_factory
+[11:03:12] planet 77: queue busy, throttled building_robot_factory
+[11:03:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:04:01] ==== loop 70/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:04:01] planet 77: queue busy, throttled building_robot_factory
+[11:04:01] planet 77: queue busy, throttled building_robot_factory
+[11:04:01] planet 77: queue busy, throttled building_robot_factory
+[11:04:01] planet 77: queue busy, throttled building_robot_factory
+[11:04:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:04:51] ==== loop 71/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:04:51] planet 77: queue busy, throttled building_robot_factory
+[11:04:51] planet 77: queue busy, throttled building_robot_factory
+[11:04:51] planet 77: queue busy, throttled building_robot_factory
+[11:04:51] planet 77: queue busy, throttled building_robot_factory
+[11:04:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:05:38] ==== loop 72/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:05:38] planet 77: queue busy, throttled building_robot_factory
+[11:05:38] planet 77: queue busy, throttled building_robot_factory
+[11:05:38] planet 77: queue busy, throttled building_robot_factory
+[11:05:38] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:06:22] ==== loop 73/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:06:22] planet 77: queue busy, throttled building_robot_factory
+[11:06:22] planet 77: queue busy, throttled building_robot_factory
+[11:06:22] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:07:10] ==== loop 74/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:07:10] planet 77: queue busy, throttled building_robot_factory
+[11:07:10] planet 77: queue busy, throttled building_robot_factory
+[11:07:10] planet 77: queue busy, throttled building_robot_factory
+[11:07:10] planet 77: queue busy, throttled building_robot_factory
+[11:07:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:07:58] ==== loop 75/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:07:58] planet 77: queue busy, throttled building_robot_factory
+[11:07:58] planet 77: queue busy, throttled building_robot_factory
+[11:07:58] planet 77: queue busy, throttled building_robot_factory
+[11:07:58] planet 77: queue busy, throttled building_robot_factory
+[11:07:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:08:48] ==== loop 76/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:08:49] planet 77: queue busy, throttled building_robot_factory
+[11:08:49] planet 77: queue busy, throttled building_robot_factory
+[11:08:49] planet 77: queue busy, throttled building_robot_factory
+[11:08:49] planet 77: queue busy, throttled building_robot_factory
+[11:08:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:09:36] ==== loop 77/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:09:36] alliance: idle no_candidate
+[11:09:36] planet 77: queue busy, throttled building_robot_factory
+[11:09:36] planet 77: queue busy, throttled building_robot_factory
+[11:09:36] planet 77: queue busy, throttled building_robot_factory
+[11:09:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:10:17] ==== loop 78/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:10:17] planet 77: queue busy, throttled building_robot_factory
+[11:10:17] planet 77: queue busy, throttled building_robot_factory
+[11:10:17] planet 77: queue busy, throttled building_robot_factory
+[11:10:17] planet 77: queue busy, throttled building_robot_factory
+[11:10:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:11:06] ==== loop 79/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:11:06] planet 77: queue busy, throttled building_robot_factory
+[11:11:06] planet 77: queue busy, throttled building_robot_factory
+[11:11:06] planet 77: queue busy, throttled building_robot_factory
+[11:11:06] planet 77: queue busy, throttled building_robot_factory
+[11:11:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:11:51] ==== loop 80/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:11:51] planet 77: queue busy, throttled building_robot_factory
+[11:11:51] planet 77: queue busy, throttled building_robot_factory
+[11:11:51] planet 77: queue busy, throttled building_robot_factory
+[11:11:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:12:31] ==== loop 81/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:12:31] planet 77: queue busy, throttled building_robot_factory
+[11:12:31] planet 77: queue busy, throttled building_robot_factory
+[11:12:31] planet 77: queue busy, throttled building_robot_factory
+[11:12:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:13:16] ==== loop 82/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:13:16] planet 77: queue busy, throttled building_robot_factory
+[11:13:16] planet 77: queue busy, throttled building_robot_factory
+[11:13:16] planet 77: queue busy, throttled building_robot_factory
+[11:13:16] planet 77: queue busy, throttled building_robot_factory
+[11:13:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:13:58] ==== loop 83/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:13:58] planet 77: queue busy, throttled building_robot_factory
+[11:13:58] planet 77: queue busy, throttled building_robot_factory
+[11:13:58] planet 77: queue busy, throttled building_robot_factory
+[11:13:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:14:40] ==== loop 84/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:14:40] planet 77: queue busy, throttled building_robot_factory
+[11:14:40] planet 77: queue busy, throttled building_robot_factory
+[11:14:40] planet 77: queue busy, throttled building_robot_factory
+[11:14:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:15:24] ==== loop 85/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:15:24] planet 77: queue busy, throttled building_robot_factory
+[11:15:24] planet 77: queue busy, throttled building_robot_factory
+[11:15:24] planet 77: queue busy, throttled building_robot_factory
+[11:15:24] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:16:08] ==== loop 86/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:16:08] planet 77: queue busy, throttled building_robot_factory
+[11:16:08] planet 77: queue busy, throttled building_robot_factory
+[11:16:08] planet 77: queue busy, throttled building_robot_factory
+[11:16:08] planet 77: queue busy, throttled building_robot_factory
+[11:16:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:16:57] ==== loop 87/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:16:57] planet 77: queue busy, throttled building_robot_factory
+[11:16:57] planet 77: queue busy, throttled building_robot_factory
+[11:16:57] planet 77: queue busy, throttled building_robot_factory
+[11:16:57] planet 77: queue busy, throttled building_robot_factory
+[11:16:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:17:45] ==== loop 88/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:17:45] planet 77: queue busy, throttled building_robot_factory
+[11:17:45] planet 77: queue busy, throttled building_robot_factory
+[11:17:45] planet 77: queue busy, throttled building_robot_factory
+[11:17:45] planet 77: queue busy, throttled building_robot_factory
+[11:17:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:18:37] ==== loop 89/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:18:37] planet 77: queue busy, throttled building_robot_factory
+[11:18:37] planet 77: queue busy, throttled building_robot_factory
+[11:18:37] planet 77: queue busy, throttled building_robot_factory
+[11:18:37] planet 77: queue busy, throttled building_robot_factory
+[11:18:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:19:22] ==== loop 90/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:19:22] planet 77: queue busy, throttled building_robot_factory
+[11:19:22] planet 77: queue busy, throttled building_robot_factory
+[11:19:22] planet 77: queue busy, throttled building_robot_factory
+[11:19:22] planet 77: queue busy, throttled building_robot_factory
+[11:19:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:20:10] ==== loop 91/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:20:10] planet 77: queue busy, throttled building_robot_factory
+[11:20:10] planet 77: queue busy, throttled building_robot_factory
+[11:20:10] planet 77: queue busy, throttled building_robot_factory
+[11:20:10] planet 77: queue busy, throttled building_robot_factory
+[11:20:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:20:57] ==== loop 92/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:20:57] planet 77: queue busy, throttled building_robot_factory
+[11:20:57] planet 77: queue busy, throttled building_robot_factory
+[11:20:57] planet 77: queue busy, throttled building_robot_factory
+[11:20:57] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:21:43] ==== loop 93/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:21:43] planet 77: queue busy, throttled building_robot_factory
+[11:21:43] planet 77: queue busy, throttled building_robot_factory
+[11:21:43] planet 77: queue busy, throttled building_robot_factory
+[11:21:43] planet 77: queue busy, throttled building_robot_factory
+[11:21:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:22:23] ==== loop 94/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:22:23] planet 77: queue busy, throttled building_robot_factory
+[11:22:23] planet 77: queue busy, throttled building_robot_factory
+[11:22:23] planet 77: queue busy, throttled building_robot_factory
+[11:22:23] planet 77: queue busy, throttled building_robot_factory
+[11:22:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:23:07] ==== loop 95/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:23:07] planet 77: queue busy, throttled building_robot_factory
+[11:23:07] planet 77: queue busy, throttled building_robot_factory
+[11:23:07] planet 77: queue busy, throttled building_robot_factory
+[11:23:07] planet 77: queue busy, throttled building_robot_factory
+[11:23:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:23:53] ==== loop 96/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:23:53] planet 77: queue busy, throttled building_robot_factory
+[11:23:53] planet 77: queue busy, throttled building_robot_factory
+[11:23:53] planet 77: queue busy, throttled building_robot_factory
+[11:23:53] planet 77: queue busy, throttled building_robot_factory
+[11:23:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:24:38] ==== loop 97/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:24:38] alliance: idle no_candidate
+[11:24:38] planet 77: queue busy, throttled building_robot_factory
+[11:24:38] planet 77: queue busy, throttled building_robot_factory
+[11:24:38] planet 77: queue busy, throttled building_robot_factory
+[11:24:38] planet 77: queue busy, throttled building_robot_factory
+[11:24:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:25:25] ==== loop 98/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:25:25] planet 77: queue busy, throttled building_robot_factory
+[11:25:25] planet 77: queue busy, throttled building_robot_factory
+[11:25:25] planet 77: queue busy, throttled building_robot_factory
+[11:25:25] planet 77: queue busy, throttled building_robot_factory
+[11:25:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:26:16] ==== loop 99/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:26:16] planet 77: queue busy, throttled building_robot_factory
+[11:26:16] planet 77: queue busy, throttled building_robot_factory
+[11:26:16] planet 77: queue busy, throttled building_robot_factory
+[11:26:16] planet 77: queue busy, throttled building_robot_factory
+[11:26:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:27:03] ==== loop 100/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:27:03] planet 77: queue busy, throttled building_robot_factory
+[11:27:03] planet 77: queue busy, throttled building_robot_factory
+[11:27:03] planet 77: queue busy, throttled building_robot_factory
+[11:27:03] planet 77: queue busy, throttled building_robot_factory
+[11:27:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:27:49] ==== loop 101/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:27:49] planet 77: queue busy, throttled building_robot_factory
+[11:27:49] planet 77: queue busy, throttled building_robot_factory
+[11:27:49] planet 77: queue busy, throttled building_robot_factory
+[11:27:49] planet 77: queue busy, throttled building_robot_factory
+[11:27:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:28:37] ==== loop 102/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:28:37] planet 77: queue busy, throttled building_robot_factory
+[11:28:37] planet 77: queue busy, throttled building_robot_factory
+[11:28:37] planet 77: queue busy, throttled building_robot_factory
+[11:28:37] planet 77: queue busy, throttled building_robot_factory
+[11:28:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:29:17] ==== loop 103/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:29:17] planet 77: queue busy, throttled building_robot_factory
+[11:29:17] planet 77: queue busy, throttled building_robot_factory
+[11:29:17] planet 77: queue busy, throttled building_robot_factory
+[11:29:17] planet 77: queue busy, throttled building_robot_factory
+[11:29:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:30:00] ==== loop 104/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:30:00] planet 77: queue busy, throttled building_robot_factory
+[11:30:00] planet 77: queue busy, throttled building_robot_factory
+[11:30:00] planet 77: queue busy, throttled building_robot_factory
+[11:30:00] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:30:43] ==== loop 105/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:30:43] planet 77: queue busy, throttled building_robot_factory
+[11:30:43] planet 77: queue busy, throttled building_robot_factory
+[11:30:43] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:31:25] ==== loop 106/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:31:25] planet 77: queue busy, throttled building_robot_factory
+[11:31:25] planet 77: queue busy, throttled building_robot_factory
+[11:31:25] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:32:10] ==== loop 107/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:32:10] planet 77: queue busy, throttled building_robot_factory
+[11:32:10] planet 77: queue busy, throttled building_robot_factory
+[11:32:10] planet 77: queue busy, throttled building_robot_factory
+[11:32:10] planet 77: queue busy, throttled building_robot_factory
+[11:32:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:32:52] ==== loop 108/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:32:52] planet 77: queue busy, throttled building_robot_factory
+[11:32:52] planet 77: queue busy, throttled building_robot_factory
+[11:32:52] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:33:35] ==== loop 109/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:33:35] planet 77: queue busy, throttled building_robot_factory
+[11:33:35] planet 77: queue busy, throttled building_robot_factory
+[11:33:35] planet 77: queue busy, throttled building_robot_factory
+[11:33:35] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:34:24] ==== loop 110/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:34:25] planet 77: queue busy, throttled building_robot_factory
+[11:34:25] planet 77: queue busy, throttled building_robot_factory
+[11:34:25] planet 77: queue busy, throttled building_robot_factory
+[11:34:25] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:35:07] ==== loop 111/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:35:07] planet 77: queue busy, throttled building_robot_factory
+[11:35:07] planet 77: queue busy, throttled building_robot_factory
+[11:35:07] planet 77: queue busy, throttled building_robot_factory
+[11:35:07] planet 77: queue busy, throttled building_robot_factory
+[11:35:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:35:50] ==== loop 112/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:35:50] planet 77: queue busy, throttled building_robot_factory
+[11:35:50] planet 77: queue busy, throttled building_robot_factory
+[11:35:50] planet 77: queue busy, throttled building_robot_factory
+[11:35:50] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:36:30] ==== loop 113/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:36:30] planet 77: queue busy, throttled building_robot_factory
+[11:36:30] planet 77: queue busy, throttled building_robot_factory
+[11:36:30] planet 77: queue busy, throttled building_robot_factory
+[11:36:30] planet 77: queue busy, throttled building_robot_factory
+[11:36:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:37:14] ==== loop 114/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:37:14] planet 77: queue busy, throttled building_robot_factory
+[11:37:14] planet 77: queue busy, throttled building_robot_factory
+[11:37:14] planet 77: queue busy, throttled building_robot_factory
+[11:37:14] planet 77: queue busy, throttled building_robot_factory
+[11:37:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:37:58] ==== loop 115/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:37:58] planet 77: queue busy, throttled building_robot_factory
+[11:37:58] planet 77: queue busy, throttled building_robot_factory
+[11:37:58] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:38:48] ==== loop 116/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:38:48] planet 77: queue busy, throttled building_robot_factory
+[11:38:48] planet 77: queue busy, throttled building_robot_factory
+[11:38:48] planet 77: queue busy, throttled building_robot_factory
+[11:38:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:39:37] ==== loop 117/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:39:37] alliance: idle no_candidate
+[11:39:37] planet 77: queue busy, throttled building_robot_factory
+[11:39:37] planet 77: queue busy, throttled building_robot_factory
+[11:39:37] planet 77: queue busy, throttled building_robot_factory
+[11:39:37] planet 77: queue busy, throttled building_robot_factory
+[11:39:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:40:24] ==== loop 118/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:40:24] planet 77: queue busy, throttled building_robot_factory
+[11:40:24] planet 77: queue busy, throttled building_robot_factory
+[11:40:24] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:41:07] ==== loop 119/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:41:07] planet 77: queue busy, throttled building_robot_factory
+[11:41:07] planet 77: queue busy, throttled building_robot_factory
+[11:41:07] planet 77: queue busy, throttled building_robot_factory
+[11:41:07] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:41:56] ==== loop 120/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:41:56] planet 77: queue busy, throttled building_robot_factory
+[11:41:56] planet 77: queue busy, throttled building_robot_factory
+[11:41:56] planet 77: queue busy, throttled building_robot_factory
+[11:41:56] planet 77: queue busy, throttled building_robot_factory
+[11:41:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:42:47] ==== loop 121/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:42:47] planet 77: queue busy, throttled building_robot_factory
+[11:42:47] planet 77: queue busy, throttled building_robot_factory
+[11:42:47] planet 77: queue busy, throttled building_robot_factory
+[11:42:47] planet 77: queue busy, throttled building_robot_factory
+[11:42:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:43:33] ==== loop 122/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:43:33] planet 77: queue busy, throttled building_robot_factory
+[11:43:33] planet 77: queue busy, throttled building_robot_factory
+[11:43:33] planet 77: queue busy, throttled building_robot_factory
+[11:43:33] planet 77: queue busy, throttled building_robot_factory
+[11:43:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:44:23] ==== loop 123/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:44:23] planet 77: queue busy, throttled building_robot_factory
+[11:44:23] planet 77: queue busy, throttled building_robot_factory
+[11:44:23] planet 77: queue busy, throttled building_robot_factory
+[11:44:23] planet 77: queue busy, throttled building_robot_factory
+[11:44:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:45:11] ==== loop 124/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:45:11] planet 77: queue busy, throttled building_robot_factory
+[11:45:11] planet 77: queue busy, throttled building_robot_factory
+[11:45:11] planet 77: queue busy, throttled building_robot_factory
+[11:45:11] planet 77: queue busy, throttled building_robot_factory
+[11:45:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:45:56] ==== loop 125/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:45:56] planet 77: queue busy, throttled building_robot_factory
+[11:45:56] planet 77: queue busy, throttled building_robot_factory
+[11:45:56] planet 77: queue busy, throttled building_robot_factory
+[11:45:56] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:46:40] ==== loop 126/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:46:40] planet 77: queue busy, throttled building_robot_factory
+[11:46:40] planet 77: queue busy, throttled building_robot_factory
+[11:46:40] planet 77: queue busy, throttled building_robot_factory
+[11:46:40] planet 77: queue busy, throttled building_robot_factory
+[11:46:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:47:31] ==== loop 127/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:47:31] planet 77: queue busy, throttled building_robot_factory
+[11:47:31] planet 77: queue busy, throttled building_robot_factory
+[11:47:31] planet 77: queue busy, throttled building_robot_factory
+[11:47:31] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:48:14] ==== loop 128/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:48:14] planet 77: queue busy, throttled building_robot_factory
+[11:48:14] planet 77: queue busy, throttled building_robot_factory
+[11:48:14] planet 77: queue busy, throttled building_robot_factory
+[11:48:14] planet 77: queue busy, throttled building_robot_factory
+[11:48:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:49:03] ==== loop 129/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:49:03] planet 77: queue busy, throttled building_robot_factory
+[11:49:03] planet 77: queue busy, throttled building_robot_factory
+[11:49:03] planet 77: queue busy, throttled building_robot_factory
+[11:49:03] planet 77: queue busy, throttled building_robot_factory
+[11:49:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:49:55] ==== loop 130/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:49:55] planet 77: queue busy, throttled building_robot_factory
+[11:49:55] planet 77: queue busy, throttled building_robot_factory
+[11:49:55] planet 77: queue busy, throttled building_robot_factory
+[11:49:55] planet 77: queue busy, throttled building_robot_factory
+[11:49:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:50:43] ==== loop 131/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:50:43] planet 77: queue busy, throttled building_robot_factory
+[11:50:43] planet 77: queue busy, throttled building_robot_factory
+[11:50:43] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:51:32] ==== loop 132/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:51:32] planet 77: queue busy, throttled building_robot_factory
+[11:51:32] planet 77: queue busy, throttled building_robot_factory
+[11:51:32] planet 77: queue busy, throttled building_robot_factory
+[11:51:32] planet 77: queue busy, throttled building_robot_factory
+[11:51:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:52:20] ==== loop 133/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:52:20] planet 77: queue busy, throttled building_robot_factory
+[11:52:20] planet 77: queue busy, throttled building_robot_factory
+[11:52:20] planet 77: queue busy, throttled building_robot_factory
+[11:52:20] planet 77: queue busy, throttled building_robot_factory
+[11:52:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:53:06] ==== loop 134/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:53:06] planet 77: queue busy, throttled building_robot_factory
+[11:53:06] planet 77: queue busy, throttled building_robot_factory
+[11:53:06] planet 77: queue busy, throttled building_robot_factory
+[11:53:06] planet 77: queue busy, throttled building_robot_factory
+[11:53:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:53:48] ==== loop 135/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:53:48] planet 77: queue busy, throttled building_robot_factory
+[11:53:48] planet 77: queue busy, throttled building_robot_factory
+[11:53:48] planet 77: queue busy, throttled building_robot_factory
+[11:53:48] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:54:28] ==== loop 136/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:54:28] planet 77: queue busy, throttled building_robot_factory
+[11:54:28] planet 77: queue busy, throttled building_robot_factory
+[11:54:28] planet 77: queue busy, throttled building_robot_factory
+[11:54:28] planet 77: queue busy, throttled building_robot_factory
+[11:54:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:55:11] ==== loop 137/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:55:11] alliance: idle no_candidate
+[11:55:11] planet 77: queue busy, throttled building_robot_factory
+[11:55:11] planet 77: queue busy, throttled building_robot_factory
+[11:55:11] planet 77: queue busy, throttled building_robot_factory
+[11:55:11] planet 77: queue busy, throttled building_robot_factory
+[11:55:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:56:04] ==== loop 138/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:56:04] planet 77: queue busy, throttled building_robot_factory
+[11:56:04] planet 77: queue busy, throttled building_robot_factory
+[11:56:04] planet 77: queue busy, throttled building_robot_factory
+[11:56:04] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:56:47] ==== loop 139/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:56:47] planet 77: queue busy, throttled building_robot_factory
+[11:56:47] planet 77: queue busy, throttled building_robot_factory
+[11:56:47] planet 77: queue busy, throttled building_robot_factory
+[11:56:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:57:36] ==== loop 140/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:57:36] planet 77: queue busy, throttled building_robot_factory
+[11:57:36] planet 77: queue busy, throttled building_robot_factory
+[11:57:36] planet 77: queue busy, throttled building_robot_factory
+[11:57:36] planet 77: queue busy, throttled building_robot_factory
+[11:57:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:58:19] ==== loop 141/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:58:19] planet 77: queue busy, throttled building_robot_factory
+[11:58:19] planet 77: queue busy, throttled building_robot_factory
+[11:58:19] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 11:59:02] ==== loop 142/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:59:02] planet 77: queue busy, throttled building_robot_factory
+[11:59:02] planet 77: queue busy, throttled building_robot_factory
+[11:59:02] planet 77: queue busy, throttled building_robot_factory
+[11:59:02] planet 77: queue busy, throttled building_robot_factory
+[11:59:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 11:59:43] ==== loop 143/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[11:59:43] planet 77: queue busy, throttled building_robot_factory
+[11:59:43] planet 77: queue busy, throttled building_robot_factory
+[11:59:43] planet 77: queue busy, throttled building_robot_factory
+[11:59:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:00:30] ==== loop 144/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:00:30] planet 77: queue busy, throttled building_robot_factory
+[12:00:30] planet 77: queue busy, throttled building_robot_factory
+[12:00:30] planet 77: queue busy, throttled building_robot_factory
+[12:00:30] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 12:01:17] ==== loop 145/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:01:17] planet 77: queue busy, throttled building_robot_factory
+[12:01:17] planet 77: queue busy, throttled building_robot_factory
+[12:01:17] planet 77: queue busy, throttled building_robot_factory
+[12:01:17] planet 77: queue busy, throttled building_robot_factory
+[12:01:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:02:03] ==== loop 146/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:02:03] planet 77: queue busy, throttled building_robot_factory
+[12:02:03] planet 77: queue busy, throttled building_robot_factory
+[12:02:03] planet 77: queue busy, throttled building_robot_factory
+[12:02:03] planet 77: queue busy, throttled building_robot_factory
+[12:02:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:02:49] ==== loop 147/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:02:49] planet 77: queue busy, throttled building_robot_factory
+[12:02:49] planet 77: queue busy, throttled building_robot_factory
+[12:02:49] planet 77: queue busy, throttled building_robot_factory
+[12:02:49] planet 77: queue busy, throttled building_robot_factory
+[12:02:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:03:37] ==== loop 148/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:03:37] planet 77: queue busy, throttled building_robot_factory
+[12:03:37] planet 77: queue busy, throttled building_robot_factory
+[12:03:37] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 12:04:25] ==== loop 149/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:04:25] planet 77: queue busy, throttled building_robot_factory
+[12:04:25] planet 77: queue busy, throttled building_robot_factory
+[12:04:25] planet 77: queue busy, throttled building_robot_factory
+[12:04:25] planet 77: queue busy, throttled building_robot_factory
+[12:04:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:05:11] ==== loop 150/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:05:11] planet 77: queue busy, throttled building_robot_factory
+[12:05:11] planet 77: queue busy, throttled building_robot_factory
+[12:05:11] planet 77: queue busy, throttled building_robot_factory
+[12:05:11] planet 77: queue busy, throttled building_robot_factory
+[12:05:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:06:00] ==== loop 151/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:06:00] planet 77: queue busy, throttled building_robot_factory
+[12:06:00] planet 77: queue busy, throttled building_robot_factory
+[12:06:00] planet 77: queue busy, throttled building_robot_factory
+[12:06:00] planet 77: queue busy, throttled building_robot_factory
+[12:06:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:06:50] ==== loop 152/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:06:50] planet 77: queue busy, throttled building_robot_factory
+[12:06:50] planet 77: queue busy, throttled building_robot_factory
+[12:06:50] planet 77: queue busy, throttled building_robot_factory
+[12:06:50] planet 77: queue busy, throttled building_robot_factory
+[12:06:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:07:39] ==== loop 153/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:07:39] planet 77: queue busy, throttled building_robot_factory
+[12:07:39] planet 77: queue busy, throttled building_robot_factory
+[12:07:39] planet 77: queue busy, throttled building_robot_factory
+[12:07:39] planet 77: queue busy, throttled building_robot_factory
+[12:07:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:08:34] ==== loop 154/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:08:34] planet 77: queue busy, throttled building_robot_factory
+[12:08:34] planet 77: queue busy, throttled building_robot_factory
+[12:08:34] planet 77: queue busy, throttled building_robot_factory
+[12:08:34] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 12:09:24] ==== loop 155/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:09:24] planet 77: queue busy, throttled building_robot_factory
+[12:09:24] planet 77: queue busy, throttled building_robot_factory
+[12:09:24] planet 77: queue busy, throttled building_robot_factory
+[12:09:24] planet 77: queue busy, throttled building_robot_factory
+[2026-05-13 12:10:07] ==== loop 156/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:10:07] planet 77: queue busy, throttled building_robot_factory
+[12:10:07] planet 77: queue busy, throttled building_robot_factory
+[12:10:07] planet 77: queue busy, throttled building_robot_factory
+[12:10:07] planet 77: queue busy, throttled building_robot_factory
+[12:10:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:10:56] ==== loop 157/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:10:56] alliance: idle no_candidate
+[12:10:56] planet 77: queue busy, throttled building_robot_factory
+[12:10:56] planet 77: queue busy, throttled building_robot_factory
+[12:10:56] planet 77: queue busy, throttled building_robot_factory
+[12:10:56] planet 77: queue busy, throttled building_robot_factory
+[12:10:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-13 12:11:42] ==== loop 158/∞ | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[12:11:42] planet 77: queue busy, throttled building_robot_factory
+[12:11:42] planet 77: queue busy, throttled building_robot_factory
+[12:11:42] planet 77: queue busy, throttled building_robot_factory
+[12:11:42] research: blocked research_energy_technology (building_laboratory 0/1)

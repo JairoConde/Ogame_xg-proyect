@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Test Documentation</title>
+        <style>
+            body {
+                text-rendering: optimizeLegibility;
+                font-family: Source SansSerif Pro, Arial, sans-serif;
+                font-variant-ligatures: common-ligatures;
+                font-kerning: normal;
+                margin-left: 2rem;
+                background-color: #fff;
+                color: #000;
+            }
+
+            body > ul > li {
+                font-size: larger;
+            }
+
+            h2 {
+                font-size: larger;
+                text-decoration-line: underline;
+                text-decoration-thickness: 2px;
+                margin: 0;
+                padding: 0.5rem 0;
+            }
+
+            ul {
+                list-style: none;
+                margin: 0 0 2rem;
+                padding: 0 0 0 1rem;
+                text-indent: -1rem;
+            }
+
+            .success:before {
+                color: #4e9a06;
+                content: '✓';
+                padding-right: 0.5rem;
+            }
+
+            .defect {
+                color: #a40000;
+            }
+
+            .defect:before {
+                color: #a40000;
+                content: '✗';
+                padding-right: 0.5rem;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Queue</h2>
+        <ul>
+            <li class="success">Add one element to queue</li>
+            <li class="success">Add many element to queue</li>
+            <li class="success">Remove element from queue with one element</li>
+            <li class="success">Remove last element from queue with two element</li>
+            <li class="success">Remove first element from queue with two element</li>
+            <li class="success">Remove middle element from queue with three element</li>
+            <li class="success">Remove element from queue invalid parameters</li>
+            <li class="success">Get element from queue as array</li>
+            <li class="success">Return queue as string</li>
+            <li class="success">Return queue as array</li>
+            <li class="success">Count queue elements</li>
+        </ul>
+        <h2>Ranks</h2>
+        <ul>
+            <li class="success">Add one element to queue</li>
+        </ul>
+        <h2>Alliance Controller (App\Test\AllianceController)</h2>
+        <ul>
+            <li class="success">Get alliance id returns int when no input and no user data</li>
+            <li class="success">Get alliance id returns user ally id when set and no get param</li>
+            <li class="success">Get alliance id returns user ally request when set</li>
+            <li class="success">Get alliance id precedence user ally over request</li>
+            <li class="success">Build circular block returns empty array when no access</li>
+            <li class="success">Build circular block returns array with keys when has access</li>
+        </ul>
+        <h2>Architecture (App\Test\Architecture)</h2>
+        <ul>
+            <li class="success">All game controllers extend base controller</li>
+            <li class="success">All admin controllers extend base controller</li>
+            <li class="success">All app files parse correctly</li>
+            <li class="success">Namespaces match directory structure</li>
+        </ul>
+        <h2>Battle Constants (App\Test\BattleConstants)</h2>
+        <ul>
+            <li class="success">Battle win constant</li>
+            <li class="success">Battle lose constant</li>
+            <li class="success">Battle draw constant</li>
+            <li class="success">Shield cells constant</li>
+            <li class="success">Use biexplosion system constant</li>
+            <li class="success">Prob to real magic constant</li>
+            <li class="success">Epsilon constant</li>
+            <li class="success">Rounds constant</li>
+            <li class="success">Shields tech increment factor</li>
+            <li class="success">Armour tech increment factor</li>
+            <li class="success">Weapons tech increment factor</li>
+            <li class="success">Cost to armour constant</li>
+            <li class="success">Min prob to explode constant</li>
+            <li class="success">Defense repair prob constant</li>
+            <li class="success">Ship repair prob constant</li>
+            <li class="success">Use hitship limitation constant</li>
+            <li class="success">Use exploded limitation constant</li>
+            <li class="success">Use rf constant</li>
+            <li class="success">Use randomic rf constant</li>
+            <li class="success">Max rf buff constant</li>
+            <li class="success">Max rf nerf constant</li>
+            <li class="success">Only first and last round constant</li>
+            <li class="success">Repaired do debris constant</li>
+            <li class="success">Ship debris factor constant</li>
+            <li class="success">Defense debris factor constant</li>
+            <li class="success">Point unit constant</li>
+            <li class="success">Moon unit prob constant</li>
+            <li class="success">Max moon prob constant</li>
+            <li class="success">Moon min start size constant</li>
+            <li class="success">Moon max start size constant</li>
+            <li class="success">Moon min factor constant</li>
+            <li class="success">Moon max factor constant</li>
+            <li class="success">Moon max hight temp difference from planet constant</li>
+            <li class="success">Moon max low temp difference from planet constant</li>
+            <li class="success">Default moon name constant</li>
+            <li class="success">Timezone constant</li>
+        </ul>
+        <h2>Battle Engine Utils (App\Test\BattleEngineUtils)</h2>
+        <ul>
+            <li class="success">Gauss get next returns float</li>
+            <li class="success">Gauss get next produces different values</li>
+            <li class="success">Gauss get next ms uses mean and std dev</li>
+            <li class="success">Gauss get next ms between respects bounds</li>
+            <li class="success">Gauss get next ms between throws when mean out of bounds</li>
+            <li class="success">Gauss get next ms between mean below min bound</li>
+            <li class="success">Geometric get probability from mean</li>
+            <li class="success">Geometric get probability from mean mean less than or equal to one</li>
+            <li class="success">Geometric get mean from probability</li>
+            <li class="success">Geometric get mean from probability zero probability</li>
+            <li class="success">Geometric get variance from probability</li>
+            <li class="success">Geometric get variance from probability zero probability</li>
+            <li class="success">Geometric get standard deviation from probability</li>
+            <li class="success">Geometric get standard deviation from probability zero probability</li>
+            <li class="success">Number constructor sets properties</li>
+            <li class="success">Number default rest is zero</li>
+            <li class="success">Number to string</li>
+            <li class="success">Number to string with zero rest</li>
+            <li class="success">Math divide basic</li>
+            <li class="success">Math divide real</li>
+            <li class="success">Math divide real with exact division</li>
+            <li class="success">Math divide throws on zero denominator real</li>
+            <li class="success">Math multiple basic</li>
+            <li class="success">Math multiple real</li>
+            <li class="success">Math multiple real with decimal result</li>
+            <li class="success">Math multiple with zero</li>
+            <li class="success">Heaviside x greater than or equal to y</li>
+            <li class="success">Heaviside x less than y</li>
+            <li class="success">Heaviside with negative values</li>
+            <li class="success">Rest basic</li>
+            <li class="success">Rest exact division</li>
+            <li class="success">Rest with divisor less than one</li>
+            <li class="success">Rest not real</li>
+            <li class="success">Try event with valid callback</li>
+            <li class="success">Try event throws on invalid callback</li>
+            <li class="success">Recursive sum flat array</li>
+            <li class="success">Recursive sum nested array</li>
+            <li class="success">Recursive sum empty array</li>
+            <li class="success">Recursive sum single element</li>
+        </ul>
+        <h2>Buildings Controller (App\Test\BuildingsController)</h2>
+        <ul>
+            <li class="success">Module id constant</li>
+            <li class="success">Get current page method signature</li>
+            <li class="success">Get current page uses filter input</li>
+            <li class="success">Run action uses filter input</li>
+            <li class="success">Get allowed buildings structure</li>
+            <li class="success">Can init build action signature</li>
+            <li class="success">Is work in progress structure</li>
+            <li class="success">Build button has expected colors and keys</li>
+            <li class="success">Set up buildings method exists</li>
+            <li class="success">Build page method exists</li>
+            <li class="success">Index method signature</li>
+        </ul>
+        <h2>Fleets Lib (App\Test\FleetsLib)</h2>
+        <ul>
+            <li class="success">Get fleet ships array with data set "empty string returns empty array"</li>
+            <li class="success">Get fleet ships array with data set "non-serialized string returns empty array"</li>
+            <li class="success">Get fleet ships array with data set "serialized empty array"</li>
+            <li class="success">Get fleet ships array with data set "single ship"</li>
+            <li class="success">Get fleet ships array with data set "multiple ships"</li>
+            <li class="success">Get fleet ships array with data set "malformed serialized returns empty array"</li>
+            <li class="success">Get fleet ships array ignores non array unserialize</li>
+            <li class="success">Set fleet ships array</li>
+            <li class="success">Get max expeditions with data set "level 0"</li>
+            <li class="success">Get max expeditions with data set "level 1"</li>
+            <li class="success">Get max expeditions with data set "level 4"</li>
+            <li class="success">Get max expeditions with data set "level 9"</li>
+            <li class="success">Get max expeditions with data set "level 16"</li>
+            <li class="success">Get max colonies with data set "level 0"</li>
+            <li class="success">Get max colonies with data set "level 1"</li>
+            <li class="success">Get max colonies with data set "level 2"</li>
+            <li class="success">Get max colonies with data set "level 3"</li>
+            <li class="success">Get max colonies with data set "level 4"</li>
+            <li class="success">Get max colonies with data set "level 10"</li>
+            <li class="success">Get max storage with data set "base storage no tech no optimisation"</li>
+            <li class="success">Get max storage with data set "with hyperspace tech"</li>
+            <li class="success">Get max storage with data set "with hyperspace tech rounding"</li>
+            <li class="success">Get max storage with data set "small cargo with cargo optimisation"</li>
+            <li class="success">Get max storage with data set "big cargo with cargo optimisation"</li>
+            <li class="success">Get max storage with data set "non-cargo ship ignores optimisation"</li>
+            <li class="success">Get max storage with data set "all combined"</li>
+            <li class="success">Is fleet returning with data set "mess 1 returns true"</li>
+            <li class="success">Is fleet returning with data set "mess "1" returns true"</li>
+            <li class="success">Is fleet returning with data set "mess 0 returns false"</li>
+            <li class="success">Is fleet returning with data set "mess "0" returns false"</li>
+            <li class="success">Is fleet returning with data set "mess null returns false"</li>
+            <li class="success">Has resources with data set "all resources zero"</li>
+            <li class="success">Has resources with data set "metal non-zero"</li>
+            <li class="success">Has resources with data set "crystal non-zero"</li>
+            <li class="success">Has resources with data set "deuterium non-zero"</li>
+            <li class="success">Has resources with data set "all resources non-zero"</li>
+            <li class="success">Target distance with data set "same coordinates"</li>
+            <li class="success">Target distance with data set "different galaxy"</li>
+            <li class="success">Target distance with data set "same galaxy different system"</li>
+            <li class="success">Target distance with data set "same system different planet"</li>
+            <li class="success">Target distance with data set "default distance"</li>
+            <li class="success">Get fleet mission name with data set "attack"</li>
+            <li class="success">Get fleet mission name with data set "acs"</li>
+            <li class="success">Get fleet mission name with data set "transport"</li>
+            <li class="success">Get fleet mission name with data set "deploy"</li>
+            <li class="success">Get fleet mission name with data set "hold"</li>
+            <li class="success">Get fleet mission name with data set "spy"</li>
+            <li class="success">Get fleet mission name with data set "colonize"</li>
+            <li class="success">Get fleet mission name with data set "recycle"</li>
+            <li class="success">Get fleet mission name with data set "destroy"</li>
+            <li class="success">Get fleet mission name with data set "missile"</li>
+            <li class="success">Get fleet mission name with data set "expedition"</li>
+            <li class="success">Get fleet mission name with data set "unknown mission returns Unknown"</li>
+            <li class="success">Fleet ships popup method exists</li>
+        </ul>
+        <h2>Formulas (App\Test\Formulas)</h2>
+        <ul>
+            <li class="success">Phalanx range returns zero for level zero</li>
+            <li class="success">Phalanx range returns one for level one</li>
+            <li class="success">Phalanx range returns level squared minus one</li>
+            <li class="success">Missile range</li>
+            <li class="success">Get moon destruction chance</li>
+            <li class="success">Get moon destruction chance small moon</li>
+            <li class="success">Get death stars destruction chance</li>
+            <li class="success">Get ion technology bonus</li>
+            <li class="success">Get plasma technology bonus for metal</li>
+            <li class="success">Get plasma technology bonus for crystal</li>
+            <li class="success">Get plasma technology bonus for deuterium</li>
+            <li class="success">Get plasma technology bonus zero</li>
+            <li class="success">Get development cost</li>
+            <li class="success">Get development cost level zero</li>
+            <li class="success">Set planet image returns string</li>
+            <li class="success">Set planet temp returns array</li>
+            <li class="success">Set planet temp varies by position</li>
+        </ul>
+        <h2>Functions (App\Test\Functions)</h2>
+        <ul>
+            <li class="success">Redirect calls exit after header</li>
+            <li class="success">Send message has correct default types</li>
+        </ul>
+        <h2>Queue Advanced (App\Test\QueueAdvanced)</h2>
+        <ul>
+            <li class="success">Queue can be created from string</li>
+            <li class="success">Queue can be created from array</li>
+            <li class="success">Empty queue returns empty string</li>
+            <li class="success">Empty queue returns empty array</li>
+            <li class="success">Add and count multiple elements</li>
+            <li class="success">Remove element from middle</li>
+            <li class="success">Get element as array returns correct structure</li>
+            <li class="success">Remove element with invalid parameter does nothing</li>
+            <li class="success">Queue string format</li>
+            <li class="success">Queue with destroy mode</li>
+        </ul>
+        <h2>Queue Coverage (App\Test\QueueCoverage)</h2>
+        <ul>
+            <li class="success">Break down current queue converts string to array</li>
+            <li class="success">Break down current queue handles multiple elements</li>
+            <li class="success">Break down current queue filters empty elements</li>
+            <li class="success">Break down current queue on empty string</li>
+            <li class="success">Make up current queue converts array to string</li>
+            <li class="success">Make up current queue handles multiple elements</li>
+            <li class="success">Make up current queue handles empty array</li>
+            <li class="success">Count queue elements on string queue triggers break down</li>
+            <li class="success">Add element to queue forces break down when queue is string</li>
+            <li class="success">Return queue as string with array input triggers make up</li>
+            <li class="success">Remove element from queue with non existent key does nothing</li>
+            <li class="success">Get element from queue as array returns empty for non existent key</li>
+            <li class="success">Return queue as array on empty queue</li>
+            <li class="success">Queue constructor with array input</li>
+            <li class="success">Full roundtrip string to array to string</li>
+            <li class="success">Remove element then return as string</li>
+        </ul>
+        <h2>Shipyard Controller (App\Test\ShipyardController)</h2>
+        <ul>
+            <li class="success">Get shield dome item limit returns zero for non shield item</li>
+            <li class="success">Get shield dome item limit returns one for small shield dome</li>
+            <li class="success">Get shield dome item limit returns one for large shield dome</li>
+            <li class="success">Build items queue returns empty string for empty queue</li>
+            <li class="success">Build items queue returns empty string for semicolon only queue</li>
+            <li class="success">Process queue to array returns empty array for empty queue</li>
+            <li class="success">Process queue to array parses single item</li>
+            <li class="success">Process queue to array parses multiple items</li>
+            <li class="success">Process queue to array accumulates same item id</li>
+            <li class="success">Process queue to array returns empty array for semicolon only</li>
+            <li class="success">Process queue to array skips empty entries</li>
+            <li class="success">Get mining drill item limit returns hard cap value</li>
+            <li class="success">Get mining drill item limit returns zero when at cap</li>
+            <li class="success">Get mining drill item limit accounts for queue</li>
+            <li class="success">Get mining drill item limit returns zero when over cap</li>
+        </ul>
+    </body>
+</html>

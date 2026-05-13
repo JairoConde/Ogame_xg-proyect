@@ -137,6 +137,9 @@ class PermissionsController extends BaseController
 
         // build sections array
         foreach ($sections as $section_id => $section) {
+            $permissions_list = [];
+            $modules_list = [];
+
             // build modules array
             foreach ($modules[$section_id] as $module) {
                 // build permissions array
@@ -155,8 +158,6 @@ class PermissionsController extends BaseController
                     'page_module_title' => $this->langs->language[$module],
                     'permissions_list' => $permissions_list,
                 ];
-
-                unset($permissions_list); // reset
             }
 
             // put all inside
@@ -166,8 +167,6 @@ class PermissionsController extends BaseController
                 'roles_list' => $roles,
                 'modules_list' => $modules_list,
             ];
-
-            unset($modules_list); // reset
         }
 
         return [

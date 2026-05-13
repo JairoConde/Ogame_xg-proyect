@@ -1,0 +1,833 @@
+[2026-05-13 10:11:55] ==== loop 1/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:11:57] planet 53: queued ship_colony_ship +1
+[10:11:57] planet 91: queued ship_heavy_fighter +5
+[10:11:57] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:12:33] ==== loop 2/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:12:35] planet 53: queued building_hangar to 6
+[10:12:35] planet 91: queued ship_heavy_fighter +5
+[10:12:35] planet 92: queued building_crystal_mine to 1
+[10:12:35] colonize: 1:7:10 -> 1:58:9 (eta 87s, fuel 860)
+[10:12:35] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:13:15] ==== loop 3/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:13:17] planet 53: queued ship_colony_ship +1
+[10:13:17] planet 91: queued ship_heavy_fighter +5
+[10:13:17] planet 92: queued building_solar_plant to 1
+[10:13:17] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:13:54] ==== loop 4/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:13:55] planet 53: queued building_hangar to 7
+[10:13:55] planet 91: no resources for ship_heavy_fighter+5
+[10:13:55] planet 92: queued building_crystal_mine to 2
+[10:13:55] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:14:37] ==== loop 5/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:14:38] planet 53: queued building_hangar to 8
+[10:14:38] planet 91: no resources for ship_heavy_fighter+5
+[10:14:38] planet 92: queued building_solar_plant to 2
+[10:14:38] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:15:16] ==== loop 6/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:15:18] planet 53: queued building_hangar to 9
+[10:15:18] planet 91: no resources for ship_heavy_fighter+5
+[10:15:18] planet 92: queued building_crystal_mine to 3
+[2026-05-13 10:16:01] ==== loop 7/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:16:02] planet 53: queued building_deuterium_tank to 16
+[10:16:02] planet 91: no resources for ship_heavy_fighter+5
+[10:16:02] planet 92: queued building_crystal_mine to 4
+[10:16:02] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:16:44] ==== loop 8/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:16:46] planet 53: queued building_nano_factory to 1
+[10:16:46] planet 91: no resources for ship_heavy_fighter+5
+[10:16:46] planet 92: queued building_solar_plant to 3
+[2026-05-13 10:17:30] ==== loop 9/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:17:30] planet 53: building queue full (5)
+[10:17:30] planet 91: no resources for ship_heavy_fighter+5
+[10:17:30] planet 92: queued building_crystal_mine to 5
+[10:17:30] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:18:12] ==== loop 10/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:18:14] planet 53: building queue full (5)
+[10:18:14] planet 91: no resources for ship_heavy_fighter+5
+[10:18:14] planet 92: queued building_crystal_mine to 6
+[2026-05-13 10:18:58] ==== loop 11/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:19:02] planet 53: building queue full (5)
+[10:19:02] planet 91: no resources for ship_heavy_fighter+5
+[10:19:02] planet 92: queued building_solar_plant to 4
+[10:19:02] planet 95: no resources for building_robot_factory+1
+[10:19:02] colonize: 1:7:10 -> 1:59:9 (eta 88s, fuel 867)
+[2026-05-13 10:19:45] ==== loop 12/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:19:49] planet 53: building queue full (5)
+[10:19:49] planet 91: queued ship_colony_ship +1
+[10:19:49] planet 92: queued building_crystal_mine to 7
+[10:19:49] planet 95: no resources for building_robot_factory+1
+[10:19:49] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:20:25] ==== loop 13/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:20:28] planet 53: building queue full (5)
+[10:20:28] planet 91: no resources for ship_light_fighter+5
+[10:20:28] planet 92: queued building_solar_plant to 5
+[10:20:28] planet 95: queued building_metal_mine to 1
+[2026-05-13 10:21:10] ==== loop 14/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:21:13] planet 53: building queue full (5)
+[10:21:13] planet 91: no resources for ship_light_fighter+5
+[10:21:13] planet 92: queued defense_gauss_cannon +5
+[10:21:13] colonize: 1:56:9 -> 1:59:9 (eta 55s, fuel 339)
+[2026-05-13 10:21:55] ==== loop 15/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:21:57] planet 53: building queue full (5)
+[10:21:57] planet 92: queued ship_colony_ship +1
+[10:21:57] planet 91: no resources for ship_light_fighter+5
+[10:21:57] planet 95: queued building_solar_plant to 1
+[2026-05-13 10:22:44] ==== loop 16/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:22:47] planet 53: building queue full (5)
+[10:22:47] planet 91: no resources for ship_light_fighter+5
+[10:22:47] planet 92: no resources for defense_gauss_cannon+5
+[10:22:47] planet 95: queued building_metal_mine to 2
+[10:22:47] colonize: 1:57:9 -> 1:59:9 (eta 54s, fuel 329)
+[10:22:47] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:23:28] ==== loop 17/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:23:30] planet 53: building queue full (5)
+[10:23:30] planet 91: no resources for ship_colony_ship+1
+[10:23:30] planet 92: queued ship_colony_ship +1
+[10:23:30] planet 95: queued building_solar_plant to 2
+[2026-05-13 10:24:15] ==== loop 18/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:24:17] planet 53: building queue full (5)
+[10:24:17] planet 91: no resources for ship_light_fighter+5
+[10:24:17] planet 92: no resources for defense_gauss_cannon+5
+[10:24:17] planet 95: queued building_metal_mine to 3
+[10:24:17] colonize: 1:57:9 -> 1:59:9 (eta 54s, fuel 329)
+[2026-05-13 10:25:05] ==== loop 19/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:25:08] planet 53: building queue full (5)
+[10:25:08] planet 91: no resources for ship_colony_ship+1
+[10:25:08] planet 92: no resources for ship_colony_ship+1
+[10:25:08] planet 95: queued building_hangar to 1
+[10:25:08] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:25:50] ==== loop 20/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:25:53] planet 53: building queue full (5)
+[10:25:53] planet 91: no resources for ship_colony_ship+1
+[10:25:53] planet 92: no resources for ship_colony_ship+1
+[10:25:53] planet 95: queued building_hangar to 2
+[10:25:53] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:26:37] ==== loop 21/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:26:41] planet 53: building queue full (5)
+[10:26:41] planet 91: no resources for ship_colony_ship+1
+[10:26:41] planet 92: no resources for ship_colony_ship+1
+[10:26:41] planet 95: no resources for building_hangar+1
+[10:26:41] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:27:20] ==== loop 22/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:27:23] planet 53: building queue full (5)
+[10:27:23] planet 91: no resources for ship_colony_ship+1
+[10:27:23] planet 92: no resources for ship_colony_ship+1
+[10:27:23] planet 95: no resources for building_hangar+1
+[10:27:23] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:28:08] ==== loop 23/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:28:11] planet 53: building queue full (5)
+[10:28:11] planet 91: no resources for ship_colony_ship+1
+[10:28:11] planet 92: no resources for ship_colony_ship+1
+[10:28:11] planet 95: no resources for building_hangar+1
+[10:28:11] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:28:56] ==== loop 24/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:28:59] planet 53: building queue full (5)
+[10:28:59] planet 91: no resources for ship_colony_ship+1
+[10:28:59] planet 92: no resources for ship_colony_ship+1
+[10:28:59] planet 95: no resources for building_hangar+1
+[2026-05-13 10:29:42] ==== loop 25/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:29:44] planet 53: building queue full (5)
+[10:29:44] planet 91: no resources for ship_colony_ship+1
+[10:29:44] planet 92: no resources for ship_colony_ship+1
+[10:29:44] planet 95: no resources for building_hangar+1
+[10:29:44] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:30:24] ==== loop 26/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:30:28] planet 53: building queue full (5)
+[10:30:28] planet 91: no resources for ship_colony_ship+1
+[10:30:28] planet 92: no resources for ship_colony_ship+1
+[10:30:28] planet 95: queued building_hangar to 3
+[2026-05-13 10:31:05] ==== loop 27/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:31:08] planet 53: building queue full (5)
+[10:31:08] planet 91: no resources for ship_colony_ship+1
+[10:31:08] planet 92: no resources for ship_colony_ship+1
+[10:31:08] planet 95: no resources for building_hangar+1
+[10:31:08] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:31:46] ==== loop 28/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:31:48] planet 53: building queue full (5)
+[10:31:48] planet 91: no resources for ship_colony_ship+1
+[10:31:48] planet 92: no resources for ship_colony_ship+1
+[10:31:48] planet 95: no resources for building_hangar+1
+[10:31:48] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:32:28] ==== loop 29/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:32:30] planet 53: building queue full (5)
+[10:32:30] planet 91: no resources for ship_colony_ship+1
+[10:32:30] planet 92: no resources for ship_colony_ship+1
+[10:32:30] planet 95: no resources for building_hangar+1
+[10:32:30] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:33:13] ==== loop 30/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:33:15] planet 53: building queue full (5)
+[10:33:15] planet 91: no resources for ship_colony_ship+1
+[10:33:15] planet 92: no resources for ship_colony_ship+1
+[10:33:15] planet 95: no resources for building_hangar+1
+[2026-05-13 10:33:57] ==== loop 31/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:34:00] planet 53: building queue full (5)
+[10:34:00] planet 91: no resources for ship_colony_ship+1
+[10:34:00] planet 92: no resources for ship_colony_ship+1
+[10:34:00] planet 95: no resources for building_hangar+1
+[10:34:00] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:34:41] ==== loop 32/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:34:44] planet 53: building queue full (5)
+[10:34:44] planet 91: no resources for ship_colony_ship+1
+[10:34:44] planet 92: no resources for ship_colony_ship+1
+[10:34:44] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:35:22] ==== loop 33/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:35:26] planet 53: building queue full (5)
+[10:35:26] planet 91: no resources for ship_colony_ship+1
+[10:35:26] planet 92: no resources for ship_colony_ship+1
+[10:35:26] planet 95: no resources for building_hangar+1
+[10:35:26] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:36:10] ==== loop 34/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:36:12] planet 53: building queue full (5)
+[10:36:12] planet 91: no resources for ship_colony_ship+1
+[10:36:12] planet 92: queued ship_colony_ship +1
+[10:36:12] planet 95: queued building_solar_plant to 3
+[10:36:12] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:36:50] ==== loop 35/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:36:51] planet 53: building queue full (5)
+[10:36:51] planet 91: queued building_deuterium_sintetizer to 1
+[10:36:51] planet 92: no resources for ship_heavy_fighter+5
+[10:36:51] planet 95: queued building_solar_plant to 4
+[10:36:51] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:37:28] ==== loop 36/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:37:30] planet 53: building queue full (5)
+[10:37:30] planet 92: no resources for ship_heavy_fighter+5
+[10:37:30] planet 91: queued building_solar_plant to 2
+[10:37:30] planet 95: queued building_robot_factory to 1
+[10:37:30] colonize: 1:57:9 -> 1:59:9 (eta 54s, fuel 329)
+[2026-05-13 10:38:08] ==== loop 37/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:38:10] planet 53: building queue full (5)
+[10:38:10] planet 92: no resources for ship_colony_ship+1
+[10:38:10] planet 91: no resources for ship_colony_ship+1
+[10:38:10] planet 95: no resources for building_hangar+1
+[10:38:10] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:38:51] ==== loop 38/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:38:53] planet 53: building queue full (5)
+[10:38:53] planet 91: no resources for ship_colony_ship+1
+[10:38:53] planet 92: no resources for ship_colony_ship+1
+[10:38:53] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:39:33] ==== loop 39/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:39:36] planet 53: building queue full (5)
+[10:39:36] planet 91: no resources for ship_colony_ship+1
+[10:39:36] planet 92: no resources for ship_colony_ship+1
+[10:39:36] planet 95: no resources for building_hangar+1
+[10:39:36] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:40:16] ==== loop 40/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:40:17] planet 53: building queue full (5)
+[10:40:17] planet 91: no resources for ship_colony_ship+1
+[10:40:17] planet 92: no resources for ship_colony_ship+1
+[10:40:17] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:40:57] ==== loop 41/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:41:00] planet 53: building queue full (5)
+[10:41:00] planet 91: no resources for ship_colony_ship+1
+[10:41:00] planet 92: no resources for ship_colony_ship+1
+[10:41:00] planet 95: no resources for building_hangar+1
+[2026-05-13 10:41:43] ==== loop 42/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:41:47] planet 53: building queue full (5)
+[10:41:47] planet 91: no resources for ship_colony_ship+1
+[10:41:47] planet 92: no resources for ship_colony_ship+1
+[10:41:47] planet 95: no resources for building_hangar+1
+[10:41:47] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:42:29] ==== loop 43/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:42:31] planet 53: building queue full (5)
+[10:42:31] planet 91: no resources for ship_colony_ship+1
+[10:42:31] planet 92: no resources for ship_colony_ship+1
+[10:42:31] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:43:15] ==== loop 44/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:43:19] planet 53: building queue full (5)
+[10:43:19] planet 91: no resources for ship_colony_ship+1
+[10:43:19] planet 92: no resources for ship_colony_ship+1
+[10:43:19] planet 95: queued building_hangar to 4
+[2026-05-13 10:44:01] ==== loop 45/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:44:04] planet 53: building queue full (5)
+[10:44:04] planet 91: no resources for ship_colony_ship+1
+[10:44:04] planet 92: no resources for ship_colony_ship+1
+[10:44:04] planet 95: no resources for ship_colony_ship+1
+[10:44:04] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:44:43] ==== loop 46/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:44:46] planet 53: building queue full (5)
+[10:44:46] planet 91: no resources for ship_colony_ship+1
+[10:44:46] planet 92: no resources for ship_colony_ship+1
+[10:44:46] planet 95: no resources for ship_colony_ship+1
+[10:44:46] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:45:32] ==== loop 47/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:45:33] planet 53: building queue full (5)
+[10:45:33] planet 91: no resources for ship_colony_ship+1
+[10:45:33] planet 92: no resources for ship_colony_ship+1
+[10:45:33] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:46:15] ==== loop 48/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:46:18] planet 53: building queue full (5)
+[10:46:18] planet 91: queued ship_colony_ship +1
+[10:46:18] planet 92: queued building_crystal_store to 1
+[10:46:18] planet 95: no resources for ship_light_fighter+5
+[2026-05-13 10:47:10] ==== loop 49/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:47:13] planet 53: building queue full (5)
+[10:47:13] planet 91: no resources for ship_small_cargo_ship+8
+[10:47:13] planet 92: queued building_crystal_store to 2
+[10:47:13] planet 95: no resources for ship_light_fighter+5
+[10:47:13] colonize: 1:56:9 -> 1:59:9 (eta 55s, fuel 339)
+[2026-05-13 10:47:56] ==== loop 50/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:47:58] planet 53: building queue full (5)
+[10:47:58] planet 91: no resources for ship_colony_ship+1
+[10:47:58] planet 92: no resources for ship_colony_ship+1
+[10:47:58] planet 95: no resources for ship_colony_ship+1
+[10:47:58] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:48:44] ==== loop 51/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:48:47] planet 53: building queue full (5)
+[10:48:47] planet 91: no resources for ship_colony_ship+1
+[10:48:47] planet 92: no resources for ship_colony_ship+1
+[10:48:47] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:49:36] ==== loop 52/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:49:39] planet 53: building queue full (5)
+[10:49:39] planet 91: no resources for ship_colony_ship+1
+[10:49:39] planet 92: no resources for ship_colony_ship+1
+[10:49:39] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 10:50:28] ==== loop 53/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:50:31] planet 53: building queue full (5)
+[10:50:31] planet 91: no resources for ship_colony_ship+1
+[10:50:31] planet 92: queued ship_colony_ship +1
+[10:50:31] planet 95: no resources for ship_battleship+5
+[2026-05-13 10:51:17] ==== loop 54/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:51:21] planet 53: building queue full (5)
+[10:51:21] planet 91: no resources for ship_light_fighter+5
+[10:51:21] planet 92: no resources for ship_light_fighter+5
+[10:51:21] planet 95: no resources for ship_battleship+5
+[2026-05-13 10:52:06] ==== loop 55/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:52:08] planet 53: building queue full (5)
+[10:52:08] planet 91: no resources for ship_light_fighter+5
+[10:52:08] planet 92: no resources for ship_light_fighter+5
+[10:52:08] planet 95: no resources for ship_battleship+5
+[2026-05-13 10:52:51] ==== loop 56/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:52:53] planet 53: building queue full (5)
+[10:52:53] planet 91: no resources for ship_light_fighter+5
+[10:52:53] planet 92: no resources for ship_light_fighter+5
+[10:52:53] planet 95: no resources for ship_battleship+5
+[10:52:53] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:53:34] ==== loop 57/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:53:38] planet 53: building queue full (5)
+[10:53:38] planet 91: no resources for ship_light_fighter+5
+[10:53:38] planet 92: queued ship_light_fighter +5
+[10:53:38] planet 95: no resources for ship_battleship+5
+[10:53:38] colonize: 1:57:9 -> 1:59:9 (eta 54s, fuel 329)
+[2026-05-13 10:54:23] ==== loop 58/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:54:26] planet 53: building queue full (5)
+[10:54:26] planet 91: no resources for ship_colony_ship+1
+[10:54:26] planet 92: no resources for ship_colony_ship+1
+[10:54:26] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 10:55:12] ==== loop 59/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:55:14] planet 53: building queue full (5)
+[10:55:14] planet 91: no resources for ship_colony_ship+1
+[10:55:14] planet 92: no resources for ship_colony_ship+1
+[10:55:14] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 10:55:58] ==== loop 60/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:56:01] planet 53: building queue full (5)
+[10:56:01] planet 91: no resources for ship_colony_ship+1
+[10:56:01] planet 92: no resources for ship_colony_ship+1
+[10:56:01] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 10:56:47] ==== loop 61/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:56:49] planet 53: building queue full (5)
+[10:56:49] planet 91: no resources for ship_colony_ship+1
+[10:56:49] planet 92: no resources for ship_colony_ship+1
+[2026-05-13 10:57:32] ==== loop 62/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:57:34] planet 53: building queue full (5)
+[10:57:34] planet 91: no resources for ship_colony_ship+1
+[10:57:34] planet 92: no resources for ship_colony_ship+1
+[10:57:34] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 10:58:15] ==== loop 63/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:58:18] planet 53: building queue full (5)
+[10:58:18] planet 91: no resources for ship_colony_ship+1
+[10:58:18] planet 92: no resources for ship_colony_ship+1
+[10:58:18] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 10:59:01] ==== loop 64/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:59:04] planet 53: building queue full (5)
+[10:59:04] planet 91: no resources for ship_colony_ship+1
+[10:59:04] planet 92: no resources for ship_colony_ship+1
+[10:59:04] planet 95: no resources for ship_colony_ship+1
+[10:59:04] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 10:59:50] ==== loop 65/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[10:59:53] planet 53: building queue full (5)
+[10:59:53] planet 91: no resources for ship_colony_ship+1
+[10:59:53] planet 92: no resources for ship_colony_ship+1
+[10:59:53] planet 95: no resources for ship_colony_ship+1
+[10:59:53] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:00:42] ==== loop 66/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:00:45] planet 53: building queue full (5)
+[11:00:45] planet 91: no resources for ship_colony_ship+1
+[11:00:45] planet 92: no resources for ship_colony_ship+1
+[11:00:45] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:01:27] ==== loop 67/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:01:30] planet 53: building queue full (5)
+[11:01:30] planet 91: no resources for ship_colony_ship+1
+[11:01:30] planet 92: no resources for ship_colony_ship+1
+[11:01:30] planet 95: no resources for ship_colony_ship+1
+[11:01:30] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:02:17] ==== loop 68/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:02:20] planet 53: building queue full (5)
+[11:02:20] planet 91: no resources for ship_colony_ship+1
+[11:02:20] planet 92: no resources for ship_colony_ship+1
+[11:02:20] planet 95: no resources for ship_colony_ship+1
+[11:02:20] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:03:08] ==== loop 69/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:03:10] planet 53: building queue full (5)
+[11:03:10] planet 91: no resources for ship_colony_ship+1
+[11:03:10] planet 92: no resources for ship_colony_ship+1
+[11:03:10] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:03:56] ==== loop 70/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:03:58] planet 53: building queue full (5)
+[11:03:58] planet 91: no resources for ship_colony_ship+1
+[11:03:58] planet 92: no resources for ship_colony_ship+1
+[2026-05-13 11:04:46] ==== loop 71/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:04:49] planet 53: building queue full (5)
+[11:04:49] planet 91: no resources for ship_colony_ship+1
+[11:04:49] planet 92: no resources for ship_colony_ship+1
+[11:04:49] planet 95: no resources for ship_colony_ship+1
+[11:04:49] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:05:34] ==== loop 72/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:05:37] planet 53: building queue full (5)
+[11:05:37] planet 91: no resources for ship_colony_ship+1
+[11:05:37] planet 92: no resources for ship_colony_ship+1
+[11:05:37] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:06:17] ==== loop 73/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:06:20] planet 53: building queue full (5)
+[11:06:20] planet 91: no resources for ship_colony_ship+1
+[11:06:20] planet 92: no resources for ship_colony_ship+1
+[11:06:20] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:07:04] ==== loop 74/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:07:07] planet 53: building queue full (5)
+[11:07:07] planet 91: no resources for ship_colony_ship+1
+[11:07:07] planet 92: no resources for ship_colony_ship+1
+[11:07:07] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:07:53] ==== loop 75/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:07:55] planet 53: building queue full (5)
+[11:07:55] planet 91: no resources for ship_colony_ship+1
+[11:07:55] planet 92: no resources for ship_colony_ship+1
+[11:07:55] planet 95: no resources for ship_colony_ship+1
+[11:07:55] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:08:44] ==== loop 76/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:08:47] planet 53: building queue full (5)
+[11:08:47] planet 91: no resources for ship_colony_ship+1
+[11:08:47] planet 92: no resources for ship_colony_ship+1
+[2026-05-13 11:09:34] ==== loop 77/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:09:35] planet 53: building queue full (5)
+[11:09:35] planet 91: no resources for ship_colony_ship+1
+[11:09:35] planet 92: no resources for ship_colony_ship+1
+[11:09:35] planet 95: no resources for ship_colony_ship+1
+[11:09:35] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:10:14] ==== loop 78/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:10:16] planet 53: building queue full (5)
+[11:10:16] planet 91: no resources for ship_colony_ship+1
+[11:10:16] planet 92: no resources for ship_colony_ship+1
+[11:10:16] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:11:03] ==== loop 79/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:11:06] planet 53: building queue full (5)
+[11:11:06] planet 91: no resources for ship_colony_ship+1
+[11:11:06] planet 92: no resources for ship_colony_ship+1
+[11:11:06] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:11:49] ==== loop 80/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:11:51] planet 53: building queue full (5)
+[11:11:51] planet 91: no resources for ship_colony_ship+1
+[11:11:51] planet 92: no resources for ship_colony_ship+1
+[11:11:51] planet 95: no resources for ship_colony_ship+1
+[11:11:51] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:12:29] ==== loop 81/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:12:31] planet 53: building queue full (5)
+[11:12:31] planet 91: no resources for ship_colony_ship+1
+[11:12:31] planet 92: no resources for ship_colony_ship+1
+[2026-05-13 11:13:14] ==== loop 82/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:13:16] planet 53: building queue full (5)
+[11:13:16] planet 91: no resources for ship_colony_ship+1
+[11:13:16] planet 92: no resources for ship_colony_ship+1
+[11:13:16] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:13:55] ==== loop 83/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:13:58] planet 53: building queue full (5)
+[11:13:58] planet 91: no resources for ship_colony_ship+1
+[11:13:58] planet 92: no resources for ship_colony_ship+1
+[11:13:58] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:14:37] ==== loop 84/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:14:40] planet 53: building queue full (5)
+[11:14:40] planet 91: no resources for ship_colony_ship+1
+[11:14:40] planet 92: no resources for ship_colony_ship+1
+[11:14:40] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:15:21] ==== loop 85/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:15:24] planet 53: building queue full (5)
+[11:15:24] planet 91: no resources for ship_colony_ship+1
+[11:15:24] planet 92: no resources for ship_colony_ship+1
+[11:15:24] planet 95: no resources for ship_colony_ship+1
+[11:15:24] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:16:05] ==== loop 86/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:16:08] planet 53: building queue full (5)
+[11:16:08] planet 91: no resources for ship_colony_ship+1
+[11:16:08] planet 92: no resources for ship_colony_ship+1
+[11:16:08] planet 95: no resources for ship_colony_ship+1
+[11:16:08] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:16:54] ==== loop 87/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:16:57] planet 53: building queue full (5)
+[11:16:57] planet 91: no resources for ship_colony_ship+1
+[11:16:57] planet 92: no resources for ship_colony_ship+1
+[11:16:57] planet 95: no resources for ship_colony_ship+1
+[11:16:57] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:17:41] ==== loop 88/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:17:44] planet 53: building queue full (5)
+[11:17:44] planet 91: no resources for ship_colony_ship+1
+[11:17:44] planet 92: no resources for ship_colony_ship+1
+[11:17:44] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:18:32] ==== loop 89/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:18:36] planet 53: building queue full (5)
+[11:18:36] planet 91: no resources for ship_colony_ship+1
+[11:18:36] planet 92: no resources for ship_colony_ship+1
+[11:18:36] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:19:20] ==== loop 90/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:19:22] planet 53: building queue full (5)
+[11:19:22] planet 91: no resources for ship_colony_ship+1
+[11:19:22] planet 92: no resources for ship_colony_ship+1
+[11:19:22] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:20:09] ==== loop 91/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:20:10] planet 53: building queue full (5)
+[11:20:10] planet 91: no resources for ship_colony_ship+1
+[11:20:10] planet 92: no resources for ship_colony_ship+1
+[11:20:10] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:20:54] ==== loop 92/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:20:57] planet 53: building queue full (5)
+[11:20:57] planet 91: no resources for ship_colony_ship+1
+[11:20:57] planet 92: no resources for ship_colony_ship+1
+[11:20:57] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:21:40] ==== loop 93/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:21:43] planet 53: building queue full (5)
+[11:21:43] planet 91: no resources for ship_colony_ship+1
+[11:21:43] planet 92: no resources for ship_colony_ship+1
+[11:21:43] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:22:20] ==== loop 94/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:22:23] planet 53: building queue full (5)
+[11:22:23] planet 91: no resources for ship_colony_ship+1
+[11:22:23] planet 92: no resources for ship_colony_ship+1
+[2026-05-13 11:23:05] ==== loop 95/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:23:07] planet 53: building queue full (5)
+[11:23:07] planet 91: no resources for ship_colony_ship+1
+[11:23:07] planet 92: no resources for ship_colony_ship+1
+[2026-05-13 11:23:50] ==== loop 96/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:23:53] planet 53: building queue full (5)
+[11:23:53] planet 91: no resources for ship_colony_ship+1
+[11:23:53] planet 92: no resources for ship_colony_ship+1
+[11:23:53] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:24:33] ==== loop 97/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:24:36] planet 53: building queue full (5)
+[11:24:36] planet 91: no resources for ship_colony_ship+1
+[11:24:36] planet 92: no resources for ship_colony_ship+1
+[11:24:36] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:25:20] ==== loop 98/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:25:23] planet 53: building queue full (5)
+[11:25:23] planet 91: no resources for ship_colony_ship+1
+[11:25:23] planet 92: no resources for ship_colony_ship+1
+[11:25:23] planet 95: no resources for ship_colony_ship+1
+[11:25:23] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:26:12] ==== loop 99/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:26:15] planet 53: building queue full (5)
+[11:26:15] planet 91: no resources for ship_colony_ship+1
+[11:26:15] planet 92: no resources for ship_colony_ship+1
+[11:26:15] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:26:58] ==== loop 100/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:27:02] planet 53: building queue full (5)
+[11:27:02] planet 91: no resources for ship_colony_ship+1
+[11:27:02] planet 92: no resources for ship_colony_ship+1
+[11:27:02] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:27:45] ==== loop 101/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:27:47] planet 53: building queue full (5)
+[11:27:47] planet 91: no resources for ship_colony_ship+1
+[11:27:47] planet 92: no resources for ship_colony_ship+1
+[11:27:47] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:28:33] ==== loop 102/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:28:35] planet 53: building queue full (5)
+[11:28:35] planet 91: no resources for ship_colony_ship+1
+[11:28:35] planet 92: no resources for ship_colony_ship+1
+[11:28:35] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:29:13] ==== loop 103/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:29:17] planet 53: building queue full (5)
+[11:29:17] planet 91: no resources for ship_colony_ship+1
+[11:29:17] planet 92: no resources for ship_colony_ship+1
+[11:29:17] planet 95: no resources for ship_colony_ship+1
+[11:29:17] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:29:57] ==== loop 104/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:29:59] planet 53: building queue full (5)
+[11:29:59] planet 91: no resources for ship_colony_ship+1
+[11:29:59] planet 92: no resources for ship_colony_ship+1
+[11:29:59] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:30:41] ==== loop 105/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:30:43] planet 53: building queue full (5)
+[11:30:43] planet 91: no resources for ship_colony_ship+1
+[11:30:43] planet 92: no resources for ship_colony_ship+1
+[2026-05-13 11:31:22] ==== loop 106/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:31:25] planet 53: building queue full (5)
+[11:31:25] planet 91: no resources for ship_colony_ship+1
+[11:31:25] planet 92: no resources for ship_colony_ship+1
+[11:31:25] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:32:07] ==== loop 107/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:32:10] planet 53: building queue full (5)
+[11:32:10] planet 91: no resources for ship_colony_ship+1
+[11:32:10] planet 92: no resources for ship_colony_ship+1
+[11:32:10] planet 95: no resources for ship_colony_ship+1
+[11:32:10] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:32:48] ==== loop 108/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:32:52] planet 53: building queue full (5)
+[11:32:52] planet 91: no resources for ship_colony_ship+1
+[11:32:52] planet 92: no resources for ship_colony_ship+1
+[11:32:52] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:33:33] ==== loop 109/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:33:35] planet 53: building queue full (5)
+[11:33:35] planet 91: no resources for ship_colony_ship+1
+[11:33:35] planet 92: no resources for ship_colony_ship+1
+[11:33:35] planet 95: no resources for ship_colony_ship+1
+[11:33:35] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:34:21] ==== loop 110/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:34:24] planet 53: building queue full (5)
+[11:34:24] planet 91: no resources for ship_colony_ship+1
+[11:34:24] planet 92: no resources for ship_colony_ship+1
+[11:34:24] planet 95: no resources for ship_colony_ship+1
+[11:34:24] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:35:04] ==== loop 111/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:35:07] planet 53: building queue full (5)
+[11:35:07] planet 91: no resources for ship_colony_ship+1
+[11:35:07] planet 92: no resources for ship_colony_ship+1
+[11:35:07] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:35:48] ==== loop 112/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:35:50] planet 53: building queue full (5)
+[11:35:50] planet 91: no resources for ship_colony_ship+1
+[11:35:50] planet 92: no resources for ship_colony_ship+1
+[11:35:50] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:36:27] ==== loop 113/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:36:30] planet 53: building queue full (5)
+[11:36:30] planet 91: no resources for ship_colony_ship+1
+[11:36:30] planet 92: no resources for ship_colony_ship+1
+[11:36:30] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:37:11] ==== loop 114/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:37:13] planet 53: building queue full (5)
+[11:37:13] planet 91: no resources for ship_colony_ship+1
+[11:37:13] planet 92: no resources for ship_colony_ship+1
+[11:37:13] planet 95: no resources for ship_colony_ship+1
+[11:37:13] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:37:55] ==== loop 115/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:37:58] planet 53: building queue full (5)
+[11:37:58] planet 91: no resources for ship_colony_ship+1
+[11:37:58] planet 92: no resources for ship_colony_ship+1
+[11:37:58] planet 95: no resources for ship_colony_ship+1
+[11:37:58] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:38:42] ==== loop 116/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:38:45] planet 53: building queue full (5)
+[11:38:45] planet 91: no resources for ship_colony_ship+1
+[11:38:45] planet 92: no resources for ship_colony_ship+1
+[11:38:45] planet 95: no resources for ship_colony_ship+1
+[11:38:45] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:39:30] ==== loop 117/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:39:32] planet 53: building queue full (5)
+[11:39:32] planet 91: no resources for ship_colony_ship+1
+[11:39:32] planet 92: no resources for ship_colony_ship+1
+[11:39:32] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:40:17] ==== loop 118/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:40:20] planet 53: building queue full (5)
+[11:40:20] planet 91: no resources for ship_colony_ship+1
+[11:40:20] planet 92: no resources for ship_colony_ship+1
+[11:40:20] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:41:00] ==== loop 119/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:41:04] planet 53: building queue full (5)
+[11:41:04] planet 91: no resources for ship_colony_ship+1
+[11:41:04] planet 92: no resources for ship_colony_ship+1
+[11:41:04] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:41:49] ==== loop 120/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:41:51] planet 53: building queue full (5)
+[11:41:51] planet 91: no resources for ship_colony_ship+1
+[11:41:51] planet 92: no resources for ship_colony_ship+1
+[11:41:51] planet 95: no resources for ship_colony_ship+1
+[11:41:51] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:42:42] ==== loop 121/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:42:44] planet 53: building queue full (5)
+[11:42:44] planet 91: no resources for ship_colony_ship+1
+[11:42:44] planet 92: no resources for ship_colony_ship+1
+[2026-05-13 11:43:27] ==== loop 122/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:43:29] planet 53: building queue full (5)
+[11:43:29] planet 91: no resources for ship_colony_ship+1
+[11:43:29] planet 92: no resources for ship_colony_ship+1
+[2026-05-13 11:44:17] ==== loop 123/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:44:19] planet 53: building queue full (5)
+[11:44:19] planet 91: no resources for ship_colony_ship+1
+[11:44:19] planet 92: no resources for ship_colony_ship+1
+[11:44:19] planet 95: no resources for ship_colony_ship+1
+[11:44:19] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:45:05] ==== loop 124/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:45:07] planet 53: building queue full (5)
+[11:45:07] planet 91: no resources for ship_colony_ship+1
+[11:45:07] planet 92: no resources for ship_colony_ship+1
+[2026-05-13 11:45:50] ==== loop 125/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:45:53] planet 53: building queue full (5)
+[11:45:53] planet 91: no resources for ship_colony_ship+1
+[11:45:53] planet 92: no resources for ship_colony_ship+1
+[11:45:53] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:46:34] ==== loop 126/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:46:36] planet 53: building queue full (5)
+[11:46:36] planet 91: no resources for ship_colony_ship+1
+[11:46:36] planet 92: no resources for ship_colony_ship+1
+[11:46:36] planet 95: no resources for ship_colony_ship+1
+[11:46:36] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:47:24] ==== loop 127/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:47:27] planet 53: building queue full (5)
+[11:47:27] planet 92: no resources for ship_colony_ship+1
+[11:47:27] planet 91: no resources for ship_colony_ship+1
+[11:47:27] planet 95: no resources for ship_colony_ship+1
+[11:47:27] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:48:09] ==== loop 128/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:48:10] planet 53: building queue full (5)
+[11:48:10] planet 92: no resources for ship_colony_ship+1
+[11:48:10] planet 91: no resources for ship_colony_ship+1
+[11:48:10] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:48:57] ==== loop 129/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:48:58] planet 53: building queue full (5)
+[11:48:58] planet 92: no resources for ship_colony_ship+1
+[11:48:58] planet 91: no resources for ship_colony_ship+1
+[11:48:58] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:49:49] ==== loop 130/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:49:52] planet 53: building queue full (5)
+[11:49:52] planet 92: no resources for ship_colony_ship+1
+[11:49:52] planet 91: no resources for ship_colony_ship+1
+[11:49:52] planet 95: no resources for ship_colony_ship+1
+[11:49:52] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:50:37] ==== loop 131/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:50:39] planet 53: building queue full (5)
+[11:50:39] planet 92: no resources for ship_colony_ship+1
+[11:50:39] planet 91: no resources for ship_colony_ship+1
+[11:50:39] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:51:26] ==== loop 132/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:51:28] planet 53: building queue full (5)
+[11:51:28] planet 92: no resources for ship_colony_ship+1
+[11:51:28] planet 91: no resources for ship_colony_ship+1
+[11:51:28] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:52:14] ==== loop 133/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:52:16] planet 53: building queue full (5)
+[11:52:16] planet 92: no resources for ship_colony_ship+1
+[11:52:16] planet 91: no resources for ship_colony_ship+1
+[11:52:16] planet 95: no resources for ship_colony_ship+1
+[11:52:16] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:53:01] ==== loop 134/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:53:03] planet 53: building queue full (5)
+[11:53:03] planet 92: no resources for ship_colony_ship+1
+[11:53:03] planet 91: no resources for ship_colony_ship+1
+[11:53:03] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:53:45] ==== loop 135/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:53:47] planet 53: building queue full (5)
+[11:53:47] planet 92: no resources for ship_colony_ship+1
+[11:53:47] planet 91: no resources for ship_colony_ship+1
+[11:53:47] planet 95: no resources for ship_colony_ship+1
+[11:53:47] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:54:26] ==== loop 136/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:54:27] planet 53: building queue full (5)
+[11:54:27] planet 92: no resources for ship_colony_ship+1
+[11:54:27] planet 91: no resources for ship_colony_ship+1
+[11:54:27] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:55:06] ==== loop 137/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:55:08] planet 53: building queue full (5)
+[11:55:08] planet 92: no resources for ship_colony_ship+1
+[11:55:08] planet 91: no resources for ship_colony_ship+1
+[11:55:08] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:55:58] ==== loop 138/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:56:01] planet 53: building queue full (5)
+[11:56:01] planet 92: no resources for ship_colony_ship+1
+[11:56:01] planet 91: no resources for ship_colony_ship+1
+[11:56:01] planet 95: no resources for ship_colony_ship+1
+[11:56:01] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:56:42] ==== loop 139/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:56:44] planet 53: building queue full (5)
+[11:56:44] planet 92: no resources for ship_colony_ship+1
+[11:56:44] planet 91: no resources for ship_colony_ship+1
+[11:56:44] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 11:57:32] ==== loop 140/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:57:35] planet 53: building queue full (5)
+[11:57:35] planet 92: no resources for ship_colony_ship+1
+[11:57:35] planet 91: no resources for ship_colony_ship+1
+[2026-05-13 11:58:15] ==== loop 141/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:58:17] planet 53: building queue full (5)
+[11:58:17] planet 92: no resources for ship_colony_ship+1
+[11:58:17] planet 91: no resources for ship_colony_ship+1
+[11:58:17] planet 95: no resources for ship_colony_ship+1
+[11:58:17] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 11:58:58] ==== loop 142/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:59:00] planet 53: building queue full (5)
+[11:59:00] planet 92: no resources for ship_colony_ship+1
+[11:59:00] planet 91: no resources for ship_colony_ship+1
+[2026-05-13 11:59:39] ==== loop 143/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[11:59:41] planet 53: building queue full (5)
+[11:59:41] planet 92: no resources for ship_colony_ship+1
+[11:59:41] planet 91: no resources for ship_colony_ship+1
+[11:59:41] planet 95: no resources for ship_colony_ship+1
+[11:59:41] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 12:00:25] ==== loop 144/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:00:28] planet 53: building queue full (5)
+[12:00:28] planet 92: no resources for ship_colony_ship+1
+[12:00:28] planet 91: no resources for ship_colony_ship+1
+[12:00:28] planet 95: no resources for ship_colony_ship+1
+[12:00:28] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 12:01:12] ==== loop 145/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:01:15] planet 53: building queue full (5)
+[12:01:15] planet 92: no resources for ship_colony_ship+1
+[12:01:15] planet 91: no resources for ship_colony_ship+1
+[12:01:15] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 12:01:56] ==== loop 146/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:01:59] planet 53: building queue full (5)
+[12:01:59] planet 92: no resources for ship_colony_ship+1
+[12:01:59] planet 91: no resources for ship_colony_ship+1
+[12:01:59] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 12:02:44] ==== loop 147/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:02:46] planet 53: building queue full (5)
+[12:02:46] planet 92: no resources for ship_colony_ship+1
+[12:02:46] planet 91: no resources for ship_colony_ship+1
+[12:02:46] planet 95: no resources for ship_colony_ship+1
+[12:02:46] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 12:03:32] ==== loop 148/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:03:34] planet 53: building queue full (5)
+[12:03:34] planet 92: no resources for ship_colony_ship+1
+[12:03:34] planet 91: no resources for ship_colony_ship+1
+[12:03:34] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 12:04:20] ==== loop 149/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:04:23] planet 53: building queue full (5)
+[12:04:23] planet 92: no resources for ship_colony_ship+1
+[12:04:23] planet 91: no resources for ship_colony_ship+1
+[2026-05-13 12:05:07] ==== loop 150/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:05:08] planet 53: building queue full (5)
+[12:05:08] planet 92: no resources for ship_colony_ship+1
+[12:05:08] planet 91: no resources for ship_colony_ship+1
+[12:05:08] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 12:05:57] ==== loop 151/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:05:59] planet 53: building queue full (5)
+[12:05:59] planet 92: no resources for ship_colony_ship+1
+[12:05:59] planet 91: no resources for ship_colony_ship+1
+[12:05:59] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 12:06:46] ==== loop 152/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:06:49] planet 53: building queue full (5)
+[12:06:49] planet 92: no resources for ship_colony_ship+1
+[12:06:49] planet 91: no resources for ship_colony_ship+1
+[12:06:49] planet 95: no resources for ship_colony_ship+1
+[12:06:49] research: blocked research_weapons_technology (building_laboratory 3/4)
+[2026-05-13 12:07:34] ==== loop 153/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:07:37] planet 53: building queue full (5)
+[12:07:37] planet 92: no resources for ship_colony_ship+1
+[12:07:37] planet 91: no resources for ship_colony_ship+1
+[2026-05-13 12:08:29] ==== loop 154/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:08:32] planet 53: building queue full (5)
+[12:08:32] planet 92: no resources for ship_colony_ship+1
+[12:08:32] planet 91: no resources for ship_colony_ship+1
+[12:08:32] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 12:09:20] ==== loop 155/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:09:23] planet 53: building queue full (5)
+[12:09:23] planet 92: no resources for ship_colony_ship+1
+[12:09:23] planet 91: no resources for ship_colony_ship+1
+[12:09:23] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 12:10:04] ==== loop 156/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:10:05] planet 53: building queue full (5)
+[12:10:05] planet 92: no resources for ship_colony_ship+1
+[12:10:05] planet 91: no resources for ship_colony_ship+1
+[12:10:05] planet 95: no resources for ship_colony_ship+1
+[2026-05-13 12:10:51] ==== loop 157/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:10:53] planet 53: building queue full (5)
+[12:10:53] planet 92: no resources for ship_colony_ship+1
+[12:10:53] planet 91: no resources for ship_colony_ship+1
+[2026-05-13 12:11:38] ==== loop 158/∞ | seed=968175026105938324 archetype=turbo personality=flotero focus=mil actions_per_loop=1 ====
+[12:11:40] planet 53: building queue full (5)
+[12:11:40] planet 92: no resources for ship_colony_ship+1
+[12:11:40] planet 91: no resources for ship_colony_ship+1
+[12:11:40] planet 95: no resources for ship_colony_ship+1
+[12:11:40] research: blocked research_weapons_technology (building_laboratory 3/4)

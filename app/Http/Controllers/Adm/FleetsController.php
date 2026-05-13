@@ -209,7 +209,7 @@ class FleetsController extends BaseController
      * Build the fleet objective coords block
      *
      * @param array $fleet
-     * @return void
+     * @return array
      */
     private function buildObjectiveBlock(array $fleet): array
     {

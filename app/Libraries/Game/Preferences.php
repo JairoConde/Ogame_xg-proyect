@@ -40,7 +40,7 @@ class Preferences
     /**
      * Return current preference data
      *
-     * @return \PreferencesEntity
+     * @return PreferencesEntity
      */
     public function getCurrentPreference(): PreferencesEntity
     {
@@ -54,7 +54,7 @@ class Preferences
      */
     public function isOwner(): bool
     {
-        return ($this->getCurrentPreference()->getPreferenceOwner() === $this->getUserId());
+        return $this->getCurrentPreference()->getPreferenceOwner() === $this->getUserId();
     }
 
     /**
@@ -64,7 +64,7 @@ class Preferences
      */
     public function isNickNameChangeAllowed(): bool
     {
-        return (($this->getCurrentPreference()->getPreferenceNicknameChange() + ONE_WEEK) < time());
+        return ($this->getCurrentPreference()->getPreferenceNicknameChange() + ONE_WEEK) < time();
     }
 
     /**
@@ -74,7 +74,7 @@ class Preferences
      */
     public function isVacationModeOn(): bool
     {
-        return ($this->getCurrentPreference()->getPreferenceVacationMode() > 0);
+        return $this->getCurrentPreference()->getPreferenceVacationMode() > 0;
     }
 
     /**
@@ -84,7 +84,7 @@ class Preferences
      */
     public function isVacationModeRemovalAllowed(): bool
     {
-        return (($this->getCurrentPreference()->getPreferenceVacationMode() + ONE_DAY * 2) < time());
+        return ($this->getCurrentPreference()->getPreferenceVacationMode() + ONE_DAY * 2) < time();
     }
 
     /**
@@ -94,7 +94,7 @@ class Preferences
      *
      * @return void
      */
-    private function setUp($preferences): void
+    private function setUp(array $preferences): void
     {
         foreach ($preferences as $preference) {
             $this->preferences[] = $this->createNewPreferencesEntity($preference);
@@ -108,7 +108,7 @@ class Preferences
      *
      * @return void
      */
-    private function setUserId($user_id): void
+    private function setUserId(int $user_id): void
     {
         $this->current_user_id = $user_id;
     }
@@ -128,9 +128,9 @@ class Preferences
      *
      * @param array $preference Preference
      *
-     * @return \PreferencesEntity
+     * @return PreferencesEntity
      */
-    private function createNewPreferencesEntity($preference)
+    private function createNewPreferencesEntity(array $preference): PreferencesEntity
     {
         return new PreferencesEntity($preference);
     }

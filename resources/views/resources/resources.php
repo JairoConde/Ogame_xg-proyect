@@ -27,6 +27,12 @@
                     <td class="k">{plasma_deuterium}</td>
                     <td class="k">0</td>
                 </tr><tr>
+                    <th height="22">{rs_mining_drill_bonus} ({rs_amount} {mining_drill_level})</th>
+                    <td class="k">{mining_drill_metal}</td>
+                    <td class="k">{mining_drill_crystal}</td>
+                    <td class="k">{mining_drill_deuterium}</td>
+                    <td class="k">0</td>
+                </tr><tr>
                     <th height="22">{rs_storage_capacity}</th>
                     <td class="k">{planet_metal_max}</td>
                     <td class="k">{planet_crystal_max}</td>

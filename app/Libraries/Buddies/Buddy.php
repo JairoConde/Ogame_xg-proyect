@@ -10,7 +10,7 @@ class Buddy
     private array $_buddies = [];
     private int $_current_user_id = 0;
 
-    public function __construct($buddies, $current_user_id)
+    public function __construct(array $buddies, int $current_user_id)
     {
         if (is_array($buddies)) {
             $this->setUp($buddies);
@@ -23,7 +23,7 @@ class Buddy
      *
      * @return array
      */
-    public function getSentRequests()
+    public function getSentRequests(): array
     {
         $list_of_buddies = [];
 
@@ -43,7 +43,7 @@ class Buddy
      *
      * @return array
      */
-    public function getReceivedRequests()
+    public function getReceivedRequests(): array
     {
         $list_of_buddies = [];
 
@@ -63,7 +63,7 @@ class Buddy
      *
      * @return array
      */
-    public function getBuddies()
+    public function getBuddies(): array
     {
         $list_of_buddies = [];
 
@@ -83,9 +83,9 @@ class Buddy
      *
      * @return boolean
      */
-    private function isBuddy(BuddyEntity $buddy)
+    private function isBuddy(BuddyEntity $buddy): bool
     {
-        return ($buddy->getBuddyStatus() == BuddiesStatus::isBuddy);
+        return $buddy->getBuddyStatus() == BuddiesStatus::isBuddy;
     }
 
     /**
@@ -95,9 +95,9 @@ class Buddy
      *
      * @return boolean
      */
-    private function isOwnRequest(BuddyEntity $buddy)
+    private function isOwnRequest(BuddyEntity $buddy): bool
     {
-        return ($buddy->getBuddySender() == $this->getUserId());
+        return $buddy->getBuddySender() == $this->getUserId();
     }
 
     /**
@@ -107,7 +107,7 @@ class Buddy
      *
      * @return void
      */
-    private function setUp($buddies)
+    private function setUp(array $buddies): void
     {
         foreach ($buddies as $buddy) {
             $this->_buddies[] = $this->createNewBuddyEntity($buddy);
@@ -118,7 +118,7 @@ class Buddy
      *
      * @param int $user_id User Id
      */
-    private function setUserId($user_id)
+    private function setUserId(int $user_id): void
     {
         $this->_current_user_id = $user_id;
     }
@@ -127,7 +127,7 @@ class Buddy
      *
      * @return int
      */
-    private function getUserId()
+    private function getUserId(): int
     {
         return $this->_current_user_id;
     }
@@ -137,9 +137,9 @@ class Buddy
      *
      * @param array $buddy Buddy
      *
-     * @return \BuddyEntity
+     * @return BuddyEntity
      */
-    private function createNewBuddyEntity($buddy)
+    private function createNewBuddyEntity(array $buddy): BuddyEntity
     {
         return new BuddyEntity($buddy);
     }

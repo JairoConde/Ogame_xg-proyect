@@ -20,4 +20,5 @@
         </tr>
     </table>
     {leave}
+    {diplomacy}
 </div>

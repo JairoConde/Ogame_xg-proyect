@@ -16,13 +16,13 @@ class SecurePageLib
         $_COOKIE = array_map([$this, 'validate'], $_COOKIE);
     }
 
-    private function validate($value)
+    private function validate($value): mixed
     {
         if (!is_array($value)) {
             $value = str_ireplace('script', 'blocked', $value);
 
             if (version_compare(PHP_VERSION, '7.4.0', '<')) {
-                if (get_magic_quotes_gpc()) {
+                if (false) {
                     $value = htmlentities(stripslashes($value), ENT_QUOTES, 'UTF-8', false);
                 } else {
                     $value = htmlentities($value, ENT_QUOTES, 'UTF-8', false);

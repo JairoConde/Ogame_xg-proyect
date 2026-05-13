@@ -68,7 +68,7 @@ class BBCodeLib
         return '';
     }
 
-    private function setList(mixed $string): string
+    private function setList(string $string): string
     {
         $tmp = explode('[*]', stripslashes($string));
         $out = null;
@@ -151,7 +151,7 @@ class BBCodeLib
         return '<span style="font-size:' . $size . 'px">' . stripslashes($text) . '</span>';
     }
 
-    private function setCoordinates($galaxy, $system, $planet)
+    private function setCoordinates($galaxy, $system, $planet): string
     {
         return FormatLib::prettyCoords($galaxy, $system, $planet);
     }

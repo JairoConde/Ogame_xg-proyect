@@ -11,7 +11,7 @@ class FormatLib
     /**
      * Convert or format a time in seconds to its string representation. Ex.: weeks, days, hours, minutes, seconds
      *
-     * @param int $input_seconds
+     * @param float $input_seconds
      *
      * @return string
      */
@@ -26,19 +26,19 @@ class FormatLib
         $weeks = floor($input_seconds / $sec_week);
 
         // Extract days
-        $daysSeconds = (int)$input_seconds % $sec_week;
+        $daysSeconds = (int) $input_seconds % $sec_week;
         $days = floor($daysSeconds / $sec_day);
 
         // Extract hours
-        $hourSeconds = (int)$input_seconds % $sec_day;
+        $hourSeconds = (int) $input_seconds % $sec_day;
         $hours = floor($hourSeconds / $sec_hour);
 
         // Extract minutes
-        $minuteSeconds = (int)$hourSeconds % $sec_hour;
+        $minuteSeconds = (int) $hourSeconds % $sec_hour;
         $minutes = floor($minuteSeconds / $sec_min);
 
         // Extract the remaining seconds
-        $remainingSeconds = (int)$minuteSeconds % $sec_min;
+        $remainingSeconds = (int) $minuteSeconds % $sec_min;
         $seconds = ceil($remainingSeconds);
 
         // Format and return
@@ -57,6 +57,10 @@ class FormatLib
             }
         }
 
+        if (empty($timeParts)) {
+            return '0s';
+        }
+
         return implode(' ', $timeParts);
     }
 
@@ -67,7 +71,7 @@ class FormatLib
      *
      * @return string
      */
-    public static function prettyTimeHour($seconds)
+    public static function prettyTimeHour(int $seconds): string
     {
         $min = floor(intval($seconds / 60) % 60);
         $time = '';
@@ -79,7 +83,7 @@ class FormatLib
         return $time;
     }
 
-    public static function prettyTimeAgo(string $datetime, $full = false): string
+    public static function prettyTimeAgo(string $datetime, bool $full = false): string
     {
         $now = new DateTime();
         $ago = new DateTime($datetime);
@@ -128,19 +132,21 @@ class FormatLib
      *
      * @return string
      */
-    public static function colorNumber($n, $s = '')
+    public static function colorNumber(int|string $n, string $s = ''): string
     {
-        if ($n >= 0) {
+        $number = (int) $n;
+
+        if ($number >= 0) {
             if ($s != '') {
                 $s = self::colorGreen($s);
             } else {
-                $s = self::colorGreen($n);
+                $s = self::colorGreen(self::prettyNumber($number));
             }
-        } elseif ($n < 0) {
+        } elseif ($number < 0) {
             if ($s != '') {
                 $s = self::colorRed($s);
             } else {
-                $s = self::colorRed($n);
+                $s = self::colorRed(self::prettyNumber($number));
             }
         } else {
             if ($s != '') {
@@ -160,7 +166,7 @@ class FormatLib
      *
      * @return string
      */
-    public static function colorRed($string)
+    public static function colorRed(string $string): string
     {
         return '<font color="#ff0000">' . $string . '</font>';
     }
@@ -172,7 +178,7 @@ class FormatLib
      *
      * @return string
      */
-    public static function colorGreen($string)
+    public static function colorGreen(string $string): string
     {
         return '<font color="#00ff00">' . $string . '</font>';
     }
@@ -185,7 +191,7 @@ class FormatLib
      *
      * @return string
      */
-    public static function customColor($string, $color)
+    public static function customColor(string $string, string $color): string
     {
         return '<font color="' . $color . '">' . $string . '</font>';
     }
@@ -210,10 +216,10 @@ class FormatLib
      *
      * @return string
      */
-    public static function prettyNumber($n, $floor = true)
+    public static function prettyNumber($n, bool $floor = true): string
     {
         if ($floor) {
-            $n = floor($n ?? 0.0);
+            $n = floor($n);
         }
 
         return number_format($n, 0, ',', '.');
@@ -226,7 +232,7 @@ class FormatLib
      *
      * @return string
      */
-    public static function shortlyNumber($number)
+    public static function shortlyNumber($number): string
     {
         // MAS DEL TRILLON
         if ($number >= 1000000000000000000000000) {
@@ -253,7 +259,7 @@ class FormatLib
      *
      * @return string
      */
-    public static function floatToString($numeric, $pro = 0, $output = false)
+    public static function floatToString($numeric, int $pro = 0, bool $output = false): string
     {
         return ($output) ? str_replace(
             ',',
@@ -268,9 +274,9 @@ class FormatLib
      * @param int $value     Value
      * @param int $precision Precision
      *
-     * @return int
+     * @return float
      */
-    public static function roundUp($value, $precision = 0)
+    public static function roundUp($value, int $precision = 0): float
     {
         if ($precision == 0) {
             $precisionFactor = 1;
@@ -309,7 +315,7 @@ class FormatLib
      *
      * @return string
      */
-    public static function strongText($value)
+    public static function strongText(string $value): string
     {
         return '<strong>' . $value . '</strong>';
     }
@@ -321,9 +327,9 @@ class FormatLib
      * @param int     $precision Precision
      * @param boolean $bitwise   Bitwise Arithmetic
      *
-     * @return int
+     * @return string
      */
-    public static function prettyBytes($bytes, $precision = 2, $bitwise = false)
+    public static function prettyBytes($bytes, int $precision = 2, bool $bitwise = false): string
     {
         $units = ['Bytes', 'KB', 'MB', 'GB', 'TB'];
 
@@ -364,9 +370,7 @@ class FormatLib
     /**
      * Format the level
      *
-     * @param string $object
-     * @param string $lvl_string
-     * @param int $level
+     * @param string $level
      *
      * @return string
      */

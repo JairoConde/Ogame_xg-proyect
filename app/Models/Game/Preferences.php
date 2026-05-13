@@ -28,7 +28,7 @@ class Preferences extends Model
     /**
      * Check if the nickname exists
      *
-     * @param string $user_name
+     * @param string $nickname
      * @return array
      */
     public function checkIfNicknameExists(string $nickname): array
@@ -117,7 +117,7 @@ class Preferences extends Model
                 ) as total"
             );
 
-            return ($activity['total'] > 0);
+            return $activity['total'] > 0;
         }
 
         return false;

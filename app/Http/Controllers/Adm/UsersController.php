@@ -123,26 +123,32 @@ class UsersController extends BaseController
             case '':
             default:
                 return $this->getDataInfo();
+
                 break;
 
             case 'settings':
                 return $this->getDataSettings();
+
                 break;
 
             case 'research':
                 return $this->getDataResearch();
+
                 break;
 
             case 'premium':
                 return $this->getDataPremium();
+
                 break;
 
             case 'planets':
                 return $this->getDataPlanets();
+
                 break;
 
             case 'moons':
                 return $this->getDataMoons();
+
                 break;
         }
     }
@@ -152,25 +158,29 @@ class UsersController extends BaseController
      * param $type
      * return save data for the current type
      */
-    private function saveData($type)
+    private function saveData($type): void
     {
         switch ($type) {
             case 'info':
             case '':
             default:
                 $this->saveInfo();
+
                 break;
 
             case 'settings':
                 $this->saveSettings();
+
                 break;
 
             case 'research':
                 $this->saveResearch();
+
                 break;
 
             case 'premium':
                 $this->savePremium();
+
                 break;
 
             case 'planets':
@@ -179,18 +189,22 @@ class UsersController extends BaseController
                     case 'planet':
                     default:
                         $this->savePlanet(1);
+
                         break;
 
                     case 'buildings':
                         $this->saveBuildings(1);
+
                         break;
 
                     case 'ships':
                         $this->saveShips(1);
+
                         break;
 
                     case 'defenses':
                         $this->saveDefenses(1);
+
                         break;
                 }
 
@@ -202,18 +216,22 @@ class UsersController extends BaseController
                     case 'moon':
                     default:
                         $this->savePlanet(3);
+
                         break;
 
                     case 'buildings':
                         $this->saveBuildings(3);
+
                         break;
 
                     case 'ships':
                         $this->saveShips(3);
+
                         break;
 
                     case 'defenses':
                         $this->saveDefenses(3);
+
                         break;
                 }
 
@@ -228,7 +246,7 @@ class UsersController extends BaseController
      *
      * @return void
      */
-    private function deleteData($type)
+    private function deleteData($type): void
     {
         switch ($type) {
             case 'planet':
@@ -248,7 +266,7 @@ class UsersController extends BaseController
      * param
      * return refresh the page
      */
-    private function refreshPage()
+    private function refreshPage(): void
     {
         // SET PARAMS
         $page = (isset($_GET['page']) ? '?page=' . $_GET['page'] : '');
@@ -267,7 +285,7 @@ class UsersController extends BaseController
     /**
      * return the information page for the current user
      *
-     * @return void
+     * @return string
      */
     private function getDataInfo(): string
     {
@@ -350,38 +368,45 @@ class UsersController extends BaseController
         $planets_query = $this->usersModel->getAllPlanetsData($this->_id, $this->_planet, $this->_edit);
         $parse = $this->langs->language;
         $parse['planets'] = str_replace('%s', $this->_user_query['user_name'], $this->langs->line('us_user_planets'));
+        $view = '';
 
         // CHOOSE THE ACTION
         switch (true) {
-            case ($this->_edit == 'planet' && $planets_query):
-                $parse += $this->editMain($planets_query[0]);
+            case $this->_edit == 'planet' && $planets_query:
+                $parse += (array) $this->editMain($planets_query[0]);
                 $view = 'adm/users_planets_main_view';
+
                 break;
 
-            case ($this->_edit == 'buildings' && $planets_query):
+            case $this->_edit == 'buildings' && $planets_query:
                 $parse['buildings_list'] = $this->editBuildings($planets_query[0], 1);
                 $view = 'adm/users_planets_buildings_view';
+
                 break;
 
-            case ($this->_edit == 'ships' && $planets_query):
+            case $this->_edit == 'ships' && $planets_query:
                 $parse['ships_list'] = $this->editShips($planets_query[0]);
                 $view = 'adm/users_planets_ships_view';
+
                 break;
 
-            case ($this->_edit == 'defenses' && $planets_query):
+            case $this->_edit == 'defenses' && $planets_query:
                 $parse['defenses_list'] = $this->editDefenses($planets_query[0], 1);
                 $view = 'adm/users_planets_defenses_view';
+
                 break;
 
-            case ($this->_edit == 'delete'):
+            case $this->_edit == 'delete':
                 $this->usersModel->softDeletePlanetById($this->_planet);
                 $this->refreshPage();
+
                 break;
 
             case '':
             default:
                 $parse['planets_list'] = $this->planetsTable($planets_query);
                 $view = 'adm/users_planets_view';
+
                 break;
         } // SWITCH
 
@@ -400,38 +425,45 @@ class UsersController extends BaseController
         $moons_query = $this->usersModel->getAllMoonsData($this->_id, $this->_moon, $this->_edit);
         $parse = $this->langs->language;
         $parse['moons'] = str_replace('%s', $this->_user_query['user_name'], $this->langs->line('us_user_moons'));
+        $view = '';
 
         // CHOOSE THE ACTION
         switch (true) {
-            case ($this->_edit == 'moon' && $moons_query):
-                $parse += $this->editMain($moons_query[0]);
+            case $this->_edit == 'moon' && $moons_query:
+                $parse += (array) $this->editMain($moons_query[0]);
                 $view = 'adm/users_moons_main_view';
+
                 break;
 
-            case ($this->_edit == 'buildings' && $moons_query):
+            case $this->_edit == 'buildings' && $moons_query:
                 $parse['buildings_list'] = $this->editBuildings($moons_query[0], 3);
                 $view = 'adm/users_planets_buildings_view';
+
                 break;
 
-            case ($this->_edit == 'ships' && $moons_query):
+            case $this->_edit == 'ships' && $moons_query:
                 $parse['ships_list'] = $this->editShips($moons_query[0]);
                 $view = 'adm/users_planets_ships_view';
+
                 break;
 
-            case ($this->_edit == 'defenses' && $moons_query):
+            case $this->_edit == 'defenses' && $moons_query:
                 $parse['defenses_list'] = $this->editDefenses($moons_query[0], 3);
                 $view = 'adm/users_planets_defenses_view';
+
                 break;
 
-            case ($this->_edit == 'delete'):
+            case $this->_edit == 'delete':
                 $this->usersModel->softDeleteMoonById($this->_moon);
                 $this->refreshPage();
+
                 break;
 
             case '':
             default:
                 $parse['moons_list'] = $this->moonsTable($moons_query);
                 $view = 'adm/users_moons_view';
+
                 break;
         } // SWITCH
 
@@ -450,7 +482,7 @@ class UsersController extends BaseController
      * param
      * return save information for the current user
      */
-    private function saveInfo()
+    private function saveInfo(): void
     {
         $username = isset($_POST['username']) ? $_POST['username'] : '';
         $password = isset($_POST['password']) ? $_POST['password'] : '';
@@ -526,7 +558,7 @@ class UsersController extends BaseController
      * param
      * return save settings for the current user
      */
-    private function saveSettings()
+    private function saveSettings(): void
     {
         $this->usersModel->saveUserPreferences($_POST, $this->_id, $this->_user_query);
 
@@ -596,7 +628,7 @@ class UsersController extends BaseController
      *
      * @return void
      */
-    private function saveBuildings($type = 1)
+    private function saveBuildings(int $type = 1): void
     {
         $id_get = $this->_planet;
 
@@ -619,7 +651,7 @@ class UsersController extends BaseController
      * param $type
      * return save ships for the current planet
      */
-    private function saveShips($type = 1)
+    private function saveShips($type = 1): void
     {
         $id_get = $this->_planet;
 
@@ -642,7 +674,7 @@ class UsersController extends BaseController
      * param $type
      * return save defenses for the current planet
      */
-    private function saveDefenses($type = 1)
+    private function saveDefenses($type = 1): void
     {
         $id_get = $this->_planet;
 
@@ -741,15 +773,19 @@ class UsersController extends BaseController
                 switch ($value['pt']) {
                     case 1:
                         $shortcut['description'] .= $this->langs->line('us_planet_shortcut');
+
                         break;
                     case 2:
                         $shortcut['description'] .= $this->langs->line('us_debris_shortcut');
+
                         break;
                     case 3:
                         $shortcut['description'] .= $this->langs->line('us_moon_shortcut');
+
                         break;
                     default:
                         $shortcut['description'] .= '';
+
                         break;
                 }
 
@@ -759,6 +795,7 @@ class UsersController extends BaseController
                 $shortcut['title'] = $shortcut['description'];
                 $shortcuts .= '<option value="' . $shortcut['value'] . '"' . $shortcut['selected'] . '>' . $shortcut['title'] . '</option>';
             }
+
             return $shortcuts;
         } else {
             return '<option value="">-</option>';
@@ -864,7 +901,7 @@ class UsersController extends BaseController
                 if ($queue[3] <= time()) {
                     $ready = 'OK';
                 } else {
-                    $ready = date('i:s', $queue[3] - time());
+                    $ready = date('i:s', (int) $queue[3] - time());
                 }
 
                 $queue_list .= "<option value=\"{$queue[0]}\">" . $this->langs->language['tech'][$queue[0]] . ' (' . $queue[1] . '^) (' . date('i:s', $queue[2]) . ') (' . $ready . ') [' . $queue[4] . '] </option>';
@@ -1058,7 +1095,7 @@ class UsersController extends BaseController
      * @param array $planets_data
      * @return void
      */
-    private function editMain($planets_data)
+    private function editMain(array $planets_data)
     {
         $parse = $this->langs->language;
         $parse += $planets_data;
@@ -1091,7 +1128,7 @@ class UsersController extends BaseController
      *
      * @param array $planets_data
      * @param integer $type
-     * @return void
+     * @return array
      */
     private function editBuildings($planets_data, $type = 1): array
     {
@@ -1196,7 +1233,7 @@ class UsersController extends BaseController
      *
      * @return void
      */
-    private function deletePlanet($id_planet = 0)
+    private function deletePlanet(int $id_planet = 0): void
     {
         if ($id_planet == 0) {
             $id_planet = $this->_planet;
@@ -1214,7 +1251,7 @@ class UsersController extends BaseController
      *
      * @return void
      */
-    private function deleteMoon($id_moon = 0)
+    private function deleteMoon(int $id_moon = 0): void
     {
         if ($id_moon == 0) {
             $id_moon = $this->_moon;

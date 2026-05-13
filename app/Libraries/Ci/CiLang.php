@@ -1,4 +1,5 @@
 <?php
+
 /**
  * CodeIgniter
  *
@@ -114,6 +115,7 @@ class CiLang
 
         // Load the base file, so any others found can override it
         $basepath = BASEPATH . 'lang/' . $idiom . '/' . $langfile;
+        $lang = [];
         if (($found = file_exists($basepath)) === true) {
             include $basepath;
         }
@@ -141,12 +143,13 @@ class CiLang
             //show_error('Unable to load the requested language file: language/' . $idiom . '/' . $langfile);
         }
 
-        if (!isset($lang) or !is_array($lang)) {
+        if (!is_array($lang)) {
             //log_message('error', 'Language file contains no data: language/' . $idiom . '/' . $langfile);
 
             if ($return === true) {
                 return [];
             }
+
             return;
         }
 

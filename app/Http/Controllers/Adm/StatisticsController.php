@@ -100,7 +100,7 @@ class StatisticsController extends BaseController
     /**
      * Get statistics settings
      *
-     * @return void
+     * @return array
      */
     private function getStatisticsSettings(): array
     {

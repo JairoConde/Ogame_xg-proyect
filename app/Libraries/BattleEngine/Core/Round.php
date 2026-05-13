@@ -55,12 +55,12 @@ class Round
     /**
      * Round::__construct()
      * Construct a new Round object. No side effects.
-     * @param PlayerGroup: the attackers
-     * @param PlayerGroup: the defenders
-     * @param int: the round number
+     * @param PlayerGroup $attackers
+     * @param PlayerGroup $defenders
+     * @param int $number
      * @return void
      */
-    public function __construct(PlayerGroup $attackers, PlayerGroup $defenders, $number)
+    public function __construct(PlayerGroup $attackers, PlayerGroup $defenders, int $number)
     {
         $this->number = $number;
         $this->fire_a = new FireManager();
@@ -73,9 +73,9 @@ class Round
     /**
      * Round::startRound()
      * Start the current round and update the players instance inside this object.
-     * @return
+     * @return void
      */
-    public function startRound()
+    public function startRound(): void
     {
         echo '--- Round ' . $this->number . ' ---<br><br>';
         //---------------------- Generating the fire -------------------------------//
@@ -120,7 +120,7 @@ class Round
      * Return the FireManager of the attacker
      * @return FireManager: attacker
      */
-    public function getAttackersFire()
+    public function getAttackersFire(): FireManager
     {
         return $this->fire_a;
     }
@@ -130,7 +130,7 @@ class Round
      * Return the FireManager of the defender
      * @return FireManager: defender
      */
-    public function getDefendersFire()
+    public function getDefendersFire(): FireManager
     {
         return $this->fire_d;
     }
@@ -140,7 +140,7 @@ class Round
      * Return an array of attacker PhysicShots (multidimensional)
      * @return array
      */
-    public function getAttachersPhysicShots()
+    public function getAttachersPhysicShots(): array
     {
         return $this->physicShotsToDefenders;
     }
@@ -150,7 +150,7 @@ class Round
      * Return an array of defender PhysicShots (multidimensional)
      * @return array
      */
-    public function getDefendersPhysicShots()
+    public function getDefendersPhysicShots(): array
     {
         return $this->physicShotsToAttachers;
     }
@@ -160,7 +160,7 @@ class Round
      * Return an array of attacker ShipsCleaner (multidimensional)
      * @return array
      */
-    public function getAttachersShipsCleaner()
+    public function getAttachersShipsCleaner(): array
     {
         return $this->attacherShipsCleaner;
     }
@@ -170,7 +170,7 @@ class Round
      * Return an array of defender ShipsCleaner (multidimensional)
      * @return array
      */
-    public function getDefendersShipsCleaner()
+    public function getDefendersShipsCleaner(): array
     {
         return $this->defenderShipsCleaner;
     }
@@ -180,7 +180,7 @@ class Round
      * Return the attackers after the round.
      * @return PlayerGroup: attackers
      */
-    public function getAfterBattleAttackers()
+    public function getAfterBattleAttackers(): PlayerGroup
     {
         return $this->attackers;
     }
@@ -190,7 +190,7 @@ class Round
      * Return the defenders after the round.
      * @return PlayerGroup: defenders
      */
-    public function getAfterBattleDefenders()
+    public function getAfterBattleDefenders(): PlayerGroup
     {
         return $this->defenders;
     }
@@ -200,12 +200,13 @@ class Round
      * An html rappresentation of this object
      * @return string
      */
-    public function __toString()
+    public function __toString(): string
     {
         ob_start();
         $_round = $this;
         $_i = $this->number;
         require OPBEPATH . 'Views/round.html';
+
         return ob_get_clean();
     }
 
@@ -214,44 +215,46 @@ class Round
      * Return this round number
      * @return int: number
      */
-    public function getNumber()
+    public function getNumber(): int
     {
         return $this->number;
     }
 
-    public function getAttackersFirePower()
+    public function getAttackersFirePower(): int
     {
         return $this->getAttackersFire()->getAttackerTotalFire();
     }
 
-    public function getAttackersFireCount()
+    public function getAttackersFireCount(): int
     {
         return $this->getAttackersFire()->getAttackerTotalShots();
     }
 
-    public function getDefendersFirePower()
+    public function getDefendersFirePower(): int
     {
         return $this->getDefendersFire()->getAttackerTotalFire();
     }
 
-    public function getDefendersFireCount()
+    public function getDefendersFireCount(): int
     {
         return $this->getDefendersFire()->getAttackerTotalShots();
     }
 
-    public function getAttachersAssorbedDamage()
+    public function getAttachersAssorbedDamage(): int
     {
         $playerGroupPS = $this->getDefendersPhysicShots();
+
         return $this->getPlayersAssorbedDamage($playerGroupPS);
     }
 
-    public function getDefendersAssorbedDamage()
+    public function getDefendersAssorbedDamage(): int
     {
         $playerGroupPS = $this->getAttachersPhysicShots();
+
         return $this->getPlayersAssorbedDamage($playerGroupPS);
     }
 
-    private function getPlayersAssorbedDamage($playerGroupPS)
+    private function getPlayersAssorbedDamage($playerGroupPS): int
     {
         $ass = 0;
         foreach ($playerGroupPS as $idPlayer => $playerPs) {
@@ -263,6 +266,7 @@ class Round
                 }
             }
         }
+
         return $ass;
     }
 }

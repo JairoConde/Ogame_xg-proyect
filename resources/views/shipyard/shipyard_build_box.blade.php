@@ -1,1 +1,1 @@
-<input type="text" name="fmenge[{{$item_id}}]" size="6" maxlength="6" value="0" tabindex="{{$tab_index}}">
+<input type="text" name="fmenge[{{$item_id}}]" size="8" maxlength="8" value="0" tabindex="{{$tab_index}}">

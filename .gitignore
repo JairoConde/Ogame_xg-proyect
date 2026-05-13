@@ -41,7 +41,12 @@ data/xgp.sql
 nbproject/
 
 #
-# composer
+# vendor / composer
 #
 /vendor
 composer.lock
+
+#
+# local (entorno local, tokens, config personal)
+#
+.local/

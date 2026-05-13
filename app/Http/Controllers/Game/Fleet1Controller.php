@@ -55,7 +55,7 @@ class Fleet1Controller extends BaseController
      *
      * @return void
      */
-    private function setUpFleets()
+    private function setUpFleets(): void
     {
         $this->_fleets = new Fleets(
             $this->fleetModel->getAllFleetsByUserId($this->user['user_id']),
@@ -128,7 +128,7 @@ class Fleet1Controller extends BaseController
      *
      * @return array
      */
-    private function buildListOfShips()
+    private function buildListOfShips(): array
     {
         $objects = $this->objects->getObjects();
         $price = $this->objects->getPrice();
@@ -155,7 +155,9 @@ class Fleet1Controller extends BaseController
                         'speed' => FleetsLib::fleetMaxSpeed(null, $ship_id, $this->user),
                         'capacity' => FleetsLib::getMaxStorage(
                             $price[$ship_id]['capacity'],
-                            $this->_research->getCurrentResearch()->getResearchHyperspaceTechnology()
+                            $this->_research->getCurrentResearch()->getResearchHyperspaceTechnology(),
+                            $this->_research->getCurrentResearch()->getResearchCargoOptimization(),
+                            $ship_id
                         ),
                     ];
                 }
@@ -187,7 +189,7 @@ class Fleet1Controller extends BaseController
      *
      * @return string
      */
-    private function buildShipAmount($ship_amount)
+    private function buildShipAmount(int $ship_amount): string
     {
         return FormatLib::prettyNumber($ship_amount);
     }
@@ -199,9 +201,9 @@ class Fleet1Controller extends BaseController
      *
      * @return string
      */
-    private function buildMaxShipsLink($ship_id)
+    private function buildMaxShipsLink(int $ship_id): ?string
     {
-        if ($ship_id == Ships::ship_solar_satellite) {
+        if (in_array($ship_id, [Ships::ship_solar_satellite, Ships::ship_mining_drill], true)) {
             return null;
         }
 
@@ -215,9 +217,9 @@ class Fleet1Controller extends BaseController
      *
      * @return string
      */
-    private function buildShipsInput($ship_id)
+    private function buildShipsInput(int $ship_id): ?string
     {
-        if ($ship_id == Ships::ship_solar_satellite) {
+        if (in_array($ship_id, [Ships::ship_solar_satellite, Ships::ship_mining_drill], true)) {
             return null;
         }
 
@@ -229,7 +231,7 @@ class Fleet1Controller extends BaseController
      *
      * @return string
      */
-    private function buildActionsBlock()
+    private function buildActionsBlock(): string
     {
         if ($this->_ship_count > 0
             && $this->checkAvailableSlot()) {
@@ -244,7 +246,7 @@ class Fleet1Controller extends BaseController
      *
      * @return string
      */
-    private function buildNoShipsBlock()
+    private function buildNoShipsBlock(): string
     {
         if ($this->_ship_count <= 0) {
             return $this->template->set('fleet/fleet1_noships_row', $this->langs->language);
@@ -258,7 +260,7 @@ class Fleet1Controller extends BaseController
      *
      * @return string
      */
-    private function buildContinueBlock()
+    private function buildContinueBlock(): string
     {
         if ($this->_ship_count > 0
             && $this->checkAvailableSlot()) {
@@ -273,12 +275,12 @@ class Fleet1Controller extends BaseController
      *
      * @return boolean
      */
-    private function checkAvailableSlot()
+    private function checkAvailableSlot(): bool
     {
-        return (FleetsLib::getMaxFleets(
+        return FleetsLib::getMaxFleets(
             $this->_research->getCurrentResearch()->getResearchComputerTechnology(),
             $this->_premium->getCurrentPremium()->getPremiumOfficierAdmiral()
-        ) > $this->_fleets->getFleetsCount());
+        ) > $this->_fleets->getFleetsCount();
     }
 
     /**
@@ -286,7 +288,7 @@ class Fleet1Controller extends BaseController
      *
      * @return array
      */
-    private function setInputsData()
+    private function setInputsData(): array
     {
         $data = filter_input_array(INPUT_GET, [
             'galaxy' => [

@@ -39,7 +39,7 @@ class Number
         $this->result = $result;
     }
 
-    public function __toString()
+    public function __toString(): string
     {
         return "result=$this->result;rest=$this->rest;";
     }

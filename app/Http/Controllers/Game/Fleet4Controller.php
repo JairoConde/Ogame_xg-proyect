@@ -85,7 +85,7 @@ class Fleet4Controller extends BaseController
      *
      * @return void
      */
-    private function setUpFleets()
+    private function setUpFleets(): void
     {
         $this->_fleets = new Fleets(
             $this->fleetModel->getAllFleetsByUserId($this->user['user_id']),
@@ -123,9 +123,9 @@ class Fleet4Controller extends BaseController
     /**
      * Set inputs data
      *
-     * @return array
+     * @return void
      */
-    private function setInputsData()
+    private function setInputsData(): void
     {
         $exp_time = $this->_research->getCurrentResearch()->getResearchAstrophysics();
 
@@ -171,7 +171,7 @@ class Fleet4Controller extends BaseController
      *
      * @return void
      */
-    private function getTarget()
+    private function getTarget(): void
     {
         $target_data = $this->getTargetData();
 
@@ -217,7 +217,7 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function runValidations()
+    private function runValidations(): bool
     {
         $validations = [
             'admin', 'ownVacations', 'targetVacations', 'acs', 'ships', 'mission', 'noobProtection', 'fleets', 'resources', 'time',
@@ -237,22 +237,9 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function validateAdmin()
+    private function validateAdmin(): bool
     {
-        // skip if it's our own planet or it's an empty planet
-        if ($this->_own_planet
-            or !$this->_occupied_planet) {
-            return true;
-        }
-
-        if (Functions::readConfig('adm_attack') != 0
-            && $this->_target_data['user_authlevel'] >= 1
-            && $this->user['user_authlevel'] == 0) {
-            $this->showMessage(
-                $this->langs->line('fl_admins_cannot_be_attacked')
-            );
-        }
-
+        // Staff planets are attackable like any other (no admin-only protection).
         return true;
     }
 
@@ -261,7 +248,7 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function validateOwnVacations()
+    private function validateOwnVacations(): bool
     {
         if ($this->userLibrary->isOnVacations($this->user)) {
             $this->showMessage($this->langs->line('fl_vacation_mode_active'));
@@ -278,7 +265,7 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function validateTargetVacations()
+    private function validateTargetVacations(): bool
     {
         // skip if it's our own planet or it's an empty planet
         if ($this->_own_planet
@@ -300,7 +287,7 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function validateAcs()
+    private function validateAcs(): bool
     {
         $target_data = $this->getTargetData();
 
@@ -330,7 +317,7 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function validateShips()
+    private function validateShips(): bool
     {
         // post/session fleet
         $fleet = $this->getSessionShips();
@@ -355,7 +342,9 @@ class Fleet4Controller extends BaseController
 
                 $this->_fleet_storage += FleetsLib::getMaxStorage(
                     $price[$ship_id]['capacity'],
-                    $this->_research->getCurrentResearch()->getResearchHyperspaceTechnology()
+                    $this->_research->getCurrentResearch()->getResearchHyperspaceTechnology(),
+                    $this->_research->getCurrentResearch()->getResearchCargoOptimization(),
+                    $ship_id
                 ) * $amount;
                 $this->_fleet_ships[$objects[$ship_id]] = $amount;
             }
@@ -374,7 +363,7 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function validateMission()
+    private function validateMission(): bool
     {
         // post/session fleet
         $fleet = $this->getSessionShips();
@@ -497,7 +486,7 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function validateNoobProtection()
+    private function validateNoobProtection(): bool
     {
         // skip if it's our own planet or it's an empty planet
         if (
@@ -549,7 +538,7 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function validateFleets()
+    private function validateFleets(): bool
     {
         $fleets = $this->_fleets->getFleetsCount();
 
@@ -572,11 +561,11 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function validateResources()
+    private function validateResources(): bool
     {
-        $metal = $this->_clean_input_data['resource1'];
-        $crystal = $this->_clean_input_data['resource2'];
-        $deuterium = $this->_clean_input_data['resource3'];
+        $metal = (float) $this->_clean_input_data['resource1'];
+        $crystal = (float) $this->_clean_input_data['resource2'];
+        $deuterium = (float) $this->_clean_input_data['resource3'];
 
         if ($metal + $crystal + $deuterium < 1
             && $this->_clean_input_data['mission'] == Missions::TRANSPORT) {
@@ -653,7 +642,7 @@ class Fleet4Controller extends BaseController
      *
      * @return boolean
      */
-    private function validateTime()
+    private function validateTime(): bool
     {
         $fleet_data = $this->getFleetData();
 
@@ -686,17 +675,17 @@ class Fleet4Controller extends BaseController
                 $this->getTargetData()['group']
             );
 
-            if ($acs_start_time >= $start_time) {
-                $end_time += $acs_start_time - $start_time;
-                $start_time = $acs_start_time;
+            if ((int) $acs_start_time >= $start_time) {
+                $end_time += (int) $acs_start_time - $start_time;
+                $start_time = (int) $acs_start_time;
             } else {
                 $this->fleetModel->updateAcsTimes(
                     $this->getTargetData()['group'],
                     $start_time,
-                    ($start_time - $acs_start_time)
+                    ($start_time - (int) $acs_start_time)
                 );
 
-                $end_time += $start_time - $acs_start_time;
+                $end_time += $start_time - (int) $acs_start_time;
             }
         }
 
@@ -713,7 +702,7 @@ class Fleet4Controller extends BaseController
      *
      * @return array
      */
-    private function getFleetData()
+    private function getFleetData(): array
     {
         return $_SESSION['fleet_data'];
     }
@@ -721,9 +710,9 @@ class Fleet4Controller extends BaseController
     /**
      * Get session set ships
      *
-     * @return string
+     * @return array
      */
-    private function getSessionShips()
+    private function getSessionShips(): array
     {
         return unserialize(base64_decode(str_rot13($this->getFleetData()['fleetarray'])));
     }
@@ -733,7 +722,7 @@ class Fleet4Controller extends BaseController
      *
      * @return array
      */
-    private function getTargetData()
+    private function getTargetData(): array
     {
         return $_SESSION['fleet_data']['target'];
     }
@@ -745,7 +734,7 @@ class Fleet4Controller extends BaseController
      *
      * @return void
      */
-    private function showMessage($message)
+    private function showMessage($message): void
     {
         Functions::message(
             $message,
@@ -760,7 +749,7 @@ class Fleet4Controller extends BaseController
      *
      * @return void
      */
-    private function sendFleet()
+    private function sendFleet(): void
     {
         // create the new fleet and
         // remove from the planet the ships and resources

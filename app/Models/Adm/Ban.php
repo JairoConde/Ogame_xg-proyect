@@ -11,7 +11,7 @@ class Ban extends Model
     /**
      * Unban user by username
      *
-     * @param string $username
+     * @param string $user_name
      * @return void
      */
     public function unbanUser(string $user_name): void
@@ -118,7 +118,7 @@ class Ban extends Model
             );
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }

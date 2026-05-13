@@ -17,5 +17,6 @@ $lang = [
     'research_plasma_technology' => 'Plasma Technology',
     'research_intergalactic_research_network' => 'Intergalactic Research Network',
     'research_astrophysics' => 'Astrophysics',
+    'research_cargo_optimization' => 'Cargo Optimization',
     'research_graviton_technology' => 'Graviton Technology',
 ];

@@ -23,7 +23,7 @@ class Colonize extends Missions
      * @param array $fleet_row
      * @return void
      */
-    public function colonizeMission($fleet_row)
+    public function colonizeMission(array $fleet_row): void
     {
         if ($fleet_row['fleet_mess'] == 0) {
             $colonization_check = $this->missionsModel->getPlanetAndUserCountsCounts([
@@ -109,9 +109,9 @@ class Colonize extends Missions
      * Start planet creation
      *
      * @param array $fleet_row
-     * @return void
+     * @return bool
      */
-    private function startCreation($fleet_row)
+    private function startCreation(array $fleet_row): bool
     {
         $creator = new PlanetLib();
 
@@ -121,10 +121,10 @@ class Colonize extends Missions
     /**
      * Build new fleet
      *
-     * @param array $fleet_array
-     * @return void
+     * @param string $fleet_array
+     * @return string
      */
-    private function buildNewFleet($fleet_array)
+    private function buildNewFleet(string $fleet_array): string
     {
         $current_fleet = FleetsLib::getFleetShipsArray($fleet_array);
         $new_fleet = [];
@@ -152,9 +152,9 @@ class Colonize extends Missions
      * @param int $time
      * @return void
      */
-    private function colonizeMessage($owner, $message, $time)
+    private function colonizeMessage(int $owner, string $message, int $time): void
     {
-        Functions::sendMessage($owner, '', $time, 5, $this->langs->line('col_report_from'), $this->langs->line('col_report_title'), $message);
+        Functions::sendMessage($owner, 0, $time, 5, $this->langs->line('col_report_from'), $this->langs->line('col_report_title'), $message);
     }
 
     /**

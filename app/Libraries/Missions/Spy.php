@@ -22,11 +22,11 @@ class Spy extends Missions
     /**
      * spyMission
      *
-     * @param string $string String
+     * @param array $fleet_row Fleet Row
      *
      * @return void
      */
-    public function spyMission($fleet_row)
+    public function spyMission(array $fleet_row): void
     {
         // do mission
         if (parent::canStartMission($fleet_row)) {
@@ -86,11 +86,12 @@ class Spy extends Missions
 
                     $TargetChances = mt_rand(0, intval($TargetForce));
                     $SpyerChances = mt_rand(0, 100);
+                    $SpyMessage = '';
 
                     if ($TargetChances >= $SpyerChances) {
                         Functions::sendMessage(
                             $fleet_row['fleet_owner'],
-                            '',
+                            0,
                             $fleet_row['fleet_start_time'],
                             0,
                             $this->langs->line('mi_fleet_command'),
@@ -152,7 +153,7 @@ class Spy extends Missions
 
                     Functions::sendMessage(
                         $fleet_row['fleet_owner'],
-                        '',
+                        0,
                         $fleet_row['fleet_start_time'],
                         0,
                         $this->langs->line('mi_fleet_command'),
@@ -194,6 +195,11 @@ class Spy extends Missions
     {
         $LookAtLoop = true;
         $Count = 0;
+        $ResFrom = [];
+        $ResTo = [];
+        $Loops = 0;
+        $String = '';
+        $return = [];
 
         switch ($mode) {
             case 0:
@@ -306,7 +312,7 @@ class Spy extends Missions
     {
         Functions::sendMessage(
             $target['planet_user_id'],
-            '',
+            0,
             $fleet['fleet_start_time'],
             0,
             $this->langs->line('spy_activity_from'),

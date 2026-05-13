@@ -14,6 +14,7 @@ class TraderResourcesController extends BaseController
     public const MODULE_ID = 5;
     public const RESOURCES = ['metal', 'crystal', 'deuterium'];
     public const PERCENTAGES = [10, 50, 100];
+    private const MERCHANT_CALL_PRICE = 3500;
 
     private ?ResourceMarket $trader;
     private string $error = '';
@@ -71,6 +72,16 @@ class TraderResourcesController extends BaseController
         $refill = filter_input_array(INPUT_POST);
 
         if ($refill) {
+            if (isset($refill['call_merchant'])) {
+                $sellResource = filter_input(INPUT_POST, 'sell', FILTER_UNSAFE_RAW);
+
+                if (in_array($sellResource, self::RESOURCES, true)) {
+                    Functions::redirect('game.php?page=traderLayer&mode=traderResources&sell=' . $sellResource);
+                }
+
+                return;
+            }
+
             if (
                 preg_match_all(
                     '/(' . join('|', self::RESOURCES) . ')-(' . join('|', self::PERCENTAGES) . ')/',
@@ -161,6 +172,10 @@ class TraderResourcesController extends BaseController
                     $this->langs->language,
                     [
                         'list_of_resources' => $this->buildResourcesSection(),
+                        'tr_price' => sprintf(
+                            $this->langs->line('tr_price'),
+                            Format::prettyNumber(self::MERCHANT_CALL_PRICE)
+                        ),
                     ]
                 )
             ),
@@ -221,7 +236,7 @@ class TraderResourcesController extends BaseController
             }
 
             $refillOptions[] = [
-                'label' => (self::PERCENTAGES == 100) ? $this->langs->line('tr_refill_to') : $this->langs->line('tr_refill_by'),
+                'label' => ($percentage == 100) ? $this->langs->line('tr_refill_to') : $this->langs->line('tr_refill_by'),
                 'percentage' => $percentage,
                 'tr_requires' => $this->langs->line('tr_requires'),
                 'price' => $price,

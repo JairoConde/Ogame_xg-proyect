@@ -48,9 +48,9 @@ class Battle
     /**
      * Battle::startBattle()
      *
-     * @return null
+     * @return void
      */
-    public function startBattle($debug = false)
+    public function startBattle(bool $debug = false): void
     {
         if (!$debug) {
             ob_start();
@@ -71,6 +71,7 @@ class Battle
                 if (!$debug) {
                     ob_get_clean();
                 }
+
                 return;
             }
             //initialize the round
@@ -85,20 +86,20 @@ class Battle
         }
         //check status after all rounds
         $this->checkWhoWon($this->attackers->isEmpty(), $this->defenders->isEmpty());
+        $this->report->setBattleResult($this->attackers->battleResult, $this->defenders->battleResult);
         if (!$debug) {
             ob_get_clean();
         }
-        return true;
+
+        return;
     }
 
     /**
      * Battle::checkWhoWon()
      * Assign to groups the status win,lose or draw
-     * @param boolean $att_lose
-     * @param boolean $deff_lose
-     * @return null
+     * @return void
      */
-    private function checkWhoWon($att_lose, $deff_lose)
+    private function checkWhoWon(bool $att_lose, bool $deff_lose): void
     {
         if ($att_lose && !$deff_lose) {
             $this->attackers->battleResult = BATTLE_LOSE;
@@ -115,9 +116,9 @@ class Battle
     /**
      * Battle::__toString()
      *
-     * @return
+     * @return string
      */
-    public function __toString()
+    public function __toString(): string
     {
         return $this->report->__toString();
     }
@@ -127,11 +128,12 @@ class Battle
      * Start the battle if not and return the report.
      * @return BattleReport
      */
-    public function getReport()
+    public function getReport(): BattleReport
     {
         if (!$this->battleStarted) {
             $this->startBattle();
         }
+
         return $this->report;
     }
 }

@@ -13,7 +13,7 @@ abstract class TimingLibrary
      *
      * @return string
      */
-    public static function setOnlineStatus($online_time)
+    public static function setOnlineStatus(int $online_time): string
     {
         $lang = new Language();
         $lang = $lang->loadLang('game/global', true);
@@ -41,7 +41,7 @@ abstract class TimingLibrary
      *
      * @return string
      */
-    public static function formatExtendedDate($time)
+    public static function formatExtendedDate($time): string
     {
         if (!is_numeric($time)) {
             $time = strtotime($time);
@@ -57,7 +57,7 @@ abstract class TimingLibrary
      *
      * @return string
      */
-    public static function formatShortDate($time)
+    public static function formatShortDate($time): string
     {
         if (!is_numeric($time)) {
             $time = strtotime($time);
@@ -73,9 +73,9 @@ abstract class TimingLibrary
      *
      * @return string
      */
-    public static function formatDaysTime($time)
+    public static function formatDaysTime($time): string
     {
-        $days = floor((time() - $time) / (3600 * 24));
+        $days = floor((time() - (int) $time) / (3600 * 24));
 
         return strtr('%s d', ['%s' => $days]);
     }
@@ -88,7 +88,7 @@ abstract class TimingLibrary
      */
     public static function getDaysLeft(int $time): float
     {
-        return (($time - time()) / 24 / 3600);
+        return ($time - time()) / 24 / 3600;
     }
 
     /**

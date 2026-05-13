@@ -59,7 +59,7 @@ class FederationController extends BaseController
      *
      * @return void
      */
-    private function setUpFleets()
+    private function setUpFleets(): void
     {
         $this->_fleets = new Fleets(
             $this->fleetModel->getAllFleetsByUserId($this->user['user_id']),
@@ -258,7 +258,7 @@ class FederationController extends BaseController
      *
      * @return void
      */
-    private function validateData()
+    private function validateData(): void
     {
         $fleet_id = filter_input(INPUT_GET, 'fleet', FILTER_VALIDATE_INT);
 
@@ -341,7 +341,7 @@ class FederationController extends BaseController
 
         if (count($members) > 0) {
             foreach ($members as $member) {
-                ++$this->_members_count;
+                $this->_members_count++;
 
                 $list_of_members[] = [
                     'value' => $member['user_id'],

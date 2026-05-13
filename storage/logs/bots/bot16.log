@@ -1,0 +1,2110 @@
+[2026-05-08 12:15:40] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:15:41] planet 42: queued building_metal_mine to 11
+[12:15:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:16:15] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:16:15] planet 42: queued building_metal_mine to 12
+[12:16:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:16:48] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:16:48] planet 42: queued building_metal_mine to 13
+[12:16:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:17:20] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:17:21] planet 42: no resources for building_metal_mine+1
+[12:17:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:17:56] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:17:57] planet 42: no resources for building_metal_mine+1
+[12:17:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:18:18] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:18:18] planet 42: no resources for building_metal_mine+1
+[12:18:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:18:49] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:18:50] planet 42: no resources for building_metal_mine+1
+[12:18:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:19:23] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:19:24] planet 42: no resources for building_metal_mine+1
+[2026-05-08 12:19:56] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:19:57] planet 42: no resources for building_metal_mine+1
+[2026-05-08 12:20:31] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:20:32] planet 42: queued building_hangar to 1
+[12:20:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:20:53] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:20:53] planet 42: queued building_hangar to 2
+[2026-05-08 12:21:27] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:21:28] planet 42: queued building_hangar to 3
+[12:21:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:22:00] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:22:01] planet 42: queued building_hangar to 4
+[2026-05-08 12:22:36] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:22:37] planet 42: queued building_hangar to 5
+[12:22:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:23:10] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:23:11] planet 42: no resources for building_hangar+1
+[12:23:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:23:34] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:23:35] planet 42: no resources for building_hangar+1
+[2026-05-08 12:24:06] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:24:07] planet 42: no resources for building_hangar+1
+[12:24:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:24:41] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:24:42] planet 42: no resources for building_hangar+1
+[2026-05-08 12:25:14] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:25:15] planet 42: no resources for building_hangar+1
+[12:25:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:25:38] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:25:38] planet 42: no resources for building_hangar+1
+[2026-05-08 12:26:11] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:26:12] planet 42: no resources for building_hangar+1
+[12:26:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:26:45] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:26:46] planet 42: no resources for building_hangar+1
+[12:26:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:27:19] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:27:19] planet 42: no resources for building_hangar+1
+[12:27:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:27:51] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:27:51] planet 42: no resources for building_hangar+1
+[2026-05-08 12:28:12] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:28:13] planet 42: no resources for building_hangar+1
+[2026-05-08 12:28:44] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:28:44] planet 42: no resources for building_hangar+1
+[2026-05-08 12:29:16] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:29:17] planet 42: no resources for building_hangar+1
+[12:29:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:29:50] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:29:51] planet 42: no resources for building_hangar+1
+[2026-05-08 12:30:23] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:30:24] planet 42: no resources for building_metal_mine+1
+[12:30:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:30:46] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:30:47] planet 42: no resources for building_metal_mine+1
+[12:30:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:31:21] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:31:22] planet 42: no resources for building_metal_mine+1
+[2026-05-08 12:31:53] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:31:54] planet 42: no resources for building_metal_mine+1
+[2026-05-08 12:32:28] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:32:29] planet 42: no resources for building_metal_mine+1
+[2026-05-08 12:33:02] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:33:03] planet 42: no resources for building_metal_mine+1
+[12:33:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:33:34] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:33:34] planet 42: no resources for building_metal_mine+1
+[2026-05-08 12:34:30] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:34:30] planet 42: no resources for building_metal_mine+1
+[12:34:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:35:05] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:35:06] planet 42: no resources for building_metal_mine+1
+[12:35:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:35:38] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:35:39] planet 42: no resources for building_metal_mine+1
+[12:35:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:36:13] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:36:14] planet 42: no resources for building_metal_mine+1
+[12:36:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:36:46] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:36:47] planet 42: no resources for building_metal_mine+1
+[12:36:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:37:21] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:37:21] planet 42: no resources for building_metal_mine+1
+[2026-05-08 12:37:55] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:37:55] planet 42: no resources for building_metal_mine+1
+[12:37:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:38:29] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:38:30] planet 42: no resources for building_metal_mine+1
+[2026-05-08 12:39:03] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:39:04] planet 42: no resources for building_metal_mine+1
+[12:39:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:39:38] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:39:38] planet 42: no resources for building_metal_mine+1
+[12:39:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:40:11] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:40:12] planet 42: queued building_deuterium_sintetizer to 6
+[2026-05-08 12:40:45] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:40:45] planet 42: queued building_deuterium_sintetizer to 7
+[12:40:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:41:15] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:41:16] planet 42: queued building_deuterium_sintetizer to 8
+[2026-05-08 12:42:02] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:42:03] planet 42: queued building_metal_store to 1
+[12:42:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:42:38] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:42:39] planet 42: queued building_deuterium_sintetizer to 9
+[2026-05-08 12:43:17] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:43:18] planet 42: queued building_metal_store to 2
+[2026-05-08 12:43:55] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:43:56] planet 42: queued building_deuterium_sintetizer to 10
+[2026-05-08 12:44:33] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:44:34] planet 42: queued building_metal_store to 3
+[2026-05-08 12:45:11] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:45:11] planet 42: no resources for building_deuterium_sintetizer+1
+[12:45:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:45:47] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:45:47] planet 42: no resources for building_deuterium_sintetizer+1
+[12:45:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:46:24] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:46:24] planet 42: no resources for building_deuterium_sintetizer+1
+[2026-05-08 12:47:01] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:47:01] planet 42: no resources for building_deuterium_sintetizer+1
+[2026-05-08 12:47:40] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:47:41] planet 42: no resources for building_deuterium_sintetizer+1
+[2026-05-08 12:48:18] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:48:19] planet 42: no resources for building_deuterium_sintetizer+1
+[2026-05-08 12:48:56] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:48:57] planet 42: no resources for building_deuterium_sintetizer+1
+[12:48:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:49:33] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:49:33] planet 42: no resources for building_deuterium_sintetizer+1
+[12:49:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:50:09] ==== loop 14/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:50:10] planet 42: no resources for building_hangar+1
+[12:50:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:50:45] ==== loop 15/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:50:46] planet 42: no resources for building_hangar+1
+[2026-05-08 12:51:22] ==== loop 16/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:51:23] planet 42: no resources for building_hangar+1
+[2026-05-08 12:51:46] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:51:47] planet 42: queued building_solar_plant to 1
+[12:51:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:52:24] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:52:24] planet 42: queued building_solar_plant to 2
+[12:52:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:53:00] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:53:01] planet 42: queued building_solar_plant to 3
+[2026-05-08 12:53:40] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:53:40] planet 42: queued building_solar_plant to 4
+[2026-05-08 12:54:18] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:54:19] planet 42: queued building_solar_plant to 5
+[12:54:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:54:58] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:54:59] planet 42: queued building_solar_plant to 6
+[2026-05-08 12:55:34] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:55:35] planet 42: queued building_solar_plant to 7
+[2026-05-08 12:56:12] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:56:13] planet 42: queued building_solar_plant to 8
+[12:56:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:56:49] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:56:49] planet 42: queued building_solar_plant to 9
+[12:56:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:57:26] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:57:27] planet 42: queued building_solar_plant to 10
+[12:57:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:58:01] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:58:02] planet 42: queued building_solar_plant to 11
+[12:58:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:58:37] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:58:38] planet 42: queued building_solar_plant to 12
+[2026-05-08 12:59:12] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:59:13] planet 42: queued building_solar_plant to 13
+[12:59:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:59:48] ==== loop 14/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[12:59:49] planet 42: queued building_solar_plant to 14
+[2026-05-08 13:00:26] ==== loop 15/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:00:26] planet 42: queued building_solar_plant to 15
+[2026-05-08 13:01:01] ==== loop 16/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:01:01] planet 42: no resources for defense_gauss_cannon+8
+[2026-05-08 13:01:37] ==== loop 17/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:01:38] planet 42: no resources for defense_gauss_cannon+8
+[13:01:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:02:14] ==== loop 18/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:02:15] planet 42: no resources for defense_gauss_cannon+8
+[2026-05-08 13:02:53] ==== loop 19/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:02:54] planet 42: no resources for defense_gauss_cannon+8
+[13:02:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:03:30] ==== loop 20/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:03:30] planet 42: no resources for defense_gauss_cannon+8
+[13:03:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:04:08] ==== loop 21/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:04:09] planet 42: no resources for defense_gauss_cannon+8
+[13:04:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:04:44] ==== loop 22/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:04:45] planet 42: no resources for defense_gauss_cannon+8
+[13:04:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:05:22] ==== loop 23/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:05:23] planet 42: no resources for defense_gauss_cannon+8
+[2026-05-08 13:06:02] ==== loop 24/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:06:03] planet 42: no resources for defense_gauss_cannon+8
+[13:06:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:06:44] ==== loop 25/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:06:45] planet 42: no resources for defense_gauss_cannon+8
+[2026-05-08 13:07:23] ==== loop 26/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:07:24] planet 42: no resources for defense_gauss_cannon+8
+[2026-05-08 13:08:01] ==== loop 27/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:08:01] planet 42: no resources for defense_gauss_cannon+8
+[13:08:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:08:41] ==== loop 28/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:08:42] planet 42: no resources for defense_gauss_cannon+8
+[2026-05-08 13:09:19] ==== loop 29/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:09:19] planet 42: no resources for defense_gauss_cannon+8
+[13:09:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:10:00] ==== loop 30/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:10:00] planet 42: queued building_laboratory to 1
+[2026-05-08 13:10:45] ==== loop 31/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:10:45] planet 42: queued building_laboratory to 2
+[13:10:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:11:14] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:11:15] planet 42: queued building_laboratory to 3
+[13:11:15] research: upgraded research_energy_technology to 1
+[2026-05-08 13:11:56] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:11:57] planet 42: queued building_laboratory to 4
+[13:11:57] research: upgraded research_energy_technology to 2
+[2026-05-08 13:12:34] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:12:35] planet 42: queued building_laboratory to 5
+[2026-05-08 13:13:14] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:13:15] planet 42: queued building_laboratory to 6
+[13:13:15] research: upgraded research_energy_technology to 3
+[2026-05-08 13:13:56] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:13:57] planet 42: queued building_laboratory to 7
+[2026-05-08 13:14:32] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:14:33] planet 42: no resources for building_laboratory+1
+[13:14:33] research: upgraded research_energy_technology to 4
+[2026-05-08 13:15:14] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:15:14] planet 42: no resources for building_laboratory+1
+[13:15:14] research: upgraded research_energy_technology to 5
+[2026-05-08 13:15:51] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:15:52] planet 42: no resources for building_laboratory+1
+[13:15:52] research: upgraded research_computer_technology to 1
+[2026-05-08 13:16:34] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:16:34] planet 42: no resources for building_laboratory+1
+[2026-05-08 13:17:09] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:17:09] planet 42: no resources for building_laboratory+1
+[13:17:09] research: upgraded research_computer_technology to 2
+[2026-05-08 13:17:50] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:17:50] planet 42: no resources for building_laboratory+1
+[2026-05-08 13:18:34] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:18:34] planet 42: no resources for building_laboratory+1
+[13:18:34] research: upgraded research_computer_technology to 3
+[2026-05-08 13:19:12] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:19:13] planet 42: no resources for building_laboratory+1
+[2026-05-08 13:19:54] ==== loop 14/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:19:55] planet 42: no resources for building_laboratory+1
+[13:19:55] research: upgraded research_computer_technology to 4
+[2026-05-08 13:20:35] ==== loop 15/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:20:36] planet 42: queued ship_small_cargo_ship +8
+[13:20:36] planet 42: skipped duplicate ship_small_cargo_ship this loop
+[13:20:36] planet 42: skipped duplicate ship_small_cargo_ship this loop
+[13:20:36] planet 42: skipped duplicate ship_small_cargo_ship this loop
+[2026-05-08 13:21:17] ==== loop 16/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:21:18] planet 42: no resources for ship_small_cargo_ship+8
+[2026-05-08 13:21:58] ==== loop 17/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:21:59] planet 42: no resources for ship_small_cargo_ship+8
+[13:21:59] research: upgraded research_espionage_technology to 1
+[2026-05-08 13:22:39] ==== loop 18/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:22:39] planet 42: no resources for ship_small_cargo_ship+8
+[13:22:39] research: upgraded research_shielding_technology to 1
+[2026-05-08 13:23:22] ==== loop 19/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:23:22] planet 42: no resources for ship_small_cargo_ship+8
+[2026-05-08 13:24:04] ==== loop 20/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:24:05] planet 42: no resources for ship_small_cargo_ship+8
+[2026-05-08 13:24:44] ==== loop 21/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:24:44] planet 42: no resources for ship_small_cargo_ship+8
+[13:24:44] research: upgraded research_espionage_technology to 2
+[2026-05-08 13:25:27] ==== loop 22/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:25:27] planet 42: no resources for ship_small_cargo_ship+8
+[13:25:27] research: upgraded research_espionage_technology to 3
+[2026-05-08 13:26:03] ==== loop 23/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:26:03] planet 42: no resources for ship_small_cargo_ship+8
+[13:26:03] research: upgraded research_shielding_technology to 2
+[2026-05-08 13:26:44] ==== loop 24/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:26:44] planet 42: no resources for ship_small_cargo_ship+8
+[13:26:44] research: upgraded research_armour_technology to 1
+[2026-05-08 13:27:23] ==== loop 25/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:27:24] planet 42: no resources for ship_small_cargo_ship+8
+[13:27:24] research: upgraded research_shielding_technology to 3
+[2026-05-08 13:28:00] ==== loop 26/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:28:01] planet 42: no resources for ship_small_cargo_ship+8
+[2026-05-08 13:28:36] ==== loop 27/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:28:37] planet 42: no resources for ship_small_cargo_ship+8
+[2026-05-08 13:29:15] ==== loop 28/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:29:15] planet 42: no resources for ship_small_cargo_ship+8
+[2026-05-08 13:29:55] ==== loop 29/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:29:55] planet 42: no resources for ship_small_cargo_ship+8
+[2026-05-08 13:30:34] ==== loop 30/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:30:35] planet 42: queued building_metal_mine to 14
+[13:30:35] research: upgraded research_shielding_technology to 4
+[2026-05-08 13:31:13] ==== loop 31/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:31:13] planet 42: no resources for building_metal_mine+1
+[2026-05-08 13:31:54] ==== loop 32/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:31:54] planet 42: no resources for building_metal_mine+1
+[2026-05-08 13:32:34] ==== loop 33/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:32:35] planet 42: queued building_metal_mine to 15
+[13:32:35] research: upgraded research_armour_technology to 2
+[2026-05-08 13:33:15] ==== loop 34/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:33:16] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:33:57] ==== loop 35/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:33:59] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:34:39] ==== loop 36/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:34:41] planet 42: no resources for building_solar_plant+1
+[13:34:41] research: upgraded research_computer_technology to 5
+[2026-05-08 13:35:21] ==== loop 37/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:35:22] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:36:08] ==== loop 38/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:36:09] planet 42: no resources for building_solar_plant+1
+[13:36:09] research: upgraded research_armour_technology to 3
+[2026-05-08 13:36:49] ==== loop 39/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:36:49] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:37:28] ==== loop 40/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:37:28] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:38:08] ==== loop 41/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:38:08] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:38:45] ==== loop 42/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:38:46] planet 42: no resources for building_solar_plant+1
+[13:38:46] research: upgraded research_espionage_technology to 4
+[2026-05-08 13:39:25] ==== loop 43/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:39:26] planet 42: no resources for building_solar_plant+1
+[13:39:26] research: upgraded research_armour_technology to 4
+[2026-05-08 13:40:04] ==== loop 44/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:40:04] planet 42: no resources for building_solar_plant+1
+[13:40:04] research: upgraded research_armour_technology to 5
+[2026-05-08 13:40:48] ==== loop 45/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:40:49] planet 42: no resources for building_solar_plant+1
+[13:40:49] research: upgraded research_armour_technology to 6
+[2026-05-08 13:41:31] ==== loop 46/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:41:32] planet 42: no resources for building_solar_plant+1
+[13:41:32] research: upgraded research_armour_technology to 7
+[2026-05-08 13:42:08] ==== loop 47/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:42:09] planet 42: no resources for building_solar_plant+1
+[13:42:09] research: upgraded research_armour_technology to 8
+[2026-05-08 13:42:49] ==== loop 48/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:42:50] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:43:29] ==== loop 49/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:43:30] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:44:11] ==== loop 50/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:44:11] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:44:51] ==== loop 51/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:44:52] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:45:35] ==== loop 52/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:45:35] planet 42: no resources for building_solar_plant+1
+[13:45:35] research: upgraded research_shielding_technology to 5
+[2026-05-08 13:46:14] ==== loop 53/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:46:14] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:46:53] ==== loop 54/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:46:54] planet 42: no resources for building_solar_plant+1
+[13:46:54] research: upgraded research_weapons_technology to 1
+[2026-05-08 13:47:36] ==== loop 55/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:47:36] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:48:20] ==== loop 56/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:48:20] planet 42: no resources for building_solar_plant+1
+[13:48:20] research: upgraded research_weapons_technology to 2
+[2026-05-08 13:49:00] ==== loop 57/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:49:01] planet 42: no resources for building_solar_plant+1
+[13:49:01] research: upgraded research_weapons_technology to 3
+[2026-05-08 13:49:40] ==== loop 58/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:49:41] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:50:25] ==== loop 59/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:50:27] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:51:09] ==== loop 60/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:51:10] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:51:52] ==== loop 61/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:51:53] planet 42: no resources for building_solar_plant+1
+[2026-05-08 13:52:37] ==== loop 62/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:52:37] planet 42: queued building_solar_plant to 16
+[2026-05-08 13:53:20] ==== loop 63/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:53:21] planet 42: no resources for building_solar_plant+1
+[13:53:21] research: upgraded research_computer_technology to 6
+[2026-05-08 13:54:09] ==== loop 64/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:54:10] planet 42: queued building_metal_store to 4
+[2026-05-08 13:54:58] ==== loop 65/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:54:59] planet 42: queued building_crystal_store to 1
+[2026-05-08 13:55:42] ==== loop 66/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:55:43] planet 42: queued building_metal_store to 5
+[2026-05-08 13:56:25] ==== loop 67/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:56:25] planet 42: queued building_metal_store to 6
+[13:56:25] research: upgraded research_weapons_technology to 4
+[2026-05-08 13:57:07] ==== loop 68/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:57:07] planet 42: queued building_crystal_store to 2
+[13:57:07] research: upgraded research_weapons_technology to 5
+[2026-05-08 13:57:48] ==== loop 69/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:57:48] planet 42: queued building_metal_store to 7
+[13:57:48] research: upgraded research_impulse_drive to 1
+[2026-05-08 13:58:27] ==== loop 70/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:58:28] planet 42: queued building_metal_store to 8
+[2026-05-08 13:59:08] ==== loop 71/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:59:08] planet 42: queued building_crystal_store to 3
+[2026-05-08 13:59:50] ==== loop 72/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[13:59:50] planet 42: queued building_crystal_store to 4
+[13:59:50] research: upgraded research_combustion_drive to 1
+[2026-05-08 14:00:29] ==== loop 73/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:00:29] planet 42: queue busy, throttled building_robot_factory
+[14:00:29] planet 42: queue busy, throttled building_robot_factory
+[14:00:29] planet 42: queue busy, throttled building_robot_factory
+[14:00:29] planet 42: queue busy, throttled building_robot_factory
+[14:00:29] research: upgraded research_hyperspace_technology to 1
+[2026-05-08 14:01:07] ==== loop 74/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:01:08] planet 42: no resources for building_hangar+1
+[14:01:08] research: upgraded research_combustion_drive to 2
+[2026-05-08 14:01:45] ==== loop 75/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:01:46] planet 42: no resources for building_hangar+1
+[14:01:46] research: upgraded research_combustion_drive to 3
+[2026-05-08 14:02:22] ==== loop 76/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:02:23] planet 42: no resources for building_hangar+1
+[2026-05-08 14:02:58] ==== loop 77/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:02:59] planet 42: no resources for building_hangar+1
+[14:02:59] research: upgraded research_combustion_drive to 4
+[2026-05-08 14:03:35] ==== loop 78/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:03:36] planet 42: queued building_hangar to 6
+[2026-05-08 14:04:12] ==== loop 79/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:04:13] planet 42: no resources for building_hangar+1
+[2026-05-08 14:04:54] ==== loop 80/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:04:55] planet 42: no resources for building_hangar+1
+[2026-05-08 14:05:33] ==== loop 81/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:05:34] planet 42: no resources for building_hangar+1
+[2026-05-08 14:06:10] ==== loop 82/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:06:10] planet 42: no resources for building_hangar+1
+[2026-05-08 14:06:47] ==== loop 83/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:06:47] planet 42: queued building_hangar to 7
+[14:06:47] research: upgraded research_weapons_technology to 6
+[2026-05-08 14:07:23] ==== loop 84/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:07:23] planet 42: no resources for building_hangar+1
+[14:07:23] research: upgraded research_combustion_drive to 5
+[2026-05-08 14:07:58] ==== loop 85/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:07:59] planet 42: no resources for building_hangar+1
+[2026-05-08 14:08:35] ==== loop 86/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:08:35] planet 42: no resources for building_hangar+1
+[2026-05-08 14:09:10] ==== loop 87/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:09:10] planet 42: no resources for building_hangar+1
+[14:09:10] research: upgraded research_impulse_drive to 2
+[2026-05-08 14:09:46] ==== loop 88/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:09:47] planet 42: no resources for building_hangar+1
+[2026-05-08 14:10:22] ==== loop 89/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:10:22] planet 42: queued defense_light_laser +8
+[14:10:22] planet 42: skipped duplicate defense_light_laser this loop
+[14:10:22] planet 42: skipped duplicate defense_light_laser this loop
+[14:10:22] planet 42: skipped duplicate defense_light_laser this loop
+[2026-05-08 14:11:01] ==== loop 90/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:11:02] planet 42: queued defense_rocket_launcher +8
+[14:11:02] planet 42: skipped duplicate defense_rocket_launcher this loop
+[14:11:02] planet 42: skipped duplicate defense_rocket_launcher this loop
+[14:11:02] planet 42: skipped duplicate defense_rocket_launcher this loop
+[2026-05-08 14:11:41] ==== loop 91/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:11:43] planet 42: queued defense_rocket_launcher +8
+[14:11:43] planet 42: no resources for defense_heavy_laser+8
+[2026-05-08 14:12:19] ==== loop 92/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:12:19] planet 42: no resources for defense_heavy_laser+8
+[2026-05-08 14:13:01] ==== loop 93/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:13:01] planet 42: no resources for defense_heavy_laser+8
+[14:13:01] research: upgraded research_combustion_drive to 6
+[2026-05-08 14:13:39] ==== loop 94/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:13:40] planet 42: no resources for defense_heavy_laser+8
+[14:13:40] research: upgraded research_combustion_drive to 7
+[2026-05-08 14:14:21] ==== loop 95/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:14:21] planet 42: no resources for defense_heavy_laser+8
+[14:14:21] research: upgraded research_laser_technology to 3
+[2026-05-08 14:15:04] ==== loop 96/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:15:05] planet 42: no resources for defense_heavy_laser+8
+[2026-05-08 14:15:47] ==== loop 97/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:15:48] planet 42: no resources for defense_heavy_laser+8
+[2026-05-08 14:16:28] ==== loop 98/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:16:29] planet 42: no resources for defense_heavy_laser+8
+[14:16:29] research: upgraded research_hyperspace_technology to 2
+[2026-05-08 14:17:08] ==== loop 99/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:17:09] planet 42: no resources for defense_heavy_laser+8
+[14:17:09] research: upgraded research_laser_technology to 4
+[2026-05-08 14:17:46] ==== loop 100/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:17:46] planet 42: no resources for defense_heavy_laser+8
+[2026-05-08 14:18:26] ==== loop 101/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:18:26] planet 42: no resources for defense_heavy_laser+8
+[2026-05-08 14:19:06] ==== loop 102/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:19:07] planet 42: no resources for defense_heavy_laser+8
+[2026-05-08 14:19:47] ==== loop 103/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:19:47] planet 42: no resources for defense_heavy_laser+8
+[14:19:47] research: upgraded research_laser_technology to 5
+[2026-05-08 14:20:27] ==== loop 104/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:20:28] planet 42: queued building_metal_mine to 16
+[14:20:28] research: upgraded research_ionic_technology to 1
+[2026-05-08 14:21:08] ==== loop 105/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:21:09] planet 42: no resources for building_metal_mine+1
+[2026-05-08 14:21:48] ==== loop 106/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:21:49] planet 42: queued building_metal_mine to 17
+[14:21:49] research: upgraded research_armour_technology to 9
+[2026-05-08 14:22:29] ==== loop 107/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:22:30] planet 42: no resources for building_metal_mine+1
+[14:22:30] research: upgraded research_ionic_technology to 2
+[2026-05-08 14:23:10] ==== loop 108/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:23:10] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:23:53] ==== loop 109/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:23:54] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:24:32] ==== loop 110/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:24:32] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:25:10] ==== loop 111/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:25:10] planet 42: no resources for building_solar_plant+1
+[14:25:10] research: upgraded research_ionic_technology to 3
+[2026-05-08 14:25:49] ==== loop 112/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:25:50] planet 42: no resources for building_solar_plant+1
+[14:25:50] research: upgraded research_ionic_technology to 4
+[2026-05-08 14:26:29] ==== loop 113/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:26:30] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:27:08] ==== loop 114/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:27:09] planet 42: no resources for building_solar_plant+1
+[14:27:09] research: upgraded research_weapons_technology to 7
+[2026-05-08 14:27:48] ==== loop 115/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:27:49] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:28:32] ==== loop 116/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:28:32] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:29:17] ==== loop 117/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:29:17] planet 42: no resources for building_solar_plant+1
+[14:29:17] research: upgraded research_laser_technology to 6
+[2026-05-08 14:29:55] ==== loop 118/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:29:56] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:30:37] ==== loop 119/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:30:38] planet 42: no resources for building_solar_plant+1
+[14:30:38] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:31:19] ==== loop 120/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:31:19] planet 42: no resources for building_solar_plant+1
+[14:31:19] research: upgraded research_ionic_technology to 5
+[2026-05-08 14:31:59] ==== loop 121/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:32:00] planet 42: no resources for building_solar_plant+1
+[14:32:00] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:32:41] ==== loop 122/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:32:42] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:33:18] ==== loop 123/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:33:18] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:33:57] ==== loop 124/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:33:58] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:34:42] ==== loop 125/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:34:43] planet 42: no resources for building_solar_plant+1
+[14:34:43] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:35:24] ==== loop 126/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:35:24] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:36:05] ==== loop 127/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:36:05] planet 42: no resources for building_solar_plant+1
+[14:36:05] research: upgraded research_laser_technology to 7
+[2026-05-08 14:36:45] ==== loop 128/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:36:45] planet 42: no resources for building_solar_plant+1
+[14:36:45] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:37:24] ==== loop 129/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:37:24] planet 42: no resources for building_solar_plant+1
+[14:37:24] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:38:05] ==== loop 130/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:38:06] planet 42: no resources for building_solar_plant+1
+[14:38:06] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:38:48] ==== loop 131/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:38:49] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:39:26] ==== loop 132/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:39:27] planet 42: no resources for building_solar_plant+1
+[14:39:27] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:40:06] ==== loop 133/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:40:06] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:40:42] ==== loop 134/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:40:43] planet 42: no resources for building_solar_plant+1
+[14:40:43] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:41:19] ==== loop 135/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:41:20] planet 42: no resources for building_solar_plant+1
+[14:41:20] research: upgraded research_ionic_technology to 6
+[2026-05-08 14:41:55] ==== loop 136/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:41:56] planet 42: no resources for building_solar_plant+1
+[14:41:56] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:42:37] ==== loop 137/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:42:38] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:43:16] ==== loop 138/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:43:16] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:43:55] ==== loop 139/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:43:55] planet 42: no resources for building_solar_plant+1
+[14:43:55] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:44:31] ==== loop 140/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:44:32] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:45:09] ==== loop 141/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:45:09] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:45:48] ==== loop 142/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:45:49] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:46:27] ==== loop 143/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:46:27] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:47:09] ==== loop 144/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:47:10] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:47:47] ==== loop 145/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:47:49] planet 42: no resources for building_solar_plant+1
+[14:47:49] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-08 14:48:26] ==== loop 146/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:48:27] planet 42: no resources for building_solar_plant+1
+[14:48:27] research: upgraded research_laser_technology to 8
+[2026-05-08 14:49:06] ==== loop 147/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:49:07] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:49:44] ==== loop 148/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:49:45] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:50:26] ==== loop 149/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:50:26] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:51:05] ==== loop 150/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:51:06] planet 42: no resources for building_solar_plant+1
+[2026-05-08 14:51:46] ==== loop 151/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[14:51:47] planet 42: no resources for building_solar_plant+1
+[14:51:47] research: blocked research_plasma_technology (research_energy_technology 5/8)
+[2026-05-11 07:01:53] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:01:54] planet 42: queued building_solar_plant to 17
+[2026-05-11 07:02:22] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:02:23] planet 42: queued building_solar_plant to 18
+[2026-05-11 07:02:50] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:02:51] planet 42: queued building_solar_plant to 19
+[07:02:51] research: upgraded research_energy_technology to 6
+[2026-05-11 07:03:14] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:03:15] planet 42: queued building_deuterium_tank to 1
+[2026-05-11 07:03:37] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:03:38] planet 42: queued building_deuterium_tank to 2
+[07:03:38] research: upgraded research_energy_technology to 7
+[2026-05-11 07:04:08] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:04:09] planet 42: queued building_deuterium_tank to 3
+[2026-05-11 07:04:44] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:04:45] planet 42: queued building_deuterium_tank to 4
+[07:04:45] research: upgraded research_energy_technology to 8
+[2026-05-11 07:05:21] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:05:23] planet 42: building queue full (5)
+[07:05:23] planet 42: building queue full (5)
+[07:05:23] planet 42: building queue full (5)
+[07:05:23] planet 42: building queue full (5)
+[07:05:23] research: upgraded research_shielding_technology to 6
+[2026-05-11 07:05:58] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:06:00] planet 42: building queue full (5)
+[07:06:00] planet 42: building queue full (5)
+[07:06:00] planet 42: building queue full (5)
+[07:06:00] planet 42: building queue full (5)
+[07:06:00] research: upgraded research_shielding_technology to 7
+[2026-05-11 07:06:34] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:06:37] planet 42: building queue full (5)
+[07:06:37] planet 42: building queue full (5)
+[07:06:37] planet 42: building queue full (5)
+[07:06:37] planet 42: building queue full (5)
+[2026-05-11 07:07:13] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:07:15] planet 42: building queue full (5)
+[07:07:15] planet 42: building queue full (5)
+[07:07:15] planet 42: building queue full (5)
+[07:07:15] planet 42: building queue full (5)
+[2026-05-11 07:07:53] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:07:53] planet 42: queued building_deuterium_sintetizer to 11
+[2026-05-11 07:08:28] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:08:28] planet 42: queued building_deuterium_sintetizer to 12
+[07:08:28] research: upgraded research_shielding_technology to 8
+[2026-05-11 07:09:06] ==== loop 14/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:09:06] planet 42: queued building_deuterium_sintetizer to 13
+[2026-05-11 07:09:44] ==== loop 15/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:09:44] planet 42: queued building_deuterium_sintetizer to 14
+[07:09:44] research: upgraded research_shielding_technology to 9
+[2026-05-11 07:10:20] ==== loop 16/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:10:21] planet 42: queued building_metal_mine to 18
+[2026-05-11 07:10:59] ==== loop 17/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:10:59] planet 42: queued building_metal_mine to 19
+[07:10:59] research: upgraded research_shielding_technology to 10
+[2026-05-11 07:11:39] ==== loop 18/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:11:40] planet 42: queued building_metal_mine to 20
+[2026-05-11 07:12:25] ==== loop 19/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:12:25] planet 42: queued building_metal_mine to 21
+[2026-05-11 07:13:06] ==== loop 20/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:13:07] planet 42: queued building_metal_mine to 22
+[07:13:07] research: upgraded research_armour_technology to 10
+[2026-05-11 07:13:51] ==== loop 21/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:13:53] planet 42: queued ship_solar_satellite +3
+[07:13:53] planet 42: queued building_metal_mine to 23
+[07:13:53] research: upgraded research_weapons_technology to 8
+[2026-05-11 07:14:34] ==== loop 22/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:14:34] planet 42: queued building_metal_mine to 24
+[2026-05-11 07:15:19] ==== loop 23/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:15:21] planet 42: building queue full (5)
+[07:15:21] planet 42: building queue full (5)
+[07:15:21] planet 42: building queue full (5)
+[07:15:21] planet 42: building queue full (5)
+[07:15:21] research: upgraded research_weapons_technology to 9
+[2026-05-11 07:16:05] ==== loop 24/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:16:07] planet 42: building queue full (5)
+[07:16:07] planet 42: building queue full (5)
+[07:16:07] planet 42: building queue full (5)
+[07:16:07] planet 42: building queue full (5)
+[2026-05-11 07:16:53] ==== loop 25/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:16:55] planet 42: queued ship_solar_satellite +2
+[07:16:55] planet 42: queued building_metal_mine to 25
+[2026-05-11 07:17:36] ==== loop 26/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:17:38] planet 42: building queue full (5)
+[07:17:38] planet 42: building queue full (5)
+[07:17:38] planet 42: building queue full (5)
+[07:17:38] planet 42: building queue full (5)
+[07:17:38] research: upgraded research_weapons_technology to 10
+[2026-05-11 07:18:19] ==== loop 27/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:18:21] planet 42: building queue full (5)
+[07:18:21] planet 42: building queue full (5)
+[07:18:21] planet 42: building queue full (5)
+[2026-05-11 07:19:08] ==== loop 28/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:19:10] planet 42: building queue full (5)
+[07:19:10] planet 42: building queue full (5)
+[07:19:10] planet 42: building queue full (5)
+[07:19:10] planet 42: building queue full (5)
+[07:19:10] research: upgraded research_impulse_drive to 3
+[2026-05-11 07:19:49] ==== loop 29/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:19:52] planet 42: building queue full (5)
+[07:19:52] planet 42: building queue full (5)
+[07:19:52] planet 42: building queue full (5)
+[07:19:52] planet 42: building queue full (5)
+[07:19:52] research: upgraded research_impulse_drive to 4
+[2026-05-11 07:20:28] ==== loop 30/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:20:31] planet 42: building queue full (5)
+[07:20:31] planet 42: building queue full (5)
+[07:20:31] planet 42: building queue full (5)
+[07:20:31] planet 42: building queue full (5)
+[07:20:31] research: upgraded research_impulse_drive to 5
+[2026-05-11 07:21:04] ==== loop 31/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:21:05] planet 42: queued ship_solar_satellite +6
+[07:21:05] planet 42: queued building_deuterium_sintetizer to 15
+[2026-05-11 07:21:41] ==== loop 32/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:21:44] planet 42: building queue full (5)
+[07:21:44] planet 42: building queue full (5)
+[07:21:44] planet 42: building queue full (5)
+[07:21:44] planet 42: building queue full (5)
+[07:21:44] research: upgraded research_impulse_drive to 6
+[2026-05-11 07:22:23] ==== loop 33/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:22:26] planet 42: building queue full (5)
+[07:22:26] planet 42: building queue full (5)
+[07:22:26] planet 42: building queue full (5)
+[07:22:26] research: upgraded research_hyperspace_technology to 3
+[2026-05-11 07:23:03] ==== loop 34/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:23:06] planet 42: building queue full (5)
+[07:23:06] planet 42: building queue full (5)
+[07:23:06] planet 42: building queue full (5)
+[07:23:06] planet 42: building queue full (5)
+[2026-05-11 07:23:44] ==== loop 35/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:23:47] planet 42: building queue full (5)
+[07:23:47] planet 42: building queue full (5)
+[07:23:47] planet 42: building queue full (5)
+[07:23:47] planet 42: building queue full (5)
+[07:23:47] research: upgraded research_hyperspace_technology to 4
+[2026-05-11 07:24:25] ==== loop 36/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:24:28] planet 42: building queue full (5)
+[07:24:28] planet 42: building queue full (5)
+[07:24:28] planet 42: building queue full (5)
+[2026-05-11 07:25:04] ==== loop 37/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:25:08] planet 42: building queue full (5)
+[07:25:08] planet 42: building queue full (5)
+[07:25:08] planet 42: building queue full (5)
+[07:25:08] planet 42: building queue full (5)
+[07:25:08] research: upgraded research_combustion_drive to 8
+[2026-05-11 07:25:44] ==== loop 38/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:25:46] planet 42: building queue full (5)
+[07:25:46] planet 42: building queue full (5)
+[07:25:46] planet 42: building queue full (5)
+[07:25:46] planet 42: building queue full (5)
+[2026-05-11 07:26:20] ==== loop 39/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:26:22] planet 42: building queue full (5)
+[07:26:22] planet 42: building queue full (5)
+[07:26:22] planet 42: building queue full (5)
+[07:26:22] planet 42: building queue full (5)
+[2026-05-11 07:26:57] ==== loop 40/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:26:58] planet 42: queued ship_solar_satellite +3
+[07:26:58] planet 42: queued building_deuterium_sintetizer to 16
+[07:26:58] research: upgraded research_astrophysics to 1
+[2026-05-11 07:27:36] ==== loop 41/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:27:39] planet 42: building queue full (5)
+[07:27:39] planet 42: building queue full (5)
+[07:27:39] planet 42: building queue full (5)
+[07:27:39] planet 42: building queue full (5)
+[07:27:39] research: upgraded research_astrophysics to 2
+[2026-05-11 07:28:15] ==== loop 42/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:28:19] planet 42: building queue full (5)
+[07:28:19] planet 42: building queue full (5)
+[07:28:19] planet 42: building queue full (5)
+[07:28:19] planet 42: building queue full (5)
+[07:28:19] research: upgraded research_astrophysics to 3
+[2026-05-11 07:28:56] ==== loop 43/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:28:58] planet 42: building queue full (5)
+[07:28:58] planet 42: building queue full (5)
+[07:28:58] planet 42: building queue full (5)
+[07:28:58] planet 42: building queue full (5)
+[2026-05-11 07:29:30] ==== loop 44/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:29:32] planet 42: building queue full (5)
+[07:29:32] planet 42: building queue full (5)
+[07:29:32] planet 42: building queue full (5)
+[07:29:32] planet 42: building queue full (5)
+[2026-05-11 07:30:05] ==== loop 45/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:30:08] planet 42: building queue full (5)
+[07:30:08] planet 42: building queue full (5)
+[07:30:08] planet 42: building queue full (5)
+[07:30:08] planet 42: building queue full (5)
+[2026-05-11 07:31:00] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:31:03] planet 42: building queue full (5)
+[07:31:03] planet 42: building queue full (5)
+[07:31:03] planet 42: building queue full (5)
+[07:31:03] planet 42: building queue full (5)
+[07:31:03] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:31:03] research: upgraded research_astrophysics to 4
+[2026-05-11 07:31:43] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:31:47] planet 42: building queue full (5)
+[07:31:47] planet 42: building queue full (5)
+[07:31:47] planet 42: building queue full (5)
+[07:31:47] planet 42: building queue full (5)
+[07:31:47] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:31:47] research: upgraded research_astrophysics to 5
+[2026-05-11 07:32:25] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:32:28] planet 42: building queue full (5)
+[07:32:28] planet 42: building queue full (5)
+[07:32:28] planet 42: building queue full (5)
+[07:32:28] planet 42: building queue full (5)
+[07:32:28] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:33:05] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:33:07] planet 42: building queue full (5)
+[07:33:07] planet 42: building queue full (5)
+[07:33:07] planet 42: building queue full (5)
+[07:33:07] planet 42: building queue full (5)
+[07:33:07] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:33:42] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:33:45] planet 42: building queue full (5)
+[07:33:45] planet 42: building queue full (5)
+[07:33:45] planet 42: building queue full (5)
+[07:33:45] planet 42: building queue full (5)
+[07:33:45] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:33:45] research: upgraded research_astrophysics to 6
+[2026-05-11 07:34:23] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:34:25] planet 42: building queue full (5)
+[07:34:25] planet 42: building queue full (5)
+[07:34:25] planet 42: building queue full (5)
+[07:34:25] planet 42: building queue full (5)
+[07:34:25] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:34:25] research: upgraded research_hyperspace_drive to 1
+[2026-05-11 07:35:03] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:35:07] planet 42: building queue full (5)
+[07:35:07] planet 42: building queue full (5)
+[07:35:07] planet 42: building queue full (5)
+[07:35:07] planet 42: building queue full (5)
+[07:35:07] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:35:42] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:35:44] planet 42: building queue full (5)
+[07:35:44] planet 42: building queue full (5)
+[07:35:44] planet 42: building queue full (5)
+[07:35:44] planet 42: building queue full (5)
+[07:35:44] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:35:44] research: upgraded research_hyperspace_drive to 2
+[2026-05-11 07:36:23] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:36:24] planet 42: queued ship_solar_satellite +7
+[07:36:24] planet 42: queued building_crystal_mine to 9
+[07:36:24] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:37:01] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:37:05] planet 42: building queue full (5)
+[07:37:05] planet 42: building queue full (5)
+[07:37:05] planet 42: building queue full (5)
+[07:37:05] planet 42: building queue full (5)
+[07:37:05] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:37:42] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:37:45] planet 42: building queue full (5)
+[07:37:45] planet 42: building queue full (5)
+[07:37:45] planet 42: building queue full (5)
+[07:37:45] planet 42: building queue full (5)
+[07:37:45] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:37:45] research: upgraded research_hyperspace_drive to 3
+[2026-05-11 07:38:17] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:38:20] planet 42: building queue full (5)
+[07:38:20] planet 42: building queue full (5)
+[07:38:20] planet 42: building queue full (5)
+[07:38:20] planet 42: building queue full (5)
+[07:38:20] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:38:59] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:39:01] planet 42: building queue full (5)
+[07:39:01] planet 42: building queue full (5)
+[07:39:01] planet 42: building queue full (5)
+[07:39:01] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:39:01] research: upgraded research_hyperspace_drive to 4
+[2026-05-11 07:39:43] ==== loop 14/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:39:46] planet 42: building queue full (5)
+[07:39:46] planet 42: building queue full (5)
+[07:39:46] planet 42: building queue full (5)
+[07:39:46] planet 42: building queue full (5)
+[07:39:46] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:40:22] ==== loop 15/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:40:24] planet 42: building queue full (5)
+[07:40:24] planet 42: building queue full (5)
+[07:40:24] planet 42: building queue full (5)
+[07:40:24] planet 42: building queue full (5)
+[07:40:24] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:40:24] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 07:41:00] ==== loop 16/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:41:01] planet 42: building queue full (5)
+[07:41:01] planet 42: building queue full (5)
+[07:41:01] planet 42: building queue full (5)
+[07:41:01] planet 42: building queue full (5)
+[07:41:01] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:41:41] ==== loop 17/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:41:44] planet 42: building queue full (5)
+[07:41:44] planet 42: building queue full (5)
+[07:41:44] planet 42: building queue full (5)
+[07:41:44] planet 42: building queue full (5)
+[07:41:44] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:42:22] ==== loop 18/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:42:25] planet 42: building queue full (5)
+[07:42:25] planet 42: building queue full (5)
+[07:42:25] planet 42: building queue full (5)
+[07:42:25] planet 42: building queue full (5)
+[07:42:25] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:43:00] ==== loop 19/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:43:02] planet 42: building queue full (5)
+[07:43:02] planet 42: building queue full (5)
+[07:43:02] planet 42: building queue full (5)
+[07:43:02] planet 42: building queue full (5)
+[07:43:02] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:43:38] ==== loop 20/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:43:41] planet 42: building queue full (5)
+[07:43:41] planet 42: building queue full (5)
+[07:43:41] planet 42: building queue full (5)
+[07:43:41] planet 42: building queue full (5)
+[07:43:41] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:43:41] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 07:44:23] ==== loop 21/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:44:26] planet 42: building queue full (5)
+[07:44:26] planet 42: building queue full (5)
+[07:44:26] planet 42: building queue full (5)
+[07:44:26] planet 42: building queue full (5)
+[07:44:26] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:44:26] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 07:45:05] ==== loop 22/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[2026-05-11 07:45:34] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:45:35] planet 42: building queue full (5)
+[07:45:35] planet 42: building queue full (5)
+[07:45:35] planet 42: building queue full (5)
+[07:45:35] planet 42: building queue full (5)
+[07:45:35] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 07:46:15] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:46:19] planet 42: building queue full (5)
+[07:46:19] planet 42: building queue full (5)
+[07:46:19] planet 42: building queue full (5)
+[07:46:19] planet 42: building queue full (5)
+[2026-05-11 07:46:55] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:46:58] planet 42: building queue full (5)
+[07:46:58] planet 42: building queue full (5)
+[07:46:58] planet 42: building queue full (5)
+[07:46:58] planet 42: building queue full (5)
+[2026-05-11 07:47:38] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:47:41] planet 42: building queue full (5)
+[07:47:41] planet 42: building queue full (5)
+[07:47:41] planet 42: building queue full (5)
+[07:47:41] planet 42: building queue full (5)
+[2026-05-11 07:48:17] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:48:19] planet 42: building queue full (5)
+[07:48:19] planet 42: building queue full (5)
+[07:48:19] planet 42: building queue full (5)
+[07:48:19] planet 42: building queue full (5)
+[2026-05-11 07:49:02] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:49:04] planet 42: building queue full (5)
+[07:49:04] planet 42: building queue full (5)
+[07:49:04] planet 42: building queue full (5)
+[07:49:04] planet 42: building queue full (5)
+[07:49:04] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 07:49:45] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:49:47] planet 42: building queue full (5)
+[07:49:47] planet 42: building queue full (5)
+[07:49:47] planet 42: building queue full (5)
+[2026-05-11 07:50:25] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:50:26] planet 42: queued ship_solar_satellite +5
+[07:50:26] planet 42: queued building_crystal_mine to 10
+[2026-05-11 07:51:04] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:51:08] planet 42: building queue full (5)
+[07:51:08] planet 42: building queue full (5)
+[07:51:08] planet 42: building queue full (5)
+[07:51:08] planet 42: building queue full (5)
+[07:51:08] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 07:51:46] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:51:48] planet 42: building queue full (5)
+[07:51:48] planet 42: building queue full (5)
+[07:51:48] planet 42: building queue full (5)
+[07:51:48] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 07:52:32] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:52:34] planet 42: building queue full (5)
+[07:52:34] planet 42: building queue full (5)
+[07:52:34] planet 42: building queue full (5)
+[07:52:34] planet 42: building queue full (5)
+[07:52:34] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 07:53:18] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:53:20] planet 42: building queue full (5)
+[07:53:20] planet 42: building queue full (5)
+[07:53:20] planet 42: building queue full (5)
+[07:53:20] planet 42: building queue full (5)
+[2026-05-11 07:54:01] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:54:03] planet 42: building queue full (5)
+[07:54:03] planet 42: building queue full (5)
+[07:54:03] planet 42: building queue full (5)
+[2026-05-11 07:54:45] ==== loop 14/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:54:47] planet 42: building queue full (5)
+[07:54:47] planet 42: building queue full (5)
+[07:54:47] planet 42: building queue full (5)
+[07:54:47] planet 42: building queue full (5)
+[07:54:47] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 07:55:25] ==== loop 15/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:55:27] planet 42: building queue full (5)
+[07:55:27] planet 42: building queue full (5)
+[07:55:27] planet 42: building queue full (5)
+[07:55:27] planet 42: building queue full (5)
+[2026-05-11 07:56:08] ==== loop 16/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:56:10] planet 42: building queue full (5)
+[07:56:10] planet 42: building queue full (5)
+[07:56:10] planet 42: building queue full (5)
+[2026-05-11 07:56:53] ==== loop 17/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:56:57] planet 42: building queue full (5)
+[07:56:57] planet 42: building queue full (5)
+[07:56:57] planet 42: building queue full (5)
+[07:56:57] planet 42: building queue full (5)
+[2026-05-11 07:57:37] ==== loop 18/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:57:40] planet 42: building queue full (5)
+[07:57:40] planet 42: building queue full (5)
+[07:57:40] planet 42: building queue full (5)
+[07:57:40] planet 42: building queue full (5)
+[07:57:40] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 07:58:19] ==== loop 19/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:58:21] planet 42: building queue full (5)
+[07:58:21] planet 42: building queue full (5)
+[07:58:21] planet 42: building queue full (5)
+[07:58:21] planet 42: building queue full (5)
+[2026-05-11 07:59:02] ==== loop 20/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:59:04] planet 42: building queue full (5)
+[07:59:04] planet 42: building queue full (5)
+[07:59:04] planet 42: building queue full (5)
+[07:59:04] planet 42: building queue full (5)
+[2026-05-11 07:59:45] ==== loop 21/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[07:59:46] planet 42: building queue full (5)
+[07:59:46] planet 42: building queue full (5)
+[07:59:46] planet 42: building queue full (5)
+[2026-05-11 08:00:28] ==== loop 22/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:00:32] planet 42: building queue full (5)
+[08:00:32] planet 42: building queue full (5)
+[08:00:32] planet 42: building queue full (5)
+[08:00:32] planet 42: building queue full (5)
+[08:00:32] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:01:13] ==== loop 23/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:01:14] planet 42: building queue full (5)
+[08:01:14] planet 42: building queue full (5)
+[08:01:14] planet 42: building queue full (5)
+[08:01:14] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:01:55] ==== loop 24/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:01:57] planet 42: building queue full (5)
+[08:01:57] planet 42: building queue full (5)
+[08:01:57] planet 42: building queue full (5)
+[08:01:57] planet 42: building queue full (5)
+[2026-05-11 08:02:30] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:02:33] planet 42: building queue full (5)
+[08:02:33] planet 42: building queue full (5)
+[08:02:33] planet 42: building queue full (5)
+[08:02:33] planet 42: building queue full (5)
+[2026-05-11 08:03:10] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:03:14] planet 42: building queue full (5)
+[08:03:14] planet 42: building queue full (5)
+[08:03:14] planet 42: building queue full (5)
+[08:03:14] planet 42: building queue full (5)
+[2026-05-11 08:03:52] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:03:54] planet 42: building queue full (5)
+[08:03:54] planet 42: building queue full (5)
+[08:03:54] planet 42: building queue full (5)
+[08:03:54] planet 42: building queue full (5)
+[2026-05-11 08:04:29] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:04:32] planet 42: building queue full (5)
+[08:04:32] planet 42: building queue full (5)
+[08:04:32] planet 42: building queue full (5)
+[08:04:32] planet 42: building queue full (5)
+[08:04:32] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:05:14] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:05:15] planet 42: building queue full (5)
+[08:05:15] planet 42: building queue full (5)
+[08:05:15] planet 42: building queue full (5)
+[2026-05-11 08:06:05] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:06:08] planet 42: building queue full (5)
+[08:06:08] planet 42: building queue full (5)
+[08:06:08] planet 42: building queue full (5)
+[2026-05-11 08:06:47] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:06:49] planet 42: building queue full (5)
+[08:06:49] planet 42: building queue full (5)
+[08:06:49] planet 42: building queue full (5)
+[08:06:49] planet 42: building queue full (5)
+[08:06:49] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:07:28] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:07:32] planet 42: building queue full (5)
+[08:07:32] planet 42: building queue full (5)
+[08:07:32] planet 42: building queue full (5)
+[08:07:32] planet 42: building queue full (5)
+[2026-05-11 08:08:13] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:08:15] planet 42: building queue full (5)
+[08:08:15] planet 42: building queue full (5)
+[08:08:15] planet 42: building queue full (5)
+[08:08:15] planet 42: building queue full (5)
+[08:08:15] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:08:50] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:08:53] planet 42: building queue full (5)
+[08:08:53] planet 42: building queue full (5)
+[08:08:53] planet 42: building queue full (5)
+[08:08:53] planet 42: building queue full (5)
+[2026-05-11 08:09:35] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:09:37] planet 42: building queue full (5)
+[08:09:37] planet 42: building queue full (5)
+[08:09:37] planet 42: building queue full (5)
+[08:09:37] planet 42: building queue full (5)
+[08:09:37] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:10:22] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:10:25] planet 42: building queue full (5)
+[08:10:25] planet 42: building queue full (5)
+[08:10:25] planet 42: building queue full (5)
+[08:10:25] planet 42: building queue full (5)
+[2026-05-11 08:11:05] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:11:06] planet 42: queued ship_solar_satellite +8
+[08:11:06] planet 42: queued building_metal_store to 9
+[08:11:06] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:11:52] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:11:55] planet 42: building queue full (5)
+[08:11:55] planet 42: building queue full (5)
+[08:11:55] planet 42: building queue full (5)
+[08:11:55] planet 42: building queue full (5)
+[2026-05-11 08:12:31] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:12:32] planet 42: queued building_metal_store to 10
+[08:12:32] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:13:13] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:13:15] planet 42: building queue full (5)
+[08:13:15] planet 42: building queue full (5)
+[08:13:15] planet 42: building queue full (5)
+[08:13:15] planet 42: building queue full (5)
+[08:13:15] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:14:00] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:14:04] planet 42: building queue full (5)
+[08:14:04] planet 42: building queue full (5)
+[08:14:04] planet 42: building queue full (5)
+[08:14:04] planet 42: building queue full (5)
+[08:14:04] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:14:47] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:14:49] planet 42: queued ship_solar_satellite +9
+[08:14:49] planet 42: queued building_metal_store to 11
+[08:14:49] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:15:31] ==== loop 14/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:15:32] planet 42: queued building_metal_store to 12
+[08:15:32] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:16:16] ==== loop 15/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:16:17] planet 42: queued building_metal_store to 13
+[08:16:17] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:16:58] ==== loop 16/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:17:00] planet 42: building queue full (5)
+[08:17:00] planet 42: building queue full (5)
+[08:17:00] planet 42: building queue full (5)
+[08:17:00] planet 42: building queue full (5)
+[08:17:00] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:17:41] ==== loop 17/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:17:43] planet 42: building queue full (5)
+[08:17:43] planet 42: building queue full (5)
+[08:17:43] planet 42: building queue full (5)
+[08:17:43] planet 42: building queue full (5)
+[08:17:43] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:18:26] ==== loop 18/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:18:28] planet 42: building queue full (5)
+[08:18:28] planet 42: building queue full (5)
+[08:18:28] planet 42: building queue full (5)
+[2026-05-11 08:19:08] ==== loop 19/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:19:09] planet 42: queued building_metal_store to 14
+[08:19:09] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:20:10] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:20:12] planet 42: building queue full (5)
+[08:20:12] planet 42: building queue full (5)
+[08:20:12] planet 42: building queue full (5)
+[08:20:12] planet 42: building queue full (5)
+[08:20:12] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:20:57] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:21:00] planet 42: building queue full (5)
+[08:21:00] planet 42: building queue full (5)
+[08:21:00] planet 42: building queue full (5)
+[08:21:00] planet 42: building queue full (5)
+[2026-05-11 08:21:41] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:21:43] planet 42: building queue full (5)
+[08:21:43] planet 42: building queue full (5)
+[08:21:43] planet 42: building queue full (5)
+[08:21:43] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:22:23] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:22:25] planet 42: building queue full (5)
+[08:22:25] planet 42: building queue full (5)
+[08:22:25] planet 42: building queue full (5)
+[08:22:25] planet 42: building queue full (5)
+[08:22:25] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:23:10] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:23:12] planet 42: building queue full (5)
+[08:23:12] planet 42: building queue full (5)
+[08:23:12] planet 42: building queue full (5)
+[08:23:12] planet 42: building queue full (5)
+[08:23:12] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:23:54] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:23:56] planet 42: building queue full (5)
+[08:23:56] planet 42: building queue full (5)
+[08:23:56] planet 42: building queue full (5)
+[08:23:56] planet 42: building queue full (5)
+[08:23:56] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:24:37] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:24:40] planet 42: building queue full (5)
+[08:24:40] planet 42: building queue full (5)
+[08:24:40] planet 42: building queue full (5)
+[08:24:40] planet 42: building queue full (5)
+[2026-05-11 08:25:22] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:25:24] planet 42: building queue full (5)
+[08:25:24] planet 42: building queue full (5)
+[08:25:24] planet 42: building queue full (5)
+[08:25:24] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:26:09] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:26:11] planet 42: building queue full (5)
+[08:26:11] planet 42: building queue full (5)
+[08:26:11] planet 42: building queue full (5)
+[08:26:11] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:26:49] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:26:51] planet 42: building queue full (5)
+[08:26:51] planet 42: building queue full (5)
+[08:26:51] planet 42: building queue full (5)
+[08:26:51] planet 42: building queue full (5)
+[2026-05-11 08:27:32] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:27:32] planet 42: queued building_metal_mine to 26
+[08:27:32] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:28:16] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:28:18] planet 42: building queue full (5)
+[08:28:18] planet 42: building queue full (5)
+[08:28:18] planet 42: building queue full (5)
+[08:28:18] planet 42: building queue full (5)
+[2026-05-11 08:28:56] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:28:59] planet 42: building queue full (5)
+[08:28:59] planet 42: building queue full (5)
+[08:28:59] planet 42: building queue full (5)
+[08:28:59] planet 42: building queue full (5)
+[2026-05-11 08:29:43] ==== loop 14/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:29:46] planet 42: building queue full (5)
+[08:29:46] planet 42: building queue full (5)
+[08:29:46] planet 42: building queue full (5)
+[08:29:46] planet 42: building queue full (5)
+[08:29:46] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:30:26] ==== loop 15/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:30:28] planet 42: building queue full (5)
+[08:30:28] planet 42: building queue full (5)
+[08:30:28] planet 42: building queue full (5)
+[08:30:28] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:31:10] ==== loop 16/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:31:13] planet 42: building queue full (5)
+[08:31:13] planet 42: building queue full (5)
+[08:31:13] planet 42: building queue full (5)
+[08:31:13] planet 42: building queue full (5)
+[2026-05-11 08:31:53] ==== loop 17/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:31:57] planet 42: building queue full (5)
+[08:31:57] planet 42: building queue full (5)
+[08:31:57] planet 42: building queue full (5)
+[08:31:57] planet 42: building queue full (5)
+[2026-05-11 08:32:37] ==== loop 18/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:32:39] planet 42: building queue full (5)
+[08:32:39] planet 42: building queue full (5)
+[08:32:39] planet 42: building queue full (5)
+[08:32:39] planet 42: building queue full (5)
+[2026-05-11 08:33:20] ==== loop 19/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:33:22] planet 42: building queue full (5)
+[08:33:22] planet 42: building queue full (5)
+[08:33:22] planet 42: building queue full (5)
+[2026-05-11 08:34:05] ==== loop 20/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:34:07] planet 42: building queue full (5)
+[08:34:07] planet 42: building queue full (5)
+[08:34:07] planet 42: building queue full (5)
+[08:34:07] planet 42: building queue full (5)
+[08:34:07] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:34:52] ==== loop 21/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:34:54] planet 42: building queue full (5)
+[08:34:54] planet 42: building queue full (5)
+[08:34:54] planet 42: building queue full (5)
+[08:34:54] planet 42: building queue full (5)
+[2026-05-11 08:35:33] ==== loop 22/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:35:35] planet 42: building queue full (5)
+[08:35:35] planet 42: building queue full (5)
+[08:35:35] planet 42: building queue full (5)
+[2026-05-11 08:36:19] ==== loop 23/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:36:21] planet 42: building queue full (5)
+[08:36:21] planet 42: building queue full (5)
+[08:36:21] planet 42: building queue full (5)
+[08:36:21] planet 42: building queue full (5)
+[08:36:21] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:37:11] ==== loop 24/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:37:15] planet 42: building queue full (5)
+[08:37:15] planet 42: building queue full (5)
+[08:37:15] planet 42: building queue full (5)
+[08:37:15] planet 42: building queue full (5)
+[08:37:15] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:37:57] ==== loop 25/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:38:00] planet 42: building queue full (5)
+[08:38:00] planet 42: building queue full (5)
+[08:38:00] planet 42: building queue full (5)
+[08:38:00] planet 42: building queue full (5)
+[2026-05-11 08:38:34] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:38:36] planet 42: building queue full (5)
+[08:38:36] planet 42: building queue full (5)
+[08:38:36] planet 42: building queue full (5)
+[08:38:36] planet 42: building queue full (5)
+[2026-05-11 08:39:12] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:39:13] planet 42: building queue full (5)
+[08:39:13] planet 42: building queue full (5)
+[08:39:13] planet 42: building queue full (5)
+[2026-05-11 08:39:57] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:39:59] planet 42: building queue full (5)
+[08:39:59] planet 42: building queue full (5)
+[08:39:59] planet 42: building queue full (5)
+[2026-05-11 08:40:46] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:40:47] planet 42: building queue full (5)
+[08:40:47] planet 42: building queue full (5)
+[08:40:47] planet 42: building queue full (5)
+[08:40:47] planet 42: building queue full (5)
+[08:40:47] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:41:29] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:41:31] planet 42: building queue full (5)
+[08:41:31] planet 42: building queue full (5)
+[08:41:31] planet 42: building queue full (5)
+[2026-05-11 08:42:15] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:42:19] planet 42: building queue full (5)
+[08:42:19] planet 42: building queue full (5)
+[08:42:19] planet 42: building queue full (5)
+[08:42:19] planet 42: building queue full (5)
+[2026-05-11 08:42:59] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:43:02] planet 42: building queue full (5)
+[08:43:02] planet 42: building queue full (5)
+[08:43:02] planet 42: building queue full (5)
+[08:43:02] planet 42: building queue full (5)
+[08:43:02] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:43:43] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:43:45] planet 42: building queue full (5)
+[08:43:45] planet 42: building queue full (5)
+[08:43:45] planet 42: building queue full (5)
+[08:43:45] planet 42: building queue full (5)
+[2026-05-11 08:44:29] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:44:30] planet 42: queued building_crystal_mine to 11
+[2026-05-11 08:45:14] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:45:16] planet 42: building queue full (5)
+[08:45:16] planet 42: building queue full (5)
+[08:45:16] planet 42: building queue full (5)
+[08:45:16] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:45:56] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:45:58] planet 42: building queue full (5)
+[08:45:58] planet 42: building queue full (5)
+[08:45:58] planet 42: building queue full (5)
+[08:45:58] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:46:42] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:46:45] planet 42: building queue full (5)
+[08:46:45] planet 42: building queue full (5)
+[08:46:45] planet 42: building queue full (5)
+[08:46:45] planet 42: building queue full (5)
+[08:46:45] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:47:25] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:47:28] planet 42: building queue full (5)
+[08:47:28] planet 42: building queue full (5)
+[08:47:28] planet 42: building queue full (5)
+[08:47:28] planet 42: building queue full (5)
+[08:47:28] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:48:10] ==== loop 14/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:48:12] planet 42: building queue full (5)
+[08:48:12] planet 42: building queue full (5)
+[08:48:12] planet 42: building queue full (5)
+[08:48:12] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:48:56] ==== loop 15/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:48:57] planet 42: building queue full (5)
+[08:48:57] planet 42: building queue full (5)
+[08:48:57] planet 42: building queue full (5)
+[08:48:57] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:49:40] ==== loop 16/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:49:42] planet 42: building queue full (5)
+[08:49:42] planet 42: building queue full (5)
+[08:49:42] planet 42: building queue full (5)
+[08:49:42] planet 42: building queue full (5)
+[08:49:42] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:50:22] ==== loop 17/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:50:26] planet 42: building queue full (5)
+[08:50:26] planet 42: building queue full (5)
+[08:50:26] planet 42: building queue full (5)
+[08:50:26] planet 42: building queue full (5)
+[08:50:26] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:51:07] ==== loop 18/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:51:08] planet 42: building queue full (5)
+[08:51:08] planet 42: building queue full (5)
+[08:51:08] planet 42: building queue full (5)
+[2026-05-11 08:51:50] ==== loop 19/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:51:52] planet 42: building queue full (5)
+[08:51:52] planet 42: building queue full (5)
+[08:51:52] planet 42: building queue full (5)
+[08:51:52] planet 42: building queue full (5)
+[2026-05-11 08:52:34] ==== loop 20/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:52:36] planet 42: building queue full (5)
+[08:52:36] planet 42: building queue full (5)
+[08:52:36] planet 42: building queue full (5)
+[08:52:36] planet 42: building queue full (5)
+[08:52:36] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:53:15] ==== loop 21/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:53:18] planet 42: building queue full (5)
+[08:53:18] planet 42: building queue full (5)
+[08:53:18] planet 42: building queue full (5)
+[08:53:18] planet 42: building queue full (5)
+[08:53:18] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:53:55] ==== loop 22/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:53:58] planet 42: building queue full (5)
+[08:53:58] planet 42: building queue full (5)
+[08:53:58] planet 42: building queue full (5)
+[08:53:58] planet 42: building queue full (5)
+[2026-05-11 08:54:37] ==== loop 23/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:54:39] planet 42: building queue full (5)
+[08:54:39] planet 42: building queue full (5)
+[08:54:39] planet 42: building queue full (5)
+[08:54:39] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:55:18] ==== loop 24/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:55:19] planet 42: building queue full (5)
+[08:55:19] planet 42: building queue full (5)
+[08:55:19] planet 42: building queue full (5)
+[08:55:19] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:55:58] ==== loop 25/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:56:01] planet 42: building queue full (5)
+[08:56:01] planet 42: building queue full (5)
+[08:56:01] planet 42: building queue full (5)
+[08:56:01] planet 42: building queue full (5)
+[08:56:01] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:56:44] ==== loop 26/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:56:47] planet 42: building queue full (5)
+[08:56:47] planet 42: building queue full (5)
+[08:56:47] planet 42: building queue full (5)
+[08:56:47] planet 42: building queue full (5)
+[08:56:47] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:57:24] ==== loop 27/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:57:27] planet 42: building queue full (5)
+[08:57:27] planet 42: building queue full (5)
+[08:57:27] planet 42: building queue full (5)
+[2026-05-11 08:58:07] ==== loop 28/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:58:08] planet 42: building queue full (5)
+[08:58:08] planet 42: building queue full (5)
+[08:58:08] planet 42: building queue full (5)
+[08:58:08] planet 42: building queue full (5)
+[08:58:08] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 08:58:48] ==== loop 29/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:58:49] planet 42: building queue full (5)
+[08:58:49] planet 42: building queue full (5)
+[08:58:49] planet 42: building queue full (5)
+[2026-05-11 08:59:33] ==== loop 30/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[08:59:35] planet 42: building queue full (5)
+[08:59:35] planet 42: building queue full (5)
+[08:59:35] planet 42: building queue full (5)
+[08:59:35] planet 42: building queue full (5)
+[2026-05-11 09:00:13] ==== loop 31/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:00:15] planet 42: building queue full (5)
+[09:00:15] planet 42: building queue full (5)
+[09:00:15] planet 42: building queue full (5)
+[09:00:15] planet 42: building queue full (5)
+[09:00:15] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:00:57] ==== loop 32/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:01:00] planet 42: building queue full (5)
+[09:01:00] planet 42: building queue full (5)
+[09:01:00] planet 42: building queue full (5)
+[09:01:00] planet 42: building queue full (5)
+[09:01:00] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:01:38] ==== loop 33/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:01:41] planet 42: building queue full (5)
+[09:01:41] planet 42: building queue full (5)
+[09:01:41] planet 42: building queue full (5)
+[09:01:41] planet 42: building queue full (5)
+[2026-05-11 09:02:23] ==== loop 34/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:02:27] planet 42: building queue full (5)
+[09:02:27] planet 42: building queue full (5)
+[09:02:27] planet 42: building queue full (5)
+[09:02:27] planet 42: building queue full (5)
+[2026-05-11 09:03:06] ==== loop 35/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:03:08] planet 42: building queue full (5)
+[09:03:08] planet 42: building queue full (5)
+[09:03:08] planet 42: building queue full (5)
+[09:03:08] planet 42: building queue full (5)
+[09:03:08] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:03:47] ==== loop 36/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:03:50] planet 42: building queue full (5)
+[09:03:50] planet 42: building queue full (5)
+[09:03:50] planet 42: building queue full (5)
+[09:03:50] planet 42: building queue full (5)
+[09:03:50] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:04:29] ==== loop 37/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:04:32] planet 42: building queue full (5)
+[09:04:32] planet 42: building queue full (5)
+[09:04:32] planet 42: building queue full (5)
+[09:04:32] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:05:10] ==== loop 38/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:05:12] planet 42: building queue full (5)
+[09:05:12] planet 42: building queue full (5)
+[09:05:12] planet 42: building queue full (5)
+[09:05:12] planet 42: building queue full (5)
+[09:05:12] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:05:50] ==== loop 39/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:05:53] planet 42: building queue full (5)
+[09:05:53] planet 42: building queue full (5)
+[09:05:53] planet 42: building queue full (5)
+[09:05:53] planet 42: building queue full (5)
+[2026-05-11 09:06:31] ==== loop 40/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:06:33] planet 42: building queue full (5)
+[09:06:33] planet 42: building queue full (5)
+[09:06:33] planet 42: building queue full (5)
+[09:06:33] planet 42: building queue full (5)
+[2026-05-11 09:07:12] ==== loop 41/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:07:14] planet 42: building queue full (5)
+[09:07:14] planet 42: building queue full (5)
+[09:07:14] planet 42: building queue full (5)
+[09:07:14] planet 42: building queue full (5)
+[09:07:14] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:07:53] ==== loop 42/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:07:57] planet 42: building queue full (5)
+[09:07:57] planet 42: building queue full (5)
+[09:07:57] planet 42: building queue full (5)
+[09:07:57] planet 42: building queue full (5)
+[09:07:57] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:08:32] ==== loop 43/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:08:35] planet 42: building queue full (5)
+[09:08:35] planet 42: building queue full (5)
+[09:08:35] planet 42: building queue full (5)
+[09:08:35] planet 42: building queue full (5)
+[09:08:35] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:09:13] ==== loop 44/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:09:15] planet 42: building queue full (5)
+[09:09:15] planet 42: building queue full (5)
+[09:09:15] planet 42: building queue full (5)
+[2026-05-11 09:09:55] ==== loop 45/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:09:56] planet 42: building queue full (5)
+[09:09:56] planet 42: building queue full (5)
+[09:09:56] planet 42: building queue full (5)
+[09:09:56] planet 42: building queue full (5)
+[2026-05-11 09:10:36] ==== loop 46/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:10:37] planet 42: building queue full (5)
+[09:10:37] planet 42: building queue full (5)
+[09:10:37] planet 42: building queue full (5)
+[09:10:37] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:11:16] ==== loop 47/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:11:19] planet 42: building queue full (5)
+[09:11:19] planet 42: building queue full (5)
+[09:11:19] planet 42: building queue full (5)
+[09:11:19] planet 42: building queue full (5)
+[2026-05-11 09:11:59] ==== loop 48/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:12:01] planet 42: building queue full (5)
+[09:12:01] planet 42: building queue full (5)
+[09:12:01] planet 42: building queue full (5)
+[09:12:01] planet 42: building queue full (5)
+[09:12:01] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:12:43] ==== loop 49/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:12:46] planet 42: building queue full (5)
+[09:12:46] planet 42: building queue full (5)
+[09:12:46] planet 42: building queue full (5)
+[09:12:46] planet 42: building queue full (5)
+[2026-05-11 09:13:25] ==== loop 50/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:13:27] planet 42: building queue full (5)
+[09:13:27] planet 42: building queue full (5)
+[09:13:27] planet 42: building queue full (5)
+[2026-05-11 09:14:06] ==== loop 51/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:14:09] planet 42: building queue full (5)
+[09:14:09] planet 42: building queue full (5)
+[09:14:09] planet 42: building queue full (5)
+[09:14:09] planet 42: building queue full (5)
+[09:14:09] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:14:56] ==== loop 52/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:14:58] planet 42: building queue full (5)
+[09:14:58] planet 42: building queue full (5)
+[09:14:58] planet 42: building queue full (5)
+[2026-05-11 09:15:41] ==== loop 53/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:15:44] planet 42: building queue full (5)
+[09:15:44] planet 42: building queue full (5)
+[09:15:44] planet 42: building queue full (5)
+[09:15:44] planet 42: building queue full (5)
+[09:15:44] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:16:23] ==== loop 54/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:16:26] planet 42: building queue full (5)
+[09:16:26] planet 42: building queue full (5)
+[09:16:26] planet 42: building queue full (5)
+[09:16:26] planet 42: building queue full (5)
+[2026-05-11 09:17:09] ==== loop 55/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:17:11] planet 42: building queue full (5)
+[09:17:11] planet 42: building queue full (5)
+[09:17:11] planet 42: building queue full (5)
+[2026-05-11 09:17:56] ==== loop 56/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:18:00] planet 42: building queue full (5)
+[09:18:00] planet 42: building queue full (5)
+[09:18:00] planet 42: building queue full (5)
+[09:18:00] planet 42: building queue full (5)
+[09:18:00] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:18:44] ==== loop 57/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:18:44] planet 42: queued building_crystal_mine to 12
+[09:18:44] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:19:31] ==== loop 58/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:19:33] planet 42: building queue full (5)
+[09:19:33] planet 42: building queue full (5)
+[09:19:33] planet 42: building queue full (5)
+[09:19:33] planet 42: building queue full (5)
+[2026-05-11 09:20:10] ==== loop 59/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:20:12] planet 42: building queue full (5)
+[09:20:12] planet 42: building queue full (5)
+[09:20:12] planet 42: building queue full (5)
+[09:20:12] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:20:57] ==== loop 60/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:21:00] planet 42: building queue full (5)
+[09:21:00] planet 42: building queue full (5)
+[09:21:00] planet 42: building queue full (5)
+[2026-05-11 09:21:43] ==== loop 61/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:21:45] planet 42: building queue full (5)
+[09:21:45] planet 42: building queue full (5)
+[09:21:45] planet 42: building queue full (5)
+[09:21:45] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:22:28] ==== loop 62/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:22:32] planet 42: building queue full (5)
+[09:22:32] planet 42: building queue full (5)
+[09:22:32] planet 42: building queue full (5)
+[09:22:32] planet 42: building queue full (5)
+[2026-05-11 09:23:10] ==== loop 63/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:23:13] planet 42: building queue full (5)
+[09:23:13] planet 42: building queue full (5)
+[09:23:13] planet 42: building queue full (5)
+[09:23:13] planet 42: building queue full (5)
+[09:23:13] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:23:56] ==== loop 64/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:23:59] planet 42: building queue full (5)
+[09:23:59] planet 42: building queue full (5)
+[09:23:59] planet 42: building queue full (5)
+[09:23:59] planet 42: building queue full (5)
+[09:23:59] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:24:41] ==== loop 65/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:24:44] planet 42: building queue full (5)
+[09:24:44] planet 42: building queue full (5)
+[09:24:44] planet 42: building queue full (5)
+[09:24:44] planet 42: building queue full (5)
+[09:24:44] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:25:32] ==== loop 66/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:25:35] planet 42: building queue full (5)
+[09:25:35] planet 42: building queue full (5)
+[09:25:35] planet 42: building queue full (5)
+[09:25:35] planet 42: building queue full (5)
+[09:25:35] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:26:16] ==== loop 67/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:26:18] planet 42: building queue full (5)
+[09:26:18] planet 42: building queue full (5)
+[09:26:18] planet 42: building queue full (5)
+[09:26:18] planet 42: building queue full (5)
+[09:26:18] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:27:02] ==== loop 68/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:27:04] planet 42: building queue full (5)
+[09:27:04] planet 42: building queue full (5)
+[09:27:04] planet 42: building queue full (5)
+[09:27:04] planet 42: building queue full (5)
+[2026-05-11 09:27:43] ==== loop 69/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:27:46] planet 42: building queue full (5)
+[09:27:46] planet 42: building queue full (5)
+[09:27:46] planet 42: building queue full (5)
+[09:27:46] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:28:28] ==== loop 70/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:28:30] planet 42: building queue full (5)
+[09:28:30] planet 42: building queue full (5)
+[09:28:30] planet 42: building queue full (5)
+[09:28:30] planet 42: building queue full (5)
+[09:28:30] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:29:06] ==== loop 71/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:29:08] planet 42: building queue full (5)
+[09:29:08] planet 42: building queue full (5)
+[09:29:08] planet 42: building queue full (5)
+[09:29:08] planet 42: building queue full (5)
+[09:29:08] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:29:51] ==== loop 72/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:29:53] planet 42: building queue full (5)
+[09:29:53] planet 42: building queue full (5)
+[09:29:53] planet 42: building queue full (5)
+[09:29:53] planet 42: building queue full (5)
+[09:29:53] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:30:35] ==== loop 73/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:30:37] planet 42: building queue full (5)
+[09:30:37] planet 42: building queue full (5)
+[09:30:37] planet 42: building queue full (5)
+[09:30:37] planet 42: building queue full (5)
+[2026-05-11 09:31:18] ==== loop 74/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:31:20] planet 42: building queue full (5)
+[09:31:20] planet 42: building queue full (5)
+[09:31:20] planet 42: building queue full (5)
+[2026-05-11 09:32:01] ==== loop 75/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:32:03] planet 42: building queue full (5)
+[09:32:03] planet 42: building queue full (5)
+[09:32:03] planet 42: building queue full (5)
+[09:32:03] planet 42: building queue full (5)
+[09:32:03] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:32:45] ==== loop 76/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:32:47] planet 42: building queue full (5)
+[09:32:47] planet 42: building queue full (5)
+[09:32:47] planet 42: building queue full (5)
+[09:32:47] planet 42: building queue full (5)
+[2026-05-11 09:33:31] ==== loop 77/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:33:33] planet 42: building queue full (5)
+[09:33:33] planet 42: building queue full (5)
+[09:33:33] planet 42: building queue full (5)
+[09:33:33] planet 42: building queue full (5)
+[09:33:33] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:34:18] ==== loop 78/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:34:21] planet 42: building queue full (5)
+[09:34:21] planet 42: building queue full (5)
+[09:34:21] planet 42: building queue full (5)
+[09:34:21] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:35:07] ==== loop 79/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:35:09] planet 42: building queue full (5)
+[09:35:09] planet 42: building queue full (5)
+[09:35:09] planet 42: building queue full (5)
+[09:35:09] planet 42: building queue full (5)
+[09:35:09] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:35:56] ==== loop 80/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:35:58] planet 42: building queue full (5)
+[09:35:58] planet 42: building queue full (5)
+[09:35:58] planet 42: building queue full (5)
+[09:35:58] planet 42: building queue full (5)
+[09:35:58] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:36:40] ==== loop 81/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:36:42] planet 42: building queue full (5)
+[09:36:42] planet 42: building queue full (5)
+[09:36:42] planet 42: building queue full (5)
+[09:36:42] planet 42: building queue full (5)
+[09:36:42] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:37:27] ==== loop 82/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:37:29] planet 42: building queue full (5)
+[09:37:29] planet 42: building queue full (5)
+[09:37:29] planet 42: building queue full (5)
+[2026-05-11 09:38:13] ==== loop 83/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:38:15] planet 42: building queue full (5)
+[09:38:15] planet 42: building queue full (5)
+[09:38:15] planet 42: building queue full (5)
+[2026-05-11 09:39:00] ==== loop 84/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:39:03] planet 42: building queue full (5)
+[09:39:03] planet 42: building queue full (5)
+[09:39:03] planet 42: building queue full (5)
+[09:39:03] planet 42: building queue full (5)
+[09:39:03] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:40:15] ==== loop 1/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:40:17] planet 42: building queue full (5)
+[09:40:17] planet 42: building queue full (5)
+[09:40:17] planet 42: building queue full (5)
+[09:40:17] planet 42: building queue full (5)
+[2026-05-11 09:41:01] ==== loop 2/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:41:04] planet 42: building queue full (5)
+[09:41:04] planet 42: building queue full (5)
+[09:41:04] planet 42: building queue full (5)
+[09:41:04] planet 42: building queue full (5)
+[2026-05-11 09:41:44] ==== loop 3/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:41:47] planet 42: building queue full (5)
+[09:41:47] planet 42: building queue full (5)
+[09:41:47] planet 42: building queue full (5)
+[09:41:47] planet 42: building queue full (5)
+[09:41:47] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:42:25] ==== loop 4/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:42:29] planet 42: building queue full (5)
+[09:42:29] planet 42: building queue full (5)
+[09:42:29] planet 42: building queue full (5)
+[09:42:29] planet 42: building queue full (5)
+[2026-05-11 09:43:12] ==== loop 5/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:43:15] planet 42: building queue full (5)
+[09:43:15] planet 42: building queue full (5)
+[09:43:15] planet 42: building queue full (5)
+[2026-05-11 09:44:01] ==== loop 6/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:44:03] planet 42: building queue full (5)
+[09:44:03] planet 42: building queue full (5)
+[09:44:03] planet 42: building queue full (5)
+[09:44:03] planet 42: building queue full (5)
+[2026-05-11 09:44:48] ==== loop 7/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:44:50] planet 42: building queue full (5)
+[09:44:50] planet 42: building queue full (5)
+[09:44:50] planet 42: building queue full (5)
+[09:44:50] planet 42: building queue full (5)
+[2026-05-11 09:45:33] ==== loop 8/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:45:36] planet 42: building queue full (5)
+[09:45:36] planet 42: building queue full (5)
+[09:45:36] planet 42: building queue full (5)
+[09:45:36] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:46:16] ==== loop 9/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:46:18] planet 42: building queue full (5)
+[09:46:18] planet 42: building queue full (5)
+[09:46:18] planet 42: building queue full (5)
+[09:46:18] planet 42: building queue full (5)
+[09:46:18] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:46:59] ==== loop 10/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:47:01] planet 42: building queue full (5)
+[09:47:01] planet 42: building queue full (5)
+[09:47:01] planet 42: building queue full (5)
+[09:47:01] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:47:47] ==== loop 11/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:47:49] planet 42: building queue full (5)
+[09:47:49] planet 42: building queue full (5)
+[09:47:49] planet 42: building queue full (5)
+[2026-05-11 09:48:28] ==== loop 12/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:48:32] planet 42: building queue full (5)
+[09:48:32] planet 42: building queue full (5)
+[09:48:32] planet 42: building queue full (5)
+[09:48:32] planet 42: building queue full (5)
+[09:48:32] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:49:14] ==== loop 13/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:49:17] planet 42: building queue full (5)
+[09:49:17] planet 42: building queue full (5)
+[09:49:17] planet 42: building queue full (5)
+[09:49:17] planet 42: building queue full (5)
+[09:49:17] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:50:01] ==== loop 14/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:50:01] planet 42: queued ship_battleship +5
+[09:50:01] planet 42: skipped duplicate ship_battleship this loop
+[09:50:01] planet 42: skipped duplicate ship_battleship this loop
+[09:50:01] planet 42: skipped duplicate ship_battleship this loop
+[2026-05-11 09:50:40] ==== loop 15/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:50:41] planet 42: queued ship_battleship +5
+[09:50:41] planet 42: skipped duplicate ship_battleship this loop
+[09:50:41] planet 42: skipped duplicate ship_battleship this loop
+[09:50:41] planet 42: skipped duplicate ship_battleship this loop
+[09:50:41] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:51:21] ==== loop 16/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:51:22] planet 42: queued ship_battleship +5
+[09:51:22] planet 42: skipped duplicate ship_battleship this loop
+[09:51:22] planet 42: skipped duplicate ship_battleship this loop
+[09:51:22] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:52:01] ==== loop 17/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:52:02] planet 42: queued ship_battleship +5
+[09:52:02] planet 42: skipped duplicate ship_battleship this loop
+[09:52:02] planet 42: skipped duplicate ship_battleship this loop
+[09:52:02] planet 42: skipped duplicate ship_battleship this loop
+[2026-05-11 09:52:42] ==== loop 18/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:52:42] planet 42: queued ship_battleship +5
+[09:52:42] planet 42: skipped duplicate ship_battleship this loop
+[09:52:42] planet 42: skipped duplicate ship_battleship this loop
+[2026-05-11 09:53:22] ==== loop 19/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:53:23] planet 42: queued ship_battleship +5
+[09:53:23] planet 42: skipped duplicate ship_battleship this loop
+[09:53:23] planet 42: skipped duplicate ship_battleship this loop
+[09:53:23] planet 42: skipped duplicate ship_battleship this loop
+[2026-05-11 09:54:06] ==== loop 20/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:54:06] planet 42: queued ship_battleship +5
+[09:54:06] planet 42: skipped duplicate ship_battleship this loop
+[09:54:06] planet 42: skipped duplicate ship_battleship this loop
+[09:54:06] planet 42: skipped duplicate ship_battleship this loop
+[2026-05-11 09:54:49] ==== loop 21/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:54:50] planet 42: queued ship_battleship +5
+[09:54:50] planet 42: skipped duplicate ship_battleship this loop
+[09:54:50] planet 42: skipped duplicate ship_battleship this loop
+[2026-05-11 09:55:30] ==== loop 22/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:55:31] planet 42: queued ship_battleship +5
+[09:55:31] planet 42: skipped duplicate ship_battleship this loop
+[09:55:31] planet 42: skipped duplicate ship_battleship this loop
+[09:55:31] planet 42: skipped duplicate ship_battleship this loop
+[09:55:31] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:56:10] ==== loop 23/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:56:10] planet 42: queued ship_battleship +5
+[09:56:10] planet 42: skipped duplicate ship_battleship this loop
+[09:56:10] planet 42: skipped duplicate ship_battleship this loop
+[09:56:10] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:56:47] ==== loop 24/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:56:49] planet 42: queued ship_battleship +5
+[09:56:49] planet 42: skipped duplicate ship_battleship this loop
+[09:56:49] planet 42: skipped duplicate ship_battleship this loop
+[2026-05-11 09:57:25] ==== loop 25/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:57:25] planet 42: queued ship_battleship +5
+[09:57:25] planet 42: skipped duplicate ship_battleship this loop
+[09:57:25] planet 42: skipped duplicate ship_battleship this loop
+[09:57:25] planet 42: skipped duplicate ship_battleship this loop
+[2026-05-11 09:58:08] ==== loop 26/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:58:09] planet 42: queued ship_battleship +5
+[09:58:09] planet 42: skipped duplicate ship_battleship this loop
+[09:58:09] planet 42: skipped duplicate ship_battleship this loop
+[09:58:09] planet 42: skipped duplicate ship_battleship this loop
+[2026-05-11 09:58:49] ==== loop 27/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:58:50] planet 42: queued ship_battleship +5
+[09:58:50] planet 42: skipped duplicate ship_battleship this loop
+[09:58:50] planet 42: skipped duplicate ship_battleship this loop
+[09:58:50] planet 42: skipped duplicate ship_battleship this loop
+[09:58:50] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 09:59:32] ==== loop 28/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[09:59:33] planet 42: queued ship_battleship +5
+[09:59:33] planet 42: skipped duplicate ship_battleship this loop
+[09:59:33] planet 42: skipped duplicate ship_battleship this loop
+[09:59:33] planet 42: skipped duplicate ship_battleship this loop
+[09:59:33] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:00:14] ==== loop 29/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:00:16] planet 42: queued defense_light_laser +5
+[10:00:16] planet 42: queued defense_heavy_laser +8
+[10:00:16] planet 42: queued defense_rocket_launcher +8
+[2026-05-11 10:00:54] ==== loop 30/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:00:55] planet 42: queued defense_rocket_launcher +8
+[10:00:55] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:00:55] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:00:55] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:00:55] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:01:36] ==== loop 31/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:01:36] planet 42: queued defense_rocket_launcher +8
+[10:01:36] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:01:36] planet 42: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 10:02:14] ==== loop 32/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:02:14] planet 42: queued defense_rocket_launcher +8
+[10:02:14] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:02:14] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:02:14] planet 42: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 10:02:47] ==== loop 33/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:02:48] planet 42: queued defense_rocket_launcher +8
+[10:02:48] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:02:48] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:02:48] planet 42: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 10:03:28] ==== loop 34/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:03:28] planet 42: queued defense_rocket_launcher +8
+[10:03:28] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:03:28] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:03:28] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:03:28] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:04:09] ==== loop 35/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:04:10] planet 42: queued defense_rocket_launcher +8
+[10:04:10] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:04:10] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:04:10] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:04:10] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:04:50] ==== loop 36/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:04:51] planet 42: queued defense_rocket_launcher +8
+[10:04:51] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:04:51] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:04:51] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:04:51] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:05:30] ==== loop 37/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:05:31] planet 42: queued defense_rocket_launcher +8
+[10:05:31] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:05:31] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:05:31] planet 42: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 10:06:07] ==== loop 38/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:06:08] planet 42: queued defense_rocket_launcher +8
+[10:06:08] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:06:08] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:06:08] planet 42: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 10:06:47] ==== loop 39/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:06:47] planet 42: queued defense_rocket_launcher +8
+[10:06:47] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:06:47] planet 42: skipped duplicate defense_rocket_launcher this loop
+[10:06:47] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:07:27] ==== loop 40/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:07:28] planet 42: queued defense_rocket_launcher +2
+[10:07:28] planet 42: queued defense_heavy_laser +8
+[10:07:28] planet 42: queue busy, throttled building_laboratory
+[10:07:28] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:08:07] ==== loop 41/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:08:07] planet 42: queue busy, throttled building_laboratory
+[10:08:07] planet 42: queue busy, throttled building_laboratory
+[10:08:07] planet 42: queue busy, throttled building_laboratory
+[10:08:07] planet 42: queue busy, throttled building_laboratory
+[10:08:07] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:08:42] ==== loop 42/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:08:42] planet 42: queue busy, throttled building_laboratory
+[10:08:42] planet 42: queue busy, throttled building_laboratory
+[10:08:42] planet 42: queue busy, throttled building_laboratory
+[10:08:42] planet 42: queue busy, throttled building_laboratory
+[10:08:42] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:09:16] ==== loop 43/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:09:16] planet 42: queue busy, throttled building_laboratory
+[10:09:16] planet 42: queue busy, throttled building_laboratory
+[10:09:16] planet 42: queue busy, throttled building_laboratory
+[10:09:16] planet 42: queue busy, throttled building_laboratory
+[2026-05-11 10:09:52] ==== loop 44/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:09:52] planet 42: queue busy, throttled building_laboratory
+[10:09:52] planet 42: queue busy, throttled building_laboratory
+[10:09:52] planet 42: queue busy, throttled building_laboratory
+[10:09:52] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:10:30] ==== loop 45/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:10:33] planet 42: building queue full (5)
+[10:10:33] planet 42: building queue full (5)
+[10:10:33] planet 42: building queue full (5)
+[10:10:33] planet 42: building queue full (5)
+[10:10:33] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:11:19] ==== loop 46/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:11:20] planet 42: building queue full (5)
+[10:11:20] planet 42: building queue full (5)
+[10:11:20] planet 42: building queue full (5)
+[10:11:20] planet 42: building queue full (5)
+[10:11:20] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:11:58] ==== loop 47/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:12:00] planet 42: building queue full (5)
+[10:12:00] planet 42: building queue full (5)
+[10:12:00] planet 42: building queue full (5)
+[2026-05-11 10:12:38] ==== loop 48/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:12:40] planet 42: building queue full (5)
+[10:12:40] planet 42: building queue full (5)
+[10:12:40] planet 42: building queue full (5)
+[10:12:40] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:13:23] ==== loop 49/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:13:26] planet 42: building queue full (5)
+[10:13:26] planet 42: building queue full (5)
+[10:13:26] planet 42: building queue full (5)
+[10:13:26] planet 42: building queue full (5)
+[10:13:26] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:14:05] ==== loop 50/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:14:09] planet 42: building queue full (5)
+[10:14:09] planet 42: building queue full (5)
+[10:14:09] planet 42: building queue full (5)
+[10:14:09] planet 42: building queue full (5)
+[2026-05-11 10:14:49] ==== loop 51/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:14:50] planet 42: building queue full (5)
+[10:14:50] planet 42: building queue full (5)
+[10:14:50] planet 42: building queue full (5)
+[10:14:50] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:15:32] ==== loop 52/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:15:35] planet 42: building queue full (5)
+[10:15:35] planet 42: building queue full (5)
+[10:15:35] planet 42: building queue full (5)
+[10:15:35] planet 42: building queue full (5)
+[10:15:35] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:16:13] ==== loop 53/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:16:17] planet 42: building queue full (5)
+[10:16:17] planet 42: building queue full (5)
+[10:16:17] planet 42: building queue full (5)
+[10:16:17] planet 42: building queue full (5)
+[10:16:17] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:16:53] ==== loop 54/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:16:55] planet 42: building queue full (5)
+[10:16:55] planet 42: building queue full (5)
+[10:16:55] planet 42: building queue full (5)
+[10:16:55] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:17:39] ==== loop 55/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:17:42] planet 42: building queue full (5)
+[10:17:42] planet 42: building queue full (5)
+[10:17:42] planet 42: building queue full (5)
+[10:17:42] planet 42: building queue full (5)
+[10:17:42] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:18:25] ==== loop 56/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:18:27] planet 42: building queue full (5)
+[10:18:27] planet 42: building queue full (5)
+[10:18:27] planet 42: building queue full (5)
+[10:18:27] planet 42: building queue full (5)
+[10:18:27] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:19:10] ==== loop 57/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:19:13] planet 42: building queue full (5)
+[10:19:13] planet 42: building queue full (5)
+[10:19:13] planet 42: building queue full (5)
+[2026-05-11 10:19:53] ==== loop 58/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:19:54] planet 42: building queue full (5)
+[10:19:54] planet 42: building queue full (5)
+[10:19:54] planet 42: building queue full (5)
+[2026-05-11 10:20:43] ==== loop 59/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:20:45] planet 42: building queue full (5)
+[10:20:45] planet 42: building queue full (5)
+[10:20:45] planet 42: building queue full (5)
+[10:20:45] planet 42: building queue full (5)
+[10:20:45] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:21:33] ==== loop 60/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:21:36] planet 42: building queue full (5)
+[10:21:36] planet 42: building queue full (5)
+[10:21:36] planet 42: building queue full (5)
+[10:21:36] planet 42: building queue full (5)
+[10:21:36] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:22:27] ==== loop 61/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:22:29] planet 42: building queue full (5)
+[10:22:29] planet 42: building queue full (5)
+[10:22:29] planet 42: building queue full (5)
+[10:22:29] planet 42: building queue full (5)
+[10:22:29] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:23:13] ==== loop 62/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:23:15] planet 42: building queue full (5)
+[10:23:15] planet 42: building queue full (5)
+[10:23:15] planet 42: building queue full (5)
+[10:23:15] planet 42: building queue full (5)
+[2026-05-11 10:23:59] ==== loop 63/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:24:03] planet 42: building queue full (5)
+[10:24:03] planet 42: building queue full (5)
+[10:24:03] planet 42: building queue full (5)
+[2026-05-11 10:24:46] ==== loop 64/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:24:48] planet 42: building queue full (5)
+[10:24:48] planet 42: building queue full (5)
+[10:24:48] planet 42: building queue full (5)
+[2026-05-11 10:25:33] ==== loop 65/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:25:35] planet 42: building queue full (5)
+[10:25:35] planet 42: building queue full (5)
+[10:25:35] planet 42: building queue full (5)
+[2026-05-11 10:26:20] ==== loop 66/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:26:21] planet 42: queued building_metal_mine to 27
+[10:26:21] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:27:04] ==== loop 67/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:27:07] planet 42: building queue full (5)
+[10:27:07] planet 42: building queue full (5)
+[10:27:07] planet 42: building queue full (5)
+[10:27:07] planet 42: building queue full (5)
+[2026-05-11 10:27:51] ==== loop 68/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:27:54] planet 42: building queue full (5)
+[10:27:54] planet 42: building queue full (5)
+[10:27:54] planet 42: building queue full (5)
+[10:27:54] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:28:39] ==== loop 69/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:28:41] planet 42: building queue full (5)
+[10:28:41] planet 42: building queue full (5)
+[10:28:41] planet 42: building queue full (5)
+[10:28:41] planet 42: building queue full (5)
+[10:28:41] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-11 10:29:30] ==== loop 70/∞ | seed=1092575179203424412 archetype=turtle personality=defensor focus=eco actions_per_loop=4 ====
+[10:29:32] planet 42: building queue full (5)
+[10:29:32] planet 42: building queue full (5)
+[10:29:32] planet 42: building queue full (5)
+[10:29:32] planet 42: building queue full (5)

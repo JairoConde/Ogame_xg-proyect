@@ -232,6 +232,7 @@ class ServerController extends BaseController
         $current_time_zone = $this->serverModel->readConfig('date_time_zone');
 
         // Get the data
+        $time_zones_data = [];
         foreach (DateTimeZone::listIdentifiers() as $tz) {
             $current_tz = new DateTimeZone($tz);
             $offset = $current_tz->getOffset($dt);

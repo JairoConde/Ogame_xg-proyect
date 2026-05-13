@@ -3,14 +3,14 @@
 namespace App\Libraries\Combatreport;
 
 use App\Core\Entity\ReportEntity;
-use App\Libraries\enumerators\ReportStatusEnumerator as ReportStatus;
+use App\Core\Enumerators\ReportStatusEnumerator as ReportStatus;
 
 class Report
 {
     private array $_reports = [];
     private int $_current_user_id = 0;
 
-    public function __construct($reports, $current_user_id)
+    public function __construct(array $reports, int $current_user_id)
     {
         if (is_array($reports)) {
             $this->setUp($reports);
@@ -23,7 +23,7 @@ class Report
      *
      * @return array
      */
-    public function getAllReports()
+    public function getAllReports(): array
     {
         $list_of_reports = [];
 
@@ -41,7 +41,7 @@ class Report
      *
      * @return array
      */
-    public function getAllReportsOwnedByUserId()
+    public function getAllReportsOwnedByUserId(): array
     {
         $list_of_reports = [];
 
@@ -59,7 +59,7 @@ class Report
      *
      * @return array
      */
-    public function getAllDestroyedReports()
+    public function getAllDestroyedReports(): array
     {
         $list_of_reports = [];
 
@@ -84,6 +84,7 @@ class Report
         foreach ($this->_reports as $report) {
             if (($report instanceof ReportEntity)) {
                 $owners[] = $this->getReportOwnersAsArray($report);
+
                 break;
             }
         }
@@ -93,17 +94,18 @@ class Report
 
     /**
      *
-     * @param type $report_id
+     * @param int $report_id
      *
-     * @return ReportEntity
+     * @return array
      */
-    public function getReportOwnersAsArrayByReportId($report_id)
+    public function getReportOwnersAsArrayByReportId(int $report_id): array
     {
         $owners = [];
 
         foreach ($this->_reports as $report) {
             if (($report instanceof ReportEntity) && ($report->getReportId() == $report_id)) {
                 $owners[] = $this->getReportOwnersAsArray($report);
+
                 break;
             }
         }
@@ -118,7 +120,7 @@ class Report
      *
      * @return array
      */
-    private function getReportOwnersAsArray(ReportEntity $report)
+    private function getReportOwnersAsArray(ReportEntity $report): array
     {
         return explode(',', $report->getReportOwners());
     }
@@ -130,9 +132,9 @@ class Report
      *
      * @return boolean
      */
-    private function isDestroyedReport(ReportEntity $report)
+    private function isDestroyedReport(ReportEntity $report): bool
     {
-        return ($report->getReportDestroyed() == ReportStatus::fleetDestroyed);
+        return $report->getReportDestroyed() == ReportStatus::fleetDestroyed;
     }
 
     /**
@@ -142,9 +144,9 @@ class Report
      *
      * @return boolean
      */
-    private function isOwnRequest(ReportEntity $report)
+    private function isOwnRequest(ReportEntity $report): bool
     {
-        return (in_array($this->getUserId(), $this->getReportOwnersAsArray($report)));
+        return in_array($this->getUserId(), $this->getReportOwnersAsArray($report));
     }
 
     /**
@@ -154,7 +156,7 @@ class Report
      *
      * @return void
      */
-    private function setUp($reports)
+    private function setUp(array $reports): void
     {
         foreach ($reports as $report) {
             if (is_array($report)) {
@@ -167,7 +169,7 @@ class Report
      *
      * @param int $user_id User Id
      */
-    private function setUserId($user_id)
+    private function setUserId(int $user_id): void
     {
         $this->_current_user_id = $user_id;
     }
@@ -176,7 +178,7 @@ class Report
      *
      * @return int
      */
-    private function getUserId()
+    private function getUserId(): int
     {
         return $this->_current_user_id;
     }
@@ -186,9 +188,9 @@ class Report
      *
      * @param array $report Report
      *
-     * @return \ReportEntity
+     * @return ReportEntity
      */
-    private function createNewReportEntity($report)
+    private function createNewReportEntity(array $report): ReportEntity
     {
         return new ReportEntity($report);
     }

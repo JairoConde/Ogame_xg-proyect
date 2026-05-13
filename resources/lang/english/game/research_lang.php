@@ -28,6 +28,7 @@ $lang = [
         'research_plasma_technology' => 'A further development of ion technology which accelerates high-energy plasma, which then inflicts devastating damage and additionally optimises the production of metal, crystal and deuterium (1%/0.66%/0.33% per level).',
         'research_intergalactic_research_network' => 'Researchers on different planets communicate via this network.',
         'research_astrophysics' => 'With an astrophysics research module, ships can undertake long expeditions. Every second level of this technology will allow you to colonise an extra planet.',
+        'research_cargo_optimization' => 'Improves transport logistics for cargo ships and recyclers. Each level adds 10% of base cargo capacity to Small Cargo, Large Cargo and Recycler ships.',
         'research_graviton_technology' => 'Firing a concentrated charge of graviton particles can create an artificial gravity field, which can destroy ships or even moons.',
     ],
 ];

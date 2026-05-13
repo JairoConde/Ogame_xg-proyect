@@ -6,7 +6,7 @@ use App\Core\Entity;
 
 class MessagesEntity extends Entity
 {
-    public function __construct($data)
+    public function __construct(array $data)
     {
         parent::__construct($data);
     }
@@ -16,7 +16,7 @@ class MessagesEntity extends Entity
      *
      * @return string
      */
-    public function getMessageId()
+    public function getMessageId(): string
     {
         return $this->data['message_id'];
     }
@@ -26,7 +26,7 @@ class MessagesEntity extends Entity
      *
      * @return string
      */
-    public function getMessageSender()
+    public function getMessageSender(): string
     {
         return $this->data['message_sender'];
     }
@@ -36,7 +36,7 @@ class MessagesEntity extends Entity
      *
      * @return string
      */
-    public function getMessageReceiver()
+    public function getMessageReceiver(): string
     {
         return $this->data['message_receiver'];
     }
@@ -46,7 +46,7 @@ class MessagesEntity extends Entity
      *
      * @return string
      */
-    public function getMessageTime()
+    public function getMessageTime(): string
     {
         return $this->data['message_time'];
     }
@@ -56,7 +56,7 @@ class MessagesEntity extends Entity
      *
      * @return string
      */
-    public function getMessageType()
+    public function getMessageType(): string
     {
         return $this->data['message_type'];
     }
@@ -66,7 +66,7 @@ class MessagesEntity extends Entity
      *
      * @return string
      */
-    public function getMessageFrom()
+    public function getMessageFrom(): string
     {
         return $this->data['message_from'];
     }
@@ -76,7 +76,7 @@ class MessagesEntity extends Entity
      *
      * @return string
      */
-    public function getMessageSubject()
+    public function getMessageSubject(): string
     {
         return $this->data['message_subject'];
     }
@@ -86,7 +86,7 @@ class MessagesEntity extends Entity
      *
      * @return string
      */
-    public function getMessageText()
+    public function getMessageText(): string
     {
         return $this->data['message_text'];
     }
@@ -96,7 +96,7 @@ class MessagesEntity extends Entity
      *
      * @return string
      */
-    public function getMessageRead()
+    public function getMessageRead(): string
     {
         return $this->data['message_read'];
     }

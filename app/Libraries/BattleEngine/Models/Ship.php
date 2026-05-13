@@ -30,7 +30,7 @@ namespace App\Libraries\BattleEngine\Models;
  */
 class Ship extends ShipType
 {
-    public function getRepairProb()
+    public function getRepairProb(): float
     {
         return SHIP_REPAIR_PROB;
     }

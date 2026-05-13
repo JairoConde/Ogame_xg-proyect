@@ -8,7 +8,7 @@ class Entity
 {
     protected array $data = [];
 
-    public function __construct($data)
+    public function __construct(array $data)
     {
         $this->setData($data);
     }
@@ -22,11 +22,11 @@ class Entity
      *
      * @return void
      */
-    private function setData($data)
+    private function setData(array $data): void
     {
         try {
             if (!is_array($data)) {
-                return null;
+                return;
             }
 
             $this->data = $data;

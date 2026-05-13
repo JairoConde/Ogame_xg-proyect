@@ -19,6 +19,7 @@ $lang = [
     'premium' => 'Premium settings',
     'tasks' => 'Tasks',
     'errors' => 'Server Errors',
+    'botstats' => 'Bots (metrics & logs)',
     'fleets' => 'Fleet movements',
     'messages' => 'Messages',
     'maker' => 'Creator',

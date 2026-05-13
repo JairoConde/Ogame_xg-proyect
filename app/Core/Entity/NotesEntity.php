@@ -6,7 +6,7 @@ use App\Core\Entity;
 
 class NotesEntity extends Entity
 {
-    public function __construct($data)
+    public function __construct(array $data)
     {
         parent::__construct($data);
     }
@@ -16,7 +16,7 @@ class NotesEntity extends Entity
      *
      * @return string
      */
-    public function getNoteId()
+    public function getNoteId(): string
     {
         return $this->data['note_id'];
     }
@@ -26,7 +26,7 @@ class NotesEntity extends Entity
      *
      * @return string
      */
-    public function getNoteOwner()
+    public function getNoteOwner(): string
     {
         return $this->data['note_owner'];
     }
@@ -36,7 +36,7 @@ class NotesEntity extends Entity
      *
      * @return string
      */
-    public function getNoteTime()
+    public function getNoteTime(): string
     {
         return $this->data['note_time'];
     }
@@ -46,7 +46,7 @@ class NotesEntity extends Entity
      *
      * @return string
      */
-    public function getNotePriority()
+    public function getNotePriority(): string
     {
         return $this->data['note_priority'];
     }
@@ -56,7 +56,7 @@ class NotesEntity extends Entity
      *
      * @return string
      */
-    public function getNoteTitle()
+    public function getNoteTitle(): string
     {
         return $this->data['note_title'];
     }
@@ -66,7 +66,7 @@ class NotesEntity extends Entity
      *
      * @return string
      */
-    public function getNoteText()
+    public function getNoteText(): string
     {
         return $this->data['note_text'];
     }

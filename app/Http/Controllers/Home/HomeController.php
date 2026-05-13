@@ -105,7 +105,7 @@ class HomeController extends BaseController
     /**
      * Get the error data
      *
-     * @return string
+     * @return array
      */
     private function getErrors(): array
     {
@@ -121,17 +121,20 @@ class HomeController extends BaseController
             case 1:
                 $div_id = '#username';
                 $message = $this->langs->line('hm_username_not_available');
+
                 break;
 
             case 2:
                 $div_id = '#email';
                 $message = $this->langs->line('hm_email_not_available');
+
                 break;
 
             case 0:
             default:
                 $div_id = '';
                 $message = '';
+
                 break;
         }
 

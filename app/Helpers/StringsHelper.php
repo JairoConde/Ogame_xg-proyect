@@ -29,9 +29,10 @@ abstract class StringsHelper
         if ($max < 1) {
             throw new Exception('$keyspace must be at least two characters long');
         }
-        for ($i = 0; $i < $length; ++$i) {
+        for ($i = 0; $i < $length; $i++) {
             $str .= $keyspace[random_int(0, $max)];
         }
+
         return $str;
     }
 

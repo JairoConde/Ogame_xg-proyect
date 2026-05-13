@@ -263,7 +263,7 @@ class QueueTest extends TestCase
 
         $object->addElementToQueue($queue_elements);
 
-        $object->removeElementFromQueue("wrong_parameter");
+        $object->removeElementFromQueue(999);
 
         $this->assertEquals(
             $object->returnQueueAsString(),
@@ -376,8 +376,7 @@ class QueueTest extends TestCase
         $this->assertEquals(
             $object->returnQueueAsArray(),
             [
-                0 =>
-                [
+                0 => [
                     'building' => 1,
                     'build_level' => 1,
                     'build_time' => 20,

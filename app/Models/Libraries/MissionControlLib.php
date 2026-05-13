@@ -19,7 +19,8 @@ class MissionControlLib extends Model
                 f.*,
                 sp.`planet_name` AS `planet_start_name`,
                 ep.`planet_name` AS `planet_end_name`,
-                sr.`research_hyperspace_technology`
+                sr.`research_hyperspace_technology`,
+                sr.`research_cargo_optimization`
             FROM `' . FLEETS . '` f
             LEFT JOIN `' . PLANETS . '` sp
                 ON (sp.`planet_galaxy` = f.`fleet_start_galaxy` AND
@@ -55,7 +56,8 @@ class MissionControlLib extends Model
                 f.*,
                 sp.`planet_name` AS `planet_start_name`,
                 ep.`planet_name` AS `planet_end_name`,
-                sr.`research_hyperspace_technology`
+                sr.`research_hyperspace_technology`,
+                sr.`research_cargo_optimization`
             FROM `' . FLEETS . '` f
             LEFT JOIN `' . PLANETS . '` sp
                 ON (sp.`planet_galaxy` = f.`fleet_start_galaxy` AND

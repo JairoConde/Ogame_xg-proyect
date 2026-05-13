@@ -8,7 +8,7 @@ use App\Core\Entity;
 
 class PreferencesEntity extends Entity
 {
-    public function __construct($data)
+    public function __construct(array $data)
     {
         parent::__construct($data);
     }
@@ -21,6 +21,16 @@ class PreferencesEntity extends Entity
     public function gePreferenceId(): int
     {
         return (int) $this->data['preference_id'];
+    }
+
+    /**
+     * Return the preference user id
+     *
+     * @return int
+     */
+    public function getPreferenceOwner(): int
+    {
+        return (int) $this->data['preference_user_id'];
     }
 
     /**

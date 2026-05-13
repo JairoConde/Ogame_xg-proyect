@@ -33,8 +33,64 @@ class StatisticsController extends BaseController
         // Check module access
         Functions::moduleMessage(Functions::isModuleAccesible(self::MODULE_ID));
 
+        if (isset($_GET['mode']) && $_GET['mode'] === 'colonies') {
+            $this->showUserColoniesPage();
+
+            return;
+        }
+
         // build the page
         $this->buildPage();
+    }
+
+    /**
+     * Lists colony planets (non-home) for a player from the highscore table.
+     */
+    private function showUserColoniesPage(): void
+    {
+        $targetId = (int) ($_GET['id'] ?? 0);
+        if ($targetId <= 0) {
+            Functions::redirect('game.php?page=statistics');
+
+            return;
+        }
+
+        $data = $this->statisticsModel->getUserColoniesForPlayer($targetId);
+        if ($data === null) {
+            Functions::redirect('game.php?page=statistics');
+
+            return;
+        }
+
+        $parse = $this->langs->language;
+        $parse['colonies_user_name'] = htmlspecialchars($data['user_name'], ENT_QUOTES, 'UTF-8');
+        $parse['colonies_back_url'] = 'game.php?page=statistics';
+
+        $rows = '';
+        foreach ($data['colonies'] as $c) {
+            $g = (int) ($c['planet_galaxy'] ?? 0);
+            $s = (int) ($c['planet_system'] ?? 0);
+            $p = (int) ($c['planet_planet'] ?? 0);
+            $parse['colony_name'] = htmlspecialchars((string) ($c['planet_name'] ?? ''), ENT_QUOTES, 'UTF-8');
+            $parse['colony_coords'] = $g . ':' . $s . ':' . $p;
+            $parse['colony_galaxy'] = (string) $g;
+            $parse['colony_system'] = (string) $s;
+            $parse['colony_planet'] = (string) $p;
+            $rows .= $this->template->set('stat/stat_colony_row', $parse);
+        }
+
+        if ($rows === '') {
+            $parse['colony_rows'] = '<tr><td class="c" colspan="2">' . $this->langs->line('st_colonies_empty') . '</td></tr>';
+        } else {
+            $parse['colony_rows'] = $rows;
+        }
+
+        $this->page->display(
+            $this->template->set(
+                'stat/stat_colonies_body',
+                $parse
+            )
+        );
     }
 
     private function buildPage(): void
@@ -43,6 +99,8 @@ class StatisticsController extends BaseController
         $who = (isset($_POST['who'])) ? $_POST['who'] : ((isset($_GET['who'])) ? $_GET['who'] : 1);
         $type = (isset($_POST['type'])) ? $_POST['type'] : ((isset($_GET['type'])) ? $_GET['type'] : 1);
         $range = (isset($_POST['range'])) ? $_POST['range'] : ((isset($_GET['range'])) ? $_GET['range'] : 1);
+
+        $parse['stat_table_colspan'] = ($who == 2) ? 6 : 7;
 
         $parse['who'] = '<option value="1"' . (($who == '1') ? ' SELECTED' : '') . '>' . $this->langs->line('st_player') . '</option>';
         $parse['who'] .= '<option value="2"' . (($who == '2') ? ' SELECTED' : '') . '>' . $this->langs->line('st_alliance') . '</option>';
@@ -135,6 +193,11 @@ class StatisticsController extends BaseController
                 }
 
                 $parse['player_rankplus'] = $this->rank_difference($ranking);
+                $uid = (int) $StatRow['user_id'];
+                $colonyCount = max(0, (int) ($StatRow['user_colony_count'] ?? 0));
+                $colonyUrl = 'game.php?page=statistics&mode=colonies&id=' . $uid;
+                $parse['player_colonies'] = '<a href="' . $colonyUrl . '">'
+                    . FormatLib::prettyNumber($colonyCount) . '</a>';
                 $parse['player_points'] = FormatLib::prettyNumber($StatRow['user_statistic_' . $Order]);
                 $parse['stat_values'] .= $this->template->set(
                     'stat/stat_playertable',
@@ -213,6 +276,7 @@ class StatisticsController extends BaseController
                 $return['points'] = 'total_points';
                 $return['rank'] = 'total_rank';
                 $return['oldrank'] = 'total_old_rank';
+
                 break;
 
             case 2: // SHIPS
@@ -220,6 +284,7 @@ class StatisticsController extends BaseController
                 $return['points'] = 'ships_points';
                 $return['rank'] = 'ships_rank';
                 $return['oldrank'] = 'ships_old_rank';
+
                 break;
 
             case 3: // TECHNOLOGY
@@ -227,6 +292,7 @@ class StatisticsController extends BaseController
                 $return['points'] = 'technology_points';
                 $return['rank'] = 'technology_rank';
                 $return['oldrank'] = 'technology_old_rank';
+
                 break;
 
             case 4: // BUILDINGS
@@ -234,6 +300,7 @@ class StatisticsController extends BaseController
                 $return['points'] = 'buildings_points';
                 $return['rank'] = 'buildings_rank';
                 $return['oldrank'] = 'buildings_old_rank';
+
                 break;
 
             case 5: // DEFENSE
@@ -241,6 +308,7 @@ class StatisticsController extends BaseController
                 $return['points'] = 'defenses_points';
                 $return['rank'] = 'defenses_rank';
                 $return['oldrank'] = 'defenses_old_rank';
+
                 break;
         }
 

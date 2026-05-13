@@ -162,7 +162,7 @@ class UpdateController extends BaseController
         require_once $update_path;
 
         // Check if there was something
-        if (isset($queries) && count($queries) > 0) {
+        if ($queries && count($queries) > 0) {
             foreach ($queries as $query) {
                 if (!$this->demo) {
                     $this->output[] = $this->updateModel->runQuery($query);

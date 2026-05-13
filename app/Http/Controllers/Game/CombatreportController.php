@@ -48,7 +48,7 @@ class CombatreportController extends BaseController
      *
      * @return void
      */
-    private function setUpReport()
+    private function setUpReport(): void
     {
         $this->report = new Report(
             [$this->combatreportModel->getReportById(filter_input(INPUT_GET, 'report'))],
@@ -65,7 +65,7 @@ class CombatreportController extends BaseController
     {
         $owners = $this->report->getFirstReportOwnersAsArray();
 
-        if (!isset($owners) or !in_array($this->user['user_id'], $owners)) {
+        if (!$owners or !in_array($this->user['user_id'], $owners)) {
             Functions::message($this->langs->line('cr_no_access'), '', 0, false, false, false);
         }
     }
@@ -85,7 +85,7 @@ class CombatreportController extends BaseController
      *
      * @return string The template
      */
-    private function getReportTemplate()
+    private function getReportTemplate(): string
     {
         // any other case
         $content = stripslashes($this->report->getAllReports()[0]->getReportContent());

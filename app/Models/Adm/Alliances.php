@@ -6,9 +6,9 @@ use App\Core\Model;
 
 class Alliances extends Model
 {
-    public function getAllAllianceDataById(int $id): array
+    public function getAllAllianceDataById(int $id): ?array
     {
-        return $this->db->queryFetch(
+        $result = $this->db->queryFetch(
             'SELECT
                 a.*,
                 als.*
@@ -17,6 +17,8 @@ class Alliances extends Model
             WHERE (a.`alliance_id` = '{$id}')
             LIMIT 1;"
         );
+
+        return is_array($result) ? $result : null;
     }
 
     public function checkAllianceByNameOrTag(string $alliance): ?array
@@ -88,7 +90,7 @@ class Alliances extends Model
             WHERE `user_id` = '" . $user_id . "';"
         );
 
-        return ($ally_data['user_ally_id'] > 0 && !empty($ally_data['user_ally_id']) && $ally_data['user_ally_request'] > 0 && !empty($ally_data['user_ally_request']));
+        return $ally_data['user_ally_id'] > 0 && !empty($ally_data['user_ally_id']) && $ally_data['user_ally_request'] > 0 && !empty($ally_data['user_ally_request']);
     }
 
     public function getAllianceMembers(int $alliance_id): array

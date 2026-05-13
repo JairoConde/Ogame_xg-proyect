@@ -35,7 +35,13 @@ class ResourceMarket
     public function calculateBasePriceToRefill(int $max_storage, int $base_dm): float
     {
         // (max_storage_capacity * 0.10) * base_dark_maatter / (max_initial_storage * 0.10)
-        return ($max_storage * 0.10) * $base_dm / (Production::maxStorable(0) * 0.10);
+        $max_initial = Production::maxStorable(0) * 0.10;
+
+        if ($max_initial == 0) {
+            return 0;
+        }
+
+        return ($max_storage * 0.10) * $base_dm / $max_initial;
     }
 
     /**
@@ -84,9 +90,8 @@ class ResourceMarket
     /**
      * Get the price to refill the storage
      *
-     * @param integer $max_storage
-     * @param integer $base_dm
-     * @param integer $percentage
+     * @param string $resource
+     * @param int $percentage
      * @param float $current_resources
      * @return float
      */
@@ -94,6 +99,10 @@ class ResourceMarket
     {
         $max_storage = Production::maxStorable($this->buildings->{'getBuilding' . ucfirst($resource) . 'Store'}());
         $base_price = $this->calculateBasePriceToRefill($max_storage, BASIC_RESOURCE_MARKET_DM[$resource]);
+
+        if ($max_storage == 0) {
+            return 0;
+        }
 
         return floor((($max_storage - $current_resources) * $percentage / $max_storage) * $base_price / 10);
     }
@@ -105,7 +114,7 @@ class ResourceMarket
      */
     public function isMetalStorageFull(): bool
     {
-        return (Production::maxStorable($this->buildings->getBuildingMetalStore()) <= $this->planet->getPlanetAmountOfMetal());
+        return Production::maxStorable($this->buildings->getBuildingMetalStore()) <= $this->planet->getPlanetAmountOfMetal();
     }
 
     /**
@@ -115,7 +124,7 @@ class ResourceMarket
      */
     public function isCrystalStorageFull(): bool
     {
-        return (Production::maxStorable($this->buildings->getBuildingCrystalStore()) <= $this->planet->getPlanetAmountOfCrystal());
+        return Production::maxStorable($this->buildings->getBuildingCrystalStore()) <= $this->planet->getPlanetAmountOfCrystal();
     }
 
     /**
@@ -125,7 +134,7 @@ class ResourceMarket
      */
     public function isDeuteriumStorageFull(): bool
     {
-        return (Production::maxStorable($this->buildings->getBuildingDeuteriumStore()) <= $this->planet->getPlanetAmountOfDeuterium());
+        return Production::maxStorable($this->buildings->getBuildingDeuteriumStore()) <= $this->planet->getPlanetAmountOfDeuterium();
     }
 
     /**
@@ -189,7 +198,7 @@ class ResourceMarket
      */
     public function isRefillPayable(string $resource, int $percentage): bool
     {
-        return ($this->{'getPriceToFill' . $percentage . 'Percent'}($resource) <= $this->premium->getPremiumDarkMatter());
+        return $this->{'getPriceToFill' . $percentage . 'Percent'}($resource) <= $this->premium->getPremiumDarkMatter();
     }
 
     /**
@@ -205,7 +214,7 @@ class ResourceMarket
             return false;
         }
 
-        return (Production::maxStorable($this->buildings->{'getBuilding' . ucfirst($resource) . 'Store'}()) >= $this->getProjectedResouces($resource, $percentage));
+        return Production::maxStorable($this->buildings->{'getBuilding' . ucfirst($resource) . 'Store'}()) >= $this->getProjectedResouces($resource, $percentage);
     }
 
     /**
@@ -215,7 +224,7 @@ class ResourceMarket
      *
      * @return void
      */
-    private function setUpUser($user): void
+    private function setUpUser(array $user): void
     {
         $this->user = $this->createNewUserEntity($user);
     }
@@ -227,7 +236,7 @@ class ResourceMarket
      *
      * @return void
      */
-    private function setUpPremium($user): void
+    private function setUpPremium(array $user): void
     {
         $this->premium = $this->createNewPremiumEntity($user);
     }
@@ -239,7 +248,7 @@ class ResourceMarket
      *
      * @return void
      */
-    private function setUpPlanet($planet): void
+    private function setUpPlanet(array $planet): void
     {
         $this->planet = $this->createNewPlanetEntity($planet);
     }
@@ -251,7 +260,7 @@ class ResourceMarket
      *
      * @return void
      */
-    private function setUpBuildings($planet): void
+    private function setUpBuildings(array $planet): void
     {
         $this->buildings = $this->createNewBuildingsEntity($planet);
     }
@@ -261,9 +270,9 @@ class ResourceMarket
      *
      * @param array $user
      *
-     * @return \UserEntity
+     * @return UserEntity
      */
-    private function createNewUserEntity($user)
+    private function createNewUserEntity(array $user): UserEntity
     {
         return new UserEntity($user);
     }
@@ -273,9 +282,9 @@ class ResourceMarket
      *
      * @param array $user
      *
-     * @return \PremiumEntity
+     * @return PremiumEntity
      */
-    private function createNewPremiumEntity($user)
+    private function createNewPremiumEntity(array $user): PremiumEntity
     {
         return new PremiumEntity($user);
     }
@@ -285,9 +294,9 @@ class ResourceMarket
      *
      * @param array $planet
      *
-     * @return \PlanetEntity
+     * @return PlanetEntity
      */
-    private function createNewPlanetEntity($planet)
+    private function createNewPlanetEntity(array $planet): PlanetEntity
     {
         return new PlanetEntity($planet);
     }
@@ -297,9 +306,9 @@ class ResourceMarket
      *
      * @param array $planet
      *
-     * @return \BuildingsEntity
+     * @return BuildingsEntity
      */
-    private function createNewBuildingsEntity($planet)
+    private function createNewBuildingsEntity(array $planet): BuildingsEntity
     {
         return new BuildingsEntity($planet);
     }

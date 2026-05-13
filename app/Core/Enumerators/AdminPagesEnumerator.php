@@ -26,6 +26,7 @@ abstract class AdminPagesEnumerator
     public const INFORMATION = [
         'tasks',
         'errors',
+        'botstats',
         'fleets',
         'messages',
     ];

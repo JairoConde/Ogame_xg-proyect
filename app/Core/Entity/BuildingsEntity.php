@@ -6,7 +6,7 @@ use App\Core\Entity;
 
 class BuildingsEntity extends Entity
 {
-    public function __construct($data)
+    public function __construct(array $data)
     {
         parent::__construct($data);
     }

@@ -13,7 +13,7 @@ abstract class Formulas
      *
      * return int
      */
-    public static function phalanxRange($phalanx_level)
+    public static function phalanxRange(int $phalanx_level): int
     {
         $range = 0;
 
@@ -33,7 +33,7 @@ abstract class Formulas
      *
      * return int
      */
-    public static function missileRange($impulse_drive_level)
+    public static function missileRange(int $impulse_drive_level): int
     {
         if ($impulse_drive_level > 0) {
             return ($impulse_drive_level * 5) - 1;
@@ -48,27 +48,49 @@ abstract class Formulas
      * @param int     $position Position
      * @param boolean $main     Home world
      *
-     * @return void
+     * @return array
      */
-    public static function getPlanetSize($position, $main = false)
+    public static function getPlanetSize(int $position, bool $main = false): array
     {
-        // THIS DIAMETERS ARE CALCULATED TO RETURN THE CORRECT AMOUNT OF FIELDS, IT SHOULD WORK AS OGAME.
-        $min = [
-            9747, 9849, 9899, 11091, 12166,
-            12166, 11874, 12921, 12689, 12410,
-            12083, 11662, 10392, 9000, 8062,
+        // Per-position [min_fields, max_fields] band. The whole universe
+        // sits inside [400, 600] (universe-owner requirement), but mid-system
+        // positions (around 8) get a higher band than the inner/outer
+        // extremes, mirroring OGame's classic feel without ever dropping
+        // a colony below 400 fields. Uniform draw within each band.
+        $fieldRanges = [
+            1 => [400, 470],
+            2 => [400, 490],
+            3 => [410, 510],
+            4 => [430, 540],
+            5 => [450, 560],
+            6 => [470, 580],
+            7 => [490, 595],
+            8 => [500, 600],
+            9 => [490, 595],
+            10 => [470, 580],
+            11 => [450, 560],
+            12 => [430, 540],
+            13 => [410, 510],
+            14 => [400, 490],
+            15 => [400, 470],
         ];
 
-        $max = [
-            10392, 10488, 11747, 14491, 14900,
-            15748, 15588, 15905, 15588, 15000,
-            14318, 13416, 11000, 9644, 8602,
-        ];
+        // Clamp positions outside [1, 15] so this never throws if a future
+        // map generator emits an unexpected slot id. The fallback band
+        // matches the inner edge (most conservative, still >= 400 fields).
+        $pos = max(1, min(15, (int) $position));
+        [$minFields, $maxFields] = $fieldRanges[$pos];
 
-        $diameter = mt_rand($min[$position - 1], $max[$position - 1]);
-        $diameter *= PLANETSIZE_MULTIPLER;
+        $fields = mt_rand($minFields, $maxFields);
 
-        $fields = self::calculatePlanetFields($diameter);
+        // Diameter is now derived from the chosen field count so the
+        // tooltip / admin screens stay coherent with the field grid:
+        //   fields = (diameter / 1000)^2   <=>   diameter = sqrt(fields)*1000
+        // PLANETSIZE_MULTIPLER is preserved as a *cosmetic* diameter
+        // multiplier (some universes display physically larger worlds),
+        // but field_max is taken straight from the band above, not
+        // recomputed from the multiplied diameter.
+        $diameter = (int) round(sqrt($fields) * 1000 * PLANETSIZE_MULTIPLER);
 
         if ($main) {
             $diameter = '12800';
@@ -88,7 +110,7 @@ abstract class Formulas
      *
      * @return int
      */
-    public static function calculatePlanetFields($diameter)
+    public static function calculatePlanetFields(int $diameter): int
     {
         return (int) pow(($diameter / 1000), 2);
     }
@@ -101,7 +123,7 @@ abstract class Formulas
      *
      * @return string
      */
-    public static function setPlanetImage($system, $position)
+    public static function setPlanetImage(int $system, int $position): string
     {
         // Formula based on original game values
         // How many images do we have for each planet type
@@ -114,6 +136,7 @@ abstract class Formulas
             'wasser' => 9, // water
             'wuesten' => 4, // desert
         ];
+        $type = ['normaltemp', 'normaltemp'];
 
         if ($position >= 1 && $position <= 3) {
             $type = ['trocken', 'wuesten'];
@@ -166,7 +189,7 @@ abstract class Formulas
      *
      * @return array
      */
-    public static function setPlanetTemp($position)
+    public static function setPlanetTemp(int $position): array
     {
         // Based on original game values
         $temp_avilable = [
@@ -214,9 +237,9 @@ abstract class Formulas
      * Get Death Stars destruction chance
      *
      * @param int $planet_diameter
-     * @return type
+     * @return float
      */
-    public static function getDeathStarsDestructionChance(int $planet_diameter)
+    public static function getDeathStarsDestructionChance(int $planet_diameter): float
     {
         return round(sqrt($planet_diameter) / 2);
     }
@@ -283,27 +306,32 @@ abstract class Formulas
     /**
      * Check if the building is for destroy and calculate
      *
-     * @param integer $time
-     * @return integer
+     * @param float $metal_cost
+     * @param float $cystal_cost
+     * @param int $building
+     * @param int $robotics_factory
+     * @param int $nanite_factory
+     * @param int $level
+     * @return float
      */
-    public static function getTearDownTime(int $metal_cost, int $cystal_cost, int $building, int $robotics_factory, int $nanite_factory, int $level): float
+    public static function getTearDownTime(float $metal_cost, float $cystal_cost, int $building, int $robotics_factory, int $nanite_factory, int $level): float
     {
         $tear_down_time = self::getDevelopmentTime($metal_cost, $cystal_cost, $building, $robotics_factory, $nanite_factory, $level - 2);
 
-        return ($tear_down_time < 1 ? 1 : $tear_down_time);
+        return $tear_down_time < 1 ? 1 : $tear_down_time;
     }
 
     /**
      * Get the time to produce ships and defenses
      *
-     * @param integer $metal_cost
-     * @param integer $cystal_cost
-     * @param integer $ship_defense
-     * @param integer $shipyard_level
-     * @param integer $nanite_factory_level
+     * @param float $metal_cost
+     * @param float $cystal_cost
+     * @param int $ship_defense
+     * @param int $shipyard_level
+     * @param int $nanite_factory_level
      * @return float
      */
-    public static function getShipyardProductionTime(int $metal_cost, int $cystal_cost, int $ship_defense, int $shipyard_level, int $nanite_factory_level): float
+    public static function getShipyardProductionTime(float $metal_cost, float $cystal_cost, int $ship_defense, int $shipyard_level, int $nanite_factory_level): float
     {
         return self::getDevelopmentTime($metal_cost, $cystal_cost, $ship_defense, $shipyard_level, $nanite_factory_level, 0, false);
     }
@@ -311,12 +339,12 @@ abstract class Formulas
     /**
      * Get the time to build
      *
-     * @param integer $metal_cost
-     * @param integer $cystal_cost
-     * @param integer $building
-     * @param integer $robotics_factory
-     * @param integer $nanite_factory
-     * @param integer $level
+     * @param float $metal_cost
+     * @param float $cystal_cost
+     * @param int $building
+     * @param int $robotics_factory
+     * @param int $nanite_factory
+     * @param int $level
      * @return float
      */
     public static function getBuildingTime(float $metal_cost, float $cystal_cost, int $building, int $robotics_factory, int $nanite_factory, int $level): float
@@ -327,38 +355,41 @@ abstract class Formulas
     /**
      * Get research time
      *
-     * @param integer $metal_cost
-     * @param integer $cystal_cost
-     * @param integer $total_lab_level
-     * @param integer $expedition_level
+     * @param float $metal_cost
+     * @param float $cystal_cost
+     * @param int $total_lab_level
+     * @param int $expedition_level
      * @return float
      */
-    public static function getResearchTime(int $metal_cost, int $cystal_cost, int $total_lab_level, int $expedition_level): float
+    public static function getResearchTime(float $metal_cost, float $cystal_cost, int $total_lab_level, int $expedition_level): float
     {
-        $universe_speed = Functions::readConfig('game_speed') / 2500;
+        $universe_speed = (int) Functions::readConfig('game_speed') / 2500;
+        $lab_boost = (1 + $total_lab_level) * pow(1.1, $total_lab_level);
 
-        return ($metal_cost + $cystal_cost) / ($universe_speed * 1000 * (1 + $total_lab_level) * (1 + $expedition_level)) * 3600;
+        return ($metal_cost + $cystal_cost) / ($universe_speed * 1000 * $lab_boost * (1 + $expedition_level)) * 3600;
     }
 
     /**
      * Get the time to develop something
      *
-     * @param integer $metal_cost
-     * @param integer $cystal_cost
-     * @param integer $object
-     * @param integer $first_boost
-     * @param integer $second_boost
-     * @param integer $level
-     * @param boolean $reduce
+     * @param float $metal_cost
+     * @param float $cystal_cost
+     * @param int $object
+     * @param int $first_boost
+     * @param int $second_boost
+     * @param int $level
+     * @param bool $reduce
      * @return float
      */
     private static function getDevelopmentTime(float $metal_cost, float $cystal_cost, int $object, int $first_boost, int $second_boost, int $level = 0, bool $reduce = true): float
     {
         $resources_needed = $metal_cost + $cystal_cost;
         $reduction = max(4 - ($level + 1) / 2, 1);
-        $robotics = 1 + $first_boost;
+        // Keep the original linear boost and add +10% extra per level
+        // for Robotics Factory (buildings) or Shipyard (ships/defenses).
+        $robotics = (1 + $first_boost) * pow(1.1, $first_boost);
         $nanite = pow(2, $second_boost);
-        $universe_speed = Functions::readConfig('game_speed') / 2500;
+        $universe_speed = (int) Functions::readConfig('game_speed') / 2500;
         $without_reduction = [
             Buildings::BUILDING_NANO_FACTORY,
             Buildings::BUILDING_MONDBASIS,

@@ -33,7 +33,7 @@ abstract class ArraysHelper
      *
      * @param string $needle
      * @param array $haystack
-     * @return array|null
+     * @return int|null
      */
     public static function multiArraySearch(string $needle, array $haystack): ?int
     {

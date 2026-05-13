@@ -88,7 +88,7 @@ class MailingController extends BaseController
     /**
      * Get mailing settings
      *
-     * @return void
+     * @return array
      */
     private function getMailingSettings(): array
     {

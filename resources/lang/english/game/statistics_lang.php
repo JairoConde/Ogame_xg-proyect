@@ -17,5 +17,10 @@ $lang = [
     'st_per' => 'by',
     'st_in_the_positions' => 'in ranks',
     'st_actions' => 'Actions',
-    'st_ally_request' => 'Send request to this alliance',
+    'st_colonies' => 'Colonies',
+    'st_colonies_player_label' => 'Colonies of',
+    'st_colonies_planet_name' => 'Planet',
+    'st_colonies_position' => 'Coordinates',
+    'st_colonies_back' => 'Back to highscore',
+    'st_colonies_empty' => 'This player has no colonies.',
 ];

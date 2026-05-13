@@ -4,6 +4,7 @@ namespace App\Libraries;
 
 use App\Core\Enumerators\DefensesEnumerator as Defenses;
 use App\Core\Enumerators\MissionsEnumerator as Missions;
+use App\Core\Enumerators\ShipsEnumerator as Ships;
 use App\Core\Language;
 use App\Core\Objects;
 use App\Core\Template;
@@ -46,7 +47,7 @@ class FleetsLib
     /**
      * @return mixed
      */
-    public static function fleetMaxSpeed(?array $fleetArray, int $fleet, array $user)
+    public static function fleetMaxSpeed(?array $fleetArray, int $fleet, array $user): mixed
     {
         $pricelist = Objects::getInstance()->getPrice();
         $speed_all = [];
@@ -107,7 +108,12 @@ class FleetsLib
         }
 
         if ($fleet != 0) {
-            $ship_speed = isset($speed_all[$ship]) ? $speed_all[$ship] : 0;
+            $ship_speed = 0;
+            foreach ($speed_all as $ship_id => $speed) {
+                $ship_speed = $speed;
+
+                break;
+            }
             $speed_all = $ship_speed;
         }
 
@@ -125,23 +131,28 @@ class FleetsLib
      *
      * @return int
      */
-    public static function fleetConsumption($fleetArray, $speed_factor, $mission_duration, $mission_distance, $user)
+    public static function fleetConsumption(array $fleetArray, int|float $speed_factor, int|float $mission_duration, int|float $mission_distance, array $user): int
     {
-        $consumption = 0;
-        $basic_consumption = 0;
+        $speed_factor = (int) $speed_factor;
+        $mission_duration = (int) $mission_duration;
+        $mission_distance = (int) $mission_distance;
+        $consumption = 0.0;
+        $basic_consumption = 0.0;
 
         foreach ($fleetArray as $ship => $count) {
+            $ship = (int) $ship;
             if ($ship > 0) {
-                $ship_speed = self::fleetMaxSpeed(null, $ship, $user);
+                $count = (int) $count;
+                $ship_speed = (float) self::fleetMaxSpeed(null, $ship, $user);
                 $ship_consumption = self::shipConsumption($ship, $user);
                 $spd = 35000 / ($mission_duration * $speed_factor - 10) * sqrt($mission_distance * 10 / $ship_speed);
 
-                $basic_consumption = $spd + $count * $ship_consumption * pow((($spd / 10) + 1), 2);
-                $consumption += $basic_consumption * $mission_distance / 35000 + 1;
+                $basic_consumption = $spd + $count * $ship_consumption * (float) pow((($spd / 10) + 1), 2);
+                $consumption += (float) $basic_consumption * $mission_distance / 35000 + 1;
             }
         }
 
-        return round($consumption);
+        return (int) round($consumption);
     }
 
     public static function getMaxFleets($computerTech, $amiralLevel): int
@@ -154,7 +165,7 @@ class FleetsLib
         return floor(sqrt($astrophysicsTech));
     }
 
-    public static function getMaxColonies($astrophysicsTech): int
+    public static function getMaxColonies(int $astrophysicsTech): int
     {
         return ceil($astrophysicsTech / 2);
     }
@@ -194,11 +205,11 @@ class FleetsLib
      * @param string $text       Text
      * @param string $fleet_type Fleet type
      *
-     * @return void
+     * @return string
      */
-    public static function fleetResourcesPopup($fleetRow, $text, $fleet_type)
+    public static function fleetResourcesPopup(array $fleetRow, string $text, string $fleet_type): string
     {
-        $total_resources = $fleetRow['fleet_resource_metal'] + $fleetRow['fleet_resource_crystal'] + $fleetRow['fleet_resource_deuterium'];
+        $total_resources = (int) $fleetRow['fleet_resource_metal'] + (int) $fleetRow['fleet_resource_crystal'] + (int) $fleetRow['fleet_resource_deuterium'];
 
         if ($total_resources != 0) {
             $popup['fleet_resource_metal'] = FormatLib::prettyNumber($fleetRow['fleet_resource_metal']);
@@ -233,9 +244,9 @@ class FleetsLib
      * @param string $fleet_type   Fleet type
      * @param array  $current_user Current user
      *
-     * @return void
+     * @return string
      */
-    public static function fleetShipsPopup($fleetRow, $text, $fleet_type, $current_user = '')
+    public static function fleetShipsPopup(array $fleetRow, string $text, string $fleet_type, array $current_user = []): string
     {
         $lang = static::loadLanguage(['game/events', 'game/ships']);
         $objects = Objects::getInstance()->getObjects();
@@ -297,7 +308,7 @@ class FleetsLib
      *
      * @return string
      */
-    public static function enemyLink($fleetRow)
+    public static function enemyLink(array $fleetRow): string
     {
         $url = 'game.php?page=chat&playerId=' . $fleetRow['fleet_owner'];
         $image = Functions::setImage(DPATH . '/img/m.gif');
@@ -310,15 +321,15 @@ class FleetsLib
      * flyingFleetsTable
      *
      * @param array  $fleetRow    Fleet row
-     * @param string $Status       Status
-     * @param int    $Owner        Owner
+     * @param int   $Status       Status
+     * @param bool  $Owner        Owner
      * @param string $Label        Label
      * @param string $Record       Record
-     * @param string $current_user Current user
+     * @param array  $current_user Current user
      *
-     * @return void
+     * @return string
      */
-    public static function flyingFleetsTable($fleetRow, $Status, $Owner, $Label, $Record, $current_user, $acs_owner = false)
+    public static function flyingFleetsTable(array $fleetRow, int $Status, bool $Owner, string $Label, string $Record, array $current_user, bool $acs_owner = false): string
     {
         $lang = static::loadLanguage(['game/events', 'game/missions']);
 
@@ -343,6 +354,13 @@ class FleetsLib
 
         $FleetStatus = [0 => 'flight', 1 => 'holding', 2 => 'return'];
         $MissionType = $fleetRow['fleet_mission'];
+        $FleetContent = '';
+        $StartID = '';
+        $TargetID = '';
+        $Time = 0;
+        $Rest = 0;
+        $EventString = '';
+
         if ($MissionType != Missions::MISSILE) {
             $FleetContent = self::fleetShipsPopup(
                 $fleetRow,
@@ -369,14 +387,17 @@ class FleetsLib
                 switch ($TargetType) {
                     case 1:
                         $TargetID = $lang->line('ev_the_planet');
+
                         break;
 
                     case 2:
                         $TargetID = $lang->line('ev_debris_field');
+
                         break;
 
                     case 3:
                         $TargetID = $lang->line('ev_to_the_moon');
+
                         break;
                 }
             } else {
@@ -399,14 +420,17 @@ class FleetsLib
                 switch ($TargetType) {
                     case 1:
                         $TargetID = $lang->line('ev_from_planet');
+
                         break;
 
                     case 2:
                         $TargetID = $lang->line('ev_from_debris_field');
+
                         break;
 
                     case 3:
                         $TargetID = $lang->line('ev_from_the_moon');
+
                         break;
                 }
             } else {
@@ -448,6 +472,7 @@ class FleetsLib
                     $EventString .= $lang->line('ev_toward');
                     $EventString .= $TargetID;
                     $EventString .= $lang->line('ev_with_the_mission_of');
+
                     break;
 
                 case 1:
@@ -459,6 +484,7 @@ class FleetsLib
                     $EventString .= $lang->line('ev_to_explore');
                     $EventString .= $TargetID;
                     $EventString .= $lang->line('ev_with_the_mission_of');
+
                     break;
 
                 case 2:
@@ -469,6 +495,7 @@ class FleetsLib
                     $EventString .= $TargetID;
                     $EventString .= $StartID;
                     $EventString .= $lang->line('ev_with_the_mission_of');
+
                     break;
             }
 
@@ -501,9 +528,9 @@ class FleetsLib
      *
      * @return boolean
      */
-    public static function isFleetReturning($fleet_mess)
+    public static function isFleetReturning(mixed $fleet_mess): bool
     {
-        return ($fleet_mess == 1);
+        return (int) $fleet_mess == 1;
     }
 
     /**
@@ -513,9 +540,20 @@ class FleetsLib
      * @param integer $hyperspace_tech_level
      * @return integer
      */
-    public static function getMaxStorage(int $ship_storage, int $hyperspace_tech_level): int
+    public static function getMaxStorage(int $ship_storage, int $hyperspace_tech_level, int $cargo_optimization_level = 0, ?int $ship_id = null): int
     {
-        return intval($ship_storage + ($ship_storage * 0.05 * $hyperspace_tech_level));
+        $capacity = $ship_storage + ($ship_storage * 0.05 * $hyperspace_tech_level);
+        $cargoShips = [
+            Ships::ship_small_cargo_ship,
+            Ships::ship_big_cargo_ship,
+            Ships::ship_recycler,
+        ];
+
+        if ($ship_id !== null && in_array($ship_id, $cargoShips, true)) {
+            $capacity += $ship_storage * 0.10 * $cargo_optimization_level;
+        }
+
+        return (int) $capacity;
     }
 
     /**
@@ -531,7 +569,10 @@ class FleetsLib
     }
 
     /**
-     * Un-serialize the fleet array
+     * Un-serialize the fleet array. Returns an empty array if the stored
+     * value is not a valid serialised payload (e.g. legacy
+     * "202,90;" rows or empty strings), so callers don't have to wrap
+     * every consumer in defensive checks.
      *
      * @param string $fleetArray Fleet array
      *
@@ -539,7 +580,12 @@ class FleetsLib
      */
     public static function getFleetShipsArray(string $fleetArray): array
     {
-        return unserialize($fleetArray);
+        if ($fleetArray === '' || $fleetArray[0] !== 'a') {
+            return [];
+        }
+        $decoded = @unserialize($fleetArray, ['allowed_classes' => false]);
+
+        return is_array($decoded) ? $decoded : [];
     }
 
     /**
@@ -550,7 +596,33 @@ class FleetsLib
      */
     public static function hasResources(array $fleet): bool
     {
-        return ($fleet['fleet_resource_metal'] != 0 or $fleet['fleet_resource_crystal'] != 0 or $fleet['fleet_resource_deuterium'] != 0);
+        return $fleet['fleet_resource_metal'] != 0 or $fleet['fleet_resource_crystal'] != 0 or $fleet['fleet_resource_deuterium'] != 0;
+    }
+
+    /**
+     * Get the name of a fleet mission by its ID
+     *
+     * @param int $mission Mission ID
+     *
+     * @return string
+     */
+    public static function getFleetMissionName(int $mission): string
+    {
+        $missions = [
+            Missions::ATTACK => 'Attack',
+            Missions::ACS => 'ACS',
+            Missions::TRANSPORT => 'Transport',
+            Missions::DEPLOY => 'Deploy',
+            Missions::STAY => 'Hold',
+            Missions::SPY => 'Spy',
+            Missions::COLONIZE => 'Colonize',
+            Missions::RECYCLE => 'Recycle',
+            Missions::DESTROY => 'Destroy',
+            Missions::MISSILE => 'Missile',
+            Missions::EXPEDITION => 'Expedition',
+        ];
+
+        return $missions[$mission] ?? 'Unknown';
     }
 
     /**
@@ -566,7 +638,7 @@ class FleetsLib
     /**
      * Load CI language
      *
-     * @return void
+     * @return CiLang
      */
     private static function loadLanguage(array $requiredLang): CiLang
     {

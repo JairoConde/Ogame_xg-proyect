@@ -13,7 +13,7 @@ class Fleets
     private int $_expedition_count = 0;
     private array $_fleets_index = [];
 
-    public function __construct($fleets, $current_user_id)
+    public function __construct(array $fleets, int $current_user_id)
     {
         if (is_array($fleets)) {
             $this->setUp($fleets);
@@ -26,7 +26,7 @@ class Fleets
      *
      * @return array
      */
-    public function getFleets()
+    public function getFleets(): array
     {
         $list_of_fleets = [];
         $index = 0;
@@ -59,7 +59,7 @@ class Fleets
      *
      * @return FleetEntity
      */
-    public function getOwnFleetById(int $fleet_id)
+    public function getOwnFleetById(int $fleet_id): ?FleetEntity
     {
         $fleet = $this->getFleetById($fleet_id);
 
@@ -77,7 +77,7 @@ class Fleets
      *
      * @return FleetEntity
      */
-    public function getOwnValidFleetById(int $fleet_id)
+    public function getOwnValidFleetById(int $fleet_id): ?FleetEntity
     {
         $fleet = $this->getOwnFleetById($fleet_id);
 
@@ -95,9 +95,9 @@ class Fleets
      *
      * @param int $fleet_id
      *
-     * @return type
+     * @return int
      */
-    private function validateIndex(int $fleet_id)
+    private function validateIndex(int $fleet_id): int
     {
         return isset($this->_fleets_index[$fleet_id]) ? $this->_fleets_index[$fleet_id] : -1;
     }
@@ -109,7 +109,7 @@ class Fleets
      *
      * @return void
      */
-    private function setUp($fleets)
+    private function setUp(array $fleets): void
     {
         $index = 0;
 
@@ -131,7 +131,7 @@ class Fleets
      *
      * @param int $user_id User Id
      */
-    private function setUserId($user_id)
+    private function setUserId(int $user_id): void
     {
         $this->_current_user_id = $user_id;
     }
@@ -141,9 +141,9 @@ class Fleets
      *
      * @return void
      */
-    private function setFleetsCount()
+    private function setFleetsCount(): void
     {
-        ++$this->_fleet_count;
+        $this->_fleet_count++;
     }
 
     /**
@@ -151,16 +151,16 @@ class Fleets
      *
      * @return void
      */
-    private function setExpeditionsCount()
+    private function setExpeditionsCount(): void
     {
-        ++$this->_expedition_count;
+        $this->_expedition_count++;
     }
 
     /**
      *
      * @return int
      */
-    private function getUserId()
+    private function getUserId(): int
     {
         return $this->_current_user_id;
     }
@@ -169,7 +169,7 @@ class Fleets
      *
      * @return int
      */
-    public function getFleetsCount()
+    public function getFleetsCount(): int
     {
         return $this->_fleet_count;
     }
@@ -178,7 +178,7 @@ class Fleets
      *
      * @return int
      */
-    public function getExpeditionsCount()
+    public function getExpeditionsCount(): int
     {
         return $this->_expedition_count;
     }
@@ -188,9 +188,9 @@ class Fleets
      *
      * @param array $fleet Fleet
      *
-     * @return \FleetEntity
+     * @return FleetEntity
      */
-    private function createNewFleetEntity($fleet)
+    private function createNewFleetEntity(array $fleet): FleetEntity
     {
         return new FleetEntity($fleet);
     }

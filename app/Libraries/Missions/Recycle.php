@@ -13,17 +13,11 @@ class Recycle extends Missions
      *
      * @var array
      */
-    private $planet_debris = [
+    private array $planet_debris = [
         'metal' => 0,
         'crystal' => 0,
     ];
-
-    /**
-     * Contains the maximum capacity of the recyclers
-     *
-     * @var integer
-     */
-    private $recyclers_capacity = 0;
+    private int $recyclers_capacity = 0;
 
     public function __construct()
     {
@@ -40,7 +34,7 @@ class Recycle extends Missions
      *
      * @return void
      */
-    public function recycleMission($fleet_row)
+    public function recycleMission(array $fleet_row): void
     {
         $recycled_resources = $this->calculateCapacity($fleet_row);
 
@@ -104,9 +98,9 @@ class Recycle extends Missions
      *
      * @param array $fleet_row Fleet row
      *
-     * @return void
+     * @return array
      */
-    private function calculateCapacity($fleet_row)
+    private function calculateCapacity(array $fleet_row): array
     {
         $target_planet = $this->missionsModel->getPlanetDebris([
             'coords' => [
@@ -125,14 +119,16 @@ class Recycle extends Missions
         $ships = FleetsLib::getFleetShipsArray($fleet_row['fleet_array']);
         $recycle_capacity = 0;
         $other_capacity = 0;
-        $current_resources = $fleet_row['fleet_resource_metal'] +
-            $fleet_row['fleet_resource_crystal'] + $fleet_row['fleet_resource_deuterium'];
+        $current_resources = (int) $fleet_row['fleet_resource_metal'] +
+            (int) $fleet_row['fleet_resource_crystal'] + (int) $fleet_row['fleet_resource_deuterium'];
 
         // CALCULATE STORAGE FOR EACH KIND OF SHIP
         foreach ($ships as $id => $amount) {
             $ship_storage = FleetsLib::getMaxStorage(
                 $this->pricelist[$id]['capacity'],
-                $fleet_row['research_hyperspace_technology']
+                $fleet_row['research_hyperspace_technology'],
+                (int) ($fleet_row['research_cargo_optimization'] ?? 0),
+                (int) $id
             );
 
             if ($id == 209) {
@@ -148,7 +144,7 @@ class Recycle extends Missions
 
         $this->recyclers_capacity = $recycle_capacity;
 
-        if (($target_planet['planet_debris_metal'] + $target_planet['planet_debris_crystal']) <= $recycle_capacity) {
+        if (((int) $target_planet['planet_debris_metal'] + (int) $target_planet['planet_debris_crystal']) <= $recycle_capacity) {
             $recycled_resources['metal'] = $target_planet['planet_debris_metal'];
             $recycled_resources['crystal'] = $target_planet['planet_debris_crystal'];
         } else {
@@ -191,7 +187,7 @@ class Recycle extends Missions
      *
      * @return void
      */
-    private function recycleMessage($owner, $message, $time, $status_message)
+    private function recycleMessage(int $owner, string $message, int $time, string $status_message): void
     {
         Functions::sendMessage(
             $owner,

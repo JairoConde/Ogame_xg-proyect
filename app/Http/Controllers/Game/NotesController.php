@@ -98,11 +98,10 @@ class NotesController extends BaseController
      *
      * @return void
      */
-    private function setUpNotes()
+    private function setUpNotes(): void
     {
         $this->notes = new Note(
-            $this->notesModel->getAllNotesByUserId($this->user['user_id']),
-            $this->user['user_id']
+            $this->notesModel->getAllNotesByUserId($this->user['user_id'])
         );
     }
 

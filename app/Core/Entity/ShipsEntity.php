@@ -8,7 +8,7 @@ class ShipsEntity
 {
     private array $_ships = [];
 
-    public function __construct($ships)
+    public function __construct(array $ships)
     {
         $this->setShips($ships);
     }
@@ -22,11 +22,11 @@ class ShipsEntity
      *
      * @return void
      */
-    private function setShips($ships)
+    private function setShips(array $ships): void
     {
         try {
             if (!is_array($ships)) {
-                return null;
+                return;
             }
 
             $this->_ships = $ships;
@@ -40,7 +40,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipId()
+    public function getShipId(): string
     {
         return $this->_ships['ship_id'];
     }
@@ -50,7 +50,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipPlanetId()
+    public function getShipPlanetId(): string
     {
         return $this->_ships['ship_planet_id'];
     }
@@ -60,7 +60,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipSmallCargoShip()
+    public function getShipSmallCargoShip(): string
     {
         return $this->_ships['ship_small_cargo_ship'];
     }
@@ -70,7 +70,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipBigCargoShip()
+    public function getShipBigCargoShip(): string
     {
         return $this->_ships['ship_big_cargo_ship'];
     }
@@ -80,7 +80,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipLightFighter()
+    public function getShipLightFighter(): string
     {
         return $this->_ships['ship_light_fighter'];
     }
@@ -90,7 +90,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipHeavyFighter()
+    public function getShipHeavyFighter(): string
     {
         return $this->_ships['ship_heavy_fighter'];
     }
@@ -100,7 +100,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipCruiser()
+    public function getShipCruiser(): string
     {
         return $this->_ships['ship_cruiser'];
     }
@@ -110,7 +110,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipBattleship()
+    public function getShipBattleship(): string
     {
         return $this->_ships['ship_battleship'];
     }
@@ -120,7 +120,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipColonyShip()
+    public function getShipColonyShip(): string
     {
         return $this->_ships['ship_colony_ship'];
     }
@@ -130,7 +130,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipRecycler()
+    public function getShipRecycler(): string
     {
         return $this->_ships['ship_recycler'];
     }
@@ -140,7 +140,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipEspionageProbe()
+    public function getShipEspionageProbe(): string
     {
         return $this->_ships['ship_espionage_probe'];
     }
@@ -150,7 +150,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipBomber()
+    public function getShipBomber(): string
     {
         return $this->_ships['ship_bomber'];
     }
@@ -160,7 +160,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipSolarSatellite()
+    public function getShipSolarSatellite(): string
     {
         return $this->_ships['ship_solar_satellite'];
     }
@@ -170,7 +170,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipDestroyer()
+    public function getShipDestroyer(): string
     {
         return $this->_ships['ship_destroyer'];
     }
@@ -180,7 +180,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipDeathstar()
+    public function getShipDeathstar(): string
     {
         return $this->_ships['ship_deathstar'];
     }
@@ -190,7 +190,7 @@ class ShipsEntity
      *
      * @return string
      */
-    public function getShipBattlecruiser()
+    public function getShipBattlecruiser(): string
     {
         return $this->_ships['ship_battlecruiser'];
     }

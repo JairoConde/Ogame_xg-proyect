@@ -96,6 +96,12 @@ class Template
         // use CI library
         require_once $bladePath;
 
-        $this->bladeParser = new BladeOne(XGP_ROOT . VIEWS_DIR);
+        $compilePath = XGP_ROOT . DATA_PATH . 'compiles' . DIRECTORY_SEPARATOR;
+
+        if (!is_dir($compilePath)) {
+            mkdir($compilePath, 0775, true);
+        }
+
+        $this->bladeParser = new BladeOne(XGP_ROOT . VIEWS_DIR, $compilePath);
     }
 }

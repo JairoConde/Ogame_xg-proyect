@@ -1,0 +1,40 @@
+parameters:
+    level: 2
+    paths:
+        - app/
+    scanFiles:
+        - config/config.php
+        - phpstan-stubs/PreferenceEntity.php
+    bootstrapFiles:
+        - phpstan-bootstrap.php
+    excludePaths:
+        - app/Libraries/Ci/
+    reportUnmatchedIgnoredErrors: false
+    ignoreErrors:
+        # Functions::message() and redirect() call exit/die - intentional
+        - '#Result of (static )?method .+\(\) \(void\) is used#'
+        # Classes resolved at runtime/autoload
+        - '#has unknown class#'
+        # Unsafe private method calls (reflection)
+        - '#Unsafe call to private method#'
+        # PHPDoc tagging/conventions from legacy code style
+        - '#PHPDoc tag @var above a method#'
+        # "type" as class name in legacy code (should be string/int etc.)
+        - '#has invalid type (type)#'
+        - '#has invalid return type (type)#'
+        # "negative" as class name in legacy code (should be int or float)
+        - '#has invalid return type .+negative#'
+        # Parameter $X of method has invalid type - legacy
+        - '#Parameter \$\w+ of method .+ has invalid type#'
+        # Call to method on unknown class (Blade/mysqli_result are dynamically created)
+        - '#on an unknown class#'
+        # Return type not subtype of native (e.g., mixed vs void in parent class)
+        - '#is not subtype of native type#'
+        # Legacy models with type as parameter (e.g., mysqli_result alias, type string)
+        - '#has invalid .* type( in | )#'
+        # PHPDoc formatting issues (newlines, special characters in annotations)
+        - '#PHPDoc tag @(param|return) has invalid value#'
+        # @param references unknown parameter - legacy PHPDoc drift
+        - '#PHPDoc tag @param references unknown parameter#'
+        # BattleReport double getIterator() calls - legacy OPBE engine pattern
+        - '#Cannot call method getIterator\(\) on array\.#'

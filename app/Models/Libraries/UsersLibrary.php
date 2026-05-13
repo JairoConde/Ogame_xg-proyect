@@ -24,7 +24,7 @@ class UsersLibrary extends Model
     /**
      * Get alliance data
      *
-     * @param array $alliance_id Alliance ID
+     * @param string|int $alliance_id Alliance ID
      *
      * @return array
      */
@@ -43,7 +43,7 @@ class UsersLibrary extends Model
     /**
      * Update the alliance owner
      *
-     * @param array $alliance_id Alliance ID
+     * @param string|int $alliance_id Alliance ID
      * @param int   $user_rank   Rank ID
      *
      * @return type
@@ -162,7 +162,7 @@ class UsersLibrary extends Model
     /**
      * Get the user data by user name
      *
-     * @param string $user_name User Name
+     * @param mixed $user_id
      *
      * @return array
      */

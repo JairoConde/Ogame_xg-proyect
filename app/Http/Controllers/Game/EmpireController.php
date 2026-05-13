@@ -62,6 +62,7 @@ class EmpireController extends BaseController
     private function buildBlocks(): array
     {
         $empire_data = $this->empireModel->getAllPlayerData((int) $this->user['user_id']);
+        $empire = [];
 
         foreach ($empire_data as $planet) {
             // general data
@@ -119,7 +120,7 @@ class EmpireController extends BaseController
      * Set the planet image
      *
      * @param array $planet
-     * @return string
+     * @return array
      */
     private function setName(array $planet): array
     {
@@ -198,19 +199,24 @@ class EmpireController extends BaseController
             case 'resources':
             case 'facilities':
                 $page = DevelopmentsLib::setBuildingPage($element_id);
+
                 break;
             case 'tech':
                 $page = 'research';
+
                 break;
             case 'fleet':
                 $page = 'shipyard';
+
                 break;
             case 'defenses':
             case 'missiles':
                 $page = 'defense';
+
                 break;
             default:
                 throw new Exception('Undefined element type "' . $element . '". Only possible: build, tech, fleet, defenses and missiles.');
+
                 break;
         }
 

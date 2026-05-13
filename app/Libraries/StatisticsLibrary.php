@@ -24,7 +24,7 @@ class StatisticsLibrary
      *
      * @return int
      */
-    public static function calculatePoints($element, $level, $type = '')
+    public static function calculatePoints($element, int $level, string $type = ''): int
     {
         switch ($type) {
             case 'tech':
@@ -42,9 +42,9 @@ class StatisticsLibrary
         $element = Objects::getInstance()->getPrice($element);
         $resources_total = $element['metal'] + $element['crystal'] + $element['deuterium'];
         $level_mult = pow($element['factor'], $current_level);
-        $points = ($resources_total * $level_mult) / Functions::readConfig('stat_points');
+        $points = ($resources_total * $level_mult) / (int) Functions::readConfig('stat_points');
 
-        return $points;
+        return (int) $points;
     }
 
     /**
@@ -56,7 +56,7 @@ class StatisticsLibrary
      *
      * @return boolean
      */
-    public function rebuildPoints($user_id, $planet_id, $what)
+    public function rebuildPoints(int $user_id, int $planet_id, string $what): bool
     {
         if (!in_array(DB_PREFIX . $what, [BUILDINGS, DEFENSES, RESEARCH, SHIPS])) {
             return false;
@@ -105,12 +105,12 @@ class StatisticsLibrary
      *
      * @return array
      */
-    public function makeStats()
+    public function makeStats(): array
     {
         // INITIAL TIME
         $mtime = microtime();
         $mtime = explode(' ', $mtime);
-        $mtime = $mtime[1] + $mtime[0];
+        $mtime = (float) $mtime[1] + (float) $mtime[0];
         $starttime = $mtime;
         $this->time = time();
 
@@ -126,7 +126,7 @@ class StatisticsLibrary
         // END STATISTICS BUILD
         $mtime = microtime();
         $mtime = explode(' ', $mtime);
-        $mtime = $mtime[1] + $mtime[0];
+        $mtime = (float) $mtime[1] + (float) $mtime[0];
         $endtime = $mtime;
 
         $result['stats_time'] = $this->time;

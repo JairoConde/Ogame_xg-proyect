@@ -132,7 +132,7 @@ class ResearchController extends BaseController
      * param
      * return void
      */
-    private function doCommand()
+    private function doCommand(): void
     {
         $cmd = isset($_GET['cmd']) ? $_GET['cmd'] : null;
 
@@ -240,7 +240,7 @@ class ResearchController extends BaseController
      * param
      * return return the planet where it's been working on and the status
      */
-    private function handleTechnologieBuild()
+    private function handleTechnologieBuild(): void
     {
         $this->_is_working['working_on'] = '';
         $this->_is_working['is_working'] = false;
@@ -279,7 +279,7 @@ class ResearchController extends BaseController
      * param
      * return (void)
      */
-    private function setLabsAmount()
+    private function setLabsAmount(): void
     {
         $labs_limit = $this->user[$this->_resource[123]] + 1;
         $this->_lab_level = $this->researchModel->getAllLabsLevel($this->user['user_id'], $labs_limit);

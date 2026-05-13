@@ -28,6 +28,7 @@ $lang = [
         'research_plasma_technology' => 'Un desarrollo de la tecnología de iones que acelera plasma muy energético que puede causar daños impresionantes y optimizar la producción de metal, cristal y deuterio (un 1 %/0,66 %/0,33 % por nivel).',
         'research_intergalactic_research_network' => 'Los científicos de tus planetas pueden comunicarse entre ellos a través de esta red.',
         'research_astrophysics' => 'Las naves pueden realizar expediciones largas con el modulo de investigación. Cada segundo nivel de esta tecnología permitirá colonizar un planeta adicional.',
+        'research_cargo_optimization' => 'Mejora la logística de transporte de las naves de carga y recicladores. Cada nivel añade un 10% sobre la capacidad base de carga de la Nave pequeña de carga, Nave grande de carga y Reciclador.',
         'research_graviton_technology' => 'A través del disparo de partículas concentradas de gravitón se genera un campo gravitacional artificial con suficiente potencia y poder de atracción para destruir no solo naves, sino lunas enteras.',
     ],
 ];

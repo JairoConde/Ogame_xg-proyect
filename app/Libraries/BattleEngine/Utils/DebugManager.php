@@ -33,10 +33,11 @@ class DebugManager
     private $errorHandler;
     private $exceptionHandler;
 
-    public static function intercept($toIntercept, $newFunction)
+    public static function intercept(callable $toIntercept, callable $newFunction): callable
     {
         return function () use ($toIntercept, $newFunction) {
             $newFunction();
+
             return call_user_func_array($toIntercept, func_get_args());
         }
         ;
@@ -48,7 +49,7 @@ class DebugManager
      * @param callable $func
      * @return callable
      */
-    public static function runDebugged($func, $errorHandler = null, $exceptionHandler = null)
+    public static function runDebugged(callable $func, $errorHandler = null, $exceptionHandler = null): callable
     {
         if ($errorHandler == null) {
             $errorHandler = [DebugManager::class, 'myErrorHandler'];
@@ -77,31 +78,36 @@ class DebugManager
      * @param mixed $errstr
      * @param mixed $errfile
      * @param mixed $errline
-     * @return
+     * @return bool
      */
-    public static function myErrorHandler($errno, $errstr, $errfile, $errline)
+    public static function myErrorHandler($errno, $errstr, $errfile, $errline): bool
     {
         $error = '';
         switch ($errno) {
             case E_USER_ERROR:
                 $error .= "ERROR [$errno] $errstr" . PHP_EOL;
+
                 break;
 
             case E_USER_WARNING:
                 $error .= "WARNING [$errno] $errstr" . PHP_EOL;
+
                 break;
 
             case E_USER_NOTICE:
                 $error .= "NOTICE [$errno] $errstr" . PHP_EOL;
+
                 break;
 
             default:
                 $error .= "Unknown error type: [$errno] $errstr" . PHP_EOL;
+
                 break;
         }
         $error .= "Error on line $errline in file $errfile";
         $error .= ', PHP ' . PHP_VERSION . ' (' . PHP_OS . ')' . PHP_EOL;
         DebugManager::save($error);
+
         /* Don't execute PHP internal error handler */
         return true;
     }
@@ -110,9 +116,9 @@ class DebugManager
      * DebugManager::save()
      * default exception handler function
      * @param mixed $other
-     * @return
+     * @return void
      */
-    public static function save($other)
+    public static function save($other): void
     {
         date_default_timezone_set(TIMEZONE);
         $time = date('l jS \of F Y h:i:s A');
@@ -123,6 +129,5 @@ class DebugManager
             mkdir(OPBEPATH . 'errors', 0777, true);
         }
         file_put_contents(OPBEPATH . 'errors' . DIRECTORY_SEPARATOR . date('d-m-y__H-i-s') . '.html', $time . PHP_EOL . $other . PHP_EOL . $post . PHP_EOL . $get . PHP_EOL . $output);
-        die('An error occurred, we will resolve it soon as possible');
     }
 }

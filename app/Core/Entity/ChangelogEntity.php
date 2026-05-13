@@ -46,7 +46,7 @@ class ChangelogEntity extends Entity
     /**
      * Get the changelog date
      *
-     * @return int
+     * @return string
      */
     public function getChangelogDate(): string
     {

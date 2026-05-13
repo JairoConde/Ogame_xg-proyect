@@ -8,7 +8,7 @@ class Ships
 {
     private array $_ships = [];
 
-    public function __construct($planet_data)
+    public function __construct(array $planet_data)
     {
         if (is_array($planet_data)) {
             $this->setUp($planet_data);
@@ -20,7 +20,7 @@ class Ships
      *
      * @return array
      */
-    public function getShips()
+    public function getShips(): array
     {
         $list_of_ships = [];
 
@@ -38,7 +38,7 @@ class Ships
      *
      * @return array
      */
-    public function getCurrentShips()
+    public function getCurrentShips(): mixed
     {
         return $this->getShips()[0];
     }
@@ -50,7 +50,7 @@ class Ships
      *
      * @return void
      */
-    private function setUp($ships)
+    private function setUp(array $ships): void
     {
         foreach ($ships as $ship) {
             $this->_ships[] = $this->createNewShipsEntity($ship);
@@ -62,9 +62,9 @@ class Ships
      *
      * @param array $ships Ships
      *
-     * @return \ShipsEntity
+     * @return ShipsEntity
      */
-    private function createNewShipsEntity($ships)
+    private function createNewShipsEntity(array $ships): ShipsEntity
     {
         return new ShipsEntity($ships);
     }

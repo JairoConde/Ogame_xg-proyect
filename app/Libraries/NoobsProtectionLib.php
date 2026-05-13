@@ -77,6 +77,6 @@ class NoobsProtectionLib
 
     public function isRankVisible(int $user_auth_level): bool
     {
-        return ($user_auth_level <= $this->allowed_level);
+        return $user_auth_level <= $this->allowed_level;
     }
 }

@@ -168,7 +168,7 @@ class RegisterController extends BaseController
             $this->error_id = 2;
         }
 
-        return ($errors <= 0);
+        return $errors <= 0;
     }
 
     private function calculateNewPlanetPosition(): void

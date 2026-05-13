@@ -1,0 +1,394 @@
+[2026-05-13 10:11:49] ==== loop 1/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:11:50] planet 46: queued building_hangar to 2
+[10:11:50] research: already in progress
+[2026-05-13 10:12:29] ==== loop 2/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:12:30] planet 46: queued building_hangar to 3
+[10:12:30] research: already in progress
+[2026-05-13 10:13:10] ==== loop 3/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:13:11] planet 46: queued building_hangar to 4
+[10:13:11] research: already in progress
+[2026-05-13 10:13:50] ==== loop 4/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:13:51] planet 46: queued building_hangar to 5
+[2026-05-13 10:14:33] ==== loop 5/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:14:34] planet 46: queued building_hangar to 6
+[10:14:34] research: already in progress
+[2026-05-13 10:15:13] ==== loop 6/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:15:14] planet 46: queued building_hangar to 7
+[10:15:14] research: already in progress
+[2026-05-13 10:15:58] ==== loop 7/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:15:58] planet 46: queued building_hangar to 8
+[2026-05-13 10:16:41] ==== loop 8/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:16:42] planet 46: queued building_hangar to 9
+[10:16:42] research: already in progress
+[2026-05-13 10:17:26] ==== loop 9/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:17:27] planet 46: queued building_crystal_store to 13
+[2026-05-13 10:18:08] ==== loop 10/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:18:09] planet 46: queued building_hangar to 10
+[2026-05-13 10:18:54] ==== loop 11/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:18:55] planet 46: building queue full (5)
+[10:18:55] research: already in progress
+[2026-05-13 10:19:40] ==== loop 12/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:19:41] planet 46: building queue full (5)
+[2026-05-13 10:20:21] ==== loop 13/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:20:21] planet 46: queued building_deuterium_tank to 11
+[10:20:21] research: already in progress
+[2026-05-13 10:21:07] ==== loop 14/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:21:08] planet 46: building queue full (5)
+[10:21:08] research: queued research_energy_technology on planet 46 (8s)
+[2026-05-13 10:21:52] ==== loop 15/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:21:53] planet 46: building queue full (5)
+[2026-05-13 10:22:39] ==== loop 16/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:22:40] planet 46: building queue full (5)
+[2026-05-13 10:23:25] ==== loop 17/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:23:25] planet 46: building queue full (5)
+[2026-05-13 10:24:11] ==== loop 18/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:24:12] planet 46: building queue full (5)
+[10:24:12] research: queued research_energy_technology on planet 46 (17s)
+[2026-05-13 10:25:01] ==== loop 19/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:25:02] planet 46: building queue full (5)
+[10:25:02] research: already in progress
+[2026-05-13 10:25:47] ==== loop 20/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:25:48] planet 46: building queue full (5)
+[2026-05-13 10:26:33] ==== loop 21/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:26:34] planet 46: building queue full (5)
+[10:26:34] research: already in progress
+[2026-05-13 10:27:19] ==== loop 22/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:27:19] planet 46: building queue full (5)
+[2026-05-13 10:28:02] ==== loop 23/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:28:04] planet 46: building queue full (5)
+[10:28:04] research: already in progress
+[2026-05-13 10:28:53] ==== loop 24/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:28:54] planet 46: building queue full (5)
+[10:28:54] research: already in progress
+[2026-05-13 10:29:38] ==== loop 25/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:29:39] planet 46: building queue full (5)
+[10:29:39] research: already in progress
+[2026-05-13 10:30:21] ==== loop 26/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:30:22] planet 46: queued building_metal_store to 17
+[10:30:22] research: already in progress
+[2026-05-13 10:31:02] ==== loop 27/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:31:02] planet 46: queue busy, throttled building_robot_factory
+[10:31:02] research: already in progress
+[2026-05-13 10:31:42] ==== loop 28/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:31:42] planet 46: queue busy, throttled building_robot_factory
+[10:31:42] research: already in progress
+[2026-05-13 10:32:25] ==== loop 29/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:32:25] planet 46: queue busy, throttled building_robot_factory
+[10:32:25] research: already in progress
+[2026-05-13 10:33:10] ==== loop 30/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:33:10] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:33:55] ==== loop 31/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:33:55] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:35:21] ==== loop 33/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:35:21] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:36:07] ==== loop 34/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:36:07] planet 46: queue busy, throttled building_robot_factory
+[10:36:07] research: queued research_energy_technology on planet 46 (35s)
+[2026-05-13 10:36:48] ==== loop 35/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:36:48] planet 46: queue busy, throttled building_robot_factory
+[10:36:48] research: already in progress
+[2026-05-13 10:37:25] ==== loop 36/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:37:25] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:38:06] ==== loop 37/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:38:06] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:38:48] ==== loop 38/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:38:48] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:39:30] ==== loop 39/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:39:30] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:40:13] ==== loop 40/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:40:13] planet 46: queue busy, throttled building_robot_factory
+[10:40:13] research: already in progress
+[2026-05-13 10:41:39] ==== loop 42/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:41:39] planet 46: queue busy, throttled building_robot_factory
+[10:41:39] research: already in progress
+[2026-05-13 10:42:27] ==== loop 43/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:42:27] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:43:11] ==== loop 44/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:43:11] planet 46: queue busy, throttled building_robot_factory
+[10:43:11] research: already in progress
+[2026-05-13 10:43:57] ==== loop 45/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:43:57] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:45:27] ==== loop 47/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:45:27] planet 46: queue busy, throttled building_robot_factory
+[10:45:27] research: already in progress
+[2026-05-13 10:46:13] ==== loop 48/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:46:13] planet 46: queue busy, throttled building_robot_factory
+[10:46:13] research: already in progress
+[2026-05-13 10:47:05] ==== loop 49/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:47:05] planet 46: queue busy, throttled building_robot_factory
+[10:47:05] research: already in progress
+[2026-05-13 10:47:53] ==== loop 50/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:47:53] planet 46: queue busy, throttled building_robot_factory
+[10:47:53] research: already in progress
+[2026-05-13 10:48:42] ==== loop 51/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:48:42] planet 46: queue busy, throttled building_robot_factory
+[10:48:42] research: already in progress
+[2026-05-13 10:49:32] ==== loop 52/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:49:32] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:50:25] ==== loop 53/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:50:25] planet 46: queue busy, throttled building_robot_factory
+[10:50:25] research: already in progress
+[2026-05-13 10:51:14] ==== loop 54/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:51:14] planet 46: queue busy, throttled building_robot_factory
+[10:51:14] research: already in progress
+[2026-05-13 10:52:04] ==== loop 55/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:52:04] planet 46: queue busy, throttled building_robot_factory
+[10:52:04] research: already in progress
+[2026-05-13 10:52:49] ==== loop 56/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:52:49] planet 46: queue busy, throttled building_robot_factory
+[10:52:49] research: already in progress
+[2026-05-13 10:53:33] ==== loop 57/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:53:33] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 10:54:21] ==== loop 58/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:54:21] planet 46: queue busy, throttled building_robot_factory
+[10:54:21] research: queued research_energy_technology on planet 46 (71s)
+[2026-05-13 10:55:10] ==== loop 59/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:55:10] planet 46: queue busy, throttled building_robot_factory
+[10:55:10] research: already in progress
+[2026-05-13 10:55:56] ==== loop 60/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:55:56] planet 46: queue busy, throttled building_robot_factory
+[10:55:56] research: already in progress
+[2026-05-13 10:56:45] ==== loop 61/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:56:45] planet 46: queue busy, throttled building_robot_factory
+[10:56:45] research: already in progress
+[2026-05-13 10:57:28] ==== loop 62/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:57:29] planet 46: queue busy, throttled building_robot_factory
+[10:57:29] research: already in progress
+[2026-05-13 10:58:14] ==== loop 63/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:58:14] planet 46: queue busy, throttled building_robot_factory
+[10:58:14] research: already in progress
+[2026-05-13 10:58:59] ==== loop 64/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:58:59] planet 46: queue busy, throttled building_robot_factory
+[10:58:59] research: already in progress
+[2026-05-13 10:59:47] ==== loop 65/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[10:59:47] planet 46: queue busy, throttled building_robot_factory
+[10:59:47] research: already in progress
+[2026-05-13 11:00:39] ==== loop 66/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:00:39] planet 46: queue busy, throttled building_robot_factory
+[11:00:39] research: already in progress
+[2026-05-13 11:01:25] ==== loop 67/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:01:25] planet 46: queue busy, throttled building_robot_factory
+[11:01:25] research: already in progress
+[2026-05-13 11:02:14] ==== loop 68/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:02:14] planet 46: queued building_robot_factory to 10
+[11:02:14] research: queued research_computer_technology on planet 46 (1s)
+[2026-05-13 11:03:05] ==== loop 69/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:03:05] planet 46: queue busy, throttled building_robot_factory
+[11:03:05] research: already in progress
+[2026-05-13 11:03:54] ==== loop 70/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:03:54] planet 46: queue busy, throttled building_robot_factory
+[11:03:54] research: already in progress
+[2026-05-13 11:04:45] ==== loop 71/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:04:45] planet 46: queue busy, throttled building_robot_factory
+[11:04:45] research: already in progress
+[2026-05-13 11:05:31] ==== loop 72/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:05:32] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 11:06:15] ==== loop 73/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:06:15] planet 46: queue busy, throttled building_robot_factory
+[11:06:15] research: already in progress
+[2026-05-13 11:07:01] ==== loop 74/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:07:01] planet 46: queue busy, throttled building_robot_factory
+[11:07:01] research: already in progress
+[2026-05-13 11:07:51] ==== loop 75/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:07:51] planet 46: queue busy, throttled building_robot_factory
+[11:07:51] research: already in progress
+[2026-05-13 11:08:41] ==== loop 76/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:08:41] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 11:09:30] ==== loop 77/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:09:30] planet 46: queue busy, throttled building_robot_factory
+[11:09:30] research: already in progress
+[2026-05-13 11:10:10] ==== loop 78/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:10:10] planet 46: queue busy, throttled building_robot_factory
+[11:10:10] research: already in progress
+[2026-05-13 11:10:59] ==== loop 79/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:10:59] planet 46: queue busy, throttled building_robot_factory
+[11:10:59] research: already in progress
+[2026-05-13 11:11:46] ==== loop 80/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:11:46] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 11:12:25] ==== loop 81/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:12:25] planet 46: queue busy, throttled building_robot_factory
+[11:12:25] research: already in progress
+[2026-05-13 11:13:10] ==== loop 82/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:13:10] planet 46: queue busy, throttled building_robot_factory
+[11:13:10] research: already in progress
+[2026-05-13 11:13:54] ==== loop 83/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:13:54] planet 46: queue busy, throttled building_robot_factory
+[2026-05-13 11:14:35] ==== loop 84/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:14:35] planet 46: queue busy, throttled building_robot_factory
+[11:14:35] research: already in progress
+[2026-05-13 11:15:19] ==== loop 85/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:15:19] planet 46: queue busy, throttled building_robot_factory
+[11:15:19] research: already in progress
+[2026-05-13 11:16:03] ==== loop 86/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:16:03] planet 46: building queue full (5)
+[11:16:03] research: already in progress
+[2026-05-13 11:16:51] ==== loop 87/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:16:52] planet 46: building queue full (5)
+[2026-05-13 11:17:38] ==== loop 88/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:17:39] planet 46: building queue full (5)
+[2026-05-13 11:18:28] ==== loop 89/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:18:29] planet 46: building queue full (5)
+[11:18:29] research: already in progress
+[2026-05-13 11:19:16] ==== loop 90/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:19:17] planet 46: building queue full (5)
+[2026-05-13 11:20:04] ==== loop 91/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:20:05] planet 46: building queue full (5)
+[11:20:05] research: already in progress
+[2026-05-13 11:20:50] ==== loop 92/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:20:52] planet 46: building queue full (5)
+[2026-05-13 11:21:35] ==== loop 93/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:21:36] planet 46: building queue full (5)
+[2026-05-13 11:23:02] ==== loop 95/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:23:03] planet 46: building queue full (5)
+[11:23:03] research: already in progress
+[2026-05-13 11:23:46] ==== loop 96/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:23:47] planet 46: building queue full (5)
+[11:23:47] research: already in progress
+[2026-05-13 11:24:30] ==== loop 97/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:24:30] planet 46: building queue full (5)
+[2026-05-13 11:25:18] ==== loop 98/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:25:18] planet 46: building queue full (5)
+[2026-05-13 11:26:07] ==== loop 99/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:26:08] planet 46: building queue full (5)
+[2026-05-13 11:26:53] ==== loop 100/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:26:54] planet 46: building queue full (5)
+[2026-05-13 11:27:42] ==== loop 101/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:27:43] planet 46: building queue full (5)
+[11:27:43] research: queued research_computer_technology on planet 46 (1s)
+[2026-05-13 11:28:29] ==== loop 102/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:28:29] planet 46: building queue full (5)
+[11:28:29] research: already in progress
+[2026-05-13 11:29:52] ==== loop 104/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:29:53] planet 46: building queue full (5)
+[2026-05-13 11:30:37] ==== loop 105/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:30:37] planet 46: building queue full (5)
+[2026-05-13 11:31:20] ==== loop 106/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:31:21] planet 46: building queue full (5)
+[2026-05-13 11:32:03] ==== loop 107/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:32:04] planet 46: building queue full (5)
+[11:32:04] research: already in progress
+[2026-05-13 11:32:45] ==== loop 108/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:32:46] planet 46: building queue full (5)
+[11:32:46] research: already in progress
+[2026-05-13 11:33:29] ==== loop 109/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:33:30] planet 46: building queue full (5)
+[11:33:30] research: already in progress
+[2026-05-13 11:34:16] ==== loop 110/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:34:16] planet 46: building queue full (5)
+[2026-05-13 11:35:00] ==== loop 111/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:35:00] planet 46: building queue full (5)
+[11:35:00] research: already in progress
+[2026-05-13 11:35:43] ==== loop 112/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:35:44] planet 46: building queue full (5)
+[2026-05-13 11:36:24] ==== loop 113/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:36:25] planet 46: building queue full (5)
+[11:36:25] research: already in progress
+[2026-05-13 11:37:09] ==== loop 114/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:37:09] planet 46: building queue full (5)
+[2026-05-13 11:37:51] ==== loop 115/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:37:52] planet 46: building queue full (5)
+[11:37:52] research: already in progress
+[2026-05-13 11:38:37] ==== loop 116/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:38:38] planet 46: building queue full (5)
+[11:38:38] research: already in progress
+[2026-05-13 11:39:27] ==== loop 117/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:39:27] planet 46: building queue full (5)
+[11:39:27] research: already in progress
+[2026-05-13 11:40:15] ==== loop 118/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:40:16] planet 46: building queue full (5)
+[11:40:16] research: queued research_computer_technology on planet 46 (1s)
+[2026-05-13 11:40:56] ==== loop 119/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:40:57] planet 46: building queue full (5)
+[2026-05-13 11:41:43] ==== loop 120/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:41:44] planet 46: building queue full (5)
+[2026-05-13 11:42:36] ==== loop 121/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:42:37] planet 46: building queue full (5)
+[2026-05-13 11:43:25] ==== loop 122/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:43:25] planet 46: building queue full (5)
+[2026-05-13 11:44:14] ==== loop 123/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:44:15] planet 46: building queue full (5)
+[2026-05-13 11:45:00] ==== loop 124/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:45:01] planet 46: building queue full (5)
+[11:45:01] research: already in progress
+[2026-05-13 11:45:45] ==== loop 125/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:45:47] planet 46: building queue full (5)
+[2026-05-13 11:47:21] ==== loop 127/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:47:22] planet 46: building queue full (5)
+[2026-05-13 11:48:04] ==== loop 128/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:48:05] planet 46: building queue full (5)
+[11:48:05] research: already in progress
+[2026-05-13 11:48:54] ==== loop 129/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:48:54] planet 46: building queue full (5)
+[11:48:54] research: already in progress
+[2026-05-13 11:49:46] ==== loop 130/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:49:47] planet 46: building queue full (5)
+[2026-05-13 11:50:33] ==== loop 131/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:50:34] planet 46: building queue full (5)
+[11:50:34] research: already in progress
+[2026-05-13 11:51:24] ==== loop 132/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:51:24] planet 46: building queue full (5)
+[11:51:24] research: already in progress
+[2026-05-13 11:52:09] ==== loop 133/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:52:10] planet 46: building queue full (5)
+[2026-05-13 11:52:58] ==== loop 134/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:52:58] planet 46: building queue full (5)
+[11:52:58] research: queued research_computer_technology on planet 46 (2s)
+[2026-05-13 11:53:42] ==== loop 135/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:53:43] planet 46: building queue full (5)
+[11:53:43] research: already in progress
+[2026-05-13 11:54:24] ==== loop 136/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:54:24] planet 46: building queue full (5)
+[2026-05-13 11:55:02] ==== loop 137/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:55:03] planet 46: building queue full (5)
+[11:55:03] research: already in progress
+[2026-05-13 11:55:53] ==== loop 138/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:55:54] planet 46: building queue full (5)
+[11:55:54] research: already in progress
+[2026-05-13 11:56:39] ==== loop 139/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:56:39] planet 46: building queue full (5)
+[11:56:39] research: already in progress
+[2026-05-13 11:57:27] ==== loop 140/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:57:27] planet 46: building queue full (5)
+[2026-05-13 11:58:14] ==== loop 141/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:58:14] planet 46: building queue full (5)
+[11:58:14] research: already in progress
+[2026-05-13 11:58:54] ==== loop 142/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:58:54] planet 46: building queue full (5)
+[11:58:54] research: already in progress
+[2026-05-13 11:59:36] ==== loop 143/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[11:59:36] planet 46: building queue full (5)
+[2026-05-13 12:00:22] ==== loop 144/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:00:23] planet 46: building queue full (5)
+[2026-05-13 12:01:07] ==== loop 145/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:01:07] planet 46: building queue full (5)
+[2026-05-13 12:01:52] ==== loop 146/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:01:52] planet 46: building queue full (5)
+[12:01:52] research: queued research_computer_technology on planet 46 (4s)
+[2026-05-13 12:02:40] ==== loop 147/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:02:41] planet 46: building queue full (5)
+[12:02:41] research: already in progress
+[2026-05-13 12:03:26] ==== loop 148/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:03:27] planet 46: building queue full (5)
+[12:03:27] research: already in progress
+[2026-05-13 12:04:16] ==== loop 149/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:04:17] planet 46: building queue full (5)
+[12:04:17] research: already in progress
+[2026-05-13 12:05:02] ==== loop 150/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:05:03] planet 46: building queue full (5)
+[12:05:03] research: already in progress
+[2026-05-13 12:06:43] ==== loop 152/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:06:43] planet 46: building queue full (5)
+[12:06:43] research: already in progress
+[2026-05-13 12:07:29] ==== loop 153/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:07:30] planet 46: building queue full (5)
+[2026-05-13 12:08:24] ==== loop 154/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:08:25] planet 46: building queue full (5)
+[2026-05-13 12:09:16] ==== loop 155/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:09:16] planet 46: building queue full (5)
+[2026-05-13 12:10:02] ==== loop 156/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:10:02] planet 46: building queue full (5)
+[12:10:02] research: already in progress
+[2026-05-13 12:10:47] ==== loop 157/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:10:48] planet 46: building queue full (5)
+[2026-05-13 12:11:32] ==== loop 158/∞ | seed=1111733163699517065 archetype=balanced personality=cazador focus=mil actions_per_loop=1 ====
+[12:11:33] planet 46: building queue full (5)

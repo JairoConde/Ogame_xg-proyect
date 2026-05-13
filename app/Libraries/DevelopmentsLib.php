@@ -38,14 +38,17 @@ class DevelopmentsLib
         );
     }
 
-    public static function developmentPrice(array $current_user, array $current_planet, int $element, $incremental = true, $destroy = false): array
+    public static function developmentPrice(array $current_user, array $current_planet, int $element, bool $incremental = true, bool $destroy = false): array
     {
         $resource = Objects::getInstance()->getObjects();
         $pricelist = Objects::getInstance()->getPrice();
+        $level = 0;
 
         if ($incremental) {
             $level = (isset($current_planet[$resource[$element]])) ? $current_planet[$resource[$element]] : $current_user[$resource[$element]];
         }
+
+        $cost = [];
 
         foreach (['metal', 'crystal', 'deuterium', 'energy_max'] as $type) {
             if (isset($pricelist[$element][$type])) {
@@ -80,7 +83,7 @@ class DevelopmentsLib
      *
      * @return boolean
      */
-    public static function isDevelopmentPayable($current_user, $current_planet, $element, $incremental = true, $destroy = false)
+    public static function isDevelopmentPayable(array $current_user, array $current_planet, $element, bool $incremental = true, bool $destroy = false): bool
     {
         $return = true;
         $costs = self::developmentPrice($current_user, $current_planet, $element, $incremental, $destroy);
@@ -105,7 +108,7 @@ class DevelopmentsLib
      *
      * @return string
      */
-    public static function formatedDevelopmentPrice($current_user, $current_planet, $element, $lang, $userfactor = true, $level = false)
+    public static function formatedDevelopmentPrice(array $current_user, array $current_planet, $element, $lang, bool $userfactor = true, $level = false): string
     {
         $resource = Objects::getInstance()->getObjects();
         $pricelist = Objects::getInstance()->getPrice();
@@ -155,13 +158,14 @@ class DevelopmentsLib
      * @param boolean $level           Level
      * @param int     $total_lab_level Total lab level
      *
-     * @return int
+     * @return float
      */
-    public static function developmentTime($current_user, $current_planet, $element, $level = false, $total_lab_level = 0)
+    public static function developmentTime(array $current_user, array $current_planet, $element, $level = false, int $total_lab_level = 0): float
     {
         $resource = Objects::getInstance()->getObjects();
         $pricelist = Objects::getInstance()->getPrice();
         $reslist = Objects::getInstance()->getObjectsList();
+        $time = 0;
 
         // IF ROUTINE FIX BY JSTAR
         if ($level === false) {
@@ -198,7 +202,12 @@ class DevelopmentsLib
             );
         }
 
-        return ($time < 1 ? 1 : $time);
+        if (in_array($element, $reslist['defense']) or in_array($element, $reslist['fleet'])) {
+            // Allow sub-second unit times for shipyard throughput logic.
+            return $time <= 0 ? 0.000001 : $time;
+        }
+
+        return $time < 1 ? 1 : $time;
     }
 
     /**
@@ -227,7 +236,7 @@ class DevelopmentsLib
      *
      * @return string
      */
-    public static function formatedDevelopmentTime($time, $lang_line)
+    public static function formatedDevelopmentTime($time, $lang_line): string
     {
         return '<br>' . $lang_line . FormatLib::prettyTime($time);
     }
@@ -241,7 +250,7 @@ class DevelopmentsLib
      *
      * @return boolean
      */
-    public static function isDevelopmentAllowed($current_user, $current_planet, $element)
+    public static function isDevelopmentAllowed(array $current_user, array $current_planet, $element): bool
     {
         $resource = Objects::getInstance()->getObjects();
         $requeriments = Objects::getInstance()->getRelations();
@@ -273,7 +282,7 @@ class DevelopmentsLib
      *
      * @return string
      */
-    public static function currentBuilding($call_program, $lang, $element_id = 0)
+    public static function currentBuilding(string $call_program, $lang, int $element_id = 0): string
     {
         $parse['call_program'] = $call_program;
         $parse['current_page'] = ($element_id != 0) ? DevelopmentsLib::setBuildingPage($element_id) : $call_program;
@@ -291,9 +300,9 @@ class DevelopmentsLib
      * @param string $element      Element
      * @param string $current_user Current user
      *
-     * @return void
+     * @return string
      */
-    public static function setLevelFormat($level, $lang, $element = '', $current_user = '')
+    public static function setLevelFormat($level, $lang, string $element = '', $current_user = ''): string
     {
         $return_level = '';
 
@@ -333,9 +342,9 @@ class DevelopmentsLib
      *
      * @return boolean
      */
-    public static function isLabWorking($current_user)
+    public static function isLabWorking(array $current_user): bool
     {
-        return ($current_user['research_current_research'] != 0);
+        return $current_user['research_current_research'] != 0;
     }
 
     /**
@@ -345,20 +354,20 @@ class DevelopmentsLib
      *
      * @return boolean
      */
-    public static function isShipyardWorking($current_planet)
+    public static function isShipyardWorking(array $current_planet): bool
     {
-        return ($current_planet['planet_b_hangar'] != 0);
+        return $current_planet['planet_b_hangar'] != 0;
     }
 
     /**
      * Check if there are any fields available
      *
-     * @param type $current_planet
+     * @param array $current_planet
      *
      * @return boolean
      */
-    public static function areFieldsAvailable($current_planet)
+    public static function areFieldsAvailable(array $current_planet): bool
     {
-        return ($current_planet['planet_field_current'] < self::maxFields($current_planet));
+        return $current_planet['planet_field_current'] < self::maxFields($current_planet);
     }
 }

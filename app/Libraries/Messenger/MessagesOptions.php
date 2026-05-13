@@ -7,58 +7,19 @@ use App\Helpers\StringsHelper;
 
 final class MessagesOptions
 {
-    /**
-     *
-     * @var type
-     */
-    private $_to;
-
-    /**
-     *
-     * @var type
-     */
-    private $_sender;
-
-    /**
-     *
-     * @var type
-     */
-    private $_time;
-
-    /**
-     *
-     * @var type
-     */
-    private $_type;
-
-    /**
-     *
-     * @var type
-     */
-    private $_from;
-
-    /**
-     *
-     * @var type
-     */
-    private $_subject;
-
-    /**
-     *
-     * @var type
-     */
-    private $_message_text;
-
-    /**
-     *
-     * @var type
-     */
-    private $_message_format;
+    private mixed $_to = null;
+    private mixed $_sender = null;
+    private mixed $_time = null;
+    private mixed $_type = null;
+    private mixed $_from = null;
+    private mixed $_subject = null;
+    private mixed $_message_text = null;
+    private mixed $_message_format = null;
 
     /**
      * @return mixed
      */
-    public function getTo()
+    public function getTo(): mixed
     {
         return $this->_to;
     }
@@ -66,7 +27,7 @@ final class MessagesOptions
     /**
      * @return mixed
      */
-    public function getSender()
+    public function getSender(): mixed
     {
         return $this->_sender == '' ? 0 : $this->_sender;
     }
@@ -74,7 +35,7 @@ final class MessagesOptions
     /**
      * @return mixed
      */
-    public function getTime()
+    public function getTime(): mixed
     {
         return $this->_time == '' ? time() : $this->_time;
     }
@@ -82,7 +43,7 @@ final class MessagesOptions
     /**
      * @return mixed
      */
-    public function getType()
+    public function getType(): mixed
     {
         if ($this->_type == '' or !is_object($this->_type)) {
             return MessagesEnumerator::GENERAL;
@@ -94,7 +55,7 @@ final class MessagesOptions
     /**
      * @return mixed
      */
-    public function getFrom()
+    public function getFrom(): mixed
     {
         return $this->_from;
     }
@@ -102,7 +63,7 @@ final class MessagesOptions
     /**
      * @return mixed
      */
-    public function getSubject()
+    public function getSubject(): mixed
     {
         return $this->_subject;
     }
@@ -110,7 +71,7 @@ final class MessagesOptions
     /**
      * @return mixed
      */
-    public function getMessageText()
+    public function getMessageText(): mixed
     {
         return $this->_message_text;
     }
@@ -118,10 +79,10 @@ final class MessagesOptions
     /**
      * @return mixed
      */
-    public function getMessageFormat()
+    public function getMessageFormat(): mixed
     {
         if ($this->_message_format == '') {
-            return MessageFormat::simple;
+            return 1;
         }
 
         return $this->_message_format;
@@ -130,7 +91,7 @@ final class MessagesOptions
     /**
      * @param $to
      */
-    public function setTo($to)
+    public function setTo(mixed $to): void
     {
         $this->_to = $to;
     }
@@ -138,7 +99,7 @@ final class MessagesOptions
     /**
      * @param $sender
      */
-    public function setSender($sender)
+    public function setSender(mixed $sender): void
     {
         $this->_sender = $sender;
     }
@@ -146,7 +107,7 @@ final class MessagesOptions
     /**
      * @param $time
      */
-    public function setTime($time)
+    public function setTime(mixed $time): void
     {
         $this->_time = $time;
     }
@@ -154,7 +115,7 @@ final class MessagesOptions
     /**
      * @param $type
      */
-    public function setType($type)
+    public function setType(mixed $type): void
     {
         $this->_type = $type;
     }
@@ -162,7 +123,7 @@ final class MessagesOptions
     /**
      * @param $from
      */
-    public function setFrom($from)
+    public function setFrom(mixed $from): void
     {
         $this->_from = $from;
     }
@@ -170,7 +131,7 @@ final class MessagesOptions
     /**
      * @param $subject
      */
-    public function setSubject($subject)
+    public function setSubject(mixed $subject): void
     {
         $this->_subject = $subject;
     }
@@ -178,7 +139,7 @@ final class MessagesOptions
     /**
      * @param $message_text
      */
-    public function setMessageText($message_text)
+    public function setMessageText(mixed $message_text): void
     {
         if ($this->_message_format == 1) {
             $this->_message_text = stripslashes($message_text);
@@ -190,7 +151,7 @@ final class MessagesOptions
     /**
      * @param $message_format
      */
-    public function setMessageFormat($message_format)
+    public function setMessageFormat(mixed $message_format): void
     {
         $this->_message_format = $message_format;
     }

@@ -44,7 +44,7 @@ class Common
         // specific pages load or executions
         if (isset(self::APPLICATIONS[$app])) {
             foreach (self::APPLICATIONS[$app] as $method) {
-                if (!empty($method)) {
+                if ($method) {
                     $this->$method();
                 }
             }
@@ -123,8 +123,8 @@ class Common
 
     private function setUpdates(): void
     {
-        define('SHIP_DEBRIS_FACTOR', Functions::readConfig('fleet_cdr') / 100);
-        define('DEFENSE_DEBRIS_FACTOR', Functions::readConfig('defs_cdr') / 100);
+        define('SHIP_DEBRIS_FACTOR', (int) Functions::readConfig('fleet_cdr') / 100);
+        define('DEFENSE_DEBRIS_FACTOR', (int) Functions::readConfig('defs_cdr') / 100);
 
         // Several updates
         new UpdatesLibrary();

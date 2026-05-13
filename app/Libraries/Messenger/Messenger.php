@@ -6,7 +6,7 @@ use App\Models\Libraries\Messenger\Messenger as MessengerModel;
 
 final class Messenger
 {
-    private $messengerModel;
+    private MessengerModel $messengerModel;
 
     public function __construct()
     {

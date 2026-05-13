@@ -1,0 +1,369 @@
+[2026-05-13 10:12:13] ==== loop 2/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:12:13] planet 29: queued building_crystal_store to 17
+[10:12:13] attack: intel 1:2:4 ships=0 defs=0 res=7279974378
+[10:12:13] attack: intel 1:2:5 ships=0 defs=0 res=7150993695
+[10:12:13] attack: intel 1:2:6 ships=16 defs=0 res=7275246705
+[2026-05-13 10:13:35] ==== loop 4/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:13:35] planet 29: building queue full (5)
+[10:13:35] research: already in progress
+[2026-05-13 10:14:11] ==== loop 5/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:14:11] planet 29: building queue full (5)
+[10:14:11] research: already in progress
+[2026-05-13 10:14:54] ==== loop 6/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:14:55] planet 29: building queue full (5)
+[10:14:55] research: already in progress
+[2026-05-13 10:15:36] ==== loop 7/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:15:36] planet 29: building queue full (5)
+[2026-05-13 10:16:21] ==== loop 8/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:16:22] planet 29: building queue full (5)
+[10:16:22] research: already in progress
+[2026-05-13 10:17:04] ==== loop 9/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:17:05] planet 29: building queue full (5)
+[10:17:05] research: already in progress
+[2026-05-13 10:17:47] ==== loop 10/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:17:48] planet 29: building queue full (5)
+[10:17:48] research: already in progress
+[2026-05-13 10:18:31] ==== loop 11/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:18:32] planet 29: queued building_crystal_store to 18
+[10:18:32] attack: spy 1:4:10 probes=4 eta=1s
+[10:18:32] attack: spy 1:6:4 probes=4 eta=1s
+[10:18:32] attack: spy 1:6:8 probes=4 eta=1s
+[2026-05-13 10:19:19] ==== loop 12/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:19:19] planet 29: no resources for building_crystal_store+1
+[10:19:19] attack: intel 1:4:10 ships=194 defs=2 res=390259848
+[10:19:19] attack: intel 1:6:4 ships=755 defs=183 res=327614769
+[10:19:19] attack: intel 1:6:8 ships=689 defs=262 res=387241547
+[10:19:19] research: queued research_computer_technology on planet 29 (5s)
+[2026-05-13 10:20:04] ==== loop 13/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:20:05] planet 29: queued building_crystal_mine to 30
+[10:20:05] research: already in progress
+[2026-05-13 10:20:42] ==== loop 14/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:20:43] planet 29: queued building_deuterium_sintetizer to 19
+[10:20:43] attack: spy 1:7:8 probes=4 eta=1s
+[10:20:43] attack: spy 1:7:10 probes=4 eta=1s
+[10:20:43] research: queued research_espionage_technology on planet 29 (1s)
+[2026-05-13 10:21:31] ==== loop 15/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:21:31] planet 29: building queue full (5)
+[10:21:31] attack: intel 1:7:8 ships=203 defs=173 res=109829562
+[10:21:31] attack: intel 1:7:10 ships=468 defs=210 res=114100704
+[10:21:31] research: already in progress
+[2026-05-13 10:22:15] ==== loop 16/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:22:16] planet 29: building queue full (5)
+[10:22:16] research: already in progress
+[2026-05-13 10:23:47] ==== loop 18/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:23:48] planet 29: building queue full (5)
+[10:23:48] research: already in progress
+[2026-05-13 10:24:35] ==== loop 19/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:24:36] planet 29: building queue full (5)
+[10:24:36] research: already in progress
+[2026-05-13 10:25:25] ==== loop 20/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:25:26] planet 29: building queue full (5)
+[10:25:26] research: already in progress
+[2026-05-13 10:26:10] ==== loop 21/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:26:10] planet 29: building queue full (5)
+[2026-05-13 10:26:58] ==== loop 22/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:26:58] planet 29: building queue full (5)
+[10:26:58] research: already in progress
+[2026-05-13 10:27:41] ==== loop 23/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:27:42] planet 29: building queue full (5)
+[10:27:42] research: already in progress
+[2026-05-13 10:28:29] ==== loop 24/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:28:29] planet 29: building queue full (5)
+[10:28:29] research: already in progress
+[2026-05-13 10:29:17] ==== loop 25/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:29:17] planet 29: building queue full (5)
+[10:29:17] research: already in progress
+[2026-05-13 10:30:02] ==== loop 26/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:30:02] planet 29: queued ship_heavy_fighter +5
+[10:30:02] research: already in progress
+[2026-05-13 10:30:41] ==== loop 27/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:30:42] planet 29: queued ship_heavy_fighter +5
+[2026-05-13 10:31:23] ==== loop 28/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:31:24] planet 29: queued ship_heavy_fighter +5
+[10:31:24] research: already in progress
+[2026-05-13 10:33:34] ==== loop 31/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:33:35] planet 29: queued ship_heavy_fighter +5
+[10:33:35] research: already in progress
+[2026-05-13 10:34:18] ==== loop 32/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:34:18] planet 29: queued ship_solar_satellite +5
+[2026-05-13 10:35:01] ==== loop 33/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:35:02] planet 29: queued ship_solar_satellite +5
+[10:35:02] research: already in progress
+[2026-05-13 10:35:45] ==== loop 34/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:35:46] planet 29: queued ship_solar_satellite +5
+[10:35:46] research: already in progress
+[2026-05-13 10:36:30] ==== loop 35/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:36:31] planet 29: queued ship_solar_satellite +5
+[10:36:31] research: already in progress
+[2026-05-13 10:37:08] ==== loop 36/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:37:09] planet 29: queued ship_solar_satellite +5
+[10:37:09] research: already in progress
+[2026-05-13 10:37:48] ==== loop 37/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:37:48] planet 29: queued ship_solar_satellite +5
+[10:37:48] research: already in progress
+[2026-05-13 10:39:10] ==== loop 39/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:39:10] planet 29: queued ship_heavy_fighter +5
+[10:39:10] research: already in progress
+[2026-05-13 10:39:54] ==== loop 40/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:39:55] planet 29: queued ship_heavy_fighter +5
+[10:39:55] research: already in progress
+[2026-05-13 10:40:33] ==== loop 41/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:40:33] planet 29: queued building_metal_store to 18
+[10:40:33] research: already in progress
+[2026-05-13 10:41:19] ==== loop 42/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:41:20] planet 29: building queue full (5)
+[10:41:20] research: already in progress
+[2026-05-13 10:42:05] ==== loop 43/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:42:06] planet 29: building queue full (5)
+[10:42:06] research: already in progress
+[2026-05-13 10:42:47] ==== loop 44/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:42:48] planet 29: building queue full (5)
+[10:42:48] research: already in progress
+[2026-05-13 10:44:20] ==== loop 46/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:44:21] planet 29: building queue full (5)
+[2026-05-13 10:45:01] ==== loop 47/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:45:01] planet 29: building queue full (5)
+[10:45:01] research: already in progress
+[2026-05-13 10:45:50] ==== loop 48/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:45:51] planet 29: building queue full (5)
+[10:45:51] research: already in progress
+[2026-05-13 10:46:36] ==== loop 49/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:46:37] planet 29: building queue full (5)
+[10:46:37] research: already in progress
+[2026-05-13 10:48:16] ==== loop 51/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:48:16] planet 29: building queue full (5)
+[10:48:16] research: already in progress
+[2026-05-13 10:49:03] ==== loop 52/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:49:04] planet 29: no resources for building_crystal_store+1
+[10:49:04] research: already in progress
+[2026-05-13 10:49:56] ==== loop 53/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:49:57] planet 29: no resources for building_crystal_store+1
+[10:49:57] research: already in progress
+[2026-05-13 10:50:44] ==== loop 54/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:50:45] planet 29: queued defense_plasma_turret +7
+[2026-05-13 10:51:37] ==== loop 55/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:51:37] planet 29: queued defense_rocket_launcher +8
+[2026-05-13 10:53:07] ==== loop 57/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:53:08] planet 29: queued defense_rocket_launcher +8
+[2026-05-13 10:53:55] ==== loop 58/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:53:56] planet 29: queued defense_rocket_launcher +8
+[10:53:56] research: already in progress
+[2026-05-13 10:54:42] ==== loop 59/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:54:43] planet 29: queued defense_rocket_launcher +8
+[10:54:43] research: already in progress
+[2026-05-13 10:55:31] ==== loop 60/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:55:31] planet 29: queued defense_rocket_launcher +8
+[2026-05-13 10:56:15] ==== loop 61/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:56:16] planet 29: queued defense_rocket_launcher +8
+[10:56:16] research: already in progress
+[2026-05-13 10:58:33] ==== loop 64/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[10:58:34] planet 29: queued defense_rocket_launcher +8
+[10:58:34] research: already in progress
+[2026-05-13 11:00:10] ==== loop 66/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:00:11] planet 29: queued building_solar_plant to 28
+[11:00:11] research: already in progress
+[2026-05-13 11:01:01] ==== loop 67/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:01:01] planet 29: no resources for building_crystal_store+1
+[11:01:01] research: already in progress
+[2026-05-13 11:01:47] ==== loop 68/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:01:47] planet 29: no resources for building_crystal_store+1
+[11:01:47] research: already in progress
+[2026-05-13 11:02:37] ==== loop 69/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:02:38] planet 29: no resources for building_crystal_store+1
+[11:02:38] research: already in progress
+[2026-05-13 11:03:25] ==== loop 70/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:03:26] planet 29: no resources for building_crystal_store+1
+[11:03:26] research: already in progress
+[2026-05-13 11:04:16] ==== loop 71/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:04:17] planet 29: no resources for building_crystal_store+1
+[11:04:17] research: already in progress
+[2026-05-13 11:05:03] ==== loop 72/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:05:04] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:06:36] ==== loop 74/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:06:37] planet 29: no resources for building_crystal_store+1
+[11:06:37] research: already in progress
+[2026-05-13 11:07:24] ==== loop 75/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:07:25] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:08:12] ==== loop 76/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:08:12] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:09:49] ==== loop 78/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:09:49] planet 29: no resources for building_crystal_store+1
+[11:09:49] research: already in progress
+[2026-05-13 11:10:29] ==== loop 79/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:10:29] planet 29: queued defense_ion_cannon +8
+[2026-05-13 11:11:18] ==== loop 80/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:11:18] planet 29: queued defense_ion_cannon +8
+[11:11:18] research: already in progress
+[2026-05-13 11:12:43] ==== loop 82/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:12:44] planet 29: queued defense_ion_cannon +8
+[11:12:44] research: already in progress
+[2026-05-13 11:14:10] ==== loop 84/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:14:11] planet 29: queued defense_ion_cannon +8
+[11:14:11] research: already in progress
+[2026-05-13 11:14:52] ==== loop 85/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:14:53] planet 29: queued defense_ion_cannon +8
+[11:14:53] research: already in progress
+[2026-05-13 11:15:38] ==== loop 86/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:15:38] planet 29: queued defense_ion_cannon +8
+[11:15:38] research: already in progress
+[2026-05-13 11:16:22] ==== loop 87/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:16:22] planet 29: queued defense_ion_cannon +8
+[11:16:22] research: already in progress
+[2026-05-13 11:17:11] ==== loop 88/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:17:11] planet 29: queued defense_ion_cannon +8
+[11:17:11] research: already in progress
+[2026-05-13 11:18:50] ==== loop 90/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:18:51] planet 29: queued defense_ion_cannon +8
+[11:18:51] research: already in progress
+[2026-05-13 11:19:36] ==== loop 91/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:19:36] planet 29: queued defense_ion_cannon +8
+[2026-05-13 11:20:23] ==== loop 92/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:20:23] planet 29: queued defense_rocket_launcher +8
+[2026-05-13 11:21:10] ==== loop 93/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:21:10] planet 29: queued defense_rocket_launcher +8
+[2026-05-13 11:21:57] ==== loop 94/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:21:57] planet 29: queued defense_rocket_launcher +8
+[11:21:57] research: already in progress
+[2026-05-13 11:22:36] ==== loop 95/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:22:36] planet 29: queued defense_rocket_launcher +8
+[11:22:36] research: already in progress
+[2026-05-13 11:23:22] ==== loop 96/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:23:23] planet 29: queued defense_rocket_launcher +8
+[2026-05-13 11:24:05] ==== loop 97/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:24:06] planet 29: queued defense_rocket_launcher +8
+[11:24:06] research: already in progress
+[2026-05-13 11:24:51] ==== loop 98/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:24:52] planet 29: queued defense_rocket_launcher +8
+[11:24:52] research: already in progress
+[2026-05-13 11:25:40] ==== loop 99/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:25:41] planet 29: queued building_nano_factory to 7
+[11:25:41] research: already in progress
+[2026-05-13 11:26:30] ==== loop 100/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:26:31] planet 29: no resources for building_crystal_store+1
+[11:26:31] research: already in progress
+[2026-05-13 11:28:03] ==== loop 102/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:28:03] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:28:51] ==== loop 103/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:28:51] planet 29: no resources for building_crystal_store+1
+[11:28:51] research: already in progress
+[2026-05-13 11:30:13] ==== loop 105/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:30:14] planet 29: queued building_metal_store to 19
+[11:30:14] research: already in progress
+[2026-05-13 11:30:56] ==== loop 106/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:30:56] planet 29: no resources for building_metal_store+1
+[11:30:56] research: already in progress
+[2026-05-13 11:31:38] ==== loop 107/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:31:38] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:33:06] ==== loop 109/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:33:07] planet 29: no resources for building_crystal_store+1
+[11:33:07] research: already in progress
+[2026-05-13 11:33:49] ==== loop 110/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:33:50] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:34:38] ==== loop 111/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:34:39] planet 29: no resources for building_crystal_store+1
+[11:34:39] research: already in progress
+[2026-05-13 11:35:18] ==== loop 112/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:35:19] planet 29: no resources for building_crystal_store+1
+[11:35:19] research: already in progress
+[2026-05-13 11:36:44] ==== loop 114/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:36:45] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:37:29] ==== loop 115/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:37:29] planet 29: no resources for building_crystal_store+1
+[11:37:29] research: already in progress
+[2026-05-13 11:38:14] ==== loop 116/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:38:14] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:39:05] ==== loop 117/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:39:06] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:39:53] ==== loop 118/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:39:54] planet 29: no resources for building_crystal_store+1
+[11:39:54] research: already in progress
+[2026-05-13 11:40:38] ==== loop 119/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:40:39] planet 29: queued building_deuterium_tank to 15
+[11:40:39] research: already in progress
+[2026-05-13 11:42:13] ==== loop 121/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:42:13] planet 29: building queue full (5)
+[11:42:13] research: already in progress
+[2026-05-13 11:43:03] ==== loop 122/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:43:04] planet 29: building queue full (5)
+[11:43:04] research: already in progress
+[2026-05-13 11:43:51] ==== loop 123/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:43:52] planet 29: building queue full (5)
+[2026-05-13 11:44:38] ==== loop 124/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:44:39] planet 29: building queue full (5)
+[11:44:39] research: already in progress
+[2026-05-13 11:45:25] ==== loop 125/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:45:26] planet 29: building queue full (5)
+[11:45:26] research: already in progress
+[2026-05-13 11:46:09] ==== loop 126/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:46:10] planet 29: building queue full (5)
+[11:46:10] research: already in progress
+[2026-05-13 11:46:54] ==== loop 127/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:46:55] planet 29: building queue full (5)
+[11:46:55] research: already in progress
+[2026-05-13 11:48:31] ==== loop 129/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:48:31] planet 29: queued building_solar_plant to 29
+[2026-05-13 11:50:10] ==== loop 131/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:50:11] planet 29: no resources for building_crystal_store+1
+[11:50:11] research: already in progress
+[2026-05-13 11:50:58] ==== loop 132/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:50:59] planet 29: no resources for building_crystal_store+1
+[11:50:59] research: already in progress
+[2026-05-13 11:51:47] ==== loop 133/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:51:48] planet 29: no resources for building_crystal_store+1
+[11:51:48] research: already in progress
+[2026-05-13 11:52:35] ==== loop 134/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:52:35] planet 29: no resources for building_crystal_store+1
+[11:52:35] research: already in progress
+[2026-05-13 11:53:20] ==== loop 135/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:53:21] planet 29: no resources for building_crystal_store+1
+[11:53:21] research: already in progress
+[2026-05-13 11:54:01] ==== loop 136/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:54:02] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:54:42] ==== loop 137/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:54:43] planet 29: no resources for building_crystal_store+1
+[2026-05-13 11:55:25] ==== loop 138/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:55:26] planet 29: no resources for building_crystal_store+1
+[11:55:26] research: already in progress
+[2026-05-13 11:56:16] ==== loop 139/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:56:17] planet 29: no resources for building_crystal_store+1
+[11:56:17] research: already in progress
+[2026-05-13 11:57:01] ==== loop 140/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:57:02] planet 29: no resources for building_crystal_store+1
+[11:57:02] research: already in progress
+[2026-05-13 11:57:51] ==== loop 141/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:57:52] planet 29: no resources for building_crystal_store+1
+[11:57:52] research: already in progress
+[2026-05-13 11:59:15] ==== loop 143/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:59:16] planet 29: no resources for building_crystal_store+1
+[11:59:16] research: already in progress
+[2026-05-13 11:59:56] ==== loop 144/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[11:59:56] planet 29: no resources for building_crystal_store+1
+[11:59:56] research: already in progress
+[2026-05-13 12:03:04] ==== loop 148/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[12:03:05] planet 29: no resources for building_crystal_store+1
+[12:03:05] research: already in progress
+[2026-05-13 12:03:52] ==== loop 149/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[12:03:53] planet 29: no resources for building_crystal_store+1
+[12:03:53] research: already in progress
+[2026-05-13 12:04:39] ==== loop 150/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[12:04:40] planet 29: no resources for building_crystal_store+1
+[2026-05-13 12:05:27] ==== loop 151/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[12:05:27] planet 29: no resources for building_crystal_store+1
+[12:05:27] research: already in progress
+[2026-05-13 12:07:04] ==== loop 153/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[12:07:05] planet 29: no resources for building_crystal_store+1
+[12:07:05] research: already in progress
+[2026-05-13 12:07:55] ==== loop 154/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[12:07:56] planet 29: no resources for building_crystal_store+1
+[12:07:56] research: already in progress
+[2026-05-13 12:08:50] ==== loop 155/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[12:08:51] planet 29: no resources for building_crystal_store+1
+[12:08:51] research: already in progress
+[2026-05-13 12:09:38] ==== loop 156/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[12:09:39] planet 29: no resources for building_crystal_store+1
+[12:09:39] research: already in progress
+[2026-05-13 12:10:21] ==== loop 157/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[12:10:22] planet 29: no resources for building_metal_store+1
+[2026-05-13 12:11:08] ==== loop 158/∞ | seed=36664732937360798 archetype=turbo personality=defensor focus=mil actions_per_loop=1 ====
+[12:11:09] planet 29: no resources for building_metal_store+1
+[12:11:09] research: already in progress

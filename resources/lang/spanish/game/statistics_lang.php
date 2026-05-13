@@ -17,5 +17,10 @@ $lang = [
     'st_per' => 'por',
     'st_in_the_positions' => 'en las posiciones',
     'st_actions' => 'Acciones',
-    'st_ally_request' => 'Echar solicitud a esta alianza',
+    'st_colonies' => 'Colonias',
+    'st_colonies_player_label' => 'Colonias de',
+    'st_colonies_planet_name' => 'Planeta',
+    'st_colonies_position' => 'Coordenadas',
+    'st_colonies_back' => 'Volver a la clasificación',
+    'st_colonies_empty' => 'Este jugador no tiene colonias.',
 ];

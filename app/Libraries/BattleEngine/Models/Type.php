@@ -30,54 +30,55 @@ namespace App\Libraries\BattleEngine\Models;
  */
 class Type
 {
-    private $id;
-    private $count;
+    private int $id;
+    private int $count;
 
-    public function __construct($id, $count)
+    public function __construct(int $id, int $count)
     {
         $this->id = $id;
         $this->count = $count;
     }
 
-    public function getId()
+    public function getId(): int
     {
         return $this->id;
     }
 
-    public function getCount()
+    public function getCount(): int
     {
         return $this->count;
     }
 
-    public function increment($number)
+    public function increment(int $number): void
     {
         $this->count += $number;
     }
 
-    public function decrement($number)
+    public function decrement(int $number): void
     {
         $this->count -= $number;
     }
 
-    public function setCount($number)
+    public function setCount(int $number): void
     {
         $this->count = $number;
     }
 
-    public function __toString()
+    public function __toString(): string
     {
         ob_start();
         $_type = $this;
         require OPBEPATH . 'Views/type.html';
+
         return ob_get_clean();
     }
 
-    public function isEmpty()
+    public function isEmpty(): bool
     {
         return $this->count == 0;
     }
 
-    public function cloneMe()
+    public function cloneMe(): static
     {
         return new Type($this->id, $this->count);
     }

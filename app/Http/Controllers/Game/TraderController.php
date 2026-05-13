@@ -221,7 +221,7 @@ class TraderController extends BaseController
             }
 
             $refillOptions[] = [
-                'label' => (self::PERCENTAGES == 100) ? $this->langs->line('tr_refill_to') : $this->langs->line('tr_refill_by'),
+                'label' => ($percentage == 100) ? $this->langs->line('tr_refill_to') : $this->langs->line('tr_refill_by'),
                 'percentage' => $percentage,
                 'tr_requires' => $this->langs->line('tr_requires'),
                 'price' => $price,

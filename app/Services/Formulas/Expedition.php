@@ -47,7 +47,7 @@ class Expedition
 
     public function calculateExpeditionPoints(int $structuralIntegrity): int
     {
-        return ($structuralIntegrity * 5 / 1000);
+        return (int) ($structuralIntegrity * 5 / 1000);
     }
 
     public function getExpeditionResult(): string

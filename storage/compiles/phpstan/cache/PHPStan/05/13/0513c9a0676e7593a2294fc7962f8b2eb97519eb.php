@@ -1,0 +1,7 @@
+<?php declare(strict_types = 1);
+
+// variadic-method-App\Libraries\BattleEngine\Models\ShipType-getRfTo-/home/jairoconde/xg-proyect/app/Libraries/BattleEngine/Models/ShipType.php
+return \PHPStan\Cache\CacheItem::__set_state(array(
+   'variableKey' => '1778661362-v4',
+   'data' => false,
+));

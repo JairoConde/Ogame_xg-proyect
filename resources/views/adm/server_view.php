@@ -80,7 +80,7 @@
                                             </td>
                                             <td>
                                                 <input class="form-control" name="game_speed" value="{game_speed}"
-                                                    type="number" min="1" max="100">
+                                                    type="number" min="1">
                                             </td>
                                         </tr>
                                         <tr>
@@ -94,7 +94,7 @@
                                             </td>
                                             <td>
                                                 <input class="form-control" name="fleet_speed" value="{fleet_speed}"
-                                                    type="number" min="1" max="100">
+                                                    type="number" min="1">
                                             </td>
                                         </tr>
                                         <tr>
@@ -108,7 +108,7 @@
                                             </td>
                                             <td>
                                                 <input class="form-control" name="resource_multiplier"
-                                                    value="{resource_multiplier}" type="number" min="1" max="100">
+                                                    value="{resource_multiplier}" type="number" min="1">
                                             </td>
                                         </tr>
                                         <tr>

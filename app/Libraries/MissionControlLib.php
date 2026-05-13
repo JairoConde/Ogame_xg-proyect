@@ -18,7 +18,7 @@ class MissionControlLib
      *
      * @return void
      */
-    public function arrivingFleets()
+    public function arrivingFleets(): void
     {
         $this->processMissions(
             $this->missionControlLibModel->getArrivingFleets()
@@ -30,7 +30,7 @@ class MissionControlLib
      *
      * @return void
      */
-    public function returningFleets()
+    public function returningFleets(): void
     {
         $this->processMissions(
             $this->missionControlLibModel->getReturningFleets()
@@ -44,7 +44,7 @@ class MissionControlLib
      *
      * @return void
      */
-    private function processMissions($all_fleets = [])
+    private function processMissions(array $all_fleets = []): void
     {
         // validate
         if (!is_array($all_fleets) or empty($all_fleets)) {

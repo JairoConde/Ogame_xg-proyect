@@ -1,0 +1,61 @@
+[2026-05-11 14:39:25] ==== loop 1/1 | seed=518692687336020568 archetype=balanced personality=minero focus=eco actions_per_loop=3 ====
+[2026-05-11 14:40:04] ==== loop 1/1 | seed=518692687336020568 archetype=balanced personality=minero focus=eco actions_per_loop=3 ====
+[14:40:23] planet 2: no resources for building_deuterium_tank+1
+[14:40:23] planet 69: no resources for building_crystal_store+1
+[14:40:23] planet 70: no resources for building_crystal_store+1
+[14:40:23] planet 71: no resources for building_metal_store+1
+[14:40:23] planet 14: no resources for building_metal_store+1
+[14:40:23] planet 18: queued building_metal_mine to 41
+[14:40:23] planet 26: no resources for building_deuterium_tank+1
+[14:40:23] planet 20: queued building_metal_mine to 41
+[14:40:23] planet 16: queued building_metal_mine to 41
+[14:40:23] planet 23: queued building_metal_mine to 41
+[14:40:23] planet 17: no resources for building_deuterium_tank+1
+[14:40:23] planet 25: queued building_metal_mine to 41
+[14:40:23] planet 5: queued ship_battleship +5
+[14:40:23] planet 4: no resources for building_metal_store+1
+[14:40:23] planet 3: no resources for building_metal_store+1
+[14:40:23] planet 8: queued ship_small_cargo_ship +8
+[14:40:23] planet 9: no resources for building_metal_store+1
+[14:40:23] planet 22: no resources for building_deuterium_tank+1
+[14:40:23] planet 7: queued building_metal_mine to 41
+[14:40:23] planet 10: no resources for building_deuterium_tank+1
+[14:40:23] planet 13: no resources for building_crystal_store+1
+[14:40:23] planet 12: queued building_metal_mine to 42
+[14:40:23] planet 19: queued building_metal_mine to 42
+[14:40:23] planet 11: queued building_metal_mine to 42
+[14:40:23] planet 15: queued building_laboratory to 1
+[14:40:23] planet 6: queued building_metal_mine to 42
+[14:40:23] planet 21: queued ship_cruiser +5
+[14:40:23] planet 24: queued defense_ion_cannon +8
+[14:40:23] research: no target pending
+[2026-05-11 14:41:39] ==== loop 1/1 | seed=518692687336020568 archetype=balanced personality=minero focus=eco actions_per_loop=3 ====
+[14:41:56] planet 2: no resources for building_deuterium_tank+1
+[14:41:56] planet 69: no resources for building_crystal_store+1
+[14:41:56] planet 70: no resources for building_crystal_store+1
+[14:41:56] planet 71: no resources for building_metal_store+1
+[14:41:56] planet 14: no resources for building_metal_store+1
+[14:41:56] planet 26: no resources for building_deuterium_tank+1
+[14:41:56] planet 17: no resources for building_deuterium_tank+1
+[14:41:56] planet 5: queued ship_battleship +5
+[14:41:56] planet 4: no resources for building_metal_store+1
+[14:41:56] planet 21: queued ship_cruiser +5
+[14:41:56] planet 3: no resources for building_metal_store+1
+[14:41:56] planet 8: queued ship_small_cargo_ship +8
+[14:41:56] planet 9: no resources for building_metal_store+1
+[14:41:56] planet 22: no resources for building_deuterium_tank+1
+[14:41:56] planet 10: no resources for building_deuterium_tank+1
+[14:41:56] planet 13: no resources for building_crystal_store+1
+[14:41:56] planet 12: queued building_metal_mine to 43
+[14:41:56] planet 18: queued building_metal_mine to 42
+[14:41:56] planet 19: queued building_metal_mine to 43
+[14:41:56] planet 20: queued building_metal_mine to 42
+[14:41:56] planet 11: queued building_metal_mine to 43
+[14:41:56] planet 16: queued building_metal_mine to 42
+[14:41:56] planet 23: queued building_metal_mine to 42
+[14:41:56] planet 25: queued building_metal_mine to 42
+[14:41:56] planet 15: queued building_laboratory to 2
+[14:41:56] planet 6: queued building_metal_mine to 43
+[14:41:56] planet 24: queued defense_ion_cannon +8
+[14:41:56] planet 7: queued building_metal_mine to 42
+[14:41:56] research: no target pending

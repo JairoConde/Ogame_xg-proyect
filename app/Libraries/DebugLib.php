@@ -41,7 +41,7 @@ class DebugLib
     /**
      * Add a query to the query list
      *
-     * @param int $query Query
+     * @param string $query Query
      *
      * @return void
      */
@@ -57,7 +57,7 @@ class DebugLib
     /**
      * Returns the database log information
      *
-     * @return string
+     * @return void
      */
     public function echoLog(): void
     {

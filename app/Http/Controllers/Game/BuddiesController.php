@@ -53,7 +53,7 @@ class BuddiesController extends BaseController
      *
      * @return void
      */
-    private function setUpBudies()
+    private function setUpBudies(): void
     {
         $this->buddy = new Buddy(
             $this->buddiesModel->getBuddiesByUserId($this->user['user_id']),
@@ -100,7 +100,7 @@ class BuddiesController extends BaseController
      *
      * @throws Exception
      */
-    private function execAction($action)
+    private function execAction(string $action): void
     {
         try {
             if (empty($action)) {
@@ -119,7 +119,7 @@ class BuddiesController extends BaseController
      *
      * @return void
      */
-    private function removeRequest()
+    private function removeRequest(): void
     {
         $bid = filter_input(INPUT_GET, 'bid', FILTER_VALIDATE_INT);
 
@@ -149,7 +149,7 @@ class BuddiesController extends BaseController
      *
      * @return void
      */
-    private function acceptRequest()
+    private function acceptRequest(): void
     {
         $bid = filter_input(INPUT_GET, 'bid', FILTER_VALIDATE_INT);
 
@@ -167,7 +167,7 @@ class BuddiesController extends BaseController
      *
      * @return void
      */
-    private function sendRequest()
+    private function sendRequest(): void
     {
         $user = filter_input(INPUT_POST, 'user', FILTER_VALIDATE_INT);
         $text = filter_input(INPUT_POST, 'text');
@@ -199,7 +199,7 @@ class BuddiesController extends BaseController
      *
      * @return void
      */
-    private function sendMessage($to, $type)
+    private function sendMessage(int $to, int $type): void
     {
         $types = [
             1 => [
@@ -240,7 +240,7 @@ class BuddiesController extends BaseController
      *
      * @return void
      */
-    private function buildRequestForm()
+    private function buildRequestForm(): void
     {
         $user = filter_input(INPUT_GET, 'u', FILTER_VALIDATE_INT);
 
@@ -288,9 +288,9 @@ class BuddiesController extends BaseController
     /**
      * Build the list of requests received
      *
-     * @return string
+     * @return array
      */
-    private function buildListOfRequestsReceived()
+    private function buildListOfRequestsReceived(): array
     {
         $received_requests = $this->buddy->getReceivedRequests();
         $rows = [];
@@ -307,9 +307,9 @@ class BuddiesController extends BaseController
     /**
      * Build the list of requests sent
      *
-     * @return string
+     * @return array
      */
-    private function buildListOfRequestsSent()
+    private function buildListOfRequestsSent(): array
     {
         $requests_sent = $this->buddy->getSentRequests();
         $rows = [];
@@ -328,7 +328,7 @@ class BuddiesController extends BaseController
      *
      * @return array
      */
-    private function buildListOfBuddies()
+    private function buildListOfBuddies(): array
     {
         $buddies = $this->buddy->getBuddies();
         $rows = [];
@@ -347,9 +347,9 @@ class BuddiesController extends BaseController
      *
      * @param BuddyEntity $buddy Buddy Entity Object
      *
-     * @return arrau
+     * @return array
      */
-    private function extractPlayerData(BuddyEntity $buddy)
+    private function extractPlayerData(BuddyEntity $buddy): array
     {
         if ($buddy->getBuddySender() == $this->user['user_id']) {
             $id_to_get = $buddy->getBuddyReceiver();
@@ -380,7 +380,7 @@ class BuddiesController extends BaseController
      *
      * @return string
      */
-    private function setText(BuddyEntity $buddy, $online_time)
+    private function setText(BuddyEntity $buddy, $online_time): string
     {
         if ($buddy->getBuddyStatus() == BuddiesStatus::isBuddy) {
             return Timing::setOnlineStatus($online_time);
@@ -396,7 +396,7 @@ class BuddiesController extends BaseController
      *
      * @return string
      */
-    private function setAction(BuddyEntity $buddy)
+    private function setAction(BuddyEntity $buddy): string
     {
         $bid = $buddy->getBuddyId();
 
@@ -424,7 +424,7 @@ class BuddiesController extends BaseController
      *
      * @return string
      */
-    private function generateUrl($buddy_id, $sm, $lang_line)
+    private function generateUrl(int $buddy_id, int $sm, string $lang_line): string
     {
         return '<a href="game.php?page=buddies&mode=1&sm=' . $sm . '&bid=' . $buddy_id . '">' . $lang_line . '</a>';
     }
@@ -436,8 +436,8 @@ class BuddiesController extends BaseController
      *
      * @return boolean
      */
-    private function hasAny($array)
+    private function hasAny(array $array): bool
     {
-        return (count($array) > 0);
+        return count($array) > 0;
     }
 }

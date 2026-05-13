@@ -31,7 +31,7 @@ class GalaxyLib
     private $template;
     private bool $no_popup = false;
 
-    public function __construct($user = '', $planet = '', $galaxy = '', $system = '', ?CiLang $langs = null)
+    public function __construct($user = '', $planet = '', int $galaxy = 0, int $system = 0, ?CiLang $langs = null)
     {
         $this->langs = $langs;
         $this->current_user = $user;
@@ -57,7 +57,7 @@ class GalaxyLib
     //
     //#####################################
 
-    public function buildRow($row_data, $planet): array
+    public function buildRow(array $row_data, int $planet): array
     {
         // SOME DATA THAT WE ARE GOING TO REQUIRE FOR EACH COLUMN
         $this->row_data = $row_data;
@@ -166,11 +166,6 @@ class GalaxyLib
             $parse['links'] = $this->langs->line('gl_no_action');
         }
 
-        if ($this->row_data['user_authlevel'] >= UserRanks::GO
-            && $this->row_data['user_id'] != $this->current_user['user_id']) {
-            $parse['links'] = $this->transportLink(self::PLANET_TYPE);
-        }
-
         if ($this->row_data['preference_vacation_mode'] > 0) {
             $parse['links'] = $this->langs->line('gl_player_vacation_mode');
         }
@@ -181,9 +176,9 @@ class GalaxyLib
     /**
      * planetNameBlock
      *
-     * @return void
+     * @return string
      */
-    private function planetNameBlock()
+    private function planetNameBlock(): string
     {
         $phalanx_link = stripslashes($this->row_data['planet_name']);
 
@@ -218,7 +213,7 @@ class GalaxyLib
      *
      * @return array
      */
-    private function moonBlock()
+    private function moonBlock(): array|string
     {
         if ($this->row_data['destroyed_moon'] != 0 or $this->row_data['id_luna'] == 0) {
             return '';
@@ -277,11 +272,6 @@ class GalaxyLib
             $parse['links'] = $this->langs->line('gl_no_action');
         }
 
-        if ($this->row_data['user_authlevel'] >= UserRanks::GO
-            && $this->row_data['user_id'] != $this->current_user['user_id']) {
-            $parse['links'] = $this->transportLink(self::PLANET_TYPE);
-        }
-
         if ($this->row_data['preference_vacation_mode'] > 0) {
             $parse['links'] = $this->langs->line('gl_player_vacation_mode');
         }
@@ -294,17 +284,21 @@ class GalaxyLib
      *
      * @return array
      */
-    private function debrisBlock()
+    private function debrisBlock(): array|string
     {
-        if ($this->row_data['metal'] + $this->row_data['crystal'] >= DEBRIS_MIN_VISIBLE_SIZE) {
+        if (((int) $this->row_data['metal'] + (int) $this->row_data['crystal']) >= DEBRIS_MIN_VISIBLE_SIZE) {
             $recyclers_storage = FleetsLib::getMaxStorage(
                 $this->pricelist[Ships::ship_recycler]['capacity'],
-                $this->current_user['research_hyperspace_technology']
+                $this->current_user['research_hyperspace_technology'],
+                (int) ($this->current_user['research_cargo_optimization'] ?? 0),
+                Ships::ship_recycler
             );
 
             $recyclers_needed = ceil(
                 ($this->row_data['metal'] + $this->row_data['crystal']) / $recyclers_storage
             );
+
+            $recyclers_sended = 0;
 
             if ($recyclers_needed < $this->current_planet['ship_recycler']) {
                 $recyclers_sended = $recyclers_needed;
@@ -333,7 +327,7 @@ class GalaxyLib
      *
      * @return array
      */
-    private function usernameBlock()
+    private function usernameBlock(): array
     {
         $this->no_popup = false;
 
@@ -447,9 +441,9 @@ class GalaxyLib
     /**
      * allyBlock
      *
-     * @return string
+     * @return array
      */
-    private function allyBlock()
+    private function allyBlock(): array
     {
         $parse = ['tag' => ''];
         $add = '';
@@ -530,10 +524,6 @@ class GalaxyLib
             array_push($available_actions, 'missile');
         }
 
-        if ($this->row_data['user_authlevel'] >= UserRanks::GO) {
-            $available_actions = ['write'];
-        }
-
         if ($this->row_data['preference_vacation_mode'] > 0) {
             $available_actions = ['write', 'buddy'];
         }
@@ -557,112 +547,120 @@ class GalaxyLib
     /**
      * attackLink
      *
-     * @param string $planet_type Planet type
+     * @param int $planet_type Planet type
      *
      * @return string
      */
-    private function attackLink($planet_type)
+    private function attackLink(int $planet_type): string
     {
         $url = 'game.php?page=fleet1&galaxy=' . $this->galaxy . '&amp;system=' . $this->system . '&amp;planet=' .
         $this->planet . '&amp;planettype=' . $planet_type . '&amp;target_mission=1';
+
         return str_replace('"', '', UrlHelper::setUrl($url, $this->langs->language['type_mission'][Missions::ATTACK]));
     }
 
     /**
      * transportLink
      *
-     * @param string $planet_type Planet type
+     * @param int $planet_type Planet type
      *
      * @return string
      */
-    private function transportLink($planet_type)
+    private function transportLink(int $planet_type): string
     {
         $url = 'game.php?page=fleet1&galaxy=' . $this->galaxy . '&system=' . $this->system .
         '&planet=' . $this->planet . '&planettype=' . $planet_type . '&target_mission=3';
+
         return str_replace('"', '', UrlHelper::setUrl($url, $this->langs->language['type_mission'][Missions::TRANSPORT]));
     }
 
     /**
      * deployLink
      *
-     * @param string $planet_type Planet type
+     * @param int $planet_type Planet type
      *
      * @return string
      */
-    private function deployLink($planet_type)
+    private function deployLink(int $planet_type): string
     {
         $url = 'game.php?page=fleet1&galaxy=' . $this->galaxy . '&system=' . $this->system .
         '&planet=' . $this->planet . '&planettype=' . $planet_type . '&target_mission=4';
+
         return str_replace('"', '', UrlHelper::setUrl($url, $this->langs->language['type_mission'][Missions::DEPLOY]));
     }
 
     /**
      * holdPositionLink
      *
-     * @param string $planet_type Planet type
+     * @param int $planet_type Planet type
      *
      * @return string
      */
-    private function holdPositionLink($planet_type)
+    private function holdPositionLink(int $planet_type): string
     {
         $url = 'game.php?page=fleet1&galaxy=' . $this->galaxy . '&system=' . $this->system .
         '&planet=' . $this->planet . '&planettype=' . $planet_type . '&target_mission=5';
+
         return str_replace('"', '', UrlHelper::setUrl($url, $this->langs->language['type_mission'][Missions::STAY]));
     }
 
     /**
      * spyLink
      *
-     * @param string $planet_type Planet type
+     * @param int $planet_type Planet type
      *
      * @return string
      */
-    private function spyLink($planet_type)
+    private function spyLink(int $planet_type): string
     {
         $attributes = 'onclick=&#039javascript:doit(6, ' . $this->galaxy . ', ' . $this->system . ', ' .
         $this->planet . ', ' . $planet_type . ', ' . $this->current_user['preference_spy_probes'] . ');&#039';
+
         return str_replace('"', '', UrlHelper::setUrl('', $this->langs->language['type_mission'][Missions::SPY], '', $attributes));
     }
 
     /**
      * destroyLink
      *
-     * @param string $planet_type Planet type
+     * @param int $planet_type Planet type
      *
      * @return string
      */
-    private function destroyLink($planet_type)
+    private function destroyLink(int $planet_type): string
     {
         $url = 'game.php?page=fleet1&galaxy=' . $this->galaxy . '&system=' . $this->system . '&planet=' .
         $this->planet . '&planettype=' . $planet_type . '&target_mission=9';
+
         return str_replace('"', '', UrlHelper::setUrl($url, $this->langs->language['type_mission'][Missions::DESTROY]));
     }
 
     /**
      * missileLink
      *
-     * @param string $planet_type Planet type
+     * @param int $planet_type Planet type
      *
      * @return string
      */
-    private function missileLink($planet_type)
+    private function missileLink(int $planet_type): string
     {
         $url = 'game.php?page=galaxy&mode=2&galaxy=' . $this->galaxy . '&system=' . $this->system . '&planet=' .
         $this->planet . '&current=' . $this->current_user['user_current_planet'];
+
         return str_replace('"', '', UrlHelper::setUrl($url, $this->langs->language['gl_missile_attack']));
     }
 
     /**
      * phalanxLink
      *
-     * @param string $planet_type Planet type
+     * @param int $planet_type Planet type
      *
      * @return string
      */
-    private function phalanxLink($planet_type)
+    private function phalanxLink(int $planet_type): string
     {
         $attributes = 'onclick=fenster(&#039;game.php?page=phalanx&galaxy=' . $this->galaxy . '&amp;system=' .
         $this->system . '&amp;planet=' . $this->planet . '&amp;planettype=' . $planet_type . '&#039;)';
+
         return str_replace('"', '', UrlHelper::setUrl('', $this->langs->line('gl_phalanx'), '', $attributes));
     }
     //#####################################
@@ -702,13 +700,15 @@ class GalaxyLib
      *
      * @return boolean
      */
-    private function isMissileActive()
+    private function isMissileActive(): bool
     {
         if (($this->current_planet['defense_interplanetary_missile'] != 0)
             && ($this->row_data['user_id'] != $this->current_user['user_id'])
             && ($this->row_data['planet_galaxy'] == $this->current_planet['planet_galaxy'])) {
             return $this->isInRange(Formulas::missileRange($this->current_user['research_impulse_drive']));
         }
+
+        return false;
     }
 
     /**
@@ -716,7 +716,7 @@ class GalaxyLib
      *
      * @return boolean
      */
-    private function isPhalanxActive()
+    private function isPhalanxActive(): bool
     {
         if (($this->current_planet['building_phalanx'] != 0)
             && ($this->row_data['user_id'] != $this->current_user['user_id'])
@@ -724,6 +724,8 @@ class GalaxyLib
             && ($this->current_planet['planet_type']) == PlanetTypesEnumerator::MOON) {
             return $this->isInRange(Formulas::phalanxRange($this->current_planet['building_phalanx']));
         }
+
+        return false;
     }
 
     /**
@@ -733,7 +735,7 @@ class GalaxyLib
      *
      * @return boolean
      */
-    private function isInRange($range)
+    private function isInRange(int $range): bool
     {
         $minsystem = $this->current_planet['planet_system'] - $range;
         $maxsystem = $this->current_planet['planet_system'] + $range;
@@ -741,15 +743,15 @@ class GalaxyLib
         $minsystem = ($minsystem < 1) ? 1 : $minsystem;
         $maxsystem = ($maxsystem > MAX_SYSTEM_IN_GALAXY) ? MAX_SYSTEM_IN_GALAXY : $maxsystem;
 
-        return (($this->system <= $maxsystem) && ($this->system >= $minsystem));
+        return ($this->system <= $maxsystem) && ($this->system >= $minsystem);
     }
 
     /**
      * Get the css class for each user status
      *
-     * @return void
+     * @return string
      */
-    private function getUserStatusClass(string $status)
+    private function getUserStatusClass(string $status): string
     {
         return [
             'a' => 'status_abbr_admin',

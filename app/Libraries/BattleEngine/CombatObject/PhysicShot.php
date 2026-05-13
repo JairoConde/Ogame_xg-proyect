@@ -45,10 +45,7 @@ class PhysicShot
     /**
      * PhysicShot::__construct()
      *
-     * @param ShipType $shipType
-     * @param int $damage
-     * @param int $count
-     * @return
+     * @return void
      */
     public function __construct(ShipType $shipType, $damage, $count)
     {
@@ -70,7 +67,7 @@ class PhysicShot
      * Return the damage assorbed by shield
      * @return float
      */
-    public function getAssorbedDamage($cell = false)
+    public function getAssorbedDamage(bool $cell = false): float
     {
         return $this->assorbedDamage;
     }
@@ -80,7 +77,7 @@ class PhysicShot
      * Return the bounced damage
      * @return float
      */
-    public function getBouncedDamage()
+    public function getBouncedDamage(): float
     {
         return $this->bouncedDamage;
     }
@@ -90,7 +87,7 @@ class PhysicShot
      * Return the damage assorbed by hull
      * @return float
      */
-    public function getHullDamage()
+    public function getHullDamage(): float
     {
         return $this->hullDamage;
     }
@@ -100,7 +97,7 @@ class PhysicShot
      * Return the total amount of damage from enemy
      * @return int
      */
-    public function getPureDamage()
+    public function getPureDamage(): int
     {
         return $this->damage * $this->count;
     }
@@ -108,9 +105,9 @@ class PhysicShot
     /**
      * PhysicShot::getHitShips()
      * Return the number of hitten ships.
-     * @return
+     * @return int
      */
-    public function getHitShips()
+    public function getHitShips(): int
     {
         return min($this->count, $this->fighters->getCount());
     }
@@ -118,9 +115,9 @@ class PhysicShot
     /**
      * PhysicShot::start()
      * Start the system
-     * @return
+     * @return void
      */
-    public function start()
+    public function start(): void
     {
         $this->bounce();
         $this->assorb();
@@ -133,12 +130,9 @@ class PhysicShot
      * If the damage is exactly a multipler of the needed to destroy one shield's cell then bounced damage is zero.
      * If damage is more than shield,then bounced damage is zero.
      *
-     * @param int $currentCellsCount
-     * @param int $cellsDestroyedInOneShot
-     * @param float $bouncedDamageForOneShot
-     * @return null
+     * @return void
      */
-    private function bounce()
+    private function bounce(): void
     {
         $count = $this->count;
         $damage = $this->damage;
@@ -151,11 +145,9 @@ class PhysicShot
      * PhysicShot::assorb()
      * If the shield is disabled, then assorbed damaged is zero.
      * If the total damage is more than shield, than the assorbed damage should equal the shield value.
-     * @param int $currentCellsCount
-     * @param int $cellsDestroyedInOneShot
-     * @return null
+     * @return void
      */
-    private function assorb()
+    private function assorb(): void
     {
         $count = $this->count;
         $damage = $this->damage;
@@ -172,9 +164,9 @@ class PhysicShot
      * PhysicShot::inflict()
      * HullDamage should be more than zero and less than shiplife.
      * Expecially, it should be less than the life of hitten ships.
-     * @return null
+     * @return void
      */
-    private function inflict()
+    private function inflict(): void
     {
         $hullDamage = $this->getPureDamage() - $this->assorbedDamage - $this->bouncedDamage;
         $hullDamage = min($hullDamage, $this->fighters->getCurrentLife() * $this->getHitShips() / $this->fighters->getCount());
@@ -186,13 +178,14 @@ class PhysicShot
      * Return $a if greater than $b, zero otherwise
      * @param mixed $a
      * @param mixed $b
-     * @return mized
+     * @return mixed
      */
     private function clamp($a, $b)
     {
         if ($a > $b) {
             return $a;
         }
+
         return 0;
     }
 }

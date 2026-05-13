@@ -22,7 +22,7 @@ class Missile extends Missions
      *
      * @return void
      */
-    public function missileMission($fleet_row)
+    public function missileMission(array $fleet_row): void
     {
         // do mission
         if (parent::canStartMission($fleet_row)) {
@@ -161,9 +161,9 @@ class Missile extends Missions
      *
      * @param int $primary_objective Primary objective
      *
-     * @return void
+     * @return array
      */
-    private function setAttackOrder($primary_objective)
+    private function setAttackOrder(int $primary_objective): array
     {
         $objectives = [
             0 => [401, 402, 403, 404, 405, 406, 407, 408, 503],

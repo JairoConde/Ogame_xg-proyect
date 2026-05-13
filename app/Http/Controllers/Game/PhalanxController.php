@@ -42,8 +42,8 @@ class PhalanxController extends BaseController
     {
         $parse = $this->langs->language;
         /* range */
-        $radar_limit_inf = $this->planet['planet_system'] - Formulas::phalanxRange($this->planet['building_phalanx']);
-        $radar_limit_sup = $this->planet['planet_system'] + Formulas::phalanxRange($this->planet['building_phalanx']);
+        $radar_limit_inf = (int) $this->planet['planet_system'] - Formulas::phalanxRange((int) $this->planet['building_phalanx']);
+        $radar_limit_sup = (int) $this->planet['planet_system'] + Formulas::phalanxRange((int) $this->planet['building_phalanx']);
         $radar_limit_inf = max($radar_limit_inf, 1);
         $radar_limit_sup = min($radar_limit_sup, MAX_SYSTEM_IN_GALAXY);
 

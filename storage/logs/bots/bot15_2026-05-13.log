@@ -1,0 +1,548 @@
+[2026-05-13 10:11:44] ==== loop 1/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:11:44] planet 41: queued building_crystal_mine to 25
+[2026-05-13 10:12:25] ==== loop 2/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:12:25] planet 41: building queue full (5)
+[10:12:25] planet 41: building queue full (5)
+[10:12:25] research: already in progress
+[2026-05-13 10:13:03] ==== loop 3/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:13:05] planet 41: building queue full (5)
+[10:13:05] planet 41: building queue full (5)
+[2026-05-13 10:13:45] ==== loop 4/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:13:46] planet 41: building queue full (5)
+[10:13:46] research: already in progress
+[2026-05-13 10:14:28] ==== loop 5/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:14:29] planet 41: building queue full (5)
+[10:14:29] planet 41: building queue full (5)
+[2026-05-13 10:15:07] ==== loop 6/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:15:08] planet 41: building queue full (5)
+[10:15:08] research: already in progress
+[2026-05-13 10:15:51] ==== loop 7/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:15:52] planet 41: building queue full (5)
+[10:15:52] planet 41: building queue full (5)
+[2026-05-13 10:16:37] ==== loop 8/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:16:37] planet 41: building queue full (5)
+[10:16:37] research: already in progress
+[2026-05-13 10:17:19] ==== loop 9/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:17:20] planet 41: building queue full (5)
+[2026-05-13 10:18:02] ==== loop 10/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:18:04] planet 41: building queue full (5)
+[10:18:04] planet 41: building queue full (5)
+[10:18:04] research: already in progress
+[2026-05-13 10:18:47] ==== loop 11/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:18:49] planet 41: building queue full (5)
+[10:18:49] planet 41: building queue full (5)
+[10:18:49] research: already in progress
+[2026-05-13 10:19:33] ==== loop 12/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:19:35] planet 41: building queue full (5)
+[10:19:35] planet 41: building queue full (5)
+[2026-05-13 10:20:15] ==== loop 13/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:20:16] planet 41: queued building_metal_store to 15
+[10:20:16] research: already in progress
+[2026-05-13 10:20:56] ==== loop 14/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:20:57] planet 41: queued building_robot_factory to 9
+[10:20:57] research: already in progress
+[2026-05-13 10:21:43] ==== loop 15/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:21:43] planet 41: queue busy, throttled building_robot_factory
+[10:21:43] planet 41: queue busy, throttled building_robot_factory
+[10:21:43] research: already in progress
+[2026-05-13 10:22:29] ==== loop 16/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:22:29] planet 41: queue busy, throttled building_robot_factory
+[10:22:29] planet 41: queue busy, throttled building_robot_factory
+[10:22:29] research: already in progress
+[2026-05-13 10:23:15] ==== loop 17/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:23:15] planet 41: queue busy, throttled building_robot_factory
+[10:23:15] planet 41: queue busy, throttled building_robot_factory
+[10:23:15] research: already in progress
+[2026-05-13 10:24:02] ==== loop 18/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:24:02] planet 41: queue busy, throttled building_robot_factory
+[10:24:02] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:24:51] ==== loop 19/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:24:51] planet 41: queue busy, throttled building_robot_factory
+[10:24:51] planet 41: queue busy, throttled building_robot_factory
+[10:24:51] research: already in progress
+[2026-05-13 10:25:38] ==== loop 20/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:25:38] planet 41: queue busy, throttled building_robot_factory
+[10:25:38] planet 41: queue busy, throttled building_robot_factory
+[10:25:38] research: already in progress
+[2026-05-13 10:26:23] ==== loop 21/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:26:23] planet 41: queue busy, throttled building_robot_factory
+[10:26:23] planet 41: queue busy, throttled building_robot_factory
+[10:26:23] research: already in progress
+[2026-05-13 10:27:12] ==== loop 22/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:27:12] planet 41: queue busy, throttled building_robot_factory
+[10:27:12] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:27:53] ==== loop 23/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:27:53] planet 41: queue busy, throttled building_robot_factory
+[10:27:53] research: already in progress
+[2026-05-13 10:28:43] ==== loop 24/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:28:43] planet 41: queue busy, throttled building_robot_factory
+[10:28:43] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:29:31] ==== loop 25/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:29:31] planet 41: queue busy, throttled building_robot_factory
+[10:29:31] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:30:13] ==== loop 26/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:30:13] planet 41: queue busy, throttled building_robot_factory
+[10:30:13] planet 41: queue busy, throttled building_robot_factory
+[10:30:13] research: already in progress
+[2026-05-13 10:30:54] ==== loop 27/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:30:54] planet 41: queue busy, throttled building_robot_factory
+[10:30:54] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:31:34] ==== loop 28/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:31:34] planet 41: queue busy, throttled building_robot_factory
+[10:31:34] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:32:19] ==== loop 29/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:32:19] planet 41: queue busy, throttled building_robot_factory
+[10:32:19] research: already in progress
+[2026-05-13 10:33:02] ==== loop 30/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:33:02] planet 41: queue busy, throttled building_robot_factory
+[10:33:02] planet 41: queue busy, throttled building_robot_factory
+[10:33:02] research: already in progress
+[2026-05-13 10:33:46] ==== loop 31/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:33:46] planet 41: queue busy, throttled building_robot_factory
+[10:33:46] planet 41: queue busy, throttled building_robot_factory
+[10:33:46] research: already in progress
+[2026-05-13 10:34:29] ==== loop 32/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:34:29] planet 41: queue busy, throttled building_robot_factory
+[10:34:29] planet 41: queue busy, throttled building_robot_factory
+[10:34:29] research: queued research_energy_technology on planet 41 (7s)
+[2026-05-13 10:35:13] ==== loop 33/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:35:13] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:35:58] ==== loop 34/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:35:58] planet 41: queue busy, throttled building_robot_factory
+[10:35:58] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:36:41] ==== loop 35/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:36:41] planet 41: queue busy, throttled building_robot_factory
+[10:36:41] planet 41: queue busy, throttled building_robot_factory
+[10:36:41] research: already in progress
+[2026-05-13 10:37:19] ==== loop 36/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:37:19] planet 41: queue busy, throttled building_robot_factory
+[10:37:19] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:37:59] ==== loop 37/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:37:59] planet 41: queue busy, throttled building_robot_factory
+[10:37:59] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:38:43] ==== loop 38/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:38:43] planet 41: queue busy, throttled building_robot_factory
+[10:38:43] research: already in progress
+[2026-05-13 10:39:23] ==== loop 39/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:39:23] planet 41: queue busy, throttled building_robot_factory
+[10:39:23] research: already in progress
+[2026-05-13 10:40:07] ==== loop 40/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:40:07] planet 41: queue busy, throttled building_robot_factory
+[10:40:07] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:40:48] ==== loop 41/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:40:48] planet 41: queue busy, throttled building_robot_factory
+[10:40:48] research: queued research_energy_technology on planet 41 (14s)
+[2026-05-13 10:41:31] ==== loop 42/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:41:31] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:42:21] ==== loop 43/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:42:21] planet 41: queue busy, throttled building_robot_factory
+[10:42:21] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:43:03] ==== loop 44/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:43:03] planet 41: queue busy, throttled building_robot_factory
+[10:43:03] planet 41: queue busy, throttled building_robot_factory
+[10:43:03] research: already in progress
+[2026-05-13 10:43:49] ==== loop 45/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:43:49] planet 41: queue busy, throttled building_robot_factory
+[10:43:49] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:44:34] ==== loop 46/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:44:34] planet 41: queue busy, throttled building_robot_factory
+[10:44:34] planet 41: queue busy, throttled building_robot_factory
+[10:44:34] research: already in progress
+[2026-05-13 10:45:17] ==== loop 47/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:45:17] planet 41: queue busy, throttled building_robot_factory
+[10:45:17] planet 41: queue busy, throttled building_robot_factory
+[10:45:17] research: already in progress
+[2026-05-13 10:46:04] ==== loop 48/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:46:04] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:46:53] ==== loop 49/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:46:53] planet 41: queue busy, throttled building_robot_factory
+[10:46:53] planet 41: queue busy, throttled building_robot_factory
+[10:46:53] research: already in progress
+[2026-05-13 10:47:44] ==== loop 50/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:47:44] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:48:34] ==== loop 51/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:48:34] planet 41: queue busy, throttled building_robot_factory
+[10:48:34] planet 41: queue busy, throttled building_robot_factory
+[10:48:34] research: already in progress
+[2026-05-13 10:49:21] ==== loop 52/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:49:21] planet 41: queue busy, throttled building_robot_factory
+[10:49:21] research: already in progress
+[2026-05-13 10:50:14] ==== loop 53/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:50:14] planet 41: queue busy, throttled building_robot_factory
+[10:50:14] planet 41: queue busy, throttled building_robot_factory
+[2026-05-13 10:51:04] ==== loop 54/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:51:04] planet 41: queue busy, throttled building_robot_factory
+[10:51:04] planet 41: queue busy, throttled building_robot_factory
+[10:51:04] research: already in progress
+[2026-05-13 10:51:53] ==== loop 55/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:51:53] planet 41: queue busy, throttled building_robot_factory
+[10:51:53] planet 41: queue busy, throttled building_robot_factory
+[10:51:53] ally: transport: 1:5:8 -> 1:282:9 [ally_bot] m=0 c=0 d=58167 ships=3B+0S eta=146s fuel=504
+[10:51:53] attack: idle no_fleet_slots (used=1 max=1)
+[10:51:53] research: already in progress
+[2026-05-13 10:52:41] ==== loop 56/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:52:41] planet 41: queue busy, throttled building_robot_factory
+[10:52:41] planet 41: queue busy, throttled building_robot_factory
+[10:52:41] attack: idle no_fleet_slots (used=1 max=1)
+[10:52:41] research: already in progress
+[2026-05-13 10:53:25] ==== loop 57/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:53:25] planet 41: queue busy, throttled building_robot_factory
+[10:53:25] planet 41: queue busy, throttled building_robot_factory
+[10:53:25] attack: idle no_fleet_slots (used=1 max=1)
+[10:53:25] research: already in progress
+[2026-05-13 10:54:12] ==== loop 58/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:54:12] planet 41: queue busy, throttled building_robot_factory
+[10:54:12] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 10:55:01] ==== loop 59/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:55:01] planet 41: queue busy, throttled building_robot_factory
+[10:55:01] planet 41: queue busy, throttled building_robot_factory
+[10:55:01] attack: idle no_fleet_slots (used=1 max=1)
+[10:55:01] research: already in progress
+[2026-05-13 10:55:48] ==== loop 60/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:55:48] planet 41: queue busy, throttled building_robot_factory
+[10:55:48] planet 41: queue busy, throttled building_robot_factory
+[10:55:48] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 10:56:37] ==== loop 61/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:56:37] planet 41: queue busy, throttled building_robot_factory
+[10:56:37] planet 41: queue busy, throttled building_robot_factory
+[10:56:37] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 10:57:18] ==== loop 62/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:57:18] planet 41: queue busy, throttled building_robot_factory
+[10:57:18] planet 41: queue busy, throttled building_robot_factory
+[10:57:18] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 10:58:06] ==== loop 63/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:58:06] planet 41: queue busy, throttled building_robot_factory
+[10:58:06] planet 41: queue busy, throttled building_robot_factory
+[10:58:06] attack: idle no_fleet_slots (used=1 max=1)
+[10:58:06] research: already in progress
+[2026-05-13 10:58:49] ==== loop 64/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:58:50] planet 41: queue busy, throttled building_robot_factory
+[10:58:50] planet 41: queue busy, throttled building_robot_factory
+[10:58:50] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 10:59:36] ==== loop 65/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[10:59:37] planet 41: building queue full (5)
+[10:59:37] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 11:00:27] ==== loop 66/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:00:28] planet 41: building queue full (5)
+[11:00:28] planet 41: building queue full (5)
+[11:00:28] attack: idle no_fleet_slots (used=1 max=1)
+[11:00:28] research: already in progress
+[2026-05-13 11:01:17] ==== loop 67/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:01:18] planet 41: building queue full (5)
+[11:01:18] planet 41: building queue full (5)
+[11:01:18] research: queued research_energy_technology on planet 41 (28s)
+[2026-05-13 11:02:03] ==== loop 68/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:02:04] planet 41: building queue full (5)
+[2026-05-13 11:02:53] ==== loop 69/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:02:54] planet 41: building queue full (5)
+[11:02:54] planet 41: building queue full (5)
+[2026-05-13 11:03:41] ==== loop 70/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:03:42] planet 41: building queue full (5)
+[11:03:42] planet 41: building queue full (5)
+[11:03:42] research: already in progress
+[2026-05-13 11:04:32] ==== loop 71/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:04:33] planet 41: building queue full (5)
+[11:04:33] planet 41: building queue full (5)
+[2026-05-13 11:05:19] ==== loop 72/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:05:21] planet 41: building queue full (5)
+[11:05:21] planet 41: building queue full (5)
+[2026-05-13 11:06:06] ==== loop 73/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:06:07] planet 41: building queue full (5)
+[2026-05-13 11:06:50] ==== loop 74/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:06:52] planet 41: building queue full (5)
+[11:06:52] planet 41: building queue full (5)
+[11:06:52] research: already in progress
+[2026-05-13 11:07:38] ==== loop 75/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:07:40] planet 41: building queue full (5)
+[11:07:40] planet 41: building queue full (5)
+[2026-05-13 11:08:29] ==== loop 76/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:08:31] planet 41: building queue full (5)
+[11:08:31] planet 41: building queue full (5)
+[11:08:31] research: already in progress
+[2026-05-13 11:09:18] ==== loop 77/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:09:18] planet 41: building queue full (5)
+[11:09:18] planet 41: building queue full (5)
+[2026-05-13 11:10:00] ==== loop 78/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:10:02] planet 41: building queue full (5)
+[11:10:02] planet 41: building queue full (5)
+[2026-05-13 11:10:47] ==== loop 79/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:10:48] planet 41: building queue full (5)
+[11:10:48] planet 41: building queue full (5)
+[2026-05-13 11:11:34] ==== loop 80/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:11:36] planet 41: building queue full (5)
+[11:11:36] planet 41: building queue full (5)
+[11:11:36] research: already in progress
+[2026-05-13 11:12:16] ==== loop 81/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:12:16] planet 41: building queue full (5)
+[11:12:16] planet 41: building queue full (5)
+[2026-05-13 11:12:57] ==== loop 82/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:12:59] planet 41: building queue full (5)
+[11:12:59] planet 41: building queue full (5)
+[2026-05-13 11:13:43] ==== loop 83/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:13:45] planet 41: building queue full (5)
+[11:13:45] planet 41: building queue full (5)
+[11:13:45] research: already in progress
+[2026-05-13 11:14:24] ==== loop 84/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:14:26] planet 41: building queue full (5)
+[11:14:26] planet 41: building queue full (5)
+[11:14:26] research: already in progress
+[2026-05-13 11:15:09] ==== loop 85/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:15:09] planet 41: building queue full (5)
+[11:15:09] planet 41: building queue full (5)
+[11:15:09] research: already in progress
+[2026-05-13 11:15:54] ==== loop 86/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:15:55] planet 41: building queue full (5)
+[11:15:55] planet 41: building queue full (5)
+[11:15:55] research: already in progress
+[2026-05-13 11:16:38] ==== loop 87/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:16:38] planet 41: building queue full (5)
+[2026-05-13 11:17:26] ==== loop 88/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:17:28] planet 41: building queue full (5)
+[11:17:28] planet 41: building queue full (5)
+[2026-05-13 11:18:17] ==== loop 89/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:18:18] planet 41: building queue full (5)
+[11:18:18] planet 41: building queue full (5)
+[11:18:18] research: already in progress
+[2026-05-13 11:19:05] ==== loop 90/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:19:07] planet 41: building queue full (5)
+[11:19:07] planet 41: building queue full (5)
+[11:19:07] research: already in progress
+[2026-05-13 11:19:52] ==== loop 91/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:19:53] planet 41: building queue full (5)
+[11:19:53] planet 41: building queue full (5)
+[11:19:53] ally: transport: 1:5:8 -> 1:179:5 [ally_bot] m=45001 c=0 d=0 ships=2B+0S eta=119s fuel=225
+[11:19:53] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 11:20:37] ==== loop 92/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:20:38] planet 41: building queue full (5)
+[11:20:38] planet 41: building queue full (5)
+[11:20:38] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 11:21:22] ==== loop 93/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:21:23] planet 41: building queue full (5)
+[11:21:23] planet 41: building queue full (5)
+[11:21:23] attack: idle no_fleet_slots (used=1 max=1)
+[11:21:23] research: already in progress
+[2026-05-13 11:22:06] ==== loop 94/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:22:06] planet 41: building queue full (5)
+[11:22:06] planet 41: building queue full (5)
+[11:22:06] attack: idle no_fleet_slots (used=1 max=1)
+[11:22:06] research: already in progress
+[2026-05-13 11:22:51] ==== loop 95/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:22:51] planet 41: building queue full (5)
+[11:22:51] planet 41: building queue full (5)
+[11:22:51] attack: idle no_fleet_slots (used=1 max=1)
+[11:22:51] research: already in progress
+[2026-05-13 11:23:34] ==== loop 96/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:23:36] planet 41: building queue full (5)
+[11:23:36] planet 41: building queue full (5)
+[11:23:36] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 11:24:18] ==== loop 97/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:24:19] planet 41: building queue full (5)
+[11:24:19] planet 41: building queue full (5)
+[11:24:19] attack: idle no_fleet_slots (used=1 max=1)
+[11:24:19] research: already in progress
+[2026-05-13 11:25:04] ==== loop 98/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:25:06] planet 41: building queue full (5)
+[11:25:06] planet 41: building queue full (5)
+[2026-05-13 11:25:54] ==== loop 99/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:25:56] planet 41: building queue full (5)
+[11:25:56] planet 41: building queue full (5)
+[11:25:56] research: queued research_energy_technology on planet 41 (57s)
+[2026-05-13 11:26:43] ==== loop 100/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:26:45] planet 41: building queue full (5)
+[11:26:45] planet 41: building queue full (5)
+[2026-05-13 11:27:30] ==== loop 101/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:27:31] planet 41: building queue full (5)
+[11:27:31] planet 41: building queue full (5)
+[11:27:31] research: already in progress
+[2026-05-13 11:28:17] ==== loop 102/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:28:19] planet 41: building queue full (5)
+[11:28:19] planet 41: building queue full (5)
+[11:28:19] research: already in progress
+[2026-05-13 11:29:00] ==== loop 103/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:29:02] planet 41: building queue full (5)
+[11:29:02] planet 41: building queue full (5)
+[2026-05-13 11:29:42] ==== loop 104/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:29:44] planet 41: building queue full (5)
+[11:29:44] planet 41: building queue full (5)
+[2026-05-13 11:30:23] ==== loop 105/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:30:25] planet 41: building queue full (5)
+[11:30:25] planet 41: building queue full (5)
+[2026-05-13 11:31:09] ==== loop 106/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:31:10] planet 41: building queue full (5)
+[11:31:10] planet 41: building queue full (5)
+[11:31:10] research: already in progress
+[2026-05-13 11:31:51] ==== loop 107/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:31:52] planet 41: building queue full (5)
+[11:31:52] planet 41: building queue full (5)
+[2026-05-13 11:32:36] ==== loop 108/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:32:36] planet 41: building queue full (5)
+[2026-05-13 11:33:18] ==== loop 109/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:33:20] planet 41: building queue full (5)
+[11:33:20] planet 41: building queue full (5)
+[11:33:20] research: already in progress
+[2026-05-13 11:34:03] ==== loop 110/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:34:05] planet 41: building queue full (5)
+[11:34:05] planet 41: building queue full (5)
+[2026-05-13 11:34:50] ==== loop 111/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:34:51] planet 41: building queue full (5)
+[11:34:51] planet 41: building queue full (5)
+[11:34:51] research: already in progress
+[2026-05-13 11:35:33] ==== loop 112/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:35:34] planet 41: building queue full (5)
+[11:35:34] research: already in progress
+[2026-05-13 11:36:16] ==== loop 113/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:36:16] planet 41: building queue full (5)
+[11:36:16] research: already in progress
+[2026-05-13 11:36:58] ==== loop 114/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:36:59] planet 41: building queue full (5)
+[11:36:59] planet 41: building queue full (5)
+[2026-05-13 11:37:41] ==== loop 115/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:37:42] planet 41: building queue full (5)
+[11:37:42] planet 41: building queue full (5)
+[2026-05-13 11:38:27] ==== loop 116/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:38:29] planet 41: building queue full (5)
+[11:38:29] planet 41: building queue full (5)
+[2026-05-13 11:39:17] ==== loop 117/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:39:18] planet 41: building queue full (5)
+[11:39:18] planet 41: building queue full (5)
+[2026-05-13 11:40:05] ==== loop 118/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:40:06] planet 41: building queue full (5)
+[11:40:06] planet 41: building queue full (5)
+[2026-05-13 11:40:47] ==== loop 119/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:40:48] planet 41: building queue full (5)
+[11:40:48] research: already in progress
+[2026-05-13 11:41:32] ==== loop 120/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:41:34] planet 41: building queue full (5)
+[11:41:34] planet 41: building queue full (5)
+[11:41:34] research: already in progress
+[2026-05-13 11:42:23] ==== loop 121/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:42:25] planet 41: building queue full (5)
+[11:42:25] planet 41: building queue full (5)
+[11:42:25] ally: transport: 1:5:8 -> 1:33:9 [ally_bot] m=0 c=34429 d=2306 ships=2B+0S eta=63s fuel=63
+[11:42:25] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 11:43:14] ==== loop 122/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:43:15] planet 41: building queue full (5)
+[11:43:15] attack: idle no_fleet_slots (used=1 max=1)
+[11:43:15] research: already in progress
+[2026-05-13 11:44:02] ==== loop 123/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:44:04] planet 41: building queue full (5)
+[11:44:04] planet 41: building queue full (5)
+[2026-05-13 11:44:49] ==== loop 124/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:44:50] planet 41: building queue full (5)
+[11:44:50] planet 41: building queue full (5)
+[11:44:50] research: queued research_energy_technology on planet 41 (115s)
+[2026-05-13 11:45:35] ==== loop 125/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:45:36] planet 41: building queue full (5)
+[11:45:36] research: already in progress
+[2026-05-13 11:46:20] ==== loop 126/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:46:21] planet 41: building queue full (5)
+[11:46:21] planet 41: building queue full (5)
+[2026-05-13 11:47:08] ==== loop 127/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:47:09] planet 41: building queue full (5)
+[11:47:09] research: already in progress
+[2026-05-13 11:47:53] ==== loop 128/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:47:54] planet 41: building queue full (5)
+[11:47:54] planet 41: building queue full (5)
+[11:47:54] research: already in progress
+[2026-05-13 11:48:43] ==== loop 129/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:48:44] planet 41: building queue full (5)
+[11:48:44] research: already in progress
+[2026-05-13 11:49:34] ==== loop 130/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:49:36] planet 41: building queue full (5)
+[11:49:36] planet 41: building queue full (5)
+[11:49:36] research: already in progress
+[2026-05-13 11:50:23] ==== loop 131/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:50:24] planet 41: building queue full (5)
+[11:50:24] planet 41: building queue full (5)
+[2026-05-13 11:51:11] ==== loop 132/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:51:12] planet 41: building queue full (5)
+[2026-05-13 11:51:59] ==== loop 133/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:52:00] planet 41: building queue full (5)
+[11:52:00] planet 41: building queue full (5)
+[11:52:00] research: already in progress
+[2026-05-13 11:52:49] ==== loop 134/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:52:50] planet 41: building queue full (5)
+[11:52:50] planet 41: building queue full (5)
+[11:52:50] ally: transport: 1:5:8 -> 1:33:9 [ally_bot] m=81648 c=0 d=0 ships=4B+0S eta=63s fuel=124
+[11:52:50] attack: idle no_fleet_slots (used=1 max=1)
+[11:52:50] research: already in progress
+[2026-05-13 11:53:30] ==== loop 135/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:53:32] planet 41: building queue full (5)
+[11:53:32] planet 41: building queue full (5)
+[11:53:32] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 11:54:13] ==== loop 136/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:54:15] planet 41: building queue full (5)
+[11:54:15] planet 41: building queue full (5)
+[11:54:15] research: queued research_energy_technology on planet 41 (230s)
+[2026-05-13 11:54:52] ==== loop 137/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:54:53] planet 41: building queue full (5)
+[11:54:53] planet 41: building queue full (5)
+[2026-05-13 11:55:41] ==== loop 138/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:55:42] planet 41: building queue full (5)
+[11:55:42] planet 41: building queue full (5)
+[11:55:42] research: already in progress
+[2026-05-13 11:56:30] ==== loop 139/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:56:31] planet 41: building queue full (5)
+[11:56:31] planet 41: building queue full (5)
+[2026-05-13 11:57:15] ==== loop 140/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:57:16] planet 41: building queue full (5)
+[11:57:16] planet 41: building queue full (5)
+[11:57:16] research: already in progress
+[2026-05-13 11:58:04] ==== loop 141/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:58:05] planet 41: building queue full (5)
+[11:58:05] planet 41: building queue full (5)
+[11:58:05] research: already in progress
+[2026-05-13 11:58:43] ==== loop 142/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:58:44] planet 41: building queue full (5)
+[11:58:44] planet 41: building queue full (5)
+[2026-05-13 11:59:27] ==== loop 143/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[11:59:28] planet 41: building queue full (5)
+[11:59:28] research: already in progress
+[2026-05-13 12:00:11] ==== loop 144/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:00:12] planet 41: building queue full (5)
+[12:00:12] planet 41: building queue full (5)
+[12:00:12] research: already in progress
+[2026-05-13 12:00:56] ==== loop 145/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:00:56] planet 41: building queue full (5)
+[12:00:56] research: already in progress
+[2026-05-13 12:01:42] ==== loop 146/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:01:43] planet 41: building queue full (5)
+[12:01:43] research: already in progress
+[2026-05-13 12:02:29] ==== loop 147/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:02:31] planet 41: building queue full (5)
+[12:02:31] planet 41: building queue full (5)
+[2026-05-13 12:03:17] ==== loop 148/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:03:18] planet 41: building queue full (5)
+[12:03:18] planet 41: building queue full (5)
+[2026-05-13 12:04:06] ==== loop 149/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:04:06] planet 41: building queue full (5)
+[2026-05-13 12:04:51] ==== loop 150/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:04:52] planet 41: building queue full (5)
+[2026-05-13 12:05:40] ==== loop 151/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:05:42] planet 41: building queue full (5)
+[12:05:42] planet 41: building queue full (5)
+[12:05:42] research: already in progress
+[2026-05-13 12:06:29] ==== loop 152/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:06:31] planet 41: building queue full (5)
+[12:06:31] planet 41: building queue full (5)
+[12:06:31] research: already in progress
+[2026-05-13 12:07:17] ==== loop 153/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:07:19] planet 41: building queue full (5)
+[12:07:19] planet 41: building queue full (5)
+[12:07:19] research: already in progress
+[2026-05-13 12:08:11] ==== loop 154/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:08:12] planet 41: building queue full (5)
+[12:08:12] planet 41: building queue full (5)
+[12:08:12] research: already in progress
+[2026-05-13 12:09:05] ==== loop 155/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:09:07] planet 41: building queue full (5)
+[12:09:07] planet 41: building queue full (5)
+[12:09:07] research: already in progress
+[2026-05-13 12:09:50] ==== loop 156/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:09:51] planet 41: building queue full (5)
+[12:09:51] planet 41: building queue full (5)
+[2026-05-13 12:10:36] ==== loop 157/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:10:37] planet 41: building queue full (5)
+[12:10:37] planet 41: building queue full (5)
+[2026-05-13 12:11:20] ==== loop 158/∞ | seed=969849206362835936 archetype=opportunist personality=flotero focus=mil actions_per_loop=2 ====
+[12:11:21] planet 41: building queue full (5)

@@ -10,4 +10,5 @@ $lang = [
     'rs_daily' => 'Total per day:',
     'rs_weekly' => 'Total per week:',
     'rs_calculate' => 'Recalculate',
+    'rs_mining_drill_bonus' => 'Drill Ship bonus',
 ];

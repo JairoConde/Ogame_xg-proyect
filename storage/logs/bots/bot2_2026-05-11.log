@@ -1,0 +1,2009 @@
+[2026-05-11 10:21:27] ==== loop 1/1 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:21:29] planet 28: building queue full (5)
+[10:21:29] planet 28: building queue full (5)
+[10:21:29] planet 28: building queue full (5)
+[10:21:29] planet 28: building queue full (5)
+[10:21:29] attack: intel 1:3:11 ships=0 defs=0 res=5823862760
+[10:21:29] attack: intel 1:3:12 ships=0 defs=0 res=5476182273
+[10:21:29] attack: intel 1:3:13 ships=0 defs=0 res=5613210527
+[10:21:29] attack: intel 1:4:3 ships=0 defs=0 res=5961474927
+[10:21:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:21:37] ==== loop 1/10 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:21:39] planet 28: building queue full (5)
+[10:21:39] planet 28: building queue full (5)
+[10:21:39] planet 28: building queue full (5)
+[10:21:39] planet 28: building queue full (5)
+[10:21:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:22:09] ==== loop 2/10 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:22:13] planet 28: building queue full (5)
+[10:22:13] planet 28: building queue full (5)
+[10:22:13] planet 28: building queue full (5)
+[10:22:13] planet 28: building queue full (5)
+[10:22:13] attack: intel 1:3:6 ships=145 defs=114 res=98914415
+[10:22:13] attack: intel 1:3:8 ships=15 defs=74 res=34005750
+[10:22:13] attack: intel 1:3:10 ships=78 defs=121 res=96874088
+[10:22:13] attack: intel 1:4:4 ships=113 defs=15 res=145653459
+[10:22:13] attack: spy 1:4:6 probes=4 eta=1s
+[10:22:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:22:43] ==== loop 3/10 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:22:46] planet 28: building queue full (5)
+[10:22:46] planet 28: building queue full (5)
+[10:22:46] planet 28: building queue full (5)
+[10:22:46] attack: intel 1:4:6 ships=121 defs=0 res=125631515
+[10:22:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:23:16] ==== loop 4/10 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:23:17] planet 28: building queue full (5)
+[10:23:17] planet 28: building queue full (5)
+[10:23:17] planet 28: building queue full (5)
+[10:23:17] planet 28: building queue full (5)
+[10:23:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:23:47] ==== loop 5/10 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:23:50] planet 28: building queue full (5)
+[10:23:50] planet 28: building queue full (5)
+[10:23:50] planet 28: building queue full (5)
+[10:23:50] planet 28: building queue full (5)
+[10:23:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:24:20] ==== loop 6/10 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:24:23] planet 28: building queue full (5)
+[10:24:23] planet 28: building queue full (5)
+[10:24:23] planet 28: building queue full (5)
+[10:24:23] planet 28: building queue full (5)
+[2026-05-11 10:24:53] ==== loop 7/10 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:24:57] planet 28: building queue full (5)
+[10:24:57] planet 28: building queue full (5)
+[10:24:57] planet 28: building queue full (5)
+[10:24:57] planet 28: building queue full (5)
+[10:24:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:25:27] ==== loop 8/10 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:25:28] planet 28: building queue full (5)
+[10:25:28] planet 28: building queue full (5)
+[10:25:28] planet 28: building queue full (5)
+[2026-05-11 10:25:58] ==== loop 9/10 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:26:00] planet 28: building queue full (5)
+[10:26:00] planet 28: building queue full (5)
+[10:26:00] planet 28: building queue full (5)
+[10:26:00] planet 28: building queue full (5)
+[10:26:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:26:30] ==== loop 10/10 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:26:34] planet 28: building queue full (5)
+[10:26:34] planet 28: building queue full (5)
+[10:26:34] planet 28: building queue full (5)
+[10:26:34] planet 28: building queue full (5)
+[2026-05-11 10:30:08] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:30:08] planet 28: queue busy, throttled building_hangar
+[10:30:08] planet 28: queue busy, throttled building_hangar
+[10:30:08] planet 28: queue busy, throttled building_hangar
+[10:30:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:30:48] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:30:48] planet 28: queue busy, throttled building_hangar
+[10:30:48] planet 28: queue busy, throttled building_hangar
+[10:30:48] planet 28: queue busy, throttled building_hangar
+[10:30:48] planet 28: queue busy, throttled building_hangar
+[2026-05-11 10:31:29] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:31:29] planet 28: queue busy, throttled building_hangar
+[10:31:29] planet 28: queue busy, throttled building_hangar
+[10:31:29] planet 28: queue busy, throttled building_hangar
+[10:31:29] planet 28: queue busy, throttled building_hangar
+[10:31:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:32:07] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:32:07] planet 28: queue busy, throttled building_hangar
+[10:32:07] planet 28: queue busy, throttled building_hangar
+[10:32:07] planet 28: queue busy, throttled building_hangar
+[10:32:07] planet 28: queue busy, throttled building_hangar
+[2026-05-11 10:32:44] ==== loop 5/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:32:44] planet 28: queue busy, throttled building_hangar
+[10:32:44] planet 28: queue busy, throttled building_hangar
+[10:32:44] planet 28: queue busy, throttled building_hangar
+[10:32:44] planet 28: queue busy, throttled building_hangar
+[2026-05-11 10:33:25] ==== loop 6/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:33:25] planet 28: queue busy, throttled building_hangar
+[10:33:25] planet 28: queue busy, throttled building_hangar
+[10:33:25] planet 28: queue busy, throttled building_hangar
+[10:33:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:34:06] ==== loop 7/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:34:06] planet 28: queue busy, throttled building_hangar
+[10:34:06] planet 28: queue busy, throttled building_hangar
+[10:34:06] planet 28: queue busy, throttled building_hangar
+[10:34:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:34:51] ==== loop 8/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:34:51] planet 28: queue busy, throttled building_hangar
+[10:34:51] planet 28: queue busy, throttled building_hangar
+[10:34:51] planet 28: queue busy, throttled building_hangar
+[10:34:51] planet 28: queue busy, throttled building_hangar
+[10:34:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:35:32] ==== loop 9/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:35:32] planet 28: queue busy, throttled building_hangar
+[10:35:32] planet 28: queue busy, throttled building_hangar
+[10:35:32] planet 28: queue busy, throttled building_hangar
+[10:35:32] planet 28: queue busy, throttled building_hangar
+[10:35:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:36:04] ==== loop 10/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:36:04] planet 28: queue busy, throttled building_hangar
+[10:36:04] planet 28: queue busy, throttled building_hangar
+[10:36:04] planet 28: queue busy, throttled building_hangar
+[10:36:04] planet 28: queue busy, throttled building_hangar
+[10:36:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:36:43] ==== loop 11/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:36:43] planet 28: queue busy, throttled building_hangar
+[10:36:43] planet 28: queue busy, throttled building_hangar
+[10:36:43] planet 28: queue busy, throttled building_hangar
+[10:36:43] planet 28: queue busy, throttled building_hangar
+[10:36:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:37:25] ==== loop 12/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:37:25] planet 28: queue busy, throttled building_hangar
+[10:37:25] planet 28: queue busy, throttled building_hangar
+[10:37:25] planet 28: queue busy, throttled building_hangar
+[10:37:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:38:06] ==== loop 13/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:38:06] planet 28: queue busy, throttled building_hangar
+[10:38:06] planet 28: queue busy, throttled building_hangar
+[10:38:06] planet 28: queue busy, throttled building_hangar
+[10:38:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:38:45] ==== loop 14/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:38:45] planet 28: queue busy, throttled building_hangar
+[10:38:45] planet 28: queue busy, throttled building_hangar
+[10:38:45] planet 28: queue busy, throttled building_hangar
+[10:38:45] planet 28: queue busy, throttled building_hangar
+[10:38:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:39:25] ==== loop 15/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:39:25] planet 28: queue busy, throttled building_hangar
+[10:39:25] planet 28: queue busy, throttled building_hangar
+[10:39:25] planet 28: queue busy, throttled building_hangar
+[10:39:25] planet 28: queue busy, throttled building_hangar
+[10:39:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:40:02] ==== loop 16/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:40:04] planet 28: building queue full (5)
+[10:40:04] planet 28: building queue full (5)
+[10:40:04] planet 28: building queue full (5)
+[10:40:04] planet 28: building queue full (5)
+[10:40:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:40:41] ==== loop 17/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:40:45] planet 28: building queue full (5)
+[10:40:45] planet 28: building queue full (5)
+[10:40:45] planet 28: building queue full (5)
+[10:40:45] planet 28: building queue full (5)
+[10:40:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:41:27] ==== loop 18/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:41:28] planet 28: building queue full (5)
+[10:41:28] planet 28: building queue full (5)
+[10:41:28] planet 28: building queue full (5)
+[10:41:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:41:50] ==== loop 1/2 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:41:51] planet 28: building queue full (5)
+[10:41:51] planet 28: building queue full (5)
+[10:41:51] planet 28: building queue full (5)
+[10:41:51] planet 28: building queue full (5)
+[10:41:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:42:01] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:42:02] planet 28: building queue full (5)
+[10:42:02] planet 28: building queue full (5)
+[10:42:02] planet 28: building queue full (5)
+[10:42:02] planet 28: building queue full (5)
+[10:42:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:42:21] ==== loop 2/2 | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:42:23] planet 28: building queue full (5)
+[10:42:23] planet 28: building queue full (5)
+[10:42:23] planet 28: building queue full (5)
+[2026-05-11 10:42:39] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:42:41] planet 28: building queue full (5)
+[10:42:41] planet 28: building queue full (5)
+[10:42:41] planet 28: building queue full (5)
+[10:42:41] planet 28: building queue full (5)
+[2026-05-11 10:43:27] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:43:28] planet 28: no resources for building_metal_store+1
+[2026-05-11 10:44:08] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:44:09] planet 28: no resources for building_metal_store+1
+[10:44:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:44:51] ==== loop 5/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:44:54] planet 28: building queue full (5)
+[10:44:54] planet 28: building queue full (5)
+[10:44:54] planet 28: building queue full (5)
+[10:44:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:45:52] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:45:54] planet 28: building queue full (5)
+[10:45:54] planet 28: building queue full (5)
+[10:45:54] planet 28: building queue full (5)
+[10:45:54] planet 28: building queue full (5)
+[10:45:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:46:35] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:46:38] planet 28: building queue full (5)
+[10:46:38] planet 28: building queue full (5)
+[10:46:38] planet 28: building queue full (5)
+[10:46:38] planet 28: building queue full (5)
+[10:46:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:47:18] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:47:21] planet 28: building queue full (5)
+[10:47:21] planet 28: building queue full (5)
+[10:47:21] planet 28: building queue full (5)
+[10:47:21] planet 28: building queue full (5)
+[10:47:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:48:10] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:48:12] planet 28: building queue full (5)
+[10:48:12] planet 28: building queue full (5)
+[10:48:12] planet 28: building queue full (5)
+[10:48:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:48:54] ==== loop 5/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:48:56] planet 28: building queue full (5)
+[10:48:56] planet 28: building queue full (5)
+[10:48:56] planet 28: building queue full (5)
+[10:48:56] planet 28: building queue full (5)
+[10:48:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:49:39] ==== loop 6/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:49:42] planet 28: building queue full (5)
+[10:49:42] planet 28: building queue full (5)
+[10:49:42] planet 28: building queue full (5)
+[10:49:42] planet 28: building queue full (5)
+[2026-05-11 10:50:25] ==== loop 7/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:50:28] planet 28: building queue full (5)
+[10:50:28] planet 28: building queue full (5)
+[10:50:28] planet 28: building queue full (5)
+[10:50:28] planet 28: building queue full (5)
+[10:50:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:51:12] ==== loop 8/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:51:14] planet 28: building queue full (5)
+[10:51:14] planet 28: building queue full (5)
+[10:51:14] planet 28: building queue full (5)
+[10:51:14] planet 28: building queue full (5)
+[2026-05-11 10:51:54] ==== loop 9/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:51:58] planet 28: building queue full (5)
+[10:51:58] planet 28: building queue full (5)
+[10:51:58] planet 28: building queue full (5)
+[10:51:58] planet 28: building queue full (5)
+[2026-05-11 10:52:34] ==== loop 10/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:52:36] planet 28: building queue full (5)
+[10:52:36] planet 28: building queue full (5)
+[10:52:36] planet 28: building queue full (5)
+[10:52:36] planet 28: building queue full (5)
+[2026-05-11 10:53:14] ==== loop 11/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:53:17] planet 28: building queue full (5)
+[10:53:17] planet 28: building queue full (5)
+[10:53:17] planet 28: building queue full (5)
+[10:53:17] planet 28: building queue full (5)
+[10:53:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:53:57] ==== loop 12/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:53:59] planet 28: building queue full (5)
+[10:53:59] planet 28: building queue full (5)
+[10:53:59] planet 28: building queue full (5)
+[10:53:59] planet 28: building queue full (5)
+[10:53:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:54:45] ==== loop 13/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:54:48] planet 28: building queue full (5)
+[10:54:48] planet 28: building queue full (5)
+[10:54:48] planet 28: building queue full (5)
+[10:54:48] planet 28: building queue full (5)
+[10:54:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:55:29] ==== loop 14/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:55:32] planet 28: building queue full (5)
+[10:55:32] planet 28: building queue full (5)
+[10:55:32] planet 28: building queue full (5)
+[10:55:32] planet 28: building queue full (5)
+[10:55:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:56:14] ==== loop 15/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:56:16] planet 28: building queue full (5)
+[10:56:16] planet 28: building queue full (5)
+[10:56:16] planet 28: building queue full (5)
+[10:56:16] planet 28: building queue full (5)
+[2026-05-11 10:56:58] ==== loop 16/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:57:01] planet 28: building queue full (5)
+[10:57:01] planet 28: building queue full (5)
+[10:57:01] planet 28: building queue full (5)
+[2026-05-11 10:57:42] ==== loop 17/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:57:44] planet 28: building queue full (5)
+[10:57:44] planet 28: building queue full (5)
+[10:57:44] planet 28: building queue full (5)
+[10:57:44] planet 28: building queue full (5)
+[10:57:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:58:25] ==== loop 18/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:58:28] planet 28: building queue full (5)
+[10:58:28] planet 28: building queue full (5)
+[10:58:28] planet 28: building queue full (5)
+[2026-05-11 10:59:08] ==== loop 19/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:59:11] planet 28: building queue full (5)
+[10:59:11] planet 28: building queue full (5)
+[10:59:11] planet 28: building queue full (5)
+[10:59:11] planet 28: building queue full (5)
+[10:59:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:59:52] ==== loop 20/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[10:59:54] planet 28: building queue full (5)
+[10:59:54] planet 28: building queue full (5)
+[10:59:54] planet 28: building queue full (5)
+[10:59:54] planet 28: building queue full (5)
+[10:59:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:00:32] ==== loop 21/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:00:36] planet 28: building queue full (5)
+[11:00:36] planet 28: building queue full (5)
+[11:00:36] planet 28: building queue full (5)
+[11:00:36] planet 28: building queue full (5)
+[11:00:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:01:25] ==== loop 22/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:01:27] planet 28: building queue full (5)
+[11:01:27] planet 28: building queue full (5)
+[11:01:27] planet 28: building queue full (5)
+[11:01:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:02:12] ==== loop 23/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:02:15] planet 28: building queue full (5)
+[11:02:15] planet 28: building queue full (5)
+[11:02:15] planet 28: building queue full (5)
+[11:02:15] planet 28: building queue full (5)
+[11:02:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:02:54] ==== loop 24/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:02:57] planet 28: building queue full (5)
+[11:02:57] planet 28: building queue full (5)
+[11:02:57] planet 28: building queue full (5)
+[11:02:57] planet 28: building queue full (5)
+[11:02:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:03:32] ==== loop 25/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:03:34] planet 28: building queue full (5)
+[11:03:34] planet 28: building queue full (5)
+[11:03:34] planet 28: building queue full (5)
+[11:03:34] planet 28: building queue full (5)
+[11:03:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:04:15] ==== loop 26/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:04:17] planet 28: building queue full (5)
+[11:04:17] planet 28: building queue full (5)
+[11:04:17] planet 28: building queue full (5)
+[11:04:17] planet 28: building queue full (5)
+[11:04:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:04:56] ==== loop 27/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:04:59] planet 28: building queue full (5)
+[11:04:59] planet 28: building queue full (5)
+[11:04:59] planet 28: building queue full (5)
+[11:04:59] planet 28: building queue full (5)
+[11:04:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:05:38] ==== loop 28/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:05:41] planet 28: building queue full (5)
+[11:05:41] planet 28: building queue full (5)
+[11:05:41] planet 28: building queue full (5)
+[11:05:41] planet 28: building queue full (5)
+[2026-05-11 11:06:26] ==== loop 29/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:06:27] planet 28: building queue full (5)
+[11:06:27] planet 28: building queue full (5)
+[11:06:27] planet 28: building queue full (5)
+[11:06:27] planet 28: building queue full (5)
+[11:06:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:07:08] ==== loop 30/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:07:10] planet 28: building queue full (5)
+[11:07:10] planet 28: building queue full (5)
+[11:07:10] planet 28: building queue full (5)
+[11:07:10] planet 28: building queue full (5)
+[2026-05-11 11:07:51] ==== loop 31/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:07:52] planet 28: building queue full (5)
+[11:07:52] planet 28: building queue full (5)
+[11:07:52] planet 28: building queue full (5)
+[11:07:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:08:31] ==== loop 32/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:08:33] planet 28: building queue full (5)
+[11:08:33] planet 28: building queue full (5)
+[11:08:33] planet 28: building queue full (5)
+[2026-05-11 11:09:16] ==== loop 33/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:09:19] planet 28: building queue full (5)
+[11:09:19] planet 28: building queue full (5)
+[11:09:19] planet 28: building queue full (5)
+[11:09:19] planet 28: building queue full (5)
+[2026-05-11 11:10:00] ==== loop 34/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:10:03] planet 28: building queue full (5)
+[11:10:03] planet 28: building queue full (5)
+[11:10:03] planet 28: building queue full (5)
+[11:10:03] planet 28: building queue full (5)
+[2026-05-11 11:10:50] ==== loop 35/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:10:52] planet 28: building queue full (5)
+[11:10:52] planet 28: building queue full (5)
+[11:10:52] planet 28: building queue full (5)
+[11:10:52] planet 28: building queue full (5)
+[11:10:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:11:32] ==== loop 36/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:11:36] planet 28: building queue full (5)
+[11:11:36] planet 28: building queue full (5)
+[11:11:36] planet 28: building queue full (5)
+[11:11:36] planet 28: building queue full (5)
+[11:11:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:12:20] ==== loop 37/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:12:23] planet 28: building queue full (5)
+[11:12:23] planet 28: building queue full (5)
+[11:12:23] planet 28: building queue full (5)
+[11:12:23] planet 28: building queue full (5)
+[11:12:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:13:08] ==== loop 38/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:13:10] planet 28: building queue full (5)
+[11:13:10] planet 28: building queue full (5)
+[11:13:10] planet 28: building queue full (5)
+[11:13:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:13:50] ==== loop 39/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:13:52] planet 28: building queue full (5)
+[11:13:52] planet 28: building queue full (5)
+[11:13:52] planet 28: building queue full (5)
+[11:13:52] planet 28: building queue full (5)
+[11:13:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:14:39] ==== loop 40/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:14:41] planet 28: building queue full (5)
+[11:14:41] planet 28: building queue full (5)
+[11:14:41] planet 28: building queue full (5)
+[11:14:41] planet 28: building queue full (5)
+[11:14:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:15:26] ==== loop 41/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:15:28] planet 28: building queue full (5)
+[11:15:28] planet 28: building queue full (5)
+[11:15:28] planet 28: building queue full (5)
+[11:15:28] planet 28: building queue full (5)
+[11:15:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:16:03] ==== loop 42/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:16:06] planet 28: building queue full (5)
+[11:16:06] planet 28: building queue full (5)
+[11:16:06] planet 28: building queue full (5)
+[11:16:06] planet 28: building queue full (5)
+[11:16:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:16:51] ==== loop 43/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:16:53] planet 28: building queue full (5)
+[11:16:53] planet 28: building queue full (5)
+[11:16:53] planet 28: building queue full (5)
+[11:16:53] planet 28: building queue full (5)
+[11:16:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:17:30] ==== loop 44/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:17:33] planet 28: building queue full (5)
+[11:17:33] planet 28: building queue full (5)
+[11:17:33] planet 28: building queue full (5)
+[11:17:33] planet 28: building queue full (5)
+[11:17:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:18:15] ==== loop 45/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:18:18] planet 28: building queue full (5)
+[11:18:18] planet 28: building queue full (5)
+[11:18:18] planet 28: building queue full (5)
+[11:18:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:19:04] ==== loop 46/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:19:07] planet 28: building queue full (5)
+[11:19:07] planet 28: building queue full (5)
+[11:19:07] planet 28: building queue full (5)
+[11:19:07] planet 28: building queue full (5)
+[2026-05-11 11:19:55] ==== loop 47/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:19:57] planet 28: building queue full (5)
+[11:19:57] planet 28: building queue full (5)
+[11:19:57] planet 28: building queue full (5)
+[11:19:57] planet 28: building queue full (5)
+[11:19:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:20:36] ==== loop 48/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:20:38] planet 28: building queue full (5)
+[11:20:38] planet 28: building queue full (5)
+[11:20:38] planet 28: building queue full (5)
+[11:20:38] planet 28: building queue full (5)
+[11:20:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:21:12] ==== loop 49/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:21:14] planet 28: building queue full (5)
+[11:21:14] planet 28: building queue full (5)
+[11:21:14] planet 28: building queue full (5)
+[11:21:14] planet 28: building queue full (5)
+[2026-05-11 11:21:47] ==== loop 50/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:21:50] planet 28: building queue full (5)
+[11:21:50] planet 28: building queue full (5)
+[11:21:50] planet 28: building queue full (5)
+[2026-05-11 11:22:23] ==== loop 51/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:22:25] planet 28: building queue full (5)
+[11:22:25] planet 28: building queue full (5)
+[11:22:25] planet 28: building queue full (5)
+[11:22:25] planet 28: building queue full (5)
+[11:22:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:23:02] ==== loop 52/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:23:05] planet 28: building queue full (5)
+[11:23:05] planet 28: building queue full (5)
+[11:23:05] planet 28: building queue full (5)
+[11:23:05] planet 28: building queue full (5)
+[11:23:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:23:39] ==== loop 53/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:23:43] planet 28: building queue full (5)
+[11:23:43] planet 28: building queue full (5)
+[11:23:43] planet 28: building queue full (5)
+[11:23:43] planet 28: building queue full (5)
+[11:23:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:24:17] ==== loop 54/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:24:20] planet 28: building queue full (5)
+[11:24:20] planet 28: building queue full (5)
+[11:24:20] planet 28: building queue full (5)
+[11:24:20] planet 28: building queue full (5)
+[2026-05-11 11:24:55] ==== loop 55/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:24:58] planet 28: building queue full (5)
+[11:24:58] planet 28: building queue full (5)
+[11:24:58] planet 28: building queue full (5)
+[11:24:58] planet 28: building queue full (5)
+[11:24:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:25:30] ==== loop 56/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:25:32] planet 28: building queue full (5)
+[11:25:32] planet 28: building queue full (5)
+[11:25:32] planet 28: building queue full (5)
+[11:25:32] planet 28: building queue full (5)
+[2026-05-11 11:26:07] ==== loop 57/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:26:09] planet 28: building queue full (5)
+[11:26:09] planet 28: building queue full (5)
+[11:26:09] planet 28: building queue full (5)
+[11:26:09] planet 28: building queue full (5)
+[2026-05-11 11:26:38] ==== loop 58/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:26:39] planet 28: building queue full (5)
+[11:26:39] planet 28: building queue full (5)
+[11:26:39] planet 28: building queue full (5)
+[11:26:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:27:13] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:27:16] alliance: apply ally=1
+[11:27:16] planet 28: building queue full (5)
+[11:27:16] planet 28: building queue full (5)
+[11:27:16] planet 28: building queue full (5)
+[11:27:16] planet 28: building queue full (5)
+[11:27:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:27:51] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:27:53] planet 28: building queue full (5)
+[11:27:53] planet 28: building queue full (5)
+[11:27:53] planet 28: building queue full (5)
+[11:27:53] planet 28: building queue full (5)
+[11:27:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:28:27] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:28:30] planet 28: building queue full (5)
+[11:28:30] planet 28: building queue full (5)
+[11:28:30] planet 28: building queue full (5)
+[11:28:30] planet 28: building queue full (5)
+[11:28:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:29:03] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:29:06] planet 28: building queue full (5)
+[11:29:06] planet 28: building queue full (5)
+[11:29:06] planet 28: building queue full (5)
+[11:29:06] planet 28: building queue full (5)
+[11:29:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:29:41] ==== loop 5/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:29:41] planet 28: queued building_metal_mine to 29
+[11:29:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:30:13] ==== loop 6/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:30:16] alliance: application cleared (rejected or cancelled) ally=1
+[11:30:16] alliance: create id=2 tag=BOT272
+[11:30:16] planet 28: building queue full (5)
+[11:30:16] planet 28: building queue full (5)
+[11:30:16] planet 28: building queue full (5)
+[11:30:16] planet 28: building queue full (5)
+[2026-05-11 11:30:57] ==== loop 7/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:31:01] planet 28: building queue full (5)
+[11:31:01] planet 28: building queue full (5)
+[11:31:01] planet 28: building queue full (5)
+[11:31:01] planet 28: building queue full (5)
+[11:31:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:31:45] ==== loop 8/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:31:48] planet 28: building queue full (5)
+[11:31:48] planet 28: building queue full (5)
+[11:31:48] planet 28: building queue full (5)
+[11:31:48] planet 28: building queue full (5)
+[11:31:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:32:40] ==== loop 9/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:32:43] planet 28: building queue full (5)
+[11:32:43] planet 28: building queue full (5)
+[11:32:43] planet 28: building queue full (5)
+[11:32:43] planet 28: building queue full (5)
+[11:32:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:33:29] ==== loop 10/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:33:30] planet 28: building queue full (5)
+[11:33:30] planet 28: building queue full (5)
+[11:33:30] planet 28: building queue full (5)
+[11:33:30] planet 28: building queue full (5)
+[11:33:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:34:11] ==== loop 11/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:34:13] planet 28: building queue full (5)
+[11:34:13] planet 28: building queue full (5)
+[11:34:13] planet 28: building queue full (5)
+[11:34:13] planet 28: building queue full (5)
+[2026-05-11 11:34:46] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:34:49] planet 28: building queue full (5)
+[11:34:49] planet 28: building queue full (5)
+[11:34:49] planet 28: building queue full (5)
+[11:34:49] planet 28: building queue full (5)
+[11:34:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:35:37] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:35:39] planet 28: building queue full (5)
+[11:35:39] planet 28: building queue full (5)
+[11:35:39] planet 28: building queue full (5)
+[11:35:39] planet 28: building queue full (5)
+[11:35:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:36:20] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:36:22] planet 28: building queue full (5)
+[11:36:22] planet 28: building queue full (5)
+[11:36:22] planet 28: building queue full (5)
+[11:36:22] planet 28: building queue full (5)
+[11:36:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:37:20] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:37:25] alliance: accept user=20
+[11:37:25] alliance: kick user=20
+[11:37:25] alliance: dissolve
+[11:37:25] planet 28: building queue full (5)
+[11:37:25] planet 28: building queue full (5)
+[11:37:25] planet 28: building queue full (5)
+[11:37:25] planet 28: building queue full (5)
+[2026-05-11 11:38:04] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:38:07] planet 28: building queue full (5)
+[11:38:07] planet 28: building queue full (5)
+[11:38:07] planet 28: building queue full (5)
+[11:38:07] planet 28: building queue full (5)
+[11:38:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:38:52] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:38:55] planet 28: building queue full (5)
+[11:38:55] planet 28: building queue full (5)
+[11:38:55] planet 28: building queue full (5)
+[11:38:55] planet 28: building queue full (5)
+[2026-05-11 11:39:40] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:39:43] planet 28: building queue full (5)
+[11:39:43] planet 28: building queue full (5)
+[11:39:43] planet 28: building queue full (5)
+[11:39:43] planet 28: building queue full (5)
+[11:39:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:40:26] ==== loop 5/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:40:29] planet 28: building queue full (5)
+[11:40:29] planet 28: building queue full (5)
+[11:40:29] planet 28: building queue full (5)
+[11:40:29] planet 28: building queue full (5)
+[2026-05-11 11:41:12] ==== loop 6/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:41:14] planet 28: building queue full (5)
+[11:41:14] planet 28: building queue full (5)
+[11:41:14] planet 28: building queue full (5)
+[11:41:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:41:55] ==== loop 7/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:41:58] planet 28: building queue full (5)
+[11:41:58] planet 28: building queue full (5)
+[11:41:58] planet 28: building queue full (5)
+[11:41:58] planet 28: building queue full (5)
+[11:41:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:42:27] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:42:30] planet 28: building queue full (5)
+[11:42:30] planet 28: building queue full (5)
+[11:42:30] planet 28: building queue full (5)
+[11:42:30] planet 28: building queue full (5)
+[2026-05-11 11:43:10] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:43:12] planet 28: building queue full (5)
+[11:43:12] planet 28: building queue full (5)
+[11:43:12] planet 28: building queue full (5)
+[11:43:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:43:53] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:43:57] planet 28: building queue full (5)
+[11:43:57] planet 28: building queue full (5)
+[11:43:57] planet 28: building queue full (5)
+[11:43:57] planet 28: building queue full (5)
+[2026-05-11 11:44:36] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:44:39] planet 28: building queue full (5)
+[11:44:39] planet 28: building queue full (5)
+[11:44:39] planet 28: building queue full (5)
+[11:44:39] planet 28: building queue full (5)
+[11:44:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:45:04] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:45:06] planet 28: building queue full (5)
+[11:45:06] planet 28: building queue full (5)
+[11:45:06] planet 28: building queue full (5)
+[11:45:06] planet 28: building queue full (5)
+[2026-05-11 11:45:44] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:45:47] planet 28: building queue full (5)
+[11:45:47] planet 28: building queue full (5)
+[11:45:47] planet 28: building queue full (5)
+[11:45:47] planet 28: building queue full (5)
+[11:45:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:46:25] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:46:28] alliance: apply ally=5
+[11:46:28] planet 28: building queue full (5)
+[11:46:28] planet 28: building queue full (5)
+[11:46:28] planet 28: building queue full (5)
+[11:46:28] planet 28: building queue full (5)
+[11:46:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:47:06] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:47:08] alliance: joined ally=5
+[11:47:08] planet 28: building queue full (5)
+[11:47:08] planet 28: building queue full (5)
+[11:47:08] planet 28: building queue full (5)
+[11:47:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:47:43] ==== loop 5/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:47:45] planet 28: building queue full (5)
+[11:47:45] planet 28: building queue full (5)
+[11:47:45] planet 28: building queue full (5)
+[11:47:45] planet 28: building queue full (5)
+[11:47:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:48:23] ==== loop 6/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:48:25] planet 28: building queue full (5)
+[11:48:25] planet 28: building queue full (5)
+[11:48:25] planet 28: building queue full (5)
+[11:48:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:49:05] ==== loop 7/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:49:07] planet 28: building queue full (5)
+[11:49:07] planet 28: building queue full (5)
+[11:49:07] planet 28: building queue full (5)
+[11:49:07] planet 28: building queue full (5)
+[2026-05-11 11:49:42] ==== loop 8/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:49:44] planet 28: building queue full (5)
+[11:49:44] planet 28: building queue full (5)
+[11:49:44] planet 28: building queue full (5)
+[2026-05-11 11:50:23] ==== loop 9/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:50:26] planet 28: building queue full (5)
+[11:50:26] planet 28: building queue full (5)
+[11:50:26] planet 28: building queue full (5)
+[11:50:26] planet 28: building queue full (5)
+[11:50:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:50:56] ==== loop 10/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:51:00] planet 28: building queue full (5)
+[11:51:00] planet 28: building queue full (5)
+[11:51:00] planet 28: building queue full (5)
+[11:51:00] planet 28: building queue full (5)
+[2026-05-11 11:51:44] ==== loop 11/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:51:46] planet 28: building queue full (5)
+[11:51:46] planet 28: building queue full (5)
+[11:51:46] planet 28: building queue full (5)
+[2026-05-11 11:52:29] ==== loop 12/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:52:32] planet 28: building queue full (5)
+[11:52:32] planet 28: building queue full (5)
+[11:52:32] planet 28: building queue full (5)
+[11:52:32] planet 28: building queue full (5)
+[2026-05-11 11:53:13] ==== loop 13/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:53:14] planet 28: building queue full (5)
+[11:53:14] planet 28: building queue full (5)
+[11:53:14] planet 28: building queue full (5)
+[11:53:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:53:52] ==== loop 14/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:53:53] planet 28: building queue full (5)
+[11:53:53] planet 28: building queue full (5)
+[11:53:53] planet 28: building queue full (5)
+[2026-05-11 11:54:31] ==== loop 15/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:54:34] planet 28: building queue full (5)
+[11:54:34] planet 28: building queue full (5)
+[11:54:34] planet 28: building queue full (5)
+[11:54:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:55:21] ==== loop 16/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:55:23] planet 28: building queue full (5)
+[11:55:23] planet 28: building queue full (5)
+[11:55:23] planet 28: building queue full (5)
+[11:55:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:56:03] ==== loop 17/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:56:05] planet 28: building queue full (5)
+[11:56:05] planet 28: building queue full (5)
+[11:56:05] planet 28: building queue full (5)
+[2026-05-11 11:56:46] ==== loop 18/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:56:49] planet 28: building queue full (5)
+[11:56:49] planet 28: building queue full (5)
+[11:56:49] planet 28: building queue full (5)
+[2026-05-11 11:57:26] ==== loop 19/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:57:29] planet 28: building queue full (5)
+[11:57:29] planet 28: building queue full (5)
+[11:57:29] planet 28: building queue full (5)
+[11:57:29] planet 28: building queue full (5)
+[2026-05-11 11:58:11] ==== loop 20/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:58:14] planet 28: building queue full (5)
+[11:58:14] planet 28: building queue full (5)
+[11:58:14] planet 28: building queue full (5)
+[11:58:14] planet 28: building queue full (5)
+[2026-05-11 11:58:53] ==== loop 21/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:58:55] planet 28: building queue full (5)
+[11:58:55] planet 28: building queue full (5)
+[11:58:55] planet 28: building queue full (5)
+[2026-05-11 11:59:40] ==== loop 22/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[11:59:43] planet 28: building queue full (5)
+[11:59:43] planet 28: building queue full (5)
+[11:59:43] planet 28: building queue full (5)
+[11:59:43] planet 28: building queue full (5)
+[11:59:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:00:24] ==== loop 23/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:00:25] planet 28: building queue full (5)
+[12:00:25] planet 28: building queue full (5)
+[12:00:25] planet 28: building queue full (5)
+[2026-05-11 12:01:11] ==== loop 24/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:01:14] planet 28: building queue full (5)
+[12:01:14] planet 28: building queue full (5)
+[12:01:14] planet 28: building queue full (5)
+[12:01:14] planet 28: building queue full (5)
+[12:01:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:01:52] ==== loop 25/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:01:55] planet 28: building queue full (5)
+[12:01:55] planet 28: building queue full (5)
+[12:01:55] planet 28: building queue full (5)
+[12:01:55] planet 28: building queue full (5)
+[12:01:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:02:37] ==== loop 26/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:02:39] planet 28: building queue full (5)
+[12:02:39] planet 28: building queue full (5)
+[12:02:39] planet 28: building queue full (5)
+[2026-05-11 12:03:13] ==== loop 27/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:03:14] planet 28: building queue full (5)
+[12:03:14] planet 28: building queue full (5)
+[12:03:14] planet 28: building queue full (5)
+[12:03:14] planet 28: building queue full (5)
+[12:03:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:03:52] ==== loop 28/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:03:54] planet 28: building queue full (5)
+[12:03:54] planet 28: building queue full (5)
+[12:03:54] planet 28: building queue full (5)
+[12:03:54] planet 28: building queue full (5)
+[12:03:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:04:30] ==== loop 29/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:04:31] planet 28: building queue full (5)
+[12:04:31] planet 28: building queue full (5)
+[12:04:31] planet 28: building queue full (5)
+[12:04:31] planet 28: building queue full (5)
+[12:04:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:05:14] ==== loop 30/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:05:16] planet 28: building queue full (5)
+[12:05:16] planet 28: building queue full (5)
+[12:05:16] planet 28: building queue full (5)
+[2026-05-11 12:05:58] ==== loop 31/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:06:01] planet 28: building queue full (5)
+[12:06:01] planet 28: building queue full (5)
+[12:06:01] planet 28: building queue full (5)
+[12:06:01] planet 28: building queue full (5)
+[2026-05-11 12:06:41] ==== loop 32/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:06:44] planet 28: building queue full (5)
+[12:06:44] planet 28: building queue full (5)
+[12:06:44] planet 28: building queue full (5)
+[12:06:44] planet 28: building queue full (5)
+[12:06:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:07:24] ==== loop 33/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:07:26] planet 28: building queue full (5)
+[12:07:26] planet 28: building queue full (5)
+[12:07:26] planet 28: building queue full (5)
+[12:07:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:08:09] ==== loop 34/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:08:12] planet 28: building queue full (5)
+[12:08:12] planet 28: building queue full (5)
+[12:08:12] planet 28: building queue full (5)
+[12:08:12] planet 28: building queue full (5)
+[2026-05-11 12:08:53] ==== loop 35/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:08:56] planet 28: building queue full (5)
+[12:08:56] planet 28: building queue full (5)
+[12:08:56] planet 28: building queue full (5)
+[12:08:56] planet 28: building queue full (5)
+[12:08:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:09:36] ==== loop 36/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:09:39] planet 28: building queue full (5)
+[12:09:39] planet 28: building queue full (5)
+[12:09:39] planet 28: building queue full (5)
+[12:09:39] planet 28: building queue full (5)
+[2026-05-11 12:10:24] ==== loop 37/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:10:24] planet 28: queue busy, throttled building_hangar
+[12:10:24] planet 28: queue busy, throttled building_hangar
+[12:10:24] planet 28: queue busy, throttled building_hangar
+[2026-05-11 12:11:07] ==== loop 38/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:11:07] planet 28: queue busy, throttled building_hangar
+[12:11:07] planet 28: queue busy, throttled building_hangar
+[12:11:07] planet 28: queue busy, throttled building_hangar
+[12:11:07] planet 28: queue busy, throttled building_hangar
+[12:11:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:11:24] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:11:24] planet 28: queue busy, throttled building_hangar
+[12:11:24] planet 28: queue busy, throttled building_hangar
+[12:11:24] planet 28: queue busy, throttled building_hangar
+[12:11:24] planet 28: queue busy, throttled building_hangar
+[12:11:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:12:05] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:12:05] planet 28: queue busy, throttled building_hangar
+[12:12:05] planet 28: queue busy, throttled building_hangar
+[12:12:05] planet 28: queue busy, throttled building_hangar
+[12:12:05] planet 28: queue busy, throttled building_hangar
+[12:12:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:12:46] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:12:46] planet 28: queue busy, throttled building_hangar
+[12:12:46] planet 28: queue busy, throttled building_hangar
+[12:12:46] planet 28: queue busy, throttled building_hangar
+[12:12:46] planet 28: queue busy, throttled building_hangar
+[12:12:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:13:22] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:13:22] planet 28: queue busy, throttled building_hangar
+[12:13:22] planet 28: queue busy, throttled building_hangar
+[12:13:22] planet 28: queue busy, throttled building_hangar
+[12:13:22] planet 28: queue busy, throttled building_hangar
+[12:13:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:14:00] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:14:00] planet 28: queue busy, throttled building_hangar
+[12:14:00] planet 28: queue busy, throttled building_hangar
+[12:14:00] planet 28: queue busy, throttled building_hangar
+[12:14:00] planet 28: queue busy, throttled building_hangar
+[12:14:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:14:33] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:14:33] planet 28: queue busy, throttled building_hangar
+[12:14:33] planet 28: queue busy, throttled building_hangar
+[12:14:33] planet 28: queue busy, throttled building_hangar
+[12:14:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:15:10] ==== loop 5/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=eco actions_per_loop=4 ====
+[12:15:10] planet 28: queue busy, throttled building_hangar
+[12:15:10] planet 28: queue busy, throttled building_hangar
+[12:15:10] planet 28: queue busy, throttled building_hangar
+[12:15:10] planet 28: queue busy, throttled building_hangar
+[12:15:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:15:37] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:15:38] alliance: transfer-debug action=transfer reason=owner_inactive eligible=1 inactive=615
+[12:15:38] alliance: transfer-debug newOwner=4 me=4
+[12:15:38] alliance: ownership transfer from=28 to=4
+[12:15:38] planet 28: queued defense_plasma_turret +8
+[12:15:38] planet 28: skipped duplicate defense_plasma_turret this loop
+[12:15:38] planet 28: skipped duplicate defense_plasma_turret this loop
+[12:15:38] planet 28: skipped duplicate defense_plasma_turret this loop
+[12:15:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:16:12] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:16:13] planet 28: queued defense_plasma_turret +8
+[12:16:13] planet 28: skipped duplicate defense_plasma_turret this loop
+[12:16:13] planet 28: skipped duplicate defense_plasma_turret this loop
+[12:16:13] planet 28: skipped duplicate defense_plasma_turret this loop
+[12:16:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:16:58] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:17:00] planet 28: queued defense_plasma_turret +8
+[12:17:00] planet 28: queued defense_ion_cannon +8
+[12:17:00] planet 28: skipped duplicate defense_ion_cannon this loop
+[12:17:00] planet 28: skipped duplicate defense_ion_cannon this loop
+[12:17:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:17:35] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:17:36] planet 28: queued defense_ion_cannon +8
+[12:17:36] planet 28: queued defense_plasma_turret +1
+[12:17:36] planet 28: skipped duplicate defense_ion_cannon this loop
+[2026-05-11 12:18:15] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:18:16] planet 28: queued defense_ion_cannon +1
+[12:18:16] planet 28: queue busy, throttled building_laboratory
+[12:18:16] planet 28: queue busy, throttled building_laboratory
+[12:18:16] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 12:18:54] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:18:54] planet 28: queue busy, throttled building_laboratory
+[12:18:54] planet 28: queue busy, throttled building_laboratory
+[12:18:54] planet 28: queue busy, throttled building_laboratory
+[12:18:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:19:31] ==== loop 5/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:19:31] planet 28: queue busy, throttled building_laboratory
+[12:19:31] planet 28: queue busy, throttled building_laboratory
+[12:19:31] planet 28: queue busy, throttled building_laboratory
+[12:19:31] planet 28: queue busy, throttled building_laboratory
+[12:19:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:20:10] ==== loop 6/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:20:13] planet 28: building queue full (5)
+[12:20:13] planet 28: building queue full (5)
+[12:20:13] planet 28: building queue full (5)
+[12:20:13] planet 28: building queue full (5)
+[12:20:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:20:45] ==== loop 7/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:20:47] planet 28: building queue full (5)
+[12:20:47] planet 28: building queue full (5)
+[12:20:47] planet 28: building queue full (5)
+[12:20:47] planet 28: building queue full (5)
+[12:20:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:21:19] ==== loop 8/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:21:22] planet 28: building queue full (5)
+[12:21:22] planet 28: building queue full (5)
+[12:21:22] planet 28: building queue full (5)
+[12:21:22] planet 28: building queue full (5)
+[12:21:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:21:56] ==== loop 9/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:22:00] planet 28: building queue full (5)
+[12:22:00] planet 28: building queue full (5)
+[12:22:00] planet 28: building queue full (5)
+[12:22:00] planet 28: building queue full (5)
+[12:22:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:22:33] ==== loop 10/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:22:36] planet 28: building queue full (5)
+[12:22:36] planet 28: building queue full (5)
+[12:22:36] planet 28: building queue full (5)
+[12:22:36] planet 28: building queue full (5)
+[2026-05-11 12:23:09] ==== loop 11/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:23:12] planet 28: building queue full (5)
+[12:23:12] planet 28: building queue full (5)
+[12:23:12] planet 28: building queue full (5)
+[12:23:12] planet 28: building queue full (5)
+[12:23:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:23:42] ==== loop 12/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:23:45] planet 28: building queue full (5)
+[12:23:45] planet 28: building queue full (5)
+[12:23:45] planet 28: building queue full (5)
+[12:23:45] planet 28: building queue full (5)
+[2026-05-11 12:24:21] ==== loop 13/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:24:23] planet 28: building queue full (5)
+[12:24:23] planet 28: building queue full (5)
+[12:24:23] planet 28: building queue full (5)
+[12:24:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:24:56] ==== loop 14/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:24:59] planet 28: building queue full (5)
+[12:24:59] planet 28: building queue full (5)
+[12:24:59] planet 28: building queue full (5)
+[12:24:59] planet 28: building queue full (5)
+[2026-05-11 12:25:35] ==== loop 15/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:25:38] planet 28: building queue full (5)
+[12:25:38] planet 28: building queue full (5)
+[12:25:38] planet 28: building queue full (5)
+[12:25:38] planet 28: building queue full (5)
+[12:25:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:26:14] ==== loop 16/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:26:16] planet 28: building queue full (5)
+[12:26:16] planet 28: building queue full (5)
+[12:26:16] planet 28: building queue full (5)
+[12:26:16] planet 28: building queue full (5)
+[12:26:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:26:50] ==== loop 17/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:26:53] planet 28: building queue full (5)
+[12:26:53] planet 28: building queue full (5)
+[12:26:53] planet 28: building queue full (5)
+[12:26:53] planet 28: building queue full (5)
+[12:26:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:27:26] ==== loop 18/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:27:28] planet 28: building queue full (5)
+[12:27:28] planet 28: building queue full (5)
+[12:27:28] planet 28: building queue full (5)
+[12:27:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:28:07] ==== loop 19/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:28:09] planet 28: building queue full (5)
+[12:28:09] planet 28: building queue full (5)
+[12:28:09] planet 28: building queue full (5)
+[12:28:09] planet 28: building queue full (5)
+[12:28:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:28:44] ==== loop 20/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:28:47] planet 28: building queue full (5)
+[12:28:47] planet 28: building queue full (5)
+[12:28:47] planet 28: building queue full (5)
+[12:28:47] planet 28: building queue full (5)
+[2026-05-11 12:29:26] ==== loop 21/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:29:29] planet 28: building queue full (5)
+[12:29:29] planet 28: building queue full (5)
+[12:29:29] planet 28: building queue full (5)
+[12:29:29] planet 28: building queue full (5)
+[2026-05-11 12:30:06] ==== loop 22/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:30:06] planet 28: no resources for building_metal_store+1
+[12:30:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:30:49] ==== loop 23/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:30:49] planet 28: no resources for building_metal_store+1
+[12:30:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:31:33] ==== loop 24/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:31:34] planet 28: no resources for building_metal_store+1
+[12:31:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:32:17] ==== loop 25/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:32:18] planet 28: no resources for building_metal_store+1
+[12:32:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:33:04] ==== loop 26/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:33:05] planet 28: no resources for building_metal_store+1
+[12:33:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:33:50] ==== loop 27/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:33:51] planet 28: no resources for building_metal_store+1
+[12:33:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:34:31] ==== loop 28/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:34:32] planet 28: no resources for building_metal_store+1
+[2026-05-11 12:35:17] ==== loop 29/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:35:18] planet 28: no resources for building_metal_store+1
+[12:35:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:36:00] ==== loop 30/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:36:01] planet 28: no resources for building_metal_store+1
+[2026-05-11 12:36:46] ==== loop 31/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:36:46] planet 28: no resources for building_metal_store+1
+[12:36:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:37:29] ==== loop 32/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:37:30] planet 28: no resources for building_metal_store+1
+[12:37:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:38:14] ==== loop 33/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:38:15] planet 28: no resources for building_metal_store+1
+[2026-05-11 12:38:57] ==== loop 34/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:38:58] planet 28: no resources for building_metal_store+1
+[12:38:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:39:42] ==== loop 35/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:39:43] planet 28: no resources for building_metal_store+1
+[12:39:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:40:24] ==== loop 36/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:40:24] planet 28: queued ship_light_fighter +5
+[12:40:24] planet 28: skipped duplicate ship_light_fighter this loop
+[12:40:24] planet 28: skipped duplicate ship_light_fighter this loop
+[2026-05-11 12:41:02] ==== loop 37/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:41:03] planet 28: queued ship_light_fighter +5
+[12:41:03] planet 28: skipped duplicate ship_light_fighter this loop
+[12:41:03] planet 28: skipped duplicate ship_light_fighter this loop
+[12:41:03] planet 28: skipped duplicate ship_light_fighter this loop
+[12:41:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:41:36] ==== loop 38/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:41:37] planet 28: queued ship_light_fighter +5
+[12:41:37] planet 28: skipped duplicate ship_light_fighter this loop
+[12:41:37] planet 28: skipped duplicate ship_light_fighter this loop
+[12:41:37] planet 28: skipped duplicate ship_light_fighter this loop
+[12:41:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:42:14] ==== loop 39/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:42:15] planet 28: queued ship_light_fighter +5
+[12:42:15] planet 28: skipped duplicate ship_light_fighter this loop
+[12:42:15] planet 28: skipped duplicate ship_light_fighter this loop
+[12:42:15] planet 28: skipped duplicate ship_light_fighter this loop
+[12:42:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:42:55] ==== loop 40/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:42:56] planet 28: queued ship_light_fighter +5
+[12:42:56] planet 28: skipped duplicate ship_light_fighter this loop
+[12:42:56] planet 28: skipped duplicate ship_light_fighter this loop
+[12:42:56] planet 28: skipped duplicate ship_light_fighter this loop
+[12:42:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:43:30] ==== loop 41/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:43:31] planet 28: queued ship_light_fighter +5
+[12:43:31] planet 28: skipped duplicate ship_light_fighter this loop
+[12:43:31] planet 28: skipped duplicate ship_light_fighter this loop
+[12:43:31] planet 28: skipped duplicate ship_light_fighter this loop
+[2026-05-11 12:44:08] ==== loop 42/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:44:09] planet 28: queued ship_light_fighter +5
+[12:44:09] planet 28: skipped duplicate ship_light_fighter this loop
+[12:44:09] planet 28: skipped duplicate ship_light_fighter this loop
+[12:44:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:44:48] ==== loop 43/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:44:48] planet 28: queued ship_light_fighter +5
+[12:44:48] planet 28: skipped duplicate ship_light_fighter this loop
+[12:44:48] planet 28: skipped duplicate ship_light_fighter this loop
+[12:44:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:45:25] ==== loop 44/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:45:26] planet 28: queued ship_light_fighter +5
+[12:45:26] planet 28: skipped duplicate ship_light_fighter this loop
+[12:45:26] planet 28: skipped duplicate ship_light_fighter this loop
+[12:45:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:46:00] ==== loop 45/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:46:01] planet 28: queued ship_light_fighter +5
+[12:46:01] planet 28: skipped duplicate ship_light_fighter this loop
+[12:46:01] planet 28: skipped duplicate ship_light_fighter this loop
+[12:46:01] planet 28: skipped duplicate ship_light_fighter this loop
+[2026-05-11 12:46:37] ==== loop 46/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:46:38] planet 28: queued ship_light_fighter +5
+[12:46:38] planet 28: skipped duplicate ship_light_fighter this loop
+[12:46:38] planet 28: skipped duplicate ship_light_fighter this loop
+[12:46:38] planet 28: skipped duplicate ship_light_fighter this loop
+[12:46:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:47:16] ==== loop 47/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:47:16] planet 28: queued ship_light_fighter +5
+[12:47:16] planet 28: skipped duplicate ship_light_fighter this loop
+[12:47:16] planet 28: skipped duplicate ship_light_fighter this loop
+[12:47:16] planet 28: skipped duplicate ship_light_fighter this loop
+[12:47:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:47:51] ==== loop 48/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:47:52] planet 28: queued ship_light_fighter +5
+[12:47:52] planet 28: skipped duplicate ship_light_fighter this loop
+[12:47:52] planet 28: skipped duplicate ship_light_fighter this loop
+[12:47:52] planet 28: skipped duplicate ship_light_fighter this loop
+[12:47:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:48:27] ==== loop 49/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:48:27] planet 28: queued ship_light_fighter +5
+[12:48:27] planet 28: skipped duplicate ship_light_fighter this loop
+[12:48:27] planet 28: skipped duplicate ship_light_fighter this loop
+[12:48:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:49:04] ==== loop 50/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:49:05] planet 28: queued ship_light_fighter +5
+[12:49:05] planet 28: skipped duplicate ship_light_fighter this loop
+[12:49:05] planet 28: skipped duplicate ship_light_fighter this loop
+[12:49:05] planet 28: skipped duplicate ship_light_fighter this loop
+[12:49:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:49:41] ==== loop 51/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:49:42] planet 28: queued ship_light_fighter +5
+[12:49:42] planet 28: skipped duplicate ship_light_fighter this loop
+[12:49:42] planet 28: skipped duplicate ship_light_fighter this loop
+[12:49:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:50:20] ==== loop 52/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:50:21] planet 28: no resources for building_metal_store+1
+[12:50:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:50:59] ==== loop 53/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:51:00] planet 28: no resources for building_metal_store+1
+[12:51:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:51:33] ==== loop 54/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:51:34] planet 28: no resources for building_metal_store+1
+[12:51:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:52:09] ==== loop 55/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:52:10] planet 28: no resources for building_metal_store+1
+[12:52:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:52:47] ==== loop 56/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:52:48] planet 28: no resources for building_metal_store+1
+[12:52:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:53:25] ==== loop 57/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:53:26] planet 28: no resources for building_metal_store+1
+[12:53:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:53:58] ==== loop 58/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:53:58] planet 28: no resources for building_metal_store+1
+[12:53:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:54:33] ==== loop 59/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:54:34] planet 28: no resources for building_metal_store+1
+[12:54:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:55:08] ==== loop 60/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:55:08] planet 28: no resources for building_metal_store+1
+[12:55:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:55:46] ==== loop 61/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:55:46] planet 28: no resources for building_metal_store+1
+[12:55:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:56:17] ==== loop 62/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:56:17] planet 28: no resources for building_metal_store+1
+[12:56:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:56:51] ==== loop 63/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:56:52] planet 28: no resources for building_metal_store+1
+[2026-05-11 12:57:30] ==== loop 64/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:57:31] planet 28: no resources for building_metal_store+1
+[12:57:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:58:06] ==== loop 65/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:58:06] planet 28: no resources for building_metal_store+1
+[2026-05-11 12:58:41] ==== loop 66/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:58:41] planet 28: no resources for building_metal_store+1
+[2026-05-11 12:59:20] ==== loop 67/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:59:21] planet 28: no resources for building_metal_store+1
+[12:59:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:59:55] ==== loop 68/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[12:59:55] planet 28: no resources for building_metal_store+1
+[2026-05-11 13:00:32] ==== loop 69/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:00:32] planet 28: queued defense_ion_cannon +8
+[13:00:32] planet 28: skipped duplicate defense_ion_cannon this loop
+[13:00:32] planet 28: skipped duplicate defense_ion_cannon this loop
+[13:00:32] planet 28: skipped duplicate defense_ion_cannon this loop
+[13:00:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:01:12] ==== loop 70/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:01:12] planet 28: queued defense_ion_cannon +8
+[13:01:12] planet 28: skipped duplicate defense_ion_cannon this loop
+[13:01:12] planet 28: skipped duplicate defense_ion_cannon this loop
+[2026-05-11 13:01:46] ==== loop 71/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:01:47] planet 28: queued defense_ion_cannon +8
+[13:01:47] planet 28: skipped duplicate defense_ion_cannon this loop
+[13:01:47] planet 28: skipped duplicate defense_ion_cannon this loop
+[13:01:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:02:23] ==== loop 72/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:02:24] planet 28: queued defense_ion_cannon +8
+[13:02:24] planet 28: queue busy, throttled building_laboratory
+[13:02:24] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 13:02:57] ==== loop 73/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:02:57] planet 28: queue busy, throttled building_laboratory
+[13:02:57] planet 28: queue busy, throttled building_laboratory
+[13:02:57] planet 28: queue busy, throttled building_laboratory
+[13:02:57] planet 28: queue busy, throttled building_laboratory
+[13:02:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:03:32] ==== loop 74/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:03:33] planet 28: queued defense_ion_cannon +8
+[13:03:33] planet 28: queue busy, throttled building_laboratory
+[13:03:33] planet 28: queue busy, throttled building_laboratory
+[13:03:33] planet 28: queue busy, throttled building_laboratory
+[13:03:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:04:08] ==== loop 75/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:04:08] planet 28: queue busy, throttled building_laboratory
+[13:04:08] planet 28: queue busy, throttled building_laboratory
+[13:04:08] planet 28: queue busy, throttled building_laboratory
+[13:04:08] planet 28: queue busy, throttled building_laboratory
+[13:04:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:04:41] ==== loop 76/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:04:41] planet 28: queue busy, throttled building_laboratory
+[13:04:41] planet 28: queue busy, throttled building_laboratory
+[13:04:41] planet 28: queue busy, throttled building_laboratory
+[13:04:41] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 13:05:17] ==== loop 77/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:05:18] planet 28: queued defense_ion_cannon +8
+[13:05:18] planet 28: queue busy, throttled building_laboratory
+[13:05:18] planet 28: queue busy, throttled building_laboratory
+[13:05:18] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 13:05:54] ==== loop 78/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:05:54] planet 28: queue busy, throttled building_laboratory
+[13:05:54] planet 28: queue busy, throttled building_laboratory
+[13:05:54] planet 28: queue busy, throttled building_laboratory
+[13:05:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:06:27] ==== loop 79/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:06:27] planet 28: queue busy, throttled building_laboratory
+[13:06:27] planet 28: queue busy, throttled building_laboratory
+[13:06:27] planet 28: queue busy, throttled building_laboratory
+[13:06:27] planet 28: queue busy, throttled building_laboratory
+[13:06:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:07:01] ==== loop 80/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:07:01] planet 28: queued defense_ion_cannon +8
+[13:07:01] planet 28: queue busy, throttled building_laboratory
+[13:07:01] planet 28: queue busy, throttled building_laboratory
+[13:07:01] planet 28: queue busy, throttled building_laboratory
+[13:07:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:07:39] ==== loop 81/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:07:40] planet 28: queued defense_ion_cannon +8
+[13:07:40] planet 28: queue busy, throttled building_laboratory
+[13:07:40] planet 28: queue busy, throttled building_laboratory
+[13:07:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:08:11] ==== loop 82/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:08:11] planet 28: queue busy, throttled building_laboratory
+[13:08:11] planet 28: queue busy, throttled building_laboratory
+[13:08:11] planet 28: queue busy, throttled building_laboratory
+[13:08:11] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 13:08:41] ==== loop 83/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:08:41] planet 28: queue busy, throttled building_laboratory
+[13:08:41] planet 28: queue busy, throttled building_laboratory
+[13:08:41] planet 28: queue busy, throttled building_laboratory
+[13:08:41] planet 28: queue busy, throttled building_laboratory
+[13:08:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:09:17] ==== loop 84/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:09:18] planet 28: queued defense_ion_cannon +8
+[13:09:18] planet 28: queue busy, throttled building_laboratory
+[13:09:18] planet 28: queue busy, throttled building_laboratory
+[13:09:18] planet 28: queue busy, throttled building_laboratory
+[13:09:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:09:52] ==== loop 85/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:09:52] planet 28: queue busy, throttled building_laboratory
+[13:09:52] planet 28: queue busy, throttled building_laboratory
+[13:09:52] planet 28: queue busy, throttled building_laboratory
+[13:09:52] planet 28: queue busy, throttled building_laboratory
+[13:09:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:10:36] ==== loop 86/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:10:38] planet 28: building queue full (5)
+[13:10:38] planet 28: building queue full (5)
+[13:10:38] planet 28: building queue full (5)
+[13:10:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:11:20] ==== loop 87/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:11:23] planet 28: building queue full (5)
+[13:11:23] planet 28: building queue full (5)
+[13:11:23] planet 28: building queue full (5)
+[13:11:23] planet 28: building queue full (5)
+[13:11:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:12:05] ==== loop 88/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:12:07] planet 28: building queue full (5)
+[13:12:07] planet 28: building queue full (5)
+[13:12:07] planet 28: building queue full (5)
+[13:12:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:12:48] ==== loop 89/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:12:49] planet 28: building queue full (5)
+[13:12:49] planet 28: building queue full (5)
+[13:12:49] planet 28: building queue full (5)
+[13:12:49] planet 28: building queue full (5)
+[13:12:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:13:26] ==== loop 90/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:13:29] planet 28: building queue full (5)
+[13:13:29] planet 28: building queue full (5)
+[13:13:29] planet 28: building queue full (5)
+[13:13:29] planet 28: building queue full (5)
+[2026-05-11 13:14:08] ==== loop 91/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:14:10] planet 28: building queue full (5)
+[13:14:10] planet 28: building queue full (5)
+[13:14:10] planet 28: building queue full (5)
+[13:14:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:14:54] ==== loop 92/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:14:56] planet 28: building queue full (5)
+[13:14:56] planet 28: building queue full (5)
+[13:14:56] planet 28: building queue full (5)
+[13:14:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:15:41] ==== loop 93/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:15:44] planet 28: building queue full (5)
+[13:15:44] planet 28: building queue full (5)
+[13:15:44] planet 28: building queue full (5)
+[13:15:44] planet 28: building queue full (5)
+[13:15:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:16:25] ==== loop 94/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:16:28] planet 28: building queue full (5)
+[13:16:28] planet 28: building queue full (5)
+[13:16:28] planet 28: building queue full (5)
+[13:16:28] planet 28: building queue full (5)
+[2026-05-11 13:17:15] ==== loop 95/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:17:17] planet 28: building queue full (5)
+[13:17:17] planet 28: building queue full (5)
+[13:17:17] planet 28: building queue full (5)
+[13:17:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:17:59] ==== loop 96/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:18:03] planet 28: building queue full (5)
+[13:18:03] planet 28: building queue full (5)
+[13:18:03] planet 28: building queue full (5)
+[13:18:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:18:46] ==== loop 97/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:18:48] planet 28: building queue full (5)
+[13:18:48] planet 28: building queue full (5)
+[13:18:48] planet 28: building queue full (5)
+[13:18:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:19:34] ==== loop 98/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:19:37] planet 28: building queue full (5)
+[13:19:37] planet 28: building queue full (5)
+[13:19:37] planet 28: building queue full (5)
+[13:19:37] planet 28: building queue full (5)
+[13:19:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:20:13] ==== loop 99/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:20:15] planet 28: building queue full (5)
+[13:20:15] planet 28: building queue full (5)
+[13:20:15] planet 28: building queue full (5)
+[13:20:15] planet 28: building queue full (5)
+[2026-05-11 13:20:56] ==== loop 100/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:20:59] planet 28: building queue full (5)
+[13:20:59] planet 28: building queue full (5)
+[13:20:59] planet 28: building queue full (5)
+[13:20:59] planet 28: building queue full (5)
+[13:20:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:21:38] ==== loop 101/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:21:40] planet 28: building queue full (5)
+[13:21:40] planet 28: building queue full (5)
+[13:21:40] planet 28: building queue full (5)
+[13:21:40] planet 28: building queue full (5)
+[2026-05-11 13:22:03] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:22:06] planet 28: building queue full (5)
+[13:22:06] planet 28: building queue full (5)
+[13:22:06] planet 28: building queue full (5)
+[13:22:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:22:45] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:22:47] planet 28: building queue full (5)
+[13:22:47] planet 28: building queue full (5)
+[13:22:47] planet 28: building queue full (5)
+[2026-05-11 13:23:27] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:23:29] planet 28: building queue full (5)
+[13:23:29] planet 28: building queue full (5)
+[13:23:29] planet 28: building queue full (5)
+[13:23:29] planet 28: building queue full (5)
+[13:23:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:24:14] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:24:19] planet 28: building queue full (5)
+[13:24:19] planet 28: building queue full (5)
+[13:24:19] planet 28: building queue full (5)
+[13:24:19] planet 28: building queue full (5)
+[2026-05-11 13:25:01] ==== loop 5/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:25:03] planet 28: building queue full (5)
+[13:25:03] planet 28: building queue full (5)
+[13:25:03] planet 28: building queue full (5)
+[13:25:03] planet 28: building queue full (5)
+[13:25:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:25:44] ==== loop 6/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:25:47] planet 28: building queue full (5)
+[13:25:47] planet 28: building queue full (5)
+[13:25:47] planet 28: building queue full (5)
+[13:25:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:26:28] ==== loop 7/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:26:31] planet 28: building queue full (5)
+[13:26:31] planet 28: building queue full (5)
+[13:26:31] planet 28: building queue full (5)
+[13:26:31] planet 28: building queue full (5)
+[13:26:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:27:08] ==== loop 8/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:27:10] planet 28: building queue full (5)
+[13:27:10] planet 28: building queue full (5)
+[13:27:10] planet 28: building queue full (5)
+[13:27:10] planet 28: building queue full (5)
+[13:27:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:27:48] ==== loop 9/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:27:51] planet 28: building queue full (5)
+[13:27:51] planet 28: building queue full (5)
+[13:27:51] planet 28: building queue full (5)
+[13:27:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:28:36] ==== loop 10/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:28:38] planet 28: building queue full (5)
+[13:28:38] planet 28: building queue full (5)
+[13:28:38] planet 28: building queue full (5)
+[13:28:38] planet 28: building queue full (5)
+[13:28:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:29:17] ==== loop 11/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:29:19] planet 28: building queue full (5)
+[13:29:19] planet 28: building queue full (5)
+[13:29:19] planet 28: building queue full (5)
+[13:29:19] planet 28: building queue full (5)
+[13:29:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:29:56] ==== loop 12/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:29:59] planet 28: building queue full (5)
+[13:29:59] planet 28: building queue full (5)
+[13:29:59] planet 28: building queue full (5)
+[13:29:59] planet 28: building queue full (5)
+[13:29:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:30:32] ==== loop 13/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:30:34] planet 28: building queue full (5)
+[13:30:34] planet 28: building queue full (5)
+[13:30:34] planet 28: building queue full (5)
+[13:30:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:31:17] ==== loop 14/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:31:20] planet 28: building queue full (5)
+[13:31:20] planet 28: building queue full (5)
+[13:31:20] planet 28: building queue full (5)
+[13:31:20] planet 28: building queue full (5)
+[13:31:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:32:02] ==== loop 15/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:32:03] planet 28: building queue full (5)
+[13:32:03] planet 28: building queue full (5)
+[13:32:03] planet 28: building queue full (5)
+[2026-05-11 13:32:45] ==== loop 16/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:32:48] planet 28: building queue full (5)
+[13:32:48] planet 28: building queue full (5)
+[13:32:48] planet 28: building queue full (5)
+[13:32:48] planet 28: building queue full (5)
+[13:32:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:33:32] ==== loop 17/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:33:33] planet 28: building queue full (5)
+[13:33:33] planet 28: building queue full (5)
+[13:33:33] planet 28: building queue full (5)
+[2026-05-11 13:34:18] ==== loop 18/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:34:20] planet 28: building queue full (5)
+[13:34:20] planet 28: building queue full (5)
+[13:34:20] planet 28: building queue full (5)
+[13:34:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:35:03] ==== loop 19/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:35:06] planet 28: building queue full (5)
+[13:35:06] planet 28: building queue full (5)
+[13:35:06] planet 28: building queue full (5)
+[13:35:06] planet 28: building queue full (5)
+[13:35:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:35:53] ==== loop 20/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:35:57] planet 28: building queue full (5)
+[13:35:57] planet 28: building queue full (5)
+[13:35:57] planet 28: building queue full (5)
+[13:35:57] planet 28: building queue full (5)
+[13:35:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:36:44] ==== loop 21/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:36:46] planet 28: building queue full (5)
+[13:36:46] planet 28: building queue full (5)
+[13:36:46] planet 28: building queue full (5)
+[13:36:46] planet 28: building queue full (5)
+[13:36:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:37:30] ==== loop 22/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:37:33] planet 28: building queue full (5)
+[13:37:33] planet 28: building queue full (5)
+[13:37:33] planet 28: building queue full (5)
+[2026-05-11 13:38:20] ==== loop 23/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:38:23] planet 28: building queue full (5)
+[13:38:23] planet 28: building queue full (5)
+[13:38:23] planet 28: building queue full (5)
+[13:38:23] planet 28: building queue full (5)
+[2026-05-11 13:39:08] ==== loop 24/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:39:11] planet 28: building queue full (5)
+[13:39:11] planet 28: building queue full (5)
+[13:39:11] planet 28: building queue full (5)
+[13:39:11] planet 28: building queue full (5)
+[2026-05-11 13:39:53] ==== loop 25/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:39:56] planet 28: building queue full (5)
+[13:39:56] planet 28: building queue full (5)
+[13:39:56] planet 28: building queue full (5)
+[13:39:56] planet 28: building queue full (5)
+[2026-05-11 13:40:43] ==== loop 26/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:40:43] planet 28: queue busy, throttled building_hangar
+[13:40:43] planet 28: queue busy, throttled building_hangar
+[13:40:43] planet 28: queue busy, throttled building_hangar
+[13:40:43] planet 28: queue busy, throttled building_hangar
+[2026-05-11 13:41:27] ==== loop 27/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:41:28] planet 28: queue busy, throttled building_hangar
+[13:41:28] planet 28: queue busy, throttled building_hangar
+[13:41:28] planet 28: queue busy, throttled building_hangar
+[13:41:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:42:16] ==== loop 28/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:42:16] planet 28: queue busy, throttled building_hangar
+[13:42:16] planet 28: queue busy, throttled building_hangar
+[13:42:16] planet 28: queue busy, throttled building_hangar
+[13:42:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:42:57] ==== loop 29/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:42:57] planet 28: queue busy, throttled building_hangar
+[13:42:57] planet 28: queue busy, throttled building_hangar
+[13:42:57] planet 28: queue busy, throttled building_hangar
+[13:42:57] planet 28: queue busy, throttled building_hangar
+[13:42:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:43:42] ==== loop 30/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:43:42] planet 28: queue busy, throttled building_hangar
+[13:43:42] planet 28: queue busy, throttled building_hangar
+[13:43:42] planet 28: queue busy, throttled building_hangar
+[13:43:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:44:26] ==== loop 31/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:44:26] planet 28: queue busy, throttled building_hangar
+[13:44:26] planet 28: queue busy, throttled building_hangar
+[13:44:26] planet 28: queue busy, throttled building_hangar
+[13:44:26] planet 28: queue busy, throttled building_hangar
+[13:44:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:45:15] ==== loop 32/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:45:15] planet 28: queue busy, throttled building_hangar
+[13:45:15] planet 28: queue busy, throttled building_hangar
+[13:45:15] planet 28: queue busy, throttled building_hangar
+[13:45:15] planet 28: queue busy, throttled building_hangar
+[13:45:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:46:01] ==== loop 33/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:46:02] planet 28: queue busy, throttled building_hangar
+[13:46:02] planet 28: queue busy, throttled building_hangar
+[13:46:02] planet 28: queue busy, throttled building_hangar
+[13:46:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:46:48] ==== loop 34/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:46:48] planet 28: queue busy, throttled building_hangar
+[13:46:48] planet 28: queue busy, throttled building_hangar
+[13:46:48] planet 28: queue busy, throttled building_hangar
+[13:46:48] planet 28: queue busy, throttled building_hangar
+[13:46:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:47:29] ==== loop 35/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:47:29] planet 28: queue busy, throttled building_hangar
+[13:47:29] planet 28: queue busy, throttled building_hangar
+[13:47:29] planet 28: queue busy, throttled building_hangar
+[13:47:29] planet 28: queue busy, throttled building_hangar
+[13:47:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:48:14] ==== loop 36/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:48:14] planet 28: queue busy, throttled building_hangar
+[13:48:14] planet 28: queue busy, throttled building_hangar
+[13:48:14] planet 28: queue busy, throttled building_hangar
+[13:48:14] planet 28: queue busy, throttled building_hangar
+[13:48:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:49:06] ==== loop 37/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:49:06] planet 28: queue busy, throttled building_hangar
+[13:49:06] planet 28: queue busy, throttled building_hangar
+[13:49:06] planet 28: queue busy, throttled building_hangar
+[13:49:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:49:51] ==== loop 38/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:49:51] planet 28: queue busy, throttled building_hangar
+[13:49:51] planet 28: queue busy, throttled building_hangar
+[13:49:51] planet 28: queue busy, throttled building_hangar
+[13:49:51] planet 28: queue busy, throttled building_hangar
+[13:49:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:50:36] ==== loop 39/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:50:38] planet 28: building queue full (5)
+[13:50:38] planet 28: building queue full (5)
+[13:50:38] planet 28: building queue full (5)
+[13:50:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:51:18] ==== loop 40/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:51:21] planet 28: building queue full (5)
+[13:51:21] planet 28: building queue full (5)
+[13:51:21] planet 28: building queue full (5)
+[13:51:21] planet 28: building queue full (5)
+[13:51:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:51:57] ==== loop 41/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:51:59] planet 28: building queue full (5)
+[13:51:59] planet 28: building queue full (5)
+[13:51:59] planet 28: building queue full (5)
+[13:51:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:52:47] ==== loop 1/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:52:50] planet 28: building queue full (5)
+[13:52:50] planet 28: building queue full (5)
+[13:52:50] planet 28: building queue full (5)
+[13:52:50] planet 28: building queue full (5)
+[2026-05-11 13:53:33] ==== loop 2/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:53:36] planet 28: building queue full (5)
+[13:53:36] planet 28: building queue full (5)
+[13:53:36] planet 28: building queue full (5)
+[13:53:36] planet 28: building queue full (5)
+[13:53:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:54:17] ==== loop 3/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:54:20] planet 28: building queue full (5)
+[13:54:20] planet 28: building queue full (5)
+[13:54:20] planet 28: building queue full (5)
+[13:54:20] planet 28: building queue full (5)
+[2026-05-11 13:54:59] ==== loop 4/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:55:03] planet 28: building queue full (5)
+[13:55:03] planet 28: building queue full (5)
+[13:55:03] planet 28: building queue full (5)
+[13:55:03] planet 28: building queue full (5)
+[2026-05-11 13:55:45] ==== loop 5/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:55:48] planet 28: building queue full (5)
+[13:55:48] planet 28: building queue full (5)
+[13:55:48] planet 28: building queue full (5)
+[13:55:48] planet 28: building queue full (5)
+[13:55:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:56:30] ==== loop 6/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:56:33] planet 28: building queue full (5)
+[13:56:33] planet 28: building queue full (5)
+[13:56:33] planet 28: building queue full (5)
+[13:56:33] planet 28: building queue full (5)
+[2026-05-11 13:57:12] ==== loop 7/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:57:15] planet 28: building queue full (5)
+[13:57:15] planet 28: building queue full (5)
+[13:57:15] planet 28: building queue full (5)
+[13:57:15] planet 28: building queue full (5)
+[13:57:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:57:53] ==== loop 8/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:57:55] planet 28: building queue full (5)
+[13:57:55] planet 28: building queue full (5)
+[13:57:55] planet 28: building queue full (5)
+[13:57:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:58:35] ==== loop 9/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:58:37] planet 28: building queue full (5)
+[13:58:37] planet 28: building queue full (5)
+[13:58:37] planet 28: building queue full (5)
+[13:58:37] planet 28: building queue full (5)
+[13:58:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:59:19] ==== loop 10/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[13:59:23] planet 28: building queue full (5)
+[13:59:23] planet 28: building queue full (5)
+[13:59:23] planet 28: building queue full (5)
+[13:59:23] planet 28: building queue full (5)
+[13:59:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:00:01] ==== loop 11/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:00:02] planet 28: no resources for building_metal_store+1
+[2026-05-11 14:00:36] ==== loop 12/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:00:37] planet 28: no resources for building_metal_store+1
+[2026-05-11 14:01:13] ==== loop 13/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:01:14] planet 28: no resources for building_metal_store+1
+[14:01:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:01:50] ==== loop 14/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:01:51] planet 28: no resources for building_metal_store+1
+[14:01:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:02:31] ==== loop 15/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:02:32] planet 28: no resources for building_metal_store+1
+[2026-05-11 14:03:13] ==== loop 16/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:03:14] planet 28: no resources for building_metal_store+1
+[14:03:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:03:51] ==== loop 17/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:03:52] planet 28: no resources for building_metal_store+1
+[2026-05-11 14:04:32] ==== loop 18/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:04:33] planet 28: no resources for building_metal_store+1
+[2026-05-11 14:05:08] ==== loop 19/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:05:09] planet 28: no resources for building_metal_store+1
+[14:05:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:05:46] ==== loop 20/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:05:47] planet 28: no resources for building_metal_store+1
+[14:05:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:06:26] ==== loop 21/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:06:27] planet 28: no resources for building_metal_store+1
+[14:06:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:07:00] ==== loop 22/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:07:01] planet 28: no resources for building_metal_store+1
+[14:07:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:07:36] ==== loop 23/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:07:37] planet 28: no resources for building_metal_store+1
+[2026-05-11 14:08:15] ==== loop 24/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:08:16] planet 28: no resources for building_metal_store+1
+[14:08:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:08:53] ==== loop 25/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:08:54] planet 28: no resources for building_metal_store+1
+[14:08:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:09:30] ==== loop 26/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:09:31] planet 28: no resources for building_metal_store+1
+[14:09:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:10:08] ==== loop 27/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:10:08] planet 28: queue busy, throttled building_hangar
+[14:10:08] planet 28: queue busy, throttled building_hangar
+[14:10:08] planet 28: queue busy, throttled building_hangar
+[14:10:08] planet 28: queue busy, throttled building_hangar
+[14:10:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:10:44] ==== loop 28/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:10:44] planet 28: queue busy, throttled building_hangar
+[14:10:44] planet 28: queue busy, throttled building_hangar
+[14:10:44] planet 28: queue busy, throttled building_hangar
+[2026-05-11 14:11:27] ==== loop 29/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:11:27] planet 28: queue busy, throttled building_hangar
+[14:11:27] planet 28: queue busy, throttled building_hangar
+[14:11:27] planet 28: queue busy, throttled building_hangar
+[14:11:27] planet 28: queue busy, throttled building_hangar
+[14:11:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:12:08] ==== loop 30/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:12:08] planet 28: queue busy, throttled building_hangar
+[14:12:08] planet 28: queue busy, throttled building_hangar
+[14:12:08] planet 28: queue busy, throttled building_hangar
+[14:12:08] planet 28: queue busy, throttled building_hangar
+[14:12:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:12:45] ==== loop 31/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:12:45] planet 28: queue busy, throttled building_hangar
+[14:12:45] planet 28: queue busy, throttled building_hangar
+[14:12:45] planet 28: queue busy, throttled building_hangar
+[14:12:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:13:29] ==== loop 32/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:13:29] planet 28: queue busy, throttled building_hangar
+[14:13:29] planet 28: queue busy, throttled building_hangar
+[14:13:29] planet 28: queue busy, throttled building_hangar
+[14:13:29] planet 28: queue busy, throttled building_hangar
+[2026-05-11 14:14:11] ==== loop 33/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:14:11] planet 28: queue busy, throttled building_hangar
+[14:14:11] planet 28: queue busy, throttled building_hangar
+[14:14:11] planet 28: queue busy, throttled building_hangar
+[14:14:11] planet 28: queue busy, throttled building_hangar
+[14:14:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:14:53] ==== loop 34/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:14:53] planet 28: queue busy, throttled building_hangar
+[14:14:53] planet 28: queue busy, throttled building_hangar
+[14:14:53] planet 28: queue busy, throttled building_hangar
+[2026-05-11 14:15:36] ==== loop 35/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:15:36] planet 28: queue busy, throttled building_hangar
+[14:15:36] planet 28: queue busy, throttled building_hangar
+[14:15:36] planet 28: queue busy, throttled building_hangar
+[14:15:36] planet 28: queue busy, throttled building_hangar
+[14:15:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:16:20] ==== loop 36/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:16:20] planet 28: queue busy, throttled building_hangar
+[14:16:20] planet 28: queue busy, throttled building_hangar
+[14:16:20] planet 28: queue busy, throttled building_hangar
+[14:16:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:16:59] ==== loop 37/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:16:59] planet 28: queue busy, throttled building_hangar
+[14:16:59] planet 28: queue busy, throttled building_hangar
+[14:16:59] planet 28: queue busy, throttled building_hangar
+[14:16:59] planet 28: queue busy, throttled building_hangar
+[2026-05-11 14:17:38] ==== loop 38/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:17:38] planet 28: queue busy, throttled building_hangar
+[14:17:38] planet 28: queue busy, throttled building_hangar
+[14:17:38] planet 28: queue busy, throttled building_hangar
+[14:17:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:18:20] ==== loop 39/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:18:20] planet 28: queue busy, throttled building_hangar
+[14:18:20] planet 28: queue busy, throttled building_hangar
+[14:18:20] planet 28: queue busy, throttled building_hangar
+[14:18:20] planet 28: queue busy, throttled building_hangar
+[14:18:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:18:55] ==== loop 40/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:18:55] planet 28: queue busy, throttled building_hangar
+[14:18:55] planet 28: queue busy, throttled building_hangar
+[14:18:55] planet 28: queue busy, throttled building_hangar
+[14:18:55] planet 28: queue busy, throttled building_hangar
+[2026-05-11 14:19:37] ==== loop 41/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:19:37] planet 28: queue busy, throttled building_hangar
+[14:19:37] planet 28: queue busy, throttled building_hangar
+[14:19:37] planet 28: queue busy, throttled building_hangar
+[14:19:37] planet 28: queue busy, throttled building_hangar
+[14:19:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:20:11] ==== loop 42/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:20:11] planet 28: queue busy, throttled building_laboratory
+[14:20:11] planet 28: queue busy, throttled building_laboratory
+[14:20:11] planet 28: queue busy, throttled building_laboratory
+[14:20:11] planet 28: queue busy, throttled building_laboratory
+[14:20:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:20:47] ==== loop 43/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:20:47] planet 28: queue busy, throttled building_laboratory
+[14:20:47] planet 28: queue busy, throttled building_laboratory
+[14:20:47] planet 28: queue busy, throttled building_laboratory
+[14:20:47] planet 28: queue busy, throttled building_laboratory
+[14:20:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:21:24] ==== loop 44/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:21:24] planet 28: queue busy, throttled building_laboratory
+[14:21:24] planet 28: queue busy, throttled building_laboratory
+[14:21:24] planet 28: queue busy, throttled building_laboratory
+[14:21:24] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 14:22:05] ==== loop 45/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:22:05] planet 28: queue busy, throttled building_laboratory
+[14:22:05] planet 28: queue busy, throttled building_laboratory
+[14:22:05] planet 28: queue busy, throttled building_laboratory
+[14:22:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:22:40] ==== loop 46/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:22:40] planet 28: queue busy, throttled building_laboratory
+[14:22:40] planet 28: queue busy, throttled building_laboratory
+[14:22:40] planet 28: queue busy, throttled building_laboratory
+[14:22:40] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 14:23:15] ==== loop 47/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:23:15] planet 28: queue busy, throttled building_laboratory
+[14:23:15] planet 28: queue busy, throttled building_laboratory
+[14:23:15] planet 28: queue busy, throttled building_laboratory
+[14:23:15] planet 28: queue busy, throttled building_laboratory
+[14:23:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:23:46] ==== loop 48/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:23:46] planet 28: queue busy, throttled building_laboratory
+[14:23:46] planet 28: queue busy, throttled building_laboratory
+[14:23:46] planet 28: queue busy, throttled building_laboratory
+[14:23:46] planet 28: queue busy, throttled building_laboratory
+[14:23:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:24:19] ==== loop 49/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:24:19] planet 28: queue busy, throttled building_laboratory
+[14:24:19] planet 28: queue busy, throttled building_laboratory
+[14:24:19] planet 28: queue busy, throttled building_laboratory
+[14:24:19] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 14:24:52] ==== loop 50/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:24:52] planet 28: queue busy, throttled building_laboratory
+[14:24:52] planet 28: queue busy, throttled building_laboratory
+[14:24:52] planet 28: queue busy, throttled building_laboratory
+[14:24:52] planet 28: queue busy, throttled building_laboratory
+[14:24:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:25:21] ==== loop 51/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:25:21] planet 28: queue busy, throttled building_laboratory
+[14:25:21] planet 28: queue busy, throttled building_laboratory
+[14:25:21] planet 28: queue busy, throttled building_laboratory
+[14:25:21] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 14:25:58] ==== loop 52/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:25:58] planet 28: queue busy, throttled building_laboratory
+[14:25:58] planet 28: queue busy, throttled building_laboratory
+[14:25:58] planet 28: queue busy, throttled building_laboratory
+[14:25:58] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 14:26:30] ==== loop 53/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:26:31] planet 28: queue busy, throttled building_laboratory
+[14:26:31] planet 28: queue busy, throttled building_laboratory
+[14:26:31] planet 28: queue busy, throttled building_laboratory
+[14:26:31] planet 28: queue busy, throttled building_laboratory
+[2026-05-11 14:27:05] ==== loop 54/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:27:05] planet 28: queue busy, throttled building_laboratory
+[14:27:05] planet 28: queue busy, throttled building_laboratory
+[14:27:05] planet 28: queue busy, throttled building_laboratory
+[14:27:05] planet 28: queue busy, throttled building_laboratory
+[14:27:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:27:41] ==== loop 55/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:27:41] planet 28: queue busy, throttled building_laboratory
+[14:27:41] planet 28: queue busy, throttled building_laboratory
+[14:27:41] planet 28: queue busy, throttled building_laboratory
+[14:27:41] planet 28: queue busy, throttled building_laboratory
+[14:27:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:28:18] ==== loop 56/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:28:18] planet 28: queue busy, throttled building_laboratory
+[14:28:18] planet 28: queue busy, throttled building_laboratory
+[14:28:18] planet 28: queue busy, throttled building_laboratory
+[14:28:18] planet 28: queue busy, throttled building_laboratory
+[14:28:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:28:52] ==== loop 57/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:28:52] planet 28: queue busy, throttled building_laboratory
+[14:28:52] planet 28: queue busy, throttled building_laboratory
+[14:28:52] planet 28: queue busy, throttled building_laboratory
+[14:28:52] planet 28: queue busy, throttled building_laboratory
+[14:28:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:29:26] ==== loop 58/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:29:26] planet 28: queue busy, throttled building_laboratory
+[14:29:26] planet 28: queue busy, throttled building_laboratory
+[14:29:26] planet 28: queue busy, throttled building_laboratory
+[14:29:26] planet 28: queue busy, throttled building_laboratory
+[14:29:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:29:57] ==== loop 59/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:29:57] planet 28: queue busy, throttled building_laboratory
+[14:29:57] planet 28: queue busy, throttled building_laboratory
+[14:29:57] planet 28: queue busy, throttled building_laboratory
+[14:29:57] planet 28: queue busy, throttled building_laboratory
+[14:29:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:30:34] ==== loop 60/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:30:35] planet 28: building queue full (5)
+[14:30:35] planet 28: building queue full (5)
+[14:30:35] planet 28: building queue full (5)
+[14:30:35] planet 28: building queue full (5)
+[14:30:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:31:17] ==== loop 61/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:31:18] planet 28: building queue full (5)
+[14:31:18] planet 28: building queue full (5)
+[14:31:18] planet 28: building queue full (5)
+[14:31:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:31:59] ==== loop 62/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:32:02] planet 28: building queue full (5)
+[14:32:02] planet 28: building queue full (5)
+[14:32:02] planet 28: building queue full (5)
+[14:32:02] planet 28: building queue full (5)
+[14:32:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:32:41] ==== loop 63/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:32:43] planet 28: building queue full (5)
+[14:32:43] planet 28: building queue full (5)
+[14:32:43] planet 28: building queue full (5)
+[14:32:43] planet 28: building queue full (5)
+[2026-05-11 14:33:20] ==== loop 64/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:33:24] planet 28: building queue full (5)
+[14:33:24] planet 28: building queue full (5)
+[14:33:24] planet 28: building queue full (5)
+[14:33:24] planet 28: building queue full (5)
+[14:33:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:34:03] ==== loop 65/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:34:07] planet 28: building queue full (5)
+[14:34:07] planet 28: building queue full (5)
+[14:34:07] planet 28: building queue full (5)
+[14:34:07] planet 28: building queue full (5)
+[14:34:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:34:47] ==== loop 66/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:34:50] planet 28: building queue full (5)
+[14:34:50] planet 28: building queue full (5)
+[14:34:50] planet 28: building queue full (5)
+[14:34:50] planet 28: building queue full (5)
+[14:34:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:35:26] ==== loop 67/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:35:28] planet 28: building queue full (5)
+[14:35:28] planet 28: building queue full (5)
+[14:35:28] planet 28: building queue full (5)
+[14:35:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:36:12] ==== loop 68/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:36:15] planet 28: building queue full (5)
+[14:36:15] planet 28: building queue full (5)
+[14:36:15] planet 28: building queue full (5)
+[14:36:15] planet 28: building queue full (5)
+[2026-05-11 14:36:54] ==== loop 69/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:36:56] planet 28: building queue full (5)
+[14:36:56] planet 28: building queue full (5)
+[14:36:56] planet 28: building queue full (5)
+[14:36:56] planet 28: building queue full (5)
+[14:36:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:37:32] ==== loop 70/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:37:35] planet 28: building queue full (5)
+[14:37:35] planet 28: building queue full (5)
+[14:37:35] planet 28: building queue full (5)
+[14:37:35] planet 28: building queue full (5)
+[14:37:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:38:18] ==== loop 71/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:38:20] planet 28: building queue full (5)
+[14:38:20] planet 28: building queue full (5)
+[14:38:20] planet 28: building queue full (5)
+[14:38:20] planet 28: building queue full (5)
+[14:38:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:39:00] ==== loop 72/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:39:04] planet 28: building queue full (5)
+[14:39:04] planet 28: building queue full (5)
+[14:39:04] planet 28: building queue full (5)
+[14:39:04] planet 28: building queue full (5)
+[2026-05-11 14:39:43] ==== loop 73/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:39:46] planet 28: building queue full (5)
+[14:39:46] planet 28: building queue full (5)
+[14:39:46] planet 28: building queue full (5)
+[14:39:46] planet 28: building queue full (5)
+[14:39:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:40:25] ==== loop 1/1 | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[2026-05-11 14:40:27] ==== loop 74/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:40:29] planet 28: building queue full (5)
+[14:40:29] planet 28: building queue full (5)
+[14:40:29] planet 28: building queue full (5)
+[14:40:29] planet 28: building queue full (5)
+[14:40:30] planet 28: building queue full (5)
+[14:40:30] planet 28: building queue full (5)
+[14:40:30] planet 28: building queue full (5)
+[14:40:30] planet 28: building queue full (5)
+[14:40:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:41:13] ==== loop 75/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:41:16] planet 28: building queue full (5)
+[14:41:16] planet 28: building queue full (5)
+[14:41:16] planet 28: building queue full (5)
+[14:41:16] planet 28: building queue full (5)
+[2026-05-11 14:41:58] ==== loop 1/1 | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:42:02] diplo: auto-war ally=5 -> enemy=9 (pressure=1500000)
+[14:42:02] planet 28: building queue full (5)
+[14:42:02] planet 28: building queue full (5)
+[14:42:02] planet 28: building queue full (5)
+[14:42:02] planet 28: building queue full (5)
+[14:42:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:42:02] ==== loop 76/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:42:04] planet 28: building queue full (5)
+[14:42:04] planet 28: building queue full (5)
+[14:42:04] planet 28: building queue full (5)
+[14:42:04] planet 28: building queue full (5)
+[2026-05-11 14:42:44] ==== loop 77/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:42:47] planet 28: building queue full (5)
+[14:42:47] planet 28: building queue full (5)
+[14:42:47] planet 28: building queue full (5)
+[14:42:47] planet 28: building queue full (5)
+[14:42:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:43:26] ==== loop 78/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:43:29] planet 28: building queue full (5)
+[14:43:29] planet 28: building queue full (5)
+[14:43:29] planet 28: building queue full (5)
+[14:43:29] planet 28: building queue full (5)
+[14:43:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:44:06] ==== loop 79/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:44:08] planet 28: building queue full (5)
+[14:44:08] planet 28: building queue full (5)
+[14:44:08] planet 28: building queue full (5)
+[14:44:08] planet 28: building queue full (5)
+[2026-05-11 14:44:42] ==== loop 80/∞ | seed=700949671613944981 archetype=turtle personality=flotero focus=tech actions_per_loop=4 ====
+[14:44:44] planet 28: building queue full (5)
+[14:44:44] planet 28: building queue full (5)
+[14:44:44] planet 28: building queue full (5)
+[14:44:44] planet 28: building queue full (5)

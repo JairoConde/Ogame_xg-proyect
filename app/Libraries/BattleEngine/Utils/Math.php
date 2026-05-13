@@ -34,7 +34,7 @@ use RecursiveIteratorIterator;
  */
 abstract class Math
 {
-    public static function divide(Number $num, Number $denum, $real = false)
+    public static function divide(Number $num, Number $denum, bool $real = false): Number
     {
         if ($real) {
             if ($denum->result == 0) {
@@ -42,19 +42,22 @@ abstract class Math
             }
             $shots = floor($num->result / $denum->result);
             $rest = Math::rest($num->result, $denum->result);
+
             return new Number($shots, $rest);
         } else {
             $shots = $num->result / $denum->result;
+
             return new Number($shots);
         }
     }
 
-    public static function multiple(Number $first, Number $second, $real = false)
+    public static function multiple(Number $first, Number $second, bool $real = false): Number
     {
         $result = $first->result * $second->result;
         if ($real) {
             return new Number(floor($result), $result - floor($result));
         }
+
         return new Number($result);
     }
 
@@ -63,10 +66,11 @@ abstract class Math
         if ($x >= $y) {
             return 1;
         }
+
         return 0;
     }
 
-    public static function rest($dividendo, $divisore, $real = true)
+    public static function rest($dividendo, $divisore, bool $real = true)
     {
         while ($divisore < 1) {
             $divisore *= 10;
@@ -74,8 +78,10 @@ abstract class Math
         }
         if (!$real) {
             $decimal = (int) $dividendo - $dividendo;
+
             return $divisore % $dividendo + $decimal;
         }
+
         return $dividendo % $divisore;
     }
 
@@ -87,16 +93,18 @@ abstract class Math
         if (mt_rand(0, 99) < $probability) {
             return call_user_func($callback, $callbackParam);
         }
+
         return false;
     }
 
-    public static function recursive_sum($array)
+    public static function recursive_sum(array $array): int
     {
         $sum = 0;
         $array_obj = new RecursiveIteratorIterator(new RecursiveArrayIterator($array));
         foreach ($array_obj as $key => $value) {
             $sum += $value;
         }
+
         return $sum;
     }
     /*

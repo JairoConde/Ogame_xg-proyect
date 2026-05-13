@@ -103,7 +103,7 @@ class OverviewController extends BaseController
                 $current_building = explode(',', $queue[0]); // GET ONLY THE FIRST ELEMENT
                 $building = $current_building[0]; // THE BUILDING
                 $level = $current_building[1]; // THE LEVEL
-                $time_to_end = $current_building[3] - time(); // THE TIME
+                $time_to_end = (int) $current_building[3] - time(); // THE TIME
 
                 // THE BUILDING BLOCK
                 if ($is_current_planet) {
@@ -356,7 +356,7 @@ class OverviewController extends BaseController
                 $attributes = 'height="50" width="50"';
 
                 $planet_block .= '<th>' . $user_planet['planet_name'] . '<br>';
-                $planet_block .= UrlHelper::setUrl($url, Functions::setImage($image, $user_planet['planet_name'], $user_planet['planet_name'], $attributes));
+                $planet_block .= UrlHelper::setUrl($url, Functions::setImage($image, $user_planet['planet_name'], $attributes));
                 $planet_block .= '<center>';
                 $planet_block .= $this->getCurrentWork($user_planet, false);
                 $planet_block .= '</center></th>';

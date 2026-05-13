@@ -1,0 +1,2036 @@
+[2026-05-08 12:15:35] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:15:36] planet 37: queued building_metal_store to 1
+[2026-05-08 12:16:13] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:16:13] planet 37: queued building_metal_store to 2
+[12:16:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:16:44] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:16:45] planet 37: queued building_metal_store to 3
+[12:16:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:17:17] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:17:18] planet 37: queued building_metal_store to 4
+[12:17:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:17:52] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:17:53] planet 37: no resources for building_metal_store+1
+[12:17:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:18:14] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:18:15] planet 37: no resources for building_metal_store+1
+[2026-05-08 12:18:46] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:18:47] planet 37: no resources for building_metal_store+1
+[12:18:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:19:21] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:19:22] planet 37: no resources for building_metal_store+1
+[12:19:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:19:52] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:19:53] planet 37: no resources for building_metal_store+1
+[2026-05-08 12:20:27] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:20:28] planet 37: queued building_metal_mine to 12
+[12:20:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:20:49] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:20:50] planet 37: queued building_metal_mine to 13
+[2026-05-08 12:21:24] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:21:25] planet 37: no resources for building_metal_mine+1
+[12:21:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:21:57] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:21:57] planet 37: no resources for building_metal_mine+1
+[12:21:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:22:31] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:22:32] planet 37: no resources for building_metal_mine+1
+[2026-05-08 12:23:06] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:23:06] planet 37: no resources for building_metal_mine+1
+[12:23:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:23:31] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:23:31] planet 37: no resources for building_metal_mine+1
+[12:23:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:24:03] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:24:05] planet 37: no resources for building_metal_mine+1
+[12:24:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:24:37] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:24:38] planet 37: no resources for building_metal_mine+1
+[12:24:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:25:11] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:25:12] planet 37: no resources for building_metal_mine+1
+[2026-05-08 12:25:35] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:25:36] planet 37: no resources for building_metal_mine+1
+[12:25:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:26:09] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:26:09] planet 37: no resources for building_metal_mine+1
+[2026-05-08 12:26:41] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:26:42] planet 37: no resources for building_metal_mine+1
+[12:26:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:27:15] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:27:16] planet 37: no resources for building_metal_mine+1
+[12:27:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:27:47] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:27:48] planet 37: no resources for building_metal_mine+1
+[12:27:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:28:10] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:28:11] planet 37: no resources for building_metal_mine+1
+[12:28:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:28:41] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:28:42] planet 37: no resources for building_metal_mine+1
+[12:28:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:29:13] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:29:14] planet 37: no resources for building_metal_mine+1
+[12:29:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:29:46] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:29:47] planet 37: no resources for building_metal_mine+1
+[12:29:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:30:20] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:30:21] planet 37: no resources for building_metal_mine+1
+[12:30:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:30:43] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:30:44] planet 37: no resources for building_metal_mine+1
+[2026-05-08 12:31:18] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:31:19] planet 37: no resources for building_metal_mine+1
+[12:31:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:31:51] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:31:52] planet 37: no resources for building_metal_mine+1
+[2026-05-08 12:32:25] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:32:26] planet 37: no resources for building_metal_mine+1
+[12:32:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:33:00] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:33:00] planet 37: no resources for building_metal_mine+1
+[12:33:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:33:31] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:33:31] planet 37: no resources for building_metal_mine+1
+[2026-05-08 12:34:05] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:34:06] planet 37: no resources for building_metal_mine+1
+[2026-05-08 12:34:26] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:34:27] planet 37: no resources for building_metal_mine+1
+[12:34:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:35:01] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:35:01] planet 37: no resources for building_metal_mine+1
+[2026-05-08 12:35:34] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:35:34] planet 37: no resources for building_metal_mine+1
+[12:35:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:36:10] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:36:10] planet 37: no resources for building_metal_mine+1
+[12:36:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:36:43] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:36:43] planet 37: no resources for building_metal_mine+1
+[12:36:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:37:17] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:37:18] planet 37: no resources for building_metal_mine+1
+[12:37:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:37:52] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:37:52] planet 37: no resources for building_metal_mine+1
+[2026-05-08 12:38:26] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:38:26] planet 37: no resources for building_metal_mine+1
+[12:38:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:39:00] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:39:01] planet 37: no resources for building_metal_mine+1
+[2026-05-08 12:39:34] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:39:34] planet 37: no resources for building_metal_mine+1
+[12:39:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:40:08] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:40:09] planet 37: queued building_crystal_mine to 9
+[12:40:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:40:42] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:40:43] planet 37: queued building_crystal_mine to 10
+[12:40:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:41:12] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:41:13] planet 37: queued building_crystal_mine to 11
+[12:41:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:41:58] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:41:59] planet 37: queued building_crystal_mine to 12
+[12:41:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:42:35] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:42:36] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:43:13] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:43:14] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:43:52] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:43:53] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:44:30] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:44:30] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:45:06] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:45:07] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:45:43] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:45:43] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:46:20] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:46:21] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:46:58] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:46:59] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:47:37] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:47:38] planet 37: no resources for building_crystal_mine+1
+[12:47:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:48:14] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:48:15] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:48:53] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:48:54] planet 37: no resources for building_crystal_mine+1
+[12:48:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:49:28] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:49:30] planet 37: no resources for building_crystal_mine+1
+[12:49:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:50:06] ==== loop 14/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:50:07] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:50:43] ==== loop 15/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:50:43] planet 37: no resources for building_crystal_mine+1
+[12:50:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:51:19] ==== loop 16/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:51:20] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 12:51:44] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:51:44] planet 37: queued building_solar_plant to 1
+[2026-05-08 12:52:21] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:52:21] planet 37: queued building_solar_plant to 2
+[2026-05-08 12:52:56] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:52:57] planet 37: queued building_solar_plant to 3
+[2026-05-08 12:53:36] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:53:37] planet 37: queued building_solar_plant to 4
+[2026-05-08 12:54:15] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:54:15] planet 37: queued building_solar_plant to 5
+[2026-05-08 12:54:55] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:54:56] planet 37: queued building_solar_plant to 6
+[2026-05-08 12:55:31] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:55:32] planet 37: queued building_solar_plant to 7
+[2026-05-08 12:56:08] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:56:08] planet 37: queued building_solar_plant to 8
+[12:56:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:56:45] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:56:46] planet 37: queued building_solar_plant to 9
+[2026-05-08 12:57:22] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:57:23] planet 37: queued building_solar_plant to 10
+[2026-05-08 12:57:59] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:57:59] planet 37: queued building_solar_plant to 11
+[12:57:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:58:33] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:58:34] planet 37: queued building_solar_plant to 12
+[12:58:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:59:09] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:59:10] planet 37: queued building_solar_plant to 13
+[12:59:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 12:59:46] ==== loop 14/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[12:59:46] planet 37: queued building_solar_plant to 14
+[2026-05-08 13:00:22] ==== loop 15/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:00:23] planet 37: queued building_metal_mine to 14
+[2026-05-08 13:00:58] ==== loop 16/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:00:58] planet 37: queued building_solar_plant to 15
+[13:00:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:01:33] ==== loop 17/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:01:34] planet 37: queued building_metal_mine to 15
+[13:01:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:02:11] ==== loop 18/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:02:11] planet 37: queued building_metal_mine to 16
+[13:02:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:02:50] ==== loop 19/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:02:51] planet 37: queued building_solar_plant to 16
+[2026-05-08 13:03:28] ==== loop 20/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:03:28] planet 37: queued building_solar_plant to 17
+[13:03:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:04:05] ==== loop 21/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:04:05] planet 37: queued building_metal_mine to 17
+[2026-05-08 13:04:41] ==== loop 22/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:04:41] planet 37: queued building_metal_mine to 18
+[2026-05-08 13:05:17] ==== loop 23/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:05:18] planet 37: no resources for building_metal_mine+1
+[2026-05-08 13:06:00] ==== loop 24/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:06:01] planet 37: no resources for building_metal_mine+1
+[2026-05-08 13:06:41] ==== loop 25/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:06:42] planet 37: queued building_metal_mine to 19
+[2026-05-08 13:07:20] ==== loop 26/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:07:20] planet 37: no resources for building_metal_mine+1
+[2026-05-08 13:07:59] ==== loop 27/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:07:59] planet 37: no resources for building_metal_mine+1
+[2026-05-08 13:08:38] ==== loop 28/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:08:39] planet 37: no resources for building_metal_mine+1
+[13:08:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:09:16] ==== loop 29/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:09:16] planet 37: queued building_metal_mine to 20
+[13:09:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:09:57] ==== loop 30/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:09:58] planet 37: no resources for building_metal_mine+1
+[2026-05-08 13:10:41] ==== loop 31/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:10:42] planet 37: queued building_metal_store to 5
+[2026-05-08 13:11:11] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:11:12] planet 37: queued building_metal_store to 6
+[13:11:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:11:53] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:11:54] planet 37: queued building_metal_store to 7
+[13:11:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:12:31] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:12:32] planet 37: queued building_solar_plant to 18
+[13:12:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:13:11] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:13:12] planet 37: queued building_solar_plant to 19
+[13:13:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:13:54] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:13:54] planet 37: queued building_solar_plant to 20
+[2026-05-08 13:14:28] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:14:29] planet 37: no resources for building_solar_plant+1
+[13:14:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:15:10] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:15:10] planet 37: no resources for building_solar_plant+1
+[2026-05-08 13:15:47] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:15:48] planet 37: queued building_deuterium_sintetizer to 6
+[2026-05-08 13:16:29] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:16:29] planet 37: queued building_deuterium_sintetizer to 7
+[2026-05-08 13:17:06] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:17:07] planet 37: queued building_deuterium_sintetizer to 8
+[13:17:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:17:43] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:17:45] planet 37: building queue full (5)
+[13:17:45] planet 37: building queue full (5)
+[13:17:45] planet 37: building queue full (5)
+[2026-05-08 13:18:29] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:18:29] planet 37: queued building_deuterium_sintetizer to 9
+[2026-05-08 13:19:08] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:19:10] planet 37: building queue full (5)
+[13:19:10] planet 37: building queue full (5)
+[13:19:10] planet 37: building queue full (5)
+[13:19:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:19:48] ==== loop 14/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:19:50] planet 37: building queue full (5)
+[13:19:50] planet 37: building queue full (5)
+[13:19:50] planet 37: building queue full (5)
+[13:19:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:20:30] ==== loop 15/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:20:32] planet 37: building queue full (5)
+[13:20:32] planet 37: building queue full (5)
+[13:20:32] planet 37: building queue full (5)
+[2026-05-08 13:21:11] ==== loop 16/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:21:14] planet 37: building queue full (5)
+[13:21:14] planet 37: building queue full (5)
+[13:21:14] planet 37: building queue full (5)
+[2026-05-08 13:21:55] ==== loop 17/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:21:56] planet 37: queued building_metal_store to 8
+[13:21:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:22:35] ==== loop 18/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:22:36] planet 37: queued building_metal_store to 9
+[13:22:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:23:18] ==== loop 19/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:23:18] planet 37: no resources for building_metal_store+1
+[13:23:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:23:59] ==== loop 20/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:24:00] planet 37: no resources for building_metal_store+1
+[2026-05-08 13:24:39] ==== loop 21/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:24:40] planet 37: no resources for building_metal_store+1
+[2026-05-08 13:25:23] ==== loop 22/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:25:24] planet 37: no resources for building_metal_store+1
+[13:25:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:25:58] ==== loop 23/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:25:59] planet 37: no resources for building_metal_store+1
+[13:25:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:26:40] ==== loop 24/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:26:41] planet 37: no resources for building_metal_store+1
+[13:26:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:27:20] ==== loop 25/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:27:21] planet 37: no resources for building_metal_store+1
+[13:27:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:27:56] ==== loop 26/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:27:57] planet 37: no resources for building_metal_store+1
+[2026-05-08 13:28:34] ==== loop 27/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:28:35] planet 37: no resources for building_metal_store+1
+[2026-05-08 13:29:11] ==== loop 28/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:29:12] planet 37: queued building_metal_store to 10
+[2026-05-08 13:29:52] ==== loop 29/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:29:53] planet 37: no resources for building_metal_store+1
+[2026-05-08 13:30:31] ==== loop 30/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:30:31] planet 37: queued building_crystal_mine to 13
+[2026-05-08 13:31:10] ==== loop 31/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:31:11] planet 37: queued building_crystal_mine to 14
+[2026-05-08 13:31:50] ==== loop 32/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:31:50] planet 37: queued building_crystal_mine to 15
+[2026-05-08 13:32:31] ==== loop 33/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:32:32] planet 37: queued building_crystal_mine to 16
+[13:32:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:33:12] ==== loop 34/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:33:14] planet 37: building queue full (5)
+[13:33:14] planet 37: building queue full (5)
+[13:33:14] planet 37: building queue full (5)
+[13:33:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:33:52] ==== loop 35/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:33:55] planet 37: building queue full (5)
+[13:33:55] planet 37: building queue full (5)
+[13:33:55] planet 37: building queue full (5)
+[2026-05-08 13:34:34] ==== loop 36/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:34:37] planet 37: building queue full (5)
+[13:34:37] planet 37: building queue full (5)
+[13:34:37] planet 37: building queue full (5)
+[13:34:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:35:17] ==== loop 37/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:35:18] planet 37: building queue full (5)
+[13:35:18] planet 37: building queue full (5)
+[13:35:18] planet 37: building queue full (5)
+[13:35:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:36:00] ==== loop 38/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:36:03] planet 37: building queue full (5)
+[13:36:03] planet 37: building queue full (5)
+[13:36:03] planet 37: building queue full (5)
+[2026-05-08 13:36:43] ==== loop 39/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:36:46] planet 37: building queue full (5)
+[13:36:46] planet 37: building queue full (5)
+[13:36:46] planet 37: building queue full (5)
+[13:36:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:37:23] ==== loop 40/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:37:25] planet 37: building queue full (5)
+[13:37:25] planet 37: building queue full (5)
+[13:37:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:38:04] ==== loop 41/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:38:05] planet 37: queued building_crystal_mine to 17
+[13:38:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:38:40] ==== loop 42/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:38:41] planet 37: queued building_crystal_mine to 18
+[13:38:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:39:21] ==== loop 43/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:39:22] planet 37: queued building_crystal_mine to 19
+[13:39:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:39:58] ==== loop 44/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:39:58] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 13:40:43] ==== loop 45/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:40:43] planet 37: queued building_crystal_store to 1
+[2026-05-08 13:41:27] ==== loop 46/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:41:28] planet 37: queued building_crystal_store to 2
+[2026-05-08 13:42:06] ==== loop 47/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:42:07] planet 37: building queue full (5)
+[13:42:07] planet 37: building queue full (5)
+[13:42:07] planet 37: building queue full (5)
+[13:42:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:42:45] ==== loop 48/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:42:46] planet 37: building queue full (5)
+[13:42:46] planet 37: building queue full (5)
+[13:42:46] planet 37: building queue full (5)
+[13:42:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:43:24] ==== loop 49/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:43:24] planet 37: queued building_crystal_store to 3
+[13:43:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:44:08] ==== loop 50/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:44:09] planet 37: building queue full (5)
+[13:44:09] planet 37: building queue full (5)
+[13:44:09] planet 37: building queue full (5)
+[2026-05-08 13:44:46] ==== loop 51/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:44:49] planet 37: building queue full (5)
+[13:44:49] planet 37: building queue full (5)
+[13:44:49] planet 37: building queue full (5)
+[2026-05-08 13:45:30] ==== loop 52/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:45:32] planet 37: building queue full (5)
+[13:45:32] planet 37: building queue full (5)
+[13:45:32] planet 37: building queue full (5)
+[13:45:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:46:10] ==== loop 53/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:46:11] planet 37: building queue full (5)
+[13:46:11] planet 37: building queue full (5)
+[13:46:11] planet 37: building queue full (5)
+[2026-05-08 13:46:49] ==== loop 54/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:46:50] planet 37: queued ship_solar_satellite +3
+[13:46:50] planet 37: queued building_crystal_store to 4
+[13:46:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:47:31] ==== loop 55/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:47:32] planet 37: building queue full (5)
+[13:47:32] planet 37: building queue full (5)
+[2026-05-08 13:48:15] ==== loop 56/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:48:17] planet 37: building queue full (5)
+[13:48:17] planet 37: building queue full (5)
+[13:48:17] planet 37: building queue full (5)
+[2026-05-08 13:48:56] ==== loop 57/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:48:58] planet 37: building queue full (5)
+[13:48:58] planet 37: building queue full (5)
+[13:48:58] planet 37: building queue full (5)
+[2026-05-08 13:49:35] ==== loop 58/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:49:38] planet 37: building queue full (5)
+[13:49:38] planet 37: building queue full (5)
+[13:49:38] planet 37: building queue full (5)
+[2026-05-08 13:50:20] ==== loop 59/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:50:23] planet 37: building queue full (5)
+[13:50:23] planet 37: building queue full (5)
+[13:50:23] planet 37: building queue full (5)
+[13:50:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:51:04] ==== loop 60/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:51:06] planet 37: building queue full (5)
+[13:51:06] planet 37: building queue full (5)
+[13:51:06] planet 37: building queue full (5)
+[13:51:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:51:48] ==== loop 61/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:51:49] planet 37: building queue full (5)
+[13:51:49] planet 37: building queue full (5)
+[13:51:49] planet 37: building queue full (5)
+[13:51:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:52:30] ==== loop 62/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:52:32] planet 37: queued ship_solar_satellite +3
+[13:52:32] planet 37: queued building_hangar to 1
+[13:52:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:53:15] ==== loop 63/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:53:16] planet 37: queued building_hangar to 2
+[13:53:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:54:03] ==== loop 64/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:54:04] planet 37: queued building_hangar to 3
+[13:54:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:54:53] ==== loop 65/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:54:53] planet 37: queued building_hangar to 4
+[13:54:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:55:38] ==== loop 66/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:55:38] planet 37: queued building_hangar to 5
+[13:55:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:56:19] ==== loop 67/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:56:20] planet 37: queued building_hangar to 6
+[2026-05-08 13:57:03] ==== loop 68/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:57:03] planet 37: queued building_hangar to 7
+[13:57:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:57:43] ==== loop 69/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:57:43] planet 37: queued building_hangar to 8
+[2026-05-08 13:58:23] ==== loop 70/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:58:24] planet 37: queued building_hangar to 9
+[2026-05-08 13:59:02] ==== loop 71/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:59:03] planet 37: queued building_hangar to 10
+[13:59:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 13:59:46] ==== loop 72/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[13:59:46] planet 37: no resources for building_hangar+1
+[13:59:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:00:25] ==== loop 73/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:00:26] planet 37: queued building_crystal_mine to 20
+[2026-05-08 14:01:03] ==== loop 74/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:01:04] planet 37: queued building_crystal_mine to 21
+[14:01:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:01:41] ==== loop 75/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:01:43] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 14:02:18] ==== loop 76/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:02:19] planet 37: no resources for building_crystal_mine+1
+[14:02:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:02:56] ==== loop 77/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:02:57] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 14:03:31] ==== loop 78/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:03:32] planet 37: no resources for building_crystal_mine+1
+[14:03:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:04:09] ==== loop 79/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:04:10] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 14:04:50] ==== loop 80/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:04:50] planet 37: no resources for building_crystal_mine+1
+[14:04:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:05:30] ==== loop 81/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:05:30] planet 37: no resources for building_crystal_mine+1
+[14:05:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:06:08] ==== loop 82/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:06:08] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 14:06:43] ==== loop 83/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:06:44] planet 37: no resources for building_crystal_mine+1
+[14:06:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:07:20] ==== loop 84/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:07:21] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 14:07:56] ==== loop 85/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:07:56] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 14:08:32] ==== loop 86/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:08:32] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 14:09:07] ==== loop 87/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:09:08] planet 37: no resources for building_crystal_mine+1
+[14:09:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:09:43] ==== loop 88/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:09:43] planet 37: no resources for building_crystal_mine+1
+[2026-05-08 14:10:19] ==== loop 89/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:10:19] planet 37: queued building_metal_store to 11
+[14:10:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:10:58] ==== loop 90/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:10:59] planet 37: no resources for building_metal_store+1
+[14:10:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:11:38] ==== loop 91/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:11:38] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:12:16] ==== loop 92/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:12:16] planet 37: no resources for building_metal_store+1
+[14:12:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:12:56] ==== loop 93/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:12:57] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:13:36] ==== loop 94/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:13:36] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:14:17] ==== loop 95/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:14:17] planet 37: no resources for building_metal_store+1
+[14:14:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:14:59] ==== loop 96/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:15:00] planet 37: no resources for building_metal_store+1
+[14:15:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:15:41] ==== loop 97/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:15:43] planet 37: queued ship_solar_satellite +4
+[14:15:43] planet 37: no resources for building_metal_store+1
+[14:15:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:16:24] ==== loop 98/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:16:25] planet 37: no resources for building_metal_store+1
+[14:16:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:17:04] ==== loop 99/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:17:04] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:17:42] ==== loop 100/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:17:42] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:18:23] ==== loop 101/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:18:24] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:19:02] ==== loop 102/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:19:02] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:19:42] ==== loop 103/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:19:43] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:20:23] ==== loop 104/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:20:24] planet 37: queued building_crystal_store to 5
+[14:20:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:21:05] ==== loop 105/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:21:06] planet 37: queued building_crystal_store to 6
+[14:21:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:21:44] ==== loop 106/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:21:45] planet 37: queued building_crystal_store to 7
+[14:21:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:22:24] ==== loop 107/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:22:26] planet 37: building queue full (5)
+[14:22:26] planet 37: building queue full (5)
+[14:22:26] planet 37: building queue full (5)
+[14:22:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:23:05] ==== loop 108/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:23:07] planet 37: building queue full (5)
+[14:23:07] planet 37: building queue full (5)
+[14:23:07] planet 37: building queue full (5)
+[14:23:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:23:49] ==== loop 109/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:23:51] planet 37: building queue full (5)
+[14:23:51] planet 37: building queue full (5)
+[14:23:51] planet 37: building queue full (5)
+[14:23:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:24:26] ==== loop 110/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:24:29] planet 37: building queue full (5)
+[14:24:29] planet 37: building queue full (5)
+[14:24:29] planet 37: building queue full (5)
+[14:24:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:25:05] ==== loop 111/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:25:07] planet 37: building queue full (5)
+[14:25:07] planet 37: building queue full (5)
+[14:25:07] planet 37: building queue full (5)
+[14:25:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:25:44] ==== loop 112/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:25:46] planet 37: building queue full (5)
+[14:25:46] planet 37: building queue full (5)
+[14:25:46] planet 37: building queue full (5)
+[2026-05-08 14:26:24] ==== loop 113/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:26:26] planet 37: building queue full (5)
+[14:26:26] planet 37: building queue full (5)
+[14:26:26] planet 37: building queue full (5)
+[2026-05-08 14:27:03] ==== loop 114/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:27:06] planet 37: building queue full (5)
+[14:27:06] planet 37: building queue full (5)
+[14:27:06] planet 37: building queue full (5)
+[2026-05-08 14:27:44] ==== loop 115/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:27:46] planet 37: building queue full (5)
+[14:27:46] planet 37: building queue full (5)
+[14:27:46] planet 37: building queue full (5)
+[14:27:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:28:26] ==== loop 116/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:28:28] planet 37: building queue full (5)
+[14:28:28] planet 37: building queue full (5)
+[14:28:28] planet 37: building queue full (5)
+[14:28:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:29:11] ==== loop 117/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:29:12] planet 37: building queue full (5)
+[14:29:12] planet 37: building queue full (5)
+[14:29:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:29:49] ==== loop 118/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:29:51] planet 37: building queue full (5)
+[14:29:51] planet 37: building queue full (5)
+[14:29:51] planet 37: building queue full (5)
+[14:29:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:30:31] ==== loop 119/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:30:32] planet 37: queued ship_solar_satellite +4
+[14:30:32] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:31:15] ==== loop 120/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:31:15] planet 37: no resources for building_metal_store+1
+[14:31:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:31:53] ==== loop 121/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:31:54] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:32:36] ==== loop 122/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:32:36] planet 37: no resources for building_metal_store+1
+[14:32:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:33:15] ==== loop 123/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:33:15] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:33:53] ==== loop 124/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:33:53] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:34:35] ==== loop 125/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:34:36] planet 37: no resources for building_metal_store+1
+[14:34:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:35:17] ==== loop 126/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:35:18] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:35:59] ==== loop 127/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:36:00] planet 37: no resources for building_metal_store+1
+[14:36:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:36:39] ==== loop 128/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:36:39] planet 37: no resources for building_metal_store+1
+[14:36:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:37:19] ==== loop 129/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:37:20] planet 37: no resources for building_metal_store+1
+[2026-05-08 14:38:00] ==== loop 130/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:38:00] planet 37: no resources for building_metal_store+1
+[14:38:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:38:39] ==== loop 131/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:38:40] planet 37: no resources for building_metal_store+1
+[14:38:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:39:22] ==== loop 132/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:39:23] planet 37: no resources for building_metal_store+1
+[14:39:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:40:03] ==== loop 133/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:40:03] planet 37: queued ship_heavy_fighter +5
+[14:40:03] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:40:03] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:40:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:40:39] ==== loop 134/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:40:40] planet 37: queued ship_heavy_fighter +5
+[14:40:40] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:40:40] planet 37: skipped duplicate ship_heavy_fighter this loop
+[2026-05-08 14:41:16] ==== loop 135/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:41:17] planet 37: queued ship_heavy_fighter +5
+[14:41:17] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:41:17] planet 37: skipped duplicate ship_heavy_fighter this loop
+[2026-05-08 14:41:52] ==== loop 136/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:41:53] planet 37: queued ship_heavy_fighter +5
+[14:41:53] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:41:53] planet 37: skipped duplicate ship_heavy_fighter this loop
+[2026-05-08 14:42:33] ==== loop 137/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:42:33] planet 37: queued ship_heavy_fighter +5
+[14:42:33] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:42:33] planet 37: skipped duplicate ship_heavy_fighter this loop
+[2026-05-08 14:43:12] ==== loop 138/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:43:13] planet 37: queued ship_heavy_fighter +5
+[14:43:13] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:43:13] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:43:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:43:52] ==== loop 139/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:43:53] planet 37: queued ship_heavy_fighter +5
+[14:43:53] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:43:53] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:43:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:44:28] ==== loop 140/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:44:29] planet 37: queued ship_heavy_fighter +5
+[14:44:29] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:44:29] planet 37: skipped duplicate ship_heavy_fighter this loop
+[2026-05-08 14:45:07] ==== loop 141/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:45:07] planet 37: queued ship_heavy_fighter +5
+[14:45:07] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:45:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:45:45] ==== loop 142/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:45:45] planet 37: queued ship_heavy_fighter +5
+[14:45:45] planet 37: skipped duplicate ship_heavy_fighter this loop
+[2026-05-08 14:46:23] ==== loop 143/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:46:24] planet 37: queued ship_heavy_fighter +5
+[14:46:24] planet 37: skipped duplicate ship_heavy_fighter this loop
+[14:46:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:47:05] ==== loop 144/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:47:06] planet 37: queued ship_cruiser +5
+[14:47:06] planet 37: skipped duplicate ship_cruiser this loop
+[14:47:06] planet 37: skipped duplicate ship_cruiser this loop
+[14:47:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:47:43] ==== loop 145/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:47:44] planet 37: queued ship_cruiser +5
+[14:47:44] planet 37: skipped duplicate ship_cruiser this loop
+[14:47:44] planet 37: skipped duplicate ship_cruiser this loop
+[14:47:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:48:22] ==== loop 146/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:48:23] planet 37: queued ship_cruiser +5
+[14:48:23] planet 37: skipped duplicate ship_cruiser this loop
+[14:48:23] planet 37: skipped duplicate ship_cruiser this loop
+[2026-05-08 14:49:03] ==== loop 147/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:49:04] planet 37: queued ship_cruiser +5
+[14:49:04] planet 37: skipped duplicate ship_cruiser this loop
+[14:49:04] planet 37: skipped duplicate ship_cruiser this loop
+[2026-05-08 14:49:41] ==== loop 148/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:49:41] planet 37: queued ship_cruiser +5
+[14:49:41] planet 37: skipped duplicate ship_cruiser this loop
+[14:49:41] planet 37: skipped duplicate ship_cruiser this loop
+[14:49:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:50:22] ==== loop 149/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:50:22] planet 37: queued building_deuterium_sintetizer to 10
+[2026-05-08 14:51:02] ==== loop 150/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:51:03] planet 37: queued building_deuterium_sintetizer to 11
+[14:51:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:51:42] ==== loop 151/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:51:43] planet 37: queued ship_solar_satellite +3
+[14:51:43] planet 37: queued building_deuterium_sintetizer to 12
+[14:51:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-08 14:52:23] ==== loop 152/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[14:52:24] planet 37: queued ship_solar_satellite +2
+[14:52:24] planet 37: queued building_deuterium_sintetizer to 13
+[14:52:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:01:47] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:01:48] planet 37: queued ship_solar_satellite +3
+[07:01:48] planet 37: queued building_deuterium_tank to 1
+[2026-05-11 07:02:19] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:02:19] planet 37: queued building_metal_mine to 21
+[07:02:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:02:47] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:02:47] planet 37: queued building_metal_mine to 22
+[07:02:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:03:11] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:03:11] planet 37: queued building_metal_mine to 23
+[07:03:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:03:34] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:03:34] planet 37: queued building_metal_mine to 24
+[07:03:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:04:04] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:04:04] planet 37: queued building_metal_mine to 25
+[2026-05-11 07:04:36] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:04:38] planet 37: building queue full (5)
+[07:04:38] planet 37: building queue full (5)
+[07:04:38] planet 37: building queue full (5)
+[07:04:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:05:14] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:05:16] planet 37: building queue full (5)
+[07:05:16] planet 37: building queue full (5)
+[07:05:16] planet 37: building queue full (5)
+[07:05:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:05:48] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:05:50] planet 37: building queue full (5)
+[07:05:50] planet 37: building queue full (5)
+[07:05:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:06:25] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:06:27] planet 37: building queue full (5)
+[07:06:27] planet 37: queued ship_solar_satellite +5
+[07:06:27] planet 37: queued building_metal_mine to 26
+[2026-05-11 07:07:05] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:07:06] planet 37: building queue full (5)
+[07:07:06] planet 37: building queue full (5)
+[07:07:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:07:44] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:07:46] planet 37: building queue full (5)
+[07:07:46] planet 37: building queue full (5)
+[07:07:46] planet 37: building queue full (5)
+[07:07:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:08:21] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:08:21] planet 37: building queue full (5)
+[07:08:21] planet 37: building queue full (5)
+[2026-05-11 07:08:57] ==== loop 14/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:08:59] planet 37: building queue full (5)
+[07:08:59] planet 37: building queue full (5)
+[07:08:59] planet 37: building queue full (5)
+[2026-05-11 07:09:33] ==== loop 15/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:09:35] planet 37: building queue full (5)
+[07:09:35] planet 37: building queue full (5)
+[07:09:35] planet 37: building queue full (5)
+[07:09:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:10:12] ==== loop 16/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:10:14] planet 37: building queue full (5)
+[07:10:14] planet 37: building queue full (5)
+[07:10:14] planet 37: building queue full (5)
+[2026-05-11 07:10:50] ==== loop 17/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:10:52] planet 37: building queue full (5)
+[07:10:52] planet 37: building queue full (5)
+[07:10:52] planet 37: building queue full (5)
+[07:10:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:11:31] ==== loop 18/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:11:33] planet 37: building queue full (5)
+[07:11:33] planet 37: building queue full (5)
+[07:11:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:12:15] ==== loop 19/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:12:17] planet 37: building queue full (5)
+[07:12:17] planet 37: building queue full (5)
+[07:12:17] planet 37: building queue full (5)
+[07:12:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:12:55] ==== loop 20/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:12:57] planet 37: queued ship_solar_satellite +4
+[07:12:57] planet 37: queued building_solar_plant to 21
+[2026-05-11 07:13:41] ==== loop 21/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:13:43] planet 37: building queue full (5)
+[07:13:43] planet 37: building queue full (5)
+[07:13:43] planet 37: building queue full (5)
+[07:13:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:14:25] ==== loop 22/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:14:28] planet 37: building queue full (5)
+[07:14:28] planet 37: building queue full (5)
+[07:14:28] planet 37: building queue full (5)
+[07:14:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:15:09] ==== loop 23/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:15:11] planet 37: building queue full (5)
+[07:15:11] planet 37: building queue full (5)
+[07:15:11] planet 37: building queue full (5)
+[2026-05-11 07:15:55] ==== loop 24/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:15:57] planet 37: building queue full (5)
+[07:15:57] planet 37: building queue full (5)
+[07:15:57] planet 37: building queue full (5)
+[2026-05-11 07:16:43] ==== loop 25/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:16:46] planet 37: building queue full (5)
+[07:16:46] planet 37: building queue full (5)
+[07:16:46] planet 37: building queue full (5)
+[2026-05-11 07:17:27] ==== loop 26/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:17:28] planet 37: building queue full (5)
+[07:17:28] planet 37: building queue full (5)
+[07:17:28] planet 37: building queue full (5)
+[2026-05-11 07:18:11] ==== loop 27/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:18:12] planet 37: building queue full (5)
+[07:18:12] planet 37: building queue full (5)
+[07:18:12] planet 37: building queue full (5)
+[07:18:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:18:57] ==== loop 28/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:18:59] planet 37: building queue full (5)
+[07:18:59] planet 37: building queue full (5)
+[07:18:59] planet 37: building queue full (5)
+[2026-05-11 07:19:40] ==== loop 29/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:19:41] planet 37: building queue full (5)
+[07:19:41] planet 37: building queue full (5)
+[07:19:41] planet 37: building queue full (5)
+[07:19:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:20:20] ==== loop 30/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:20:20] planet 37: queue busy, throttled building_hangar
+[07:20:20] planet 37: queue busy, throttled building_hangar
+[07:20:20] planet 37: queue busy, throttled building_hangar
+[2026-05-11 07:20:57] ==== loop 31/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:20:57] planet 37: queue busy, throttled building_hangar
+[07:20:57] planet 37: queue busy, throttled building_hangar
+[2026-05-11 07:21:34] ==== loop 32/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:21:34] planet 37: queue busy, throttled building_hangar
+[07:21:34] planet 37: queue busy, throttled building_hangar
+[07:21:34] planet 37: queue busy, throttled building_hangar
+[07:21:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:22:12] ==== loop 33/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:22:12] planet 37: queued ship_solar_satellite +5
+[07:22:12] planet 37: queue busy, throttled building_hangar
+[07:22:12] planet 37: queue busy, throttled building_hangar
+[07:22:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:22:53] ==== loop 34/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:22:53] planet 37: queue busy, throttled building_hangar
+[07:22:53] planet 37: queue busy, throttled building_hangar
+[07:22:53] planet 37: queue busy, throttled building_hangar
+[2026-05-11 07:23:35] ==== loop 35/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:23:35] planet 37: queue busy, throttled building_hangar
+[07:23:35] planet 37: queue busy, throttled building_hangar
+[07:23:35] planet 37: queue busy, throttled building_hangar
+[07:23:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:24:17] ==== loop 36/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:24:17] planet 37: queue busy, throttled building_hangar
+[07:24:17] planet 37: queue busy, throttled building_hangar
+[07:24:17] planet 37: queue busy, throttled building_hangar
+[2026-05-11 07:24:57] ==== loop 37/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:24:57] planet 37: queue busy, throttled building_hangar
+[07:24:57] planet 37: queue busy, throttled building_hangar
+[07:24:57] planet 37: queue busy, throttled building_hangar
+[2026-05-11 07:25:37] ==== loop 38/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:25:37] planet 37: queue busy, throttled building_hangar
+[07:25:37] planet 37: queue busy, throttled building_hangar
+[07:25:37] planet 37: queue busy, throttled building_hangar
+[2026-05-11 07:26:14] ==== loop 39/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:26:14] planet 37: queue busy, throttled building_hangar
+[07:26:14] planet 37: queue busy, throttled building_hangar
+[2026-05-11 07:26:50] ==== loop 40/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:26:50] planet 37: queue busy, throttled building_hangar
+[07:26:50] planet 37: queue busy, throttled building_hangar
+[07:26:50] planet 37: queue busy, throttled building_hangar
+[07:26:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:27:27] ==== loop 41/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:27:27] planet 37: queue busy, throttled building_hangar
+[07:27:27] planet 37: queue busy, throttled building_hangar
+[2026-05-11 07:28:07] ==== loop 42/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:28:07] planet 37: queue busy, throttled building_hangar
+[07:28:07] planet 37: queue busy, throttled building_hangar
+[07:28:07] planet 37: queue busy, throttled building_hangar
+[07:28:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:28:49] ==== loop 43/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:28:49] planet 37: queue busy, throttled building_hangar
+[07:28:49] planet 37: queue busy, throttled building_hangar
+[07:28:49] planet 37: queue busy, throttled building_hangar
+[2026-05-11 07:29:22] ==== loop 44/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:29:22] planet 37: queue busy, throttled building_hangar
+[07:29:22] planet 37: queue busy, throttled building_hangar
+[07:29:22] planet 37: queue busy, throttled building_hangar
+[07:29:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:29:59] ==== loop 45/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:29:59] planet 37: queue busy, throttled building_hangar
+[07:29:59] planet 37: queue busy, throttled building_hangar
+[07:29:59] planet 37: queue busy, throttled building_hangar
+[07:29:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:30:53] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:30:54] planet 37: queued building_crystal_mine to 22
+[07:30:54] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:30:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:31:34] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:31:36] planet 37: building queue full (5)
+[07:31:36] planet 37: building queue full (5)
+[07:31:36] planet 37: building queue full (5)
+[07:31:36] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:31:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:32:17] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:32:20] planet 37: building queue full (5)
+[07:32:20] planet 37: building queue full (5)
+[07:32:20] planet 37: building queue full (5)
+[07:32:20] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:32:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:32:57] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:32:59] planet 37: building queue full (5)
+[07:32:59] planet 37: building queue full (5)
+[07:32:59] planet 37: building queue full (5)
+[07:32:59] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:32:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:33:37] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:33:38] planet 37: building queue full (5)
+[07:33:38] planet 37: building queue full (5)
+[07:33:38] planet 37: building queue full (5)
+[07:33:38] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:34:15] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:34:17] planet 37: building queue full (5)
+[07:34:17] planet 37: building queue full (5)
+[07:34:17] planet 37: building queue full (5)
+[07:34:17] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:34:56] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:34:58] planet 37: building queue full (5)
+[07:34:58] planet 37: building queue full (5)
+[07:34:58] planet 37: building queue full (5)
+[07:34:58] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:34:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:35:35] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:35:36] planet 37: building queue full (5)
+[07:35:36] planet 37: building queue full (5)
+[07:35:36] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:35:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:36:17] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:36:17] planet 37: queued building_deuterium_sintetizer to 14
+[07:36:17] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:36:54] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:36:55] planet 37: building queue full (5)
+[07:36:55] planet 37: building queue full (5)
+[07:36:55] planet 37: building queue full (5)
+[07:36:55] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:37:35] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:37:37] planet 37: building queue full (5)
+[07:37:37] planet 37: building queue full (5)
+[07:37:37] planet 37: building queue full (5)
+[07:37:37] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:37:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:38:11] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:38:11] planet 37: building queue full (5)
+[07:38:11] planet 37: building queue full (5)
+[07:38:11] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:38:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:38:50] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:38:53] planet 37: building queue full (5)
+[07:38:53] planet 37: building queue full (5)
+[07:38:53] planet 37: building queue full (5)
+[07:38:53] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:38:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:39:35] ==== loop 14/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:39:37] planet 37: building queue full (5)
+[07:39:37] planet 37: building queue full (5)
+[07:39:37] planet 37: building queue full (5)
+[07:39:37] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:40:14] ==== loop 15/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:40:15] planet 37: building queue full (5)
+[07:40:15] planet 37: building queue full (5)
+[07:40:15] planet 37: building queue full (5)
+[07:40:15] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:40:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:40:52] ==== loop 16/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:40:54] planet 37: building queue full (5)
+[07:40:54] planet 37: building queue full (5)
+[07:40:54] planet 37: building queue full (5)
+[07:40:54] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:41:32] ==== loop 17/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:41:34] planet 37: building queue full (5)
+[07:41:34] planet 37: building queue full (5)
+[07:41:34] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:42:15] ==== loop 18/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:42:17] planet 37: building queue full (5)
+[07:42:17] planet 37: building queue full (5)
+[07:42:17] planet 37: building queue full (5)
+[07:42:17] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[2026-05-11 07:42:51] ==== loop 19/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:42:52] planet 37: building queue full (5)
+[07:42:52] planet 37: building queue full (5)
+[07:42:52] planet 37: building queue full (5)
+[07:42:52] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:42:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:43:30] ==== loop 20/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:43:32] planet 37: building queue full (5)
+[07:43:32] planet 37: building queue full (5)
+[07:43:32] planet 37: building queue full (5)
+[07:43:32] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:43:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:44:14] ==== loop 21/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:44:16] planet 37: building queue full (5)
+[07:44:16] planet 37: building queue full (5)
+[07:44:16] planet 37: building queue full (5)
+[07:44:16] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:44:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:44:56] ==== loop 22/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:44:57] planet 37: building queue full (5)
+[07:44:57] planet 37: building queue full (5)
+[07:44:57] planet 37: building queue full (5)
+[07:44:57] attack: idle candidates=45 fresh_intel=0 no_spy_src=45 no_atk_src=0 raidmix_fail=0 cooldown_spy=0
+[07:44:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:45:27] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:45:28] planet 37: building queue full (5)
+[07:45:28] planet 37: building queue full (5)
+[07:45:28] planet 37: building queue full (5)
+[07:45:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:46:04] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:46:06] planet 37: building queue full (5)
+[07:46:06] planet 37: building queue full (5)
+[07:46:06] planet 37: building queue full (5)
+[2026-05-11 07:46:45] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:46:47] planet 37: building queue full (5)
+[07:46:47] planet 37: building queue full (5)
+[07:46:47] planet 37: building queue full (5)
+[07:46:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:47:29] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:47:31] planet 37: building queue full (5)
+[07:47:31] planet 37: building queue full (5)
+[07:47:31] planet 37: building queue full (5)
+[2026-05-11 07:48:09] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:48:11] planet 37: building queue full (5)
+[07:48:11] planet 37: building queue full (5)
+[07:48:11] planet 37: building queue full (5)
+[07:48:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:48:50] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:48:53] planet 37: building queue full (5)
+[07:48:53] planet 37: building queue full (5)
+[07:48:53] planet 37: building queue full (5)
+[2026-05-11 07:49:33] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:49:37] planet 37: building queue full (5)
+[07:49:37] planet 37: building queue full (5)
+[07:49:37] planet 37: building queue full (5)
+[07:49:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:50:19] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:50:22] planet 37: building queue full (5)
+[07:50:22] planet 37: building queue full (5)
+[07:50:22] planet 37: building queue full (5)
+[2026-05-11 07:50:57] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:51:00] planet 37: building queue full (5)
+[07:51:00] planet 37: building queue full (5)
+[07:51:00] planet 37: building queue full (5)
+[07:51:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:51:39] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:51:41] planet 37: building queue full (5)
+[07:51:41] planet 37: building queue full (5)
+[07:51:41] planet 37: building queue full (5)
+[2026-05-11 07:52:23] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:52:25] planet 37: building queue full (5)
+[07:52:25] planet 37: building queue full (5)
+[07:52:25] planet 37: building queue full (5)
+[07:52:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:53:10] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:53:13] planet 37: building queue full (5)
+[07:53:13] planet 37: building queue full (5)
+[07:53:13] planet 37: building queue full (5)
+[2026-05-11 07:53:54] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:53:56] planet 37: building queue full (5)
+[07:53:56] planet 37: building queue full (5)
+[07:53:56] planet 37: building queue full (5)
+[2026-05-11 07:54:38] ==== loop 14/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:54:40] planet 37: building queue full (5)
+[07:54:40] planet 37: building queue full (5)
+[07:54:40] planet 37: building queue full (5)
+[07:54:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:55:16] ==== loop 15/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:55:19] planet 37: building queue full (5)
+[07:55:19] planet 37: building queue full (5)
+[07:55:19] planet 37: building queue full (5)
+[07:55:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:55:59] ==== loop 16/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:56:01] planet 37: building queue full (5)
+[07:56:01] planet 37: building queue full (5)
+[07:56:01] planet 37: building queue full (5)
+[07:56:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:56:45] ==== loop 17/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:56:47] planet 37: queued ship_solar_satellite +9
+[07:56:47] planet 37: queued building_metal_mine to 27
+[07:56:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:57:29] ==== loop 18/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:57:31] planet 37: building queue full (5)
+[07:57:31] planet 37: building queue full (5)
+[07:57:31] planet 37: building queue full (5)
+[07:57:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:58:11] ==== loop 19/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:58:13] planet 37: building queue full (5)
+[07:58:13] planet 37: building queue full (5)
+[07:58:13] planet 37: building queue full (5)
+[07:58:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 07:58:54] ==== loop 20/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:58:55] planet 37: building queue full (5)
+[07:58:55] planet 37: building queue full (5)
+[07:58:55] planet 37: building queue full (5)
+[2026-05-11 07:59:36] ==== loop 21/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[07:59:38] planet 37: building queue full (5)
+[07:59:38] planet 37: building queue full (5)
+[07:59:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:00:21] ==== loop 22/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:00:22] planet 37: queued defense_rocket_launcher +8
+[08:00:22] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:00:22] planet 37: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 08:01:05] ==== loop 23/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:01:05] planet 37: queued defense_rocket_launcher +8
+[08:01:05] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:01:05] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:01:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:01:47] ==== loop 24/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:01:48] planet 37: queued defense_rocket_launcher +8
+[08:01:48] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:01:48] planet 37: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 08:02:22] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:02:23] planet 37: queued defense_rocket_launcher +8
+[08:02:23] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:02:23] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:02:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:03:03] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:03:04] planet 37: queued defense_rocket_launcher +8
+[08:03:04] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:03:04] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:03:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:03:43] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:03:44] planet 37: queued defense_rocket_launcher +8
+[08:03:44] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:03:44] planet 37: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 08:04:23] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:04:24] planet 37: queued defense_rocket_launcher +8
+[08:04:24] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:04:24] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:04:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:05:04] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:05:05] planet 37: queued defense_rocket_launcher +8
+[08:05:05] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:05:05] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:05:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:05:59] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:05:59] planet 37: queued defense_rocket_launcher +8
+[08:05:59] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:05:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:06:38] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:06:38] planet 37: queued defense_rocket_launcher +8
+[08:06:38] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:06:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:07:20] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:07:20] planet 37: queued defense_rocket_launcher +8
+[08:07:20] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:07:20] planet 37: skipped duplicate defense_rocket_launcher this loop
+[08:07:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:08:06] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:08:06] planet 37: queue busy, throttled building_laboratory
+[08:08:06] planet 37: queue busy, throttled building_laboratory
+[08:08:06] planet 37: queue busy, throttled building_laboratory
+[08:08:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:08:43] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:08:43] planet 37: queue busy, throttled building_laboratory
+[08:08:43] planet 37: queue busy, throttled building_laboratory
+[08:08:43] planet 37: queue busy, throttled building_laboratory
+[2026-05-11 08:09:28] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:09:28] planet 37: queue busy, throttled building_laboratory
+[08:09:28] planet 37: queue busy, throttled building_laboratory
+[08:09:28] planet 37: queue busy, throttled building_laboratory
+[08:09:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:10:11] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:10:13] planet 37: building queue full (5)
+[08:10:13] planet 37: building queue full (5)
+[08:10:13] planet 37: building queue full (5)
+[08:10:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:10:57] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:11:00] planet 37: building queue full (5)
+[08:11:00] planet 37: building queue full (5)
+[08:11:00] planet 37: building queue full (5)
+[08:11:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:11:41] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:11:44] planet 37: building queue full (5)
+[08:11:44] planet 37: building queue full (5)
+[08:11:44] planet 37: building queue full (5)
+[2026-05-11 08:12:24] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:12:26] planet 37: building queue full (5)
+[08:12:26] planet 37: building queue full (5)
+[08:12:26] planet 37: building queue full (5)
+[08:12:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:13:05] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:13:06] planet 37: building queue full (5)
+[08:13:06] planet 37: building queue full (5)
+[08:13:06] planet 37: building queue full (5)
+[08:13:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:13:49] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:13:52] planet 37: building queue full (5)
+[08:13:52] planet 37: building queue full (5)
+[08:13:52] planet 37: building queue full (5)
+[2026-05-11 08:14:37] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:14:39] planet 37: building queue full (5)
+[08:14:39] planet 37: building queue full (5)
+[08:14:39] planet 37: building queue full (5)
+[2026-05-11 08:15:22] ==== loop 14/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:15:23] planet 37: building queue full (5)
+[08:15:23] planet 37: building queue full (5)
+[08:15:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:16:03] ==== loop 15/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:16:05] planet 37: building queue full (5)
+[08:16:05] planet 37: building queue full (5)
+[08:16:05] planet 37: building queue full (5)
+[2026-05-11 08:16:47] ==== loop 16/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:16:50] planet 37: building queue full (5)
+[08:16:50] planet 37: building queue full (5)
+[08:16:50] planet 37: building queue full (5)
+[2026-05-11 08:17:33] ==== loop 17/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:17:35] planet 37: building queue full (5)
+[08:17:35] planet 37: building queue full (5)
+[08:17:35] planet 37: building queue full (5)
+[2026-05-11 08:18:16] ==== loop 18/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:18:18] planet 37: building queue full (5)
+[08:18:18] planet 37: building queue full (5)
+[08:18:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:18:57] ==== loop 19/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:18:59] planet 37: building queue full (5)
+[08:18:59] planet 37: building queue full (5)
+[08:18:59] planet 37: building queue full (5)
+[2026-05-11 08:20:03] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:20:05] planet 37: building queue full (5)
+[08:20:05] planet 37: building queue full (5)
+[08:20:05] planet 37: building queue full (5)
+[08:20:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:20:48] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:20:51] planet 37: building queue full (5)
+[08:20:51] planet 37: building queue full (5)
+[08:20:51] planet 37: building queue full (5)
+[08:20:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:21:34] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:21:36] planet 37: building queue full (5)
+[08:21:36] planet 37: building queue full (5)
+[2026-05-11 08:22:15] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:22:16] planet 37: building queue full (5)
+[08:22:16] planet 37: building queue full (5)
+[08:22:16] planet 37: building queue full (5)
+[2026-05-11 08:23:04] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:23:06] planet 37: building queue full (5)
+[08:23:06] planet 37: building queue full (5)
+[08:23:06] planet 37: building queue full (5)
+[08:23:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:23:48] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:23:50] planet 37: building queue full (5)
+[08:23:50] planet 37: building queue full (5)
+[08:23:50] planet 37: building queue full (5)
+[08:23:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:24:32] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:24:34] planet 37: building queue full (5)
+[08:24:34] planet 37: building queue full (5)
+[08:24:34] planet 37: building queue full (5)
+[08:24:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:25:16] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:25:17] planet 37: building queue full (5)
+[08:25:17] planet 37: building queue full (5)
+[08:25:17] planet 37: building queue full (5)
+[2026-05-11 08:26:00] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:26:02] planet 37: building queue full (5)
+[08:26:02] planet 37: building queue full (5)
+[08:26:02] planet 37: building queue full (5)
+[08:26:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:26:44] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:26:45] planet 37: building queue full (5)
+[08:26:45] planet 37: building queue full (5)
+[08:26:45] planet 37: building queue full (5)
+[08:26:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:27:23] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:27:26] planet 37: building queue full (5)
+[08:27:26] planet 37: building queue full (5)
+[08:27:26] planet 37: building queue full (5)
+[2026-05-11 08:28:10] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:28:12] planet 37: queued ship_solar_satellite +6
+[08:28:12] planet 37: queued building_metal_mine to 28
+[2026-05-11 08:28:50] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:28:52] planet 37: building queue full (5)
+[08:28:52] planet 37: building queue full (5)
+[08:28:52] planet 37: building queue full (5)
+[2026-05-11 08:29:37] ==== loop 14/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:29:38] planet 37: building queue full (5)
+[08:29:38] planet 37: building queue full (5)
+[08:29:38] planet 37: building queue full (5)
+[08:29:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:30:20] ==== loop 15/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:30:21] planet 37: building queue full (5)
+[08:30:21] planet 37: building queue full (5)
+[08:30:21] planet 37: building queue full (5)
+[08:30:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:31:01] ==== loop 16/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:31:04] planet 37: building queue full (5)
+[08:31:04] planet 37: building queue full (5)
+[08:31:04] planet 37: building queue full (5)
+[2026-05-11 08:31:44] ==== loop 17/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:31:47] planet 37: building queue full (5)
+[08:31:47] planet 37: building queue full (5)
+[08:31:47] planet 37: building queue full (5)
+[2026-05-11 08:32:28] ==== loop 18/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:32:31] planet 37: building queue full (5)
+[08:32:31] planet 37: building queue full (5)
+[08:32:31] planet 37: building queue full (5)
+[08:32:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:33:10] ==== loop 19/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:33:12] planet 37: building queue full (5)
+[08:33:12] planet 37: building queue full (5)
+[08:33:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:33:55] ==== loop 20/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:33:55] planet 37: queued building_deuterium_sintetizer to 15
+[2026-05-11 08:34:42] ==== loop 21/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:34:44] planet 37: building queue full (5)
+[08:34:44] planet 37: building queue full (5)
+[08:34:44] planet 37: building queue full (5)
+[08:34:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:35:24] ==== loop 22/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:35:25] planet 37: building queue full (5)
+[08:35:25] planet 37: building queue full (5)
+[2026-05-11 08:36:08] ==== loop 23/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:36:10] planet 37: building queue full (5)
+[08:36:10] planet 37: building queue full (5)
+[08:36:10] planet 37: building queue full (5)
+[08:36:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:37:00] ==== loop 24/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:37:02] planet 37: building queue full (5)
+[08:37:02] planet 37: building queue full (5)
+[2026-05-11 08:37:49] ==== loop 25/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:37:51] planet 37: building queue full (5)
+[08:37:51] planet 37: building queue full (5)
+[08:37:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:38:25] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:38:28] planet 37: building queue full (5)
+[08:38:28] planet 37: building queue full (5)
+[08:38:28] planet 37: building queue full (5)
+[08:38:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:39:04] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:39:06] planet 37: building queue full (5)
+[08:39:06] planet 37: building queue full (5)
+[08:39:06] planet 37: building queue full (5)
+[08:39:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:39:49] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:39:51] planet 37: building queue full (5)
+[08:39:51] planet 37: building queue full (5)
+[08:39:51] planet 37: building queue full (5)
+[08:39:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:40:37] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:40:39] planet 37: building queue full (5)
+[08:40:39] planet 37: building queue full (5)
+[08:40:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:41:22] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:41:22] planet 37: building queue full (5)
+[08:41:22] planet 37: building queue full (5)
+[08:41:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:42:08] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:42:10] planet 37: building queue full (5)
+[08:42:10] planet 37: building queue full (5)
+[08:42:10] planet 37: building queue full (5)
+[08:42:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:42:51] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:42:53] planet 37: building queue full (5)
+[08:42:53] planet 37: building queue full (5)
+[08:42:53] planet 37: building queue full (5)
+[08:42:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:43:34] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:43:35] planet 37: building queue full (5)
+[08:43:35] planet 37: building queue full (5)
+[08:43:35] planet 37: building queue full (5)
+[08:43:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:44:18] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:44:20] planet 37: building queue full (5)
+[08:44:20] planet 37: building queue full (5)
+[08:44:20] planet 37: building queue full (5)
+[08:44:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:45:05] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:45:07] planet 37: building queue full (5)
+[08:45:07] planet 37: building queue full (5)
+[08:45:07] planet 37: building queue full (5)
+[2026-05-11 08:45:48] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:45:51] planet 37: building queue full (5)
+[08:45:51] planet 37: building queue full (5)
+[08:45:51] planet 37: building queue full (5)
+[08:45:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:46:33] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:46:35] planet 37: building queue full (5)
+[08:46:35] planet 37: building queue full (5)
+[08:46:35] planet 37: building queue full (5)
+[2026-05-11 08:47:20] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:47:20] planet 37: building queue full (5)
+[08:47:20] planet 37: building queue full (5)
+[08:47:20] planet 37: building queue full (5)
+[08:47:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:48:03] ==== loop 14/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:48:04] planet 37: building queue full (5)
+[08:48:04] planet 37: building queue full (5)
+[08:48:04] planet 37: building queue full (5)
+[2026-05-11 08:48:47] ==== loop 15/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:48:49] planet 37: building queue full (5)
+[08:48:49] planet 37: building queue full (5)
+[08:48:49] planet 37: building queue full (5)
+[08:48:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:49:34] ==== loop 16/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:49:35] planet 37: building queue full (5)
+[08:49:35] planet 37: building queue full (5)
+[08:49:35] planet 37: building queue full (5)
+[08:49:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:50:15] ==== loop 17/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:50:17] planet 37: building queue full (5)
+[08:50:17] planet 37: building queue full (5)
+[08:50:17] planet 37: building queue full (5)
+[08:50:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:51:00] ==== loop 18/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:51:02] planet 37: building queue full (5)
+[08:51:02] planet 37: building queue full (5)
+[08:51:02] planet 37: building queue full (5)
+[2026-05-11 08:51:42] ==== loop 19/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:51:43] planet 37: building queue full (5)
+[08:51:43] planet 37: building queue full (5)
+[08:51:43] planet 37: building queue full (5)
+[2026-05-11 08:52:26] ==== loop 20/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:52:28] planet 37: building queue full (5)
+[08:52:28] planet 37: building queue full (5)
+[08:52:28] planet 37: building queue full (5)
+[08:52:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:53:09] ==== loop 21/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:53:10] planet 37: building queue full (5)
+[08:53:10] planet 37: building queue full (5)
+[08:53:10] planet 37: building queue full (5)
+[2026-05-11 08:53:49] ==== loop 22/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:53:50] planet 37: building queue full (5)
+[08:53:50] planet 37: building queue full (5)
+[08:53:50] planet 37: building queue full (5)
+[08:53:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:54:31] ==== loop 23/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:54:33] planet 37: building queue full (5)
+[08:54:33] planet 37: building queue full (5)
+[2026-05-11 08:55:13] ==== loop 24/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:55:16] planet 37: building queue full (5)
+[08:55:16] planet 37: building queue full (5)
+[08:55:16] planet 37: building queue full (5)
+[2026-05-11 08:55:50] ==== loop 25/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:55:52] planet 37: building queue full (5)
+[08:55:52] planet 37: building queue full (5)
+[08:55:52] planet 37: building queue full (5)
+[2026-05-11 08:56:36] ==== loop 26/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:56:38] planet 37: building queue full (5)
+[08:56:38] planet 37: building queue full (5)
+[08:56:38] planet 37: building queue full (5)
+[08:56:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:57:19] ==== loop 27/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:57:19] planet 37: queued building_crystal_mine to 23
+[2026-05-11 08:57:59] ==== loop 28/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:57:59] planet 37: queued building_crystal_mine to 24
+[08:57:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:58:40] ==== loop 29/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:58:42] planet 37: building queue full (5)
+[08:58:42] planet 37: building queue full (5)
+[08:58:42] planet 37: building queue full (5)
+[08:58:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 08:59:23] ==== loop 30/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[08:59:26] planet 37: building queue full (5)
+[08:59:26] planet 37: building queue full (5)
+[08:59:26] planet 37: building queue full (5)
+[08:59:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:00:07] ==== loop 31/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:00:08] planet 37: building queue full (5)
+[09:00:08] planet 37: building queue full (5)
+[09:00:08] planet 37: building queue full (5)
+[2026-05-11 09:00:46] ==== loop 32/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:00:49] planet 37: building queue full (5)
+[09:00:49] planet 37: building queue full (5)
+[09:00:49] planet 37: building queue full (5)
+[09:00:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:01:30] ==== loop 33/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:01:32] planet 37: building queue full (5)
+[09:01:32] planet 37: building queue full (5)
+[09:01:32] planet 37: building queue full (5)
+[2026-05-11 09:02:14] ==== loop 34/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:02:16] planet 37: building queue full (5)
+[09:02:16] planet 37: building queue full (5)
+[09:02:16] planet 37: building queue full (5)
+[09:02:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:03:00] ==== loop 35/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:03:01] planet 37: building queue full (5)
+[09:03:01] planet 37: building queue full (5)
+[2026-05-11 09:03:38] ==== loop 36/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:03:40] planet 37: building queue full (5)
+[09:03:40] planet 37: building queue full (5)
+[09:03:40] planet 37: building queue full (5)
+[2026-05-11 09:04:20] ==== loop 37/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:04:23] planet 37: building queue full (5)
+[09:04:23] planet 37: building queue full (5)
+[09:04:23] planet 37: building queue full (5)
+[2026-05-11 09:05:02] ==== loop 38/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:05:04] planet 37: building queue full (5)
+[09:05:04] planet 37: building queue full (5)
+[09:05:04] planet 37: building queue full (5)
+[2026-05-11 09:05:42] ==== loop 39/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:05:43] planet 37: building queue full (5)
+[09:05:43] planet 37: building queue full (5)
+[09:05:43] planet 37: building queue full (5)
+[2026-05-11 09:06:26] ==== loop 40/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:06:27] planet 37: building queue full (5)
+[09:06:27] planet 37: building queue full (5)
+[09:06:27] planet 37: building queue full (5)
+[2026-05-11 09:07:05] ==== loop 41/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:07:08] planet 37: building queue full (5)
+[09:07:08] planet 37: building queue full (5)
+[09:07:08] planet 37: building queue full (5)
+[09:07:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:07:46] ==== loop 42/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:07:47] planet 37: building queue full (5)
+[09:07:47] planet 37: building queue full (5)
+[2026-05-11 09:08:25] ==== loop 43/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:08:26] planet 37: building queue full (5)
+[09:08:26] planet 37: building queue full (5)
+[09:08:26] planet 37: building queue full (5)
+[09:08:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:09:04] ==== loop 44/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:09:07] planet 37: building queue full (5)
+[09:09:07] planet 37: building queue full (5)
+[09:09:07] planet 37: building queue full (5)
+[2026-05-11 09:09:46] ==== loop 45/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:09:49] planet 37: building queue full (5)
+[09:09:49] planet 37: building queue full (5)
+[09:09:49] planet 37: building queue full (5)
+[09:09:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:10:27] ==== loop 46/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:10:29] planet 37: building queue full (5)
+[09:10:29] planet 37: building queue full (5)
+[09:10:29] planet 37: building queue full (5)
+[09:10:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:11:09] ==== loop 47/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:11:11] planet 37: building queue full (5)
+[09:11:11] planet 37: building queue full (5)
+[09:11:11] planet 37: building queue full (5)
+[2026-05-11 09:11:51] ==== loop 48/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:11:53] planet 37: building queue full (5)
+[09:11:53] planet 37: building queue full (5)
+[09:11:53] planet 37: building queue full (5)
+[2026-05-11 09:12:36] ==== loop 49/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:12:38] planet 37: building queue full (5)
+[09:12:38] planet 37: building queue full (5)
+[09:12:38] planet 37: building queue full (5)
+[2026-05-11 09:13:19] ==== loop 50/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:13:20] planet 37: building queue full (5)
+[09:13:20] planet 37: building queue full (5)
+[09:13:20] planet 37: building queue full (5)
+[2026-05-11 09:14:00] ==== loop 51/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:14:02] planet 37: building queue full (5)
+[09:14:02] planet 37: building queue full (5)
+[09:14:02] planet 37: building queue full (5)
+[09:14:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:14:48] ==== loop 52/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:14:51] planet 37: building queue full (5)
+[09:14:51] planet 37: building queue full (5)
+[09:14:51] planet 37: building queue full (5)
+[2026-05-11 09:15:33] ==== loop 53/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:15:34] planet 37: building queue full (5)
+[09:15:34] planet 37: building queue full (5)
+[09:15:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:16:16] ==== loop 54/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:16:18] planet 37: building queue full (5)
+[09:16:18] planet 37: building queue full (5)
+[09:16:18] planet 37: building queue full (5)
+[2026-05-11 09:17:02] ==== loop 55/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:17:03] planet 37: building queue full (5)
+[09:17:03] planet 37: building queue full (5)
+[09:17:03] planet 37: building queue full (5)
+[2026-05-11 09:17:49] ==== loop 56/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:17:50] planet 37: building queue full (5)
+[09:17:50] planet 37: building queue full (5)
+[09:17:50] planet 37: building queue full (5)
+[09:17:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:18:35] ==== loop 57/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:18:37] planet 37: building queue full (5)
+[09:18:37] planet 37: building queue full (5)
+[09:18:37] planet 37: building queue full (5)
+[2026-05-11 09:19:22] ==== loop 58/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:19:25] planet 37: building queue full (5)
+[09:19:25] planet 37: building queue full (5)
+[09:19:25] planet 37: building queue full (5)
+[2026-05-11 09:20:03] ==== loop 59/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:20:05] planet 37: building queue full (5)
+[09:20:05] planet 37: building queue full (5)
+[09:20:05] planet 37: building queue full (5)
+[2026-05-11 09:20:48] ==== loop 60/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:20:51] planet 37: building queue full (5)
+[09:20:51] planet 37: building queue full (5)
+[09:20:51] planet 37: building queue full (5)
+[09:20:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:21:34] ==== loop 61/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:21:36] planet 37: building queue full (5)
+[09:21:36] planet 37: building queue full (5)
+[09:21:36] planet 37: building queue full (5)
+[09:21:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:22:19] ==== loop 62/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:22:21] planet 37: building queue full (5)
+[09:22:21] planet 37: building queue full (5)
+[2026-05-11 09:23:02] ==== loop 63/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:23:04] planet 37: building queue full (5)
+[09:23:04] planet 37: building queue full (5)
+[09:23:04] planet 37: building queue full (5)
+[09:23:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:23:48] ==== loop 64/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:23:49] planet 37: building queue full (5)
+[09:23:49] planet 37: building queue full (5)
+[09:23:49] planet 37: building queue full (5)
+[2026-05-11 09:24:32] ==== loop 65/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:24:35] planet 37: building queue full (5)
+[09:24:35] planet 37: building queue full (5)
+[09:24:35] planet 37: building queue full (5)
+[2026-05-11 09:25:20] ==== loop 66/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:25:22] planet 37: building queue full (5)
+[09:25:22] planet 37: building queue full (5)
+[09:25:22] planet 37: building queue full (5)
+[2026-05-11 09:26:07] ==== loop 67/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:26:10] planet 37: building queue full (5)
+[09:26:10] planet 37: building queue full (5)
+[09:26:10] planet 37: building queue full (5)
+[09:26:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:26:51] ==== loop 68/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:26:54] planet 37: building queue full (5)
+[09:26:54] planet 37: building queue full (5)
+[09:26:54] planet 37: building queue full (5)
+[09:26:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:27:33] ==== loop 69/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:27:35] planet 37: building queue full (5)
+[09:27:35] planet 37: building queue full (5)
+[09:27:35] planet 37: building queue full (5)
+[2026-05-11 09:28:17] ==== loop 70/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:28:18] planet 37: building queue full (5)
+[09:28:18] planet 37: building queue full (5)
+[09:28:18] planet 37: building queue full (5)
+[2026-05-11 09:29:00] ==== loop 71/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:29:01] planet 37: building queue full (5)
+[09:29:01] planet 37: building queue full (5)
+[09:29:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:29:40] ==== loop 72/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:29:42] planet 37: building queue full (5)
+[09:29:42] planet 37: building queue full (5)
+[09:29:42] planet 37: building queue full (5)
+[2026-05-11 09:30:27] ==== loop 73/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:30:28] planet 37: building queue full (5)
+[09:30:28] planet 37: building queue full (5)
+[09:30:28] planet 37: building queue full (5)
+[09:30:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:31:09] ==== loop 74/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:31:11] planet 37: building queue full (5)
+[09:31:11] planet 37: building queue full (5)
+[09:31:11] planet 37: building queue full (5)
+[2026-05-11 09:31:50] ==== loop 75/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:31:51] planet 37: building queue full (5)
+[09:31:51] planet 37: building queue full (5)
+[2026-05-11 09:32:36] ==== loop 76/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:32:38] planet 37: building queue full (5)
+[09:32:38] planet 37: building queue full (5)
+[09:32:38] planet 37: building queue full (5)
+[09:32:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:33:20] ==== loop 77/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:33:22] planet 37: building queue full (5)
+[09:33:22] planet 37: building queue full (5)
+[09:33:22] planet 37: building queue full (5)
+[2026-05-11 09:34:09] ==== loop 78/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:34:10] planet 37: building queue full (5)
+[09:34:10] planet 37: building queue full (5)
+[09:34:10] planet 37: building queue full (5)
+[09:34:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:34:55] ==== loop 79/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:34:58] planet 37: building queue full (5)
+[09:34:58] planet 37: building queue full (5)
+[09:34:58] planet 37: building queue full (5)
+[09:34:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:35:47] ==== loop 80/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:35:49] planet 37: building queue full (5)
+[09:35:49] planet 37: building queue full (5)
+[09:35:49] planet 37: building queue full (5)
+[09:35:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:36:30] ==== loop 81/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:36:32] planet 37: building queue full (5)
+[09:36:32] planet 37: building queue full (5)
+[09:36:32] planet 37: building queue full (5)
+[2026-05-11 09:37:18] ==== loop 82/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:37:20] planet 37: building queue full (5)
+[09:37:20] planet 37: building queue full (5)
+[09:37:20] planet 37: building queue full (5)
+[09:37:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:38:03] ==== loop 83/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:38:06] planet 37: building queue full (5)
+[09:38:06] planet 37: building queue full (5)
+[09:38:06] planet 37: building queue full (5)
+[09:38:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:38:51] ==== loop 84/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:38:53] planet 37: building queue full (5)
+[09:38:53] planet 37: building queue full (5)
+[09:38:53] planet 37: building queue full (5)
+[2026-05-11 09:39:35] ==== loop 85/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:39:37] planet 37: building queue full (5)
+[09:39:37] planet 37: building queue full (5)
+[09:39:37] planet 37: building queue full (5)
+[2026-05-11 09:40:05] ==== loop 1/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:40:06] planet 37: building queue full (5)
+[09:40:06] planet 37: building queue full (5)
+[09:40:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:40:50] ==== loop 2/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:40:52] planet 37: building queue full (5)
+[09:40:52] planet 37: building queue full (5)
+[09:40:52] planet 37: building queue full (5)
+[09:40:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:41:36] ==== loop 3/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:41:37] planet 37: building queue full (5)
+[09:41:37] planet 37: building queue full (5)
+[09:41:37] planet 37: building queue full (5)
+[2026-05-11 09:42:13] ==== loop 4/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:42:15] planet 37: building queue full (5)
+[09:42:15] planet 37: building queue full (5)
+[09:42:15] planet 37: building queue full (5)
+[2026-05-11 09:43:02] ==== loop 5/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:43:04] planet 37: building queue full (5)
+[09:43:04] planet 37: building queue full (5)
+[09:43:04] planet 37: building queue full (5)
+[09:43:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:43:51] ==== loop 6/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:43:54] planet 37: building queue full (5)
+[09:43:54] planet 37: building queue full (5)
+[09:43:54] planet 37: building queue full (5)
+[2026-05-11 09:44:38] ==== loop 7/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:44:40] planet 37: building queue full (5)
+[09:44:40] planet 37: building queue full (5)
+[09:44:40] planet 37: building queue full (5)
+[2026-05-11 09:45:23] ==== loop 8/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:45:25] planet 37: queued ship_solar_satellite +9
+[09:45:25] planet 37: queued building_crystal_store to 8
+[09:45:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:46:08] ==== loop 9/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:46:09] planet 37: building queue full (5)
+[09:46:09] planet 37: building queue full (5)
+[09:46:09] planet 37: building queue full (5)
+[09:46:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:46:50] ==== loop 10/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:46:52] planet 37: building queue full (5)
+[09:46:52] planet 37: building queue full (5)
+[09:46:52] planet 37: building queue full (5)
+[09:46:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:47:35] ==== loop 11/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:47:38] planet 37: building queue full (5)
+[09:47:38] planet 37: building queue full (5)
+[09:47:38] planet 37: building queue full (5)
+[09:47:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:48:21] ==== loop 12/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:48:21] planet 37: building queue full (5)
+[09:48:21] planet 37: building queue full (5)
+[09:48:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:49:05] ==== loop 13/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:49:07] planet 37: building queue full (5)
+[09:49:07] planet 37: building queue full (5)
+[09:49:07] planet 37: building queue full (5)
+[2026-05-11 09:49:51] ==== loop 14/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:49:53] planet 37: building queue full (5)
+[09:49:53] planet 37: building queue full (5)
+[09:49:53] planet 37: building queue full (5)
+[09:49:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:50:35] ==== loop 15/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:50:36] planet 37: queued defense_heavy_laser +8
+[09:50:36] planet 37: skipped duplicate defense_heavy_laser this loop
+[09:50:36] planet 37: skipped duplicate defense_heavy_laser this loop
+[2026-05-11 09:51:13] ==== loop 16/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:51:14] planet 37: queued defense_heavy_laser +8
+[09:51:14] planet 37: skipped duplicate defense_heavy_laser this loop
+[09:51:14] planet 37: skipped duplicate defense_heavy_laser this loop
+[2026-05-11 09:51:55] ==== loop 17/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:51:55] planet 37: queued defense_heavy_laser +8
+[09:51:55] planet 37: skipped duplicate defense_heavy_laser this loop
+[09:51:55] planet 37: skipped duplicate defense_heavy_laser this loop
+[09:51:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:52:37] ==== loop 18/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:52:37] planet 37: queued defense_heavy_laser +2
+[09:52:37] planet 37: queued defense_rocket_launcher +8
+[09:52:37] planet 37: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 09:53:15] ==== loop 19/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:53:16] planet 37: queued defense_rocket_launcher +2
+[09:53:16] planet 37: queue busy, throttled building_laboratory
+[09:53:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:53:58] ==== loop 20/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:53:58] planet 37: queue busy, throttled building_laboratory
+[09:53:58] planet 37: queue busy, throttled building_laboratory
+[09:53:58] planet 37: queue busy, throttled building_laboratory
+[09:53:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:54:42] ==== loop 21/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:54:42] planet 37: queue busy, throttled building_laboratory
+[09:54:42] planet 37: queue busy, throttled building_laboratory
+[09:54:42] planet 37: queue busy, throttled building_laboratory
+[2026-05-11 09:55:25] ==== loop 22/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:55:25] planet 37: queue busy, throttled building_laboratory
+[09:55:25] planet 37: queue busy, throttled building_laboratory
+[09:55:25] planet 37: queue busy, throttled building_laboratory
+[09:55:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:56:04] ==== loop 23/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:56:04] planet 37: queue busy, throttled building_laboratory
+[09:56:04] planet 37: queue busy, throttled building_laboratory
+[09:56:04] planet 37: queue busy, throttled building_laboratory
+[09:56:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:56:42] ==== loop 24/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:56:42] planet 37: queue busy, throttled building_laboratory
+[09:56:42] planet 37: queue busy, throttled building_laboratory
+[09:56:42] planet 37: queue busy, throttled building_laboratory
+[09:56:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:57:20] ==== loop 25/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:57:20] planet 37: queue busy, throttled building_laboratory
+[09:57:20] planet 37: queue busy, throttled building_laboratory
+[09:57:20] planet 37: queue busy, throttled building_laboratory
+[09:57:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:58:01] ==== loop 26/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:58:01] planet 37: queue busy, throttled building_laboratory
+[09:58:01] planet 37: queue busy, throttled building_laboratory
+[09:58:01] planet 37: queue busy, throttled building_laboratory
+[2026-05-11 09:58:44] ==== loop 27/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:58:44] planet 37: queue busy, throttled building_laboratory
+[09:58:44] planet 37: queue busy, throttled building_laboratory
+[09:58:44] planet 37: queue busy, throttled building_laboratory
+[09:58:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 09:59:23] ==== loop 28/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[09:59:23] planet 37: queue busy, throttled building_laboratory
+[09:59:23] planet 37: queue busy, throttled building_laboratory
+[09:59:23] planet 37: queue busy, throttled building_laboratory
+[09:59:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:00:06] ==== loop 29/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:00:08] planet 37: building queue full (5)
+[10:00:08] planet 37: building queue full (5)
+[10:00:08] planet 37: building queue full (5)
+[10:00:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:00:46] ==== loop 30/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:00:48] planet 37: building queue full (5)
+[10:00:48] planet 37: building queue full (5)
+[10:00:48] planet 37: building queue full (5)
+[2026-05-11 10:01:27] ==== loop 31/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:01:29] planet 37: building queue full (5)
+[10:01:29] planet 37: building queue full (5)
+[2026-05-11 10:02:04] ==== loop 32/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:02:06] planet 37: building queue full (5)
+[10:02:06] planet 37: building queue full (5)
+[10:02:06] planet 37: building queue full (5)
+[10:02:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:02:40] ==== loop 33/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:02:42] planet 37: building queue full (5)
+[10:02:42] planet 37: building queue full (5)
+[10:02:42] planet 37: building queue full (5)
+[10:02:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:03:20] ==== loop 34/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:03:21] planet 37: building queue full (5)
+[10:03:21] planet 37: building queue full (5)
+[10:03:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:04:01] ==== loop 35/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:04:02] planet 37: building queue full (5)
+[10:04:02] planet 37: building queue full (5)
+[10:04:02] planet 37: building queue full (5)
+[2026-05-11 10:04:40] ==== loop 36/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:04:42] planet 37: building queue full (5)
+[10:04:42] planet 37: building queue full (5)
+[10:04:42] planet 37: building queue full (5)
+[10:04:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:05:20] ==== loop 37/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:05:22] planet 37: building queue full (5)
+[10:05:22] planet 37: building queue full (5)
+[10:05:22] planet 37: building queue full (5)
+[10:05:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:05:59] ==== loop 38/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:06:02] planet 37: building queue full (5)
+[10:06:02] planet 37: building queue full (5)
+[10:06:02] planet 37: building queue full (5)
+[10:06:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:06:40] ==== loop 39/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:06:41] planet 37: building queue full (5)
+[10:06:41] planet 37: building queue full (5)
+[10:06:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:07:19] ==== loop 40/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:07:22] planet 37: building queue full (5)
+[10:07:22] planet 37: building queue full (5)
+[10:07:22] planet 37: building queue full (5)
+[10:07:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:07:55] ==== loop 41/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:07:58] planet 37: building queue full (5)
+[10:07:58] planet 37: building queue full (5)
+[10:07:58] planet 37: building queue full (5)
+[10:07:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:08:35] ==== loop 42/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:08:37] planet 37: building queue full (5)
+[10:08:37] planet 37: building queue full (5)
+[10:08:37] planet 37: building queue full (5)
+[2026-05-11 10:09:09] ==== loop 43/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:09:10] planet 37: building queue full (5)
+[10:09:10] planet 37: building queue full (5)
+[10:09:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:09:43] ==== loop 44/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:09:44] planet 37: building queue full (5)
+[10:09:44] planet 37: building queue full (5)
+[10:09:44] planet 37: building queue full (5)
+[2026-05-11 10:10:25] ==== loop 45/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:10:26] planet 37: building queue full (5)
+[10:10:26] planet 37: building queue full (5)
+[10:10:26] planet 37: building queue full (5)
+[2026-05-11 10:11:11] ==== loop 46/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:11:13] planet 37: building queue full (5)
+[10:11:13] planet 37: building queue full (5)
+[10:11:13] planet 37: building queue full (5)
+[2026-05-11 10:11:55] ==== loop 47/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:11:56] planet 37: building queue full (5)
+[10:11:56] planet 37: building queue full (5)
+[10:11:56] planet 37: building queue full (5)
+[2026-05-11 10:12:32] ==== loop 48/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:12:35] planet 37: building queue full (5)
+[10:12:35] planet 37: building queue full (5)
+[10:12:35] planet 37: building queue full (5)
+[10:12:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:13:17] ==== loop 49/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:13:19] planet 37: building queue full (5)
+[10:13:19] planet 37: building queue full (5)
+[10:13:19] planet 37: building queue full (5)
+[2026-05-11 10:14:00] ==== loop 50/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:14:01] planet 37: building queue full (5)
+[10:14:01] planet 37: building queue full (5)
+[10:14:01] planet 37: building queue full (5)
+[2026-05-11 10:14:44] ==== loop 51/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:14:45] planet 37: building queue full (5)
+[10:14:45] planet 37: building queue full (5)
+[10:14:45] planet 37: building queue full (5)
+[2026-05-11 10:15:25] ==== loop 52/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:15:27] planet 37: building queue full (5)
+[10:15:27] planet 37: building queue full (5)
+[10:15:27] planet 37: building queue full (5)
+[2026-05-11 10:16:09] ==== loop 53/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:16:10] planet 37: building queue full (5)
+[10:16:10] planet 37: building queue full (5)
+[10:16:10] planet 37: building queue full (5)
+[2026-05-11 10:16:48] ==== loop 54/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:16:50] planet 37: building queue full (5)
+[10:16:50] planet 37: building queue full (5)
+[10:16:50] planet 37: building queue full (5)
+[10:16:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:17:34] ==== loop 55/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:17:36] planet 37: building queue full (5)
+[10:17:36] planet 37: building queue full (5)
+[10:17:36] planet 37: building queue full (5)
+[10:17:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:18:19] ==== loop 56/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:18:21] planet 37: building queue full (5)
+[10:18:21] planet 37: building queue full (5)
+[10:18:21] planet 37: building queue full (5)
+[2026-05-11 10:19:05] ==== loop 57/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:19:06] planet 37: building queue full (5)
+[10:19:06] planet 37: building queue full (5)
+[2026-05-11 10:19:49] ==== loop 58/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:19:51] planet 37: building queue full (5)
+[10:19:51] planet 37: building queue full (5)
+[2026-05-11 10:20:33] ==== loop 59/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:20:35] planet 37: building queue full (5)
+[10:20:35] planet 37: building queue full (5)
+[10:20:35] planet 37: building queue full (5)
+[10:20:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:21:22] ==== loop 60/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:21:25] planet 37: building queue full (5)
+[10:21:25] planet 37: building queue full (5)
+[10:21:25] planet 37: building queue full (5)
+[2026-05-11 10:22:17] ==== loop 61/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:22:18] planet 37: building queue full (5)
+[10:22:18] planet 37: building queue full (5)
+[10:22:18] planet 37: building queue full (5)
+[2026-05-11 10:23:04] ==== loop 62/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:23:05] planet 37: building queue full (5)
+[10:23:05] planet 37: building queue full (5)
+[10:23:05] planet 37: building queue full (5)
+[10:23:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:23:50] ==== loop 63/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:23:52] planet 37: building queue full (5)
+[10:23:52] planet 37: building queue full (5)
+[10:23:52] planet 37: building queue full (5)
+[2026-05-11 10:24:37] ==== loop 64/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:24:38] planet 37: building queue full (5)
+[10:24:38] planet 37: building queue full (5)
+[10:24:38] planet 37: building queue full (5)
+[2026-05-11 10:25:23] ==== loop 65/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:25:25] planet 37: building queue full (5)
+[10:25:25] planet 37: building queue full (5)
+[10:25:25] planet 37: building queue full (5)
+[2026-05-11 10:26:12] ==== loop 66/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:26:14] planet 37: building queue full (5)
+[10:26:14] planet 37: building queue full (5)
+[10:26:14] planet 37: building queue full (5)
+[2026-05-11 10:26:57] ==== loop 67/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:26:59] planet 37: building queue full (5)
+[10:26:59] planet 37: building queue full (5)
+[10:26:59] planet 37: building queue full (5)
+[2026-05-11 10:27:42] ==== loop 68/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:27:44] planet 37: building queue full (5)
+[10:27:44] planet 37: building queue full (5)
+[10:27:44] planet 37: building queue full (5)
+[10:27:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:28:27] ==== loop 69/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:28:31] planet 37: building queue full (5)
+[10:28:31] planet 37: building queue full (5)
+[10:28:31] planet 37: building queue full (5)
+[10:28:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:29:20] ==== loop 70/∞ | seed=680570410771701182 archetype=turbo personality=flotero focus=eco actions_per_loop=3 ====
+[10:29:22] planet 37: building queue full (5)
+[10:29:22] planet 37: building queue full (5)
+[10:29:22] planet 37: building queue full (5)
+[10:29:22] research: blocked research_energy_technology (building_laboratory 0/1)

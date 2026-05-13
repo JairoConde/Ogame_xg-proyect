@@ -36,12 +36,12 @@ class UpdatesLibrary
      *
      * @return void
      */
-    private function cleanUp()
+    private function cleanUp(): void
     {
         $last_cleanup = Functions::readConfig('last_cleanup');
         $cleanup_interval = 6; // 6 HOURS
 
-        if ((time() >= ($last_cleanup + (3600 * $cleanup_interval)))) {
+        if ((time() >= ((int) $last_cleanup + (3600 * $cleanup_interval)))) {
             // TIMERS
             $del_planets = time() - ONE_DAY;
             $del_before = time() - ONE_WEEK;
@@ -75,7 +75,7 @@ class UpdatesLibrary
      *
      * @return void
      */
-    private function createBackup()
+    private function createBackup(): void
     {
         // LAST UPDATE AND UPDATE INTERVAL, EX: 15 MINUTES
         $auto_backup = Functions::readConfig('auto_backup');
@@ -83,7 +83,7 @@ class UpdatesLibrary
         $update_interval = 6; // 6 HOURS
 
         // CHECK TIME
-        if ((time() >= ($last_backup + (3600 * $update_interval))) && ($auto_backup == 1)) {
+        if ((time() >= ((int) $last_backup + (3600 * $update_interval))) && ($auto_backup == 1)) {
             $this->updatesModel->generateBackUp(); // MAKE BACKUP
 
             Functions::updateConfig('last_backup', time());
@@ -98,7 +98,7 @@ class UpdatesLibrary
      *
      * @return void
      */
-    public static function updateBuildingsQueue(&$current_planet, &$current_user)
+    public static function updateBuildingsQueue(array &$current_planet, array &$current_user): void
     {
         while ($current_planet['planet_b_building_id'] != 0) {
             if ($current_planet['planet_b_building'] <= time()) {
@@ -118,7 +118,7 @@ class UpdatesLibrary
      *
      * @return void
      */
-    private function updateFleets()
+    private function updateFleets(): void
     {
         // let's start the missions control process
         $mission_control = new MissionControlLib();
@@ -131,13 +131,13 @@ class UpdatesLibrary
      *
      * @return void
      */
-    private function updateStatistics()
+    private function updateStatistics(): void
     {
         // LAST UPDATE AND UPDATE INTERVAL, EX: 15 MINUTES
         $stat_last_update = Functions::readConfig('stat_last_update');
         $update_interval = Functions::readConfig('stat_update_time');
 
-        if ((time() >= ($stat_last_update + (60 * $update_interval)))) {
+        if ((time() >= ((int) $stat_last_update + (60 * (int) $update_interval)))) {
             $result = new StatisticsLibrary();
 
             Functions::updateConfig('stat_last_update', $result->makeStats()['stats_time']);
@@ -152,7 +152,7 @@ class UpdatesLibrary
      *
      * @return boolean
      */
-    private static function checkBuildingQueue(&$current_planet, &$current_user): bool
+    private static function checkBuildingQueue(array &$current_planet, array &$current_user): bool
     {
         $db = new UpdatesLibraryModel();
         $resource = Objects::getInstance()->getObjects();
@@ -160,6 +160,7 @@ class UpdatesLibrary
 
         if ($current_planet['planet_b_building_id'] != 0) {
             $current_queue = $current_planet['planet_b_building_id'];
+            $queue_array = [];
 
             if ($current_queue != 0) {
                 $queue_array = explode(';', $current_queue);
@@ -233,7 +234,7 @@ class UpdatesLibrary
      *
      * @return void
      */
-    public static function setFirstElement(&$current_planet, $current_user): void
+    public static function setFirstElement(array &$current_planet, array $current_user): void
     {
         $db = new UpdatesLibraryModel();
         $lang = new Language();
@@ -242,6 +243,8 @@ class UpdatesLibrary
 
         if ($current_planet['planet_b_building'] == 0) {
             $current_queue = $current_planet['planet_b_building_id'];
+            $build_end_time = '0';
+            $new_queue = '0';
 
             if ($current_queue != 0) {
                 $queue_array = explode(';', $current_queue);
@@ -281,6 +284,7 @@ class UpdatesLibrary
                         $current_planet['planet_deuterium'] -= $price['deuterium'];
 
                         $prevData = 0;
+                        $recalculated_queue = [];
 
                         // if we upgrade robots or nanobots we must recalculate everything
                         foreach ($queue_array as $queue_item => $data) {
@@ -298,7 +302,7 @@ class UpdatesLibrary
 
                             if ($prevData == 0) {
                                 // remove the previous building time and add the new building time
-                                $element_data[3] = $element_data[3] - $previous_time + $element_data[2];
+                                $element_data[3] = (int) $element_data[3] - (int) $previous_time + (int) $element_data[2];
 
                                 // for planet_b_building, set the first queue element completion time
                                 $build_end_time = $element_data[3];
@@ -380,7 +384,7 @@ class UpdatesLibrary
 
                         foreach ($queue_array as $num => $info) {
                             $fix_ele = explode(',', $info);
-                            $fix_ele[3] = $fix_ele[3] - $build_time; // build end time
+                            $fix_ele[3] = (int) $fix_ele[3] - (int) $build_time; // build end time
                             $queue_array[$num] = join(',', $fix_ele);
                         }
 
@@ -415,15 +419,15 @@ class UpdatesLibrary
      *
      * @return void
      */
-    public static function updatePlanetResources(&$current_user, &$current_planet, $UpdateTime, $Simul = false)
+    public static function updatePlanetResources(array &$current_user, array &$current_planet, int $UpdateTime, bool $Simul = false): void
     {
         $resource = Objects::getInstance()->getObjects();
         $ProdGrid = Objects::getInstance()->getProduction();
 
         $game_resource_multiplier = Functions::readConfig('resource_multiplier');
-        $game_metal_basic_income = Functions::readConfig('metal_basic_income');
-        $game_crystal_basic_income = Functions::readConfig('crystal_basic_income');
-        $game_deuterium_basic_income = Functions::readConfig('deuterium_basic_income');
+        $game_metal_basic_income = (float) Functions::readConfig('metal_basic_income');
+        $game_crystal_basic_income = (float) Functions::readConfig('crystal_basic_income');
+        $game_deuterium_basic_income = (float) Functions::readConfig('deuterium_basic_income');
 
         if ($current_user['preference_vacation_mode'] > 0) {
             $game_metal_basic_income = 0;
@@ -454,6 +458,7 @@ class UpdatesLibrary
         $Caps['planet_deuterium_perhour'] = 0;
         $Caps['planet_energy_max'] = 0;
         $Caps['planet_energy_used'] = 0;
+        $mining_drill_boost = 1 + ((int) ($current_planet['ship_mining_drill'] ?? 0) * 0.01);
 
         foreach ($ProdGrid as $ProdID => $formula) {
             $BuildLevelFactor = $current_planet['planet_' . $resource[$ProdID] . '_percent'];
@@ -473,6 +478,12 @@ class UpdatesLibrary
             $crystal_prod = eval($ProdGrid[$ProdID]['formule']['crystal']);
             $deuterium_prod = eval($ProdGrid[$ProdID]['formule']['deuterium']);
             $energy_prod = eval($ProdGrid[$ProdID]['formule']['energy']);
+
+            if (in_array($ProdID, [1, 2, 3], true)) {
+                $metal_prod *= $mining_drill_boost;
+                $crystal_prod *= $mining_drill_boost;
+                $deuterium_prod *= $mining_drill_boost;
+            }
 
             // PLASMA BOOST
             $metalBoost = Formulas::getPlasmaTechnologyBonus($current_user['research_plasma_technology'], 'metal');
@@ -578,7 +589,7 @@ class UpdatesLibrary
             ) * (0.01 * $production_level);
 
             $MetalBaseProduc = (($ProductionTime * ($game_metal_basic_income / 3600)));
-            $MetalTheorical = $current_planet['planet_metal'] + $MetalProduction + $MetalBaseProduc;
+            $MetalTheorical = (float) $current_planet['planet_metal'] + $MetalProduction + $MetalBaseProduc;
 
             if ($MetalTheorical <= $MaxMetalStorage) {
                 $current_planet['planet_metal'] = $MetalTheorical;
@@ -593,7 +604,7 @@ class UpdatesLibrary
             ) * (0.01 * $production_level);
 
             $CristalBaseProduc = (($ProductionTime * ($game_crystal_basic_income / 3600)));
-            $CristalTheorical = $current_planet['planet_crystal'] + $CristalProduction + $CristalBaseProduc;
+            $CristalTheorical = (float) $current_planet['planet_crystal'] + $CristalProduction + $CristalBaseProduc;
 
             if ($CristalTheorical <= $MaxCristalStorage) {
                 $current_planet['planet_crystal'] = $CristalTheorical;
@@ -608,7 +619,7 @@ class UpdatesLibrary
             ) * (0.01 * $production_level);
 
             $DeuteriumBaseProduc = (($ProductionTime * ($game_deuterium_basic_income / 3600)));
-            $DeuteriumTheorical = $current_planet['planet_deuterium'] +
+            $DeuteriumTheorical = (float) $current_planet['planet_deuterium'] +
                 $DeuteriumProduction + $DeuteriumBaseProduc;
 
             if ($DeuteriumTheorical <= $MaxDeuteriumStorage) {
@@ -644,11 +655,13 @@ class UpdatesLibrary
                     if ($element != '') {
                         // POINTS
                         switch ($element) {
-                            case (($element >= 202) && ($element <= 215)):
+                            case ($element >= 202) && ($element <= 215):
                                 $ship_points += StatisticsLibrary::calculatePoints($element, $count) * $count;
+
                                 break;
-                            case (($element >= 401) && ($element <= 503)):
+                            case ($element >= 401) && ($element <= 503):
                                 $defense_points += StatisticsLibrary::calculatePoints($element, $count) * $count;
+
                                 break;
                             default:
                                 break;
@@ -701,7 +714,7 @@ class UpdatesLibrary
      *
      * @return int
      */
-    private static function updateHangarQueue($current_user, &$current_planet, $ProductionTime)
+    private static function updateHangarQueue(array $current_user, array &$current_planet, int $ProductionTime): mixed
     {
         $resource = Objects::getInstance()->getObjects();
 
@@ -732,23 +745,37 @@ class UpdatesLibrary
 
             foreach ($BuildArray as $Node => $Item) {
                 $Element = $Item[0];
-                $Count = $Item[1];
+                $Count = (int) $Item[1];
                 $BuildTime = $Item[2];
                 $Builded[$Element] = 0;
 
                 if (!$UnFinished and $BuildTime > 0) {
-                    $AllTime = $BuildTime * $Count;
+                    $AllTime = $BuildTime * (int) $Count;
 
                     if ($current_planet['planet_b_hangar'] >= $BuildTime) {
-                        $Done = min($Count, floor($current_planet['planet_b_hangar'] / $BuildTime));
+                        if ($BuildTime < 1) {
+                            $unitsPerSecond = max(1, min(1000000, (int) ceil(1 / $BuildTime)));
+                            $wholeSeconds = (int) floor($current_planet['planet_b_hangar']);
+
+                            if ($wholeSeconds > 0) {
+                                $Done = min($Count, $wholeSeconds * $unitsPerSecond);
+                                $secondsConsumed = (int) ceil($Done / $unitsPerSecond);
+                            } else {
+                                $Done = 0;
+                                $secondsConsumed = 0;
+                            }
+                        } else {
+                            $Done = min($Count, floor($current_planet['planet_b_hangar'] / $BuildTime));
+                            $secondsConsumed = $BuildTime * $Done;
+                        }
 
                         if ($Count > $Done) {
-                            $current_planet['planet_b_hangar'] -= $BuildTime * $Done;
+                            $current_planet['planet_b_hangar'] -= $secondsConsumed;
 
                             $UnFinished = true;
                             $Count -= $Done;
                         } else {
-                            $current_planet['planet_b_hangar'] -= $AllTime;
+                            $current_planet['planet_b_hangar'] -= $secondsConsumed;
                             $Count = 0;
                         }
 

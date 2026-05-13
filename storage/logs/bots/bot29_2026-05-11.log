@@ -1,0 +1,4 @@
+[2026-05-11 14:41:01] ==== loop 1/1 | seed=1000196707232311416 archetype=turbo personality=minero focus=eco actions_per_loop=4 ====
+[14:41:01] alliance: apply ally=1
+[14:41:01] planet 77: queued building_deuterium_sintetizer to 1
+[14:41:01] research: blocked research_energy_technology (building_laboratory 0/1)

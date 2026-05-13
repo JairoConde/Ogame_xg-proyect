@@ -32,28 +32,28 @@ use App\Libraries\BattleEngine\Utils\IterableUtil;
  */
 class FireManager extends IterableUtil
 {
-    protected $array = [];
-
-    public function add(Fire $fire)
+    public function add(Fire $fire): void
     {
         $this->array[] = $fire;
     }
 
-    public function getAttackerTotalShots()
+    public function getAttackerTotalShots(): int
     {
         $tmp = 0;
         foreach ($this->array as $id => $fire) {
             $tmp += $fire->getAttackerTotalShots();
         }
+
         return $tmp;
     }
 
-    public function getAttackerTotalFire()
+    public function getAttackerTotalFire(): int
     {
         $tmp = 0;
         foreach ($this->array as $id => $fire) {
             $tmp += $fire->getAttackerTotalFire();
         }
+
         return $tmp;
     }
 }

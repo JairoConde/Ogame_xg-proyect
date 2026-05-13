@@ -10,18 +10,22 @@ final class Queue
     /**
      * @var array $queue Queue in array format
      */
-    private $queue = [];
+    private array|string $queue = [];
 
     /**
      * Init with current queue
      *
-     * @param string $current_queue The current queue
+     * @param string|array $current_queue The current queue
      *
      * @return void
      */
-    public function __construct($current_queue = [])
+    public function __construct(string|array $current_queue = '')
     {
-        $this->queue = $current_queue;
+        if (is_string($current_queue)) {
+            $this->queue = $current_queue;
+        } else {
+            $this->queue = $current_queue;
+        }
     }
 
     /**
@@ -29,7 +33,7 @@ final class Queue
      *
      * @return void
      */
-    private function breakDownCurrentQueue()
+    private function breakDownCurrentQueue(): void
     {
         // extract elements and filter empty values
         $elements = array_filter(explode(self::QUEUE_SEPARATOR, $this->queue));
@@ -49,7 +53,7 @@ final class Queue
      *
      * @return void
      */
-    private function makeUpCurrentQueue()
+    private function makeUpCurrentQueue(): void
     {
         if (isset($this->queue)) {
             $queue = $this->queue;
@@ -69,7 +73,7 @@ final class Queue
      *
      * @return void
      */
-    public function addElementToQueue(QueueElements $queue_elements)
+    public function addElementToQueue(QueueElements $queue_elements): void
     {
         if (is_object($queue_elements)) {
             if (!is_array($this->queue)) {
@@ -88,7 +92,7 @@ final class Queue
      *
      * @return void
      */
-    public function removeElementFromQueue($element_id)
+    public function removeElementFromQueue(int $element_id): void
     {
         if (is_int($element_id)) {
             if (!is_array($this->queue)) {
@@ -107,7 +111,7 @@ final class Queue
      *
      * @return array
      */
-    public function getElementFromQueueAsArray($element_id)
+    public function getElementFromQueueAsArray(int $element_id): array
     {
         if (isset($this->queue)) {
             if (!is_array($this->queue)) {
@@ -125,7 +129,7 @@ final class Queue
      *
      * @return string
      */
-    public function returnQueueAsString()
+    public function returnQueueAsString(): string
     {
         if (isset($this->queue)) {
             if (is_array($this->queue)) {
@@ -143,7 +147,7 @@ final class Queue
      *
      * @return array
      */
-    public function returnQueueAsArray()
+    public function returnQueueAsArray(): array
     {
         if (isset($this->queue)) {
             if (!is_array($this->queue)) {
@@ -161,7 +165,7 @@ final class Queue
      *
      * @return int
      */
-    public function countQueueElements()
+    public function countQueueElements(): int
     {
         if (isset($this->queue)) {
             if (!is_array($this->queue)) {

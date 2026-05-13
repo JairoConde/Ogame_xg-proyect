@@ -6,7 +6,7 @@ use App\Core\Entity;
 
 class BuddyEntity extends Entity
 {
-    public function __construct($data)
+    public function __construct(array $data)
     {
         parent::__construct($data);
     }
@@ -16,7 +16,7 @@ class BuddyEntity extends Entity
      *
      * @return string
      */
-    public function getBuddyId()
+    public function getBuddyId(): string
     {
         return $this->data['buddy_id'];
     }
@@ -26,7 +26,7 @@ class BuddyEntity extends Entity
      *
      * @return string
      */
-    public function getBuddySender()
+    public function getBuddySender(): string
     {
         return $this->data['buddy_sender'];
     }
@@ -36,7 +36,7 @@ class BuddyEntity extends Entity
      *
      * @return string
      */
-    public function getBuddyReceiver()
+    public function getBuddyReceiver(): string
     {
         return $this->data['buddy_receiver'];
     }
@@ -46,7 +46,7 @@ class BuddyEntity extends Entity
      *
      * @return string
      */
-    public function getBuddyStatus()
+    public function getBuddyStatus(): string
     {
         return $this->data['buddy_status'];
     }
@@ -56,7 +56,7 @@ class BuddyEntity extends Entity
      *
      * @return string
      */
-    public function getRequestText()
+    public function getRequestText(): string
     {
         return $this->data['buddy_request_text'];
     }

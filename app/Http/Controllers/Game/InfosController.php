@@ -65,11 +65,12 @@ class InfosController extends BaseController
         $DestroyTPL = '';
         $TableHeadTPL = '';
         $TableFooterTPL = '';
+        $TableTPL = '';
 
         $parse = $this->langs->language;
         $parse['dpath'] = DPATH;
         $parse['name'] = $this->langs->language[$this->_resource[$this->_element_id]];
-        $parse['image'] = $this->_element_id;
+        $parse['image'] = ($this->_element_id === 125) ? 203 : $this->_element_id;
         $parse['description'] = $this->langs->language['info'][$this->_resource[$this->_element_id]];
         $parse['table_head'] = '';
         $parse['table_data'] = '';
@@ -192,8 +193,8 @@ class InfosController extends BaseController
                     $parse['gate_wait_time'] = '';
                     $parse['gate_script_go'] = '';
                 }
-                $parse['gate_dest_moons'] = $this->BuildJumpableMoonCombo($this->user, $this->planet);
-                $parse['gate_fleet_rows'] = $this->BuildFleetListRows($this->planet);
+                $parse['gate_dest_moons'] = $this->BuildJumpableMoonCombo();
+                $parse['gate_fleet_rows'] = $this->BuildFleetListRows();
                 $page .= $this->template->set($GateTPL, $parse);
             }
         }
@@ -218,7 +219,7 @@ class InfosController extends BaseController
         $ProdFirst = 0;
         $ActualProd = ProductionLib::maxStorable($current_built_lvl);
 
-        for ($BuildLevel = $BuildStartLvl; $BuildLevel < $BuildStartLvl + 15; ++$BuildLevel) {
+        for ($BuildLevel = $BuildStartLvl; $BuildLevel < $BuildStartLvl + 15; $BuildLevel++) {
             $Prod = ProductionLib::maxStorable($BuildLevel);
 
             $bloc['build_lvl'] = ($current_built_lvl == $BuildLevel) ? '<font color="#ff0000">' . $BuildLevel . '</font>' : $BuildLevel;
@@ -246,7 +247,7 @@ class InfosController extends BaseController
         $BuildStartLvl = max(1, $current_built_lvl - 2);
         $Table = '';
 
-        for ($BuildLevel = $BuildStartLvl; $BuildLevel < $BuildStartLvl + 15; ++$BuildLevel) {
+        for ($BuildLevel = $BuildStartLvl; $BuildLevel < $BuildStartLvl + 15; $BuildLevel++) {
             $bloc['tech_lvl'] = ($current_built_lvl == $BuildLevel) ? '<font color="#ff0000">' . $BuildLevel . '</font>' : $BuildLevel;
             $bloc['tech_colonies'] = FormatLib::prettyNumber(FleetsLib::getMaxColonies($BuildLevel));
             $bloc['tech_expeditions'] = FormatLib::prettyNumber(FleetsLib::getMaxExpeditions($BuildLevel));
@@ -290,7 +291,7 @@ class InfosController extends BaseController
      *
      * @return string
      */
-    private function doFleetJump()
+    private function doFleetJump(): string
     {
         if ($_POST) {
             $RestString = $this->GetNextJumpWaitTime($this->planet);
@@ -386,6 +387,7 @@ class InfosController extends BaseController
                 }
             }
         }
+
         return $Result;
     }
 
@@ -406,6 +408,7 @@ class InfosController extends BaseController
                 }
             }
         }
+
         return $Combo;
     }
 
@@ -578,6 +581,7 @@ class InfosController extends BaseController
                 $ResultString .= $this->langs->line('in_rf_again') . ' ' . $this->langs->language[$this->_resource[$Type]] . ' <font color="#00ff00">' . $this->_combat_caps[$this->_element_id]['sd'][$Type] . '</font><br>';
             }
         }
+
         return $ResultString;
     }
 
@@ -592,6 +596,7 @@ class InfosController extends BaseController
                 $ResultString .= $this->langs->line('in_rf_from') . ' ' . $this->langs->language[$this->_resource[$Type]] . ' <font color="#ff0000">' . $this->_combat_caps[$Type]['sd'][$this->_element_id] . '</font><br>';
             }
         }
+
         return $ResultString;
     }
 

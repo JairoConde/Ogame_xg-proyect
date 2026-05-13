@@ -9,7 +9,7 @@ class AcsFleets
     private array $_acs = [];
     private int $_current_user_id = 0;
 
-    public function __construct($acs, $current_user_id)
+    public function __construct(array $acs, int $current_user_id)
     {
         if (is_array($acs)) {
             $this->setUp($acs);
@@ -22,7 +22,7 @@ class AcsFleets
      *
      * @return array
      */
-    public function getAcs()
+    public function getAcs(): array
     {
         $list_of_acs = [];
 
@@ -38,11 +38,11 @@ class AcsFleets
     /**
      * Get the first acs result
      *
-     * @return array
+     * @return ?AcsFleetEntity
      */
-    public function getFirstAcs()
+    public function getFirstAcs(): ?AcsFleetEntity
     {
-        return $this->getAcs()[0];
+        return $this->getAcs()[0] ?? null;
     }
 
     /**
@@ -52,7 +52,7 @@ class AcsFleets
      *
      * @return void
      */
-    private function setUp($acsFleets)
+    private function setUp(array $acsFleets): void
     {
         foreach ($acsFleets as $acs) {
             $data = $this->createNewAcsFleetEntity($acs);
@@ -65,7 +65,7 @@ class AcsFleets
      *
      * @param int $user_id User Id
      */
-    private function setUserId($user_id)
+    private function setUserId(int $user_id): void
     {
         $this->_current_user_id = $user_id;
     }
@@ -74,7 +74,7 @@ class AcsFleets
      *
      * @return int
      */
-    private function getUserId()
+    private function getUserId(): int
     {
         return $this->_current_user_id;
     }
@@ -84,9 +84,9 @@ class AcsFleets
      *
      * @param array $fleet Fleet
      *
-     * @return \AcsFleetEntity
+     * @return AcsFleetEntity
      */
-    private function createNewAcsFleetEntity($fleet)
+    private function createNewAcsFleetEntity(array $fleet): AcsFleetEntity
     {
         return new AcsFleetEntity($fleet);
     }

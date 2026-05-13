@@ -1,0 +1,894 @@
+[2026-05-13 10:11:43] ==== loop 1/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:11:44] planet 39: queued ship_solar_satellite +5
+[10:11:44] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:11:44] planet 39: skipped duplicate ship_solar_satellite this loop
+[2026-05-13 10:12:23] ==== loop 2/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:12:24] planet 39: queued ship_solar_satellite +5
+[10:12:24] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:12:24] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:12:24] planet 39: skipped duplicate ship_solar_satellite this loop
+[2026-05-13 10:13:01] ==== loop 3/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:13:02] planet 39: queued ship_solar_satellite +5
+[10:13:02] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:13:02] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:13:02] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:13:02] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:13:42] ==== loop 4/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:13:43] planet 39: queued ship_solar_satellite +5
+[10:13:43] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:13:43] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:13:43] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:13:43] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:14:26] ==== loop 5/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:14:27] planet 39: queued ship_solar_satellite +5
+[10:14:27] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:14:27] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:14:27] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:14:27] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:15:05] ==== loop 6/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:15:05] planet 39: queued ship_solar_satellite +5
+[10:15:05] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:15:05] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:15:05] planet 39: skipped duplicate ship_solar_satellite this loop
+[2026-05-13 10:15:48] ==== loop 7/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:15:49] planet 39: queued ship_solar_satellite +5
+[10:15:49] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:15:49] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:15:49] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:15:49] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:16:33] ==== loop 8/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:16:34] planet 39: queued ship_solar_satellite +5
+[10:16:34] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:16:34] planet 39: skipped duplicate ship_solar_satellite this loop
+[2026-05-13 10:17:17] ==== loop 9/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:17:17] planet 39: queued ship_solar_satellite +5
+[10:17:17] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:17:17] planet 39: skipped duplicate ship_solar_satellite this loop
+[10:17:17] planet 39: skipped duplicate ship_solar_satellite this loop
+[2026-05-13 10:17:59] ==== loop 10/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:18:00] planet 39: queued building_hangar to 2
+[10:18:00] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:18:43] ==== loop 11/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:18:44] planet 39: queued building_hangar to 3
+[2026-05-13 10:19:29] ==== loop 12/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:19:30] planet 39: queued building_hangar to 4
+[10:19:30] planet 39: queued ship_colony_ship +1
+[10:19:30] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:20:14] ==== loop 13/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:20:14] planet 39: queued building_crystal_store to 12
+[10:20:14] colonize: 1:5:4 -> 1:120:4 (eta 117s, fuel 1551)
+[2026-05-13 10:20:54] ==== loop 14/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:20:56] planet 39: queued ship_colony_ship +1
+[10:20:56] planet 99: no resources for building_hangar+1
+[10:20:56] planet 39: building queue full (5)
+[10:20:56] planet 39: building queue full (5)
+[10:20:56] colonize: 1:5:4 -> 1:121:4 (eta 117s, fuel 1568)
+[2026-05-13 10:21:41] ==== loop 15/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:21:43] planet 39: queued ship_colony_ship +1
+[10:21:43] planet 99: no resources for building_hangar+1
+[10:21:43] planet 39: building queue full (5)
+[10:21:43] planet 39: building queue full (5)
+[2026-05-13 10:22:26] ==== loop 16/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:22:29] planet 39: building queue full (5)
+[10:22:29] planet 99: no resources for building_hangar+1
+[10:22:29] planet 100: queued building_solar_plant to 1
+[10:22:29] planet 39: building queue full (5)
+[2026-05-13 10:23:12] ==== loop 17/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:23:15] planet 39: building queue full (5)
+[10:23:15] planet 99: no resources for building_hangar+1
+[10:23:15] planet 100: queued building_solar_plant to 2
+[10:23:15] planet 39: building queue full (5)
+[10:23:15] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:23:58] ==== loop 18/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:24:02] planet 39: building queue full (5)
+[10:24:02] planet 99: queued building_hangar to 1
+[10:24:02] planet 100: queued building_solar_plant to 3
+[10:24:02] planet 39: building queue full (5)
+[10:24:02] planet 99: no resources for ship_heavy_fighter+5
+[2026-05-13 10:24:48] ==== loop 19/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:24:51] planet 39: building queue full (5)
+[10:24:51] planet 99: no resources for ship_heavy_fighter+5
+[10:24:51] planet 100: queued building_solar_plant to 4
+[10:24:51] planet 39: building queue full (5)
+[10:24:51] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:25:36] ==== loop 20/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:25:38] planet 39: building queue full (5)
+[10:25:38] planet 99: no resources for ship_heavy_fighter+5
+[10:25:38] planet 100: queued building_solar_plant to 5
+[10:25:38] planet 39: building queue full (5)
+[2026-05-13 10:26:20] ==== loop 21/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:26:23] planet 39: building queue full (5)
+[10:26:23] planet 99: no resources for ship_heavy_fighter+5
+[10:26:23] planet 100: queued building_solar_plant to 6
+[10:26:23] planet 39: building queue full (5)
+[2026-05-13 10:27:09] ==== loop 22/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:27:11] planet 39: building queue full (5)
+[10:27:11] planet 99: no resources for ship_heavy_fighter+5
+[10:27:11] planet 100: queued building_solar_plant to 7
+[10:27:11] planet 39: building queue full (5)
+[2026-05-13 10:27:51] ==== loop 23/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:27:53] planet 39: building queue full (5)
+[10:27:53] planet 99: no resources for ship_heavy_fighter+5
+[10:27:53] planet 100: no resources for building_solar_plant+1
+[10:27:53] planet 39: building queue full (5)
+[2026-05-13 10:28:41] ==== loop 24/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:28:42] planet 39: building queue full (5)
+[10:28:42] planet 99: no resources for ship_heavy_fighter+5
+[10:28:42] planet 100: no resources for building_solar_plant+1
+[10:28:42] planet 39: building queue full (5)
+[10:28:42] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:29:28] ==== loop 25/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:29:31] planet 39: building queue full (5)
+[10:29:31] planet 99: no resources for ship_heavy_fighter+5
+[10:29:31] planet 100: no resources for building_solar_plant+1
+[10:29:31] planet 39: building queue full (5)
+[2026-05-13 10:30:12] ==== loop 26/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:30:13] planet 39: queued building_metal_mine to 35
+[10:30:13] planet 99: no resources for defense_light_laser+8
+[10:30:13] planet 100: queued building_deuterium_sintetizer to 1
+[2026-05-13 10:30:53] ==== loop 27/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:30:54] planet 39: queued building_robot_factory to 9
+[10:30:54] planet 99: no resources for defense_light_laser+8
+[10:30:54] planet 100: queued building_deuterium_sintetizer to 2
+[2026-05-13 10:31:34] ==== loop 28/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:31:34] planet 39: queue busy, throttled building_robot_factory
+[10:31:34] planet 99: no resources for defense_light_laser+8
+[10:31:34] planet 100: queued building_deuterium_sintetizer to 3
+[10:31:34] planet 39: queue busy, throttled building_robot_factory
+[10:31:34] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:32:17] ==== loop 29/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:32:19] planet 39: queue busy, throttled building_robot_factory
+[10:32:19] planet 99: no resources for defense_light_laser+8
+[10:32:19] planet 100: queued building_deuterium_sintetizer to 4
+[10:32:19] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:33:01] ==== loop 30/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:33:02] planet 39: queue busy, throttled building_robot_factory
+[10:33:02] planet 99: no resources for defense_light_laser+8
+[10:33:02] planet 100: queued building_deuterium_sintetizer to 5
+[10:33:02] planet 39: queue busy, throttled building_robot_factory
+[10:33:02] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:33:46] ==== loop 31/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:33:46] planet 39: queue busy, throttled building_robot_factory
+[10:33:46] planet 99: no resources for defense_light_laser+8
+[10:33:46] planet 100: queued building_deuterium_tank to 1
+[10:33:46] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:34:27] ==== loop 32/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:34:29] planet 39: queue busy, throttled building_robot_factory
+[10:34:29] planet 99: no resources for defense_light_laser+8
+[10:34:29] planet 100: queued building_solar_plant to 8
+[10:34:29] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:35:12] ==== loop 33/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:35:13] planet 39: queue busy, throttled building_robot_factory
+[10:35:13] planet 99: no resources for defense_light_laser+8
+[10:35:13] planet 100: no resources for building_deuterium_sintetizer+1
+[10:35:13] planet 39: queue busy, throttled building_robot_factory
+[10:35:13] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:35:56] ==== loop 34/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:35:58] planet 39: queue busy, throttled building_robot_factory
+[10:35:58] planet 99: no resources for defense_light_laser+8
+[10:35:58] planet 100: no resources for building_deuterium_sintetizer+1
+[10:35:58] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:36:40] ==== loop 35/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:36:41] planet 39: queue busy, throttled building_robot_factory
+[10:36:41] planet 99: no resources for defense_light_laser+8
+[10:36:41] planet 100: queued building_deuterium_sintetizer to 6
+[10:36:41] planet 39: queue busy, throttled building_robot_factory
+[10:36:41] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:37:17] ==== loop 36/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:37:19] planet 39: queue busy, throttled building_robot_factory
+[10:37:19] planet 99: no resources for defense_light_laser+8
+[10:37:19] planet 100: no resources for building_deuterium_tank+1
+[10:37:19] planet 39: queue busy, throttled building_robot_factory
+[10:37:19] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:37:58] ==== loop 37/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:37:58] planet 39: queue busy, throttled building_robot_factory
+[10:37:58] planet 99: no resources for defense_light_laser+8
+[10:37:58] planet 100: no resources for building_deuterium_tank+1
+[10:37:58] planet 39: queue busy, throttled building_robot_factory
+[10:37:58] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:38:39] ==== loop 38/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:38:41] planet 39: queue busy, throttled building_robot_factory
+[10:38:41] planet 99: no resources for defense_light_laser+8
+[10:38:41] planet 100: no resources for building_deuterium_tank+1
+[10:38:41] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:39:20] ==== loop 39/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:39:22] planet 39: queue busy, throttled building_robot_factory
+[10:39:22] planet 99: no resources for defense_light_laser+8
+[10:39:22] planet 100: no resources for building_deuterium_tank+1
+[10:39:22] planet 39: queue busy, throttled building_robot_factory
+[10:39:22] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:40:04] ==== loop 40/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:40:04] planet 39: queue busy, throttled building_robot_factory
+[10:40:04] planet 99: queued building_robot_factory to 1
+[10:40:04] planet 100: no resources for building_deuterium_tank+1
+[10:40:04] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:40:44] ==== loop 41/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:40:45] planet 39: queue busy, throttled building_robot_factory
+[10:40:45] planet 100: no resources for building_deuterium_tank+1
+[10:40:45] planet 99: queued building_robot_factory to 2
+[10:40:45] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:41:28] ==== loop 42/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:41:29] planet 39: queue busy, throttled building_robot_factory
+[10:41:29] planet 100: no resources for building_deuterium_tank+1
+[10:41:29] planet 99: no resources for building_robot_factory+1
+[10:41:29] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:42:18] ==== loop 43/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:42:19] planet 39: queue busy, throttled building_robot_factory
+[10:42:19] planet 99: no resources for building_robot_factory+1
+[10:42:19] planet 100: no resources for building_deuterium_tank+1
+[10:42:19] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:42:59] ==== loop 44/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:43:01] planet 39: queue busy, throttled building_robot_factory
+[10:43:01] planet 99: no resources for building_robot_factory+1
+[10:43:01] planet 100: no resources for building_deuterium_tank+1
+[10:43:01] planet 39: queue busy, throttled building_robot_factory
+[10:43:01] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:43:47] ==== loop 45/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:43:48] planet 39: queue busy, throttled building_robot_factory
+[10:43:48] planet 99: no resources for building_robot_factory+1
+[10:43:48] planet 100: no resources for building_deuterium_tank+1
+[10:43:48] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:44:32] ==== loop 46/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:44:32] planet 39: queue busy, throttled building_robot_factory
+[10:44:32] planet 99: queued building_robot_factory to 3
+[10:44:32] planet 100: no resources for building_deuterium_tank+1
+[10:44:32] planet 39: queue busy, throttled building_robot_factory
+[10:44:32] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:45:12] ==== loop 47/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:45:15] planet 39: queue busy, throttled building_robot_factory
+[10:45:15] planet 100: no resources for building_deuterium_tank+1
+[10:45:15] planet 99: no resources for building_robot_factory+1
+[10:45:15] planet 39: queue busy, throttled building_robot_factory
+[2026-05-13 10:45:59] ==== loop 48/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:46:02] planet 39: building queue full (5)
+[10:46:02] planet 99: no resources for building_robot_factory+1
+[10:46:02] planet 100: no resources for building_deuterium_tank+1
+[10:46:02] planet 39: building queue full (5)
+[2026-05-13 10:46:49] ==== loop 49/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:46:52] planet 39: building queue full (5)
+[10:46:52] planet 99: no resources for building_robot_factory+1
+[10:46:52] planet 100: no resources for building_deuterium_tank+1
+[10:46:52] planet 39: building queue full (5)
+[10:46:52] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:47:40] ==== loop 50/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:47:42] planet 39: building queue full (5)
+[10:47:42] planet 99: no resources for building_robot_factory+1
+[10:47:42] planet 100: no resources for building_deuterium_tank+1
+[10:47:42] planet 39: building queue full (5)
+[2026-05-13 10:48:30] ==== loop 51/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:48:32] planet 39: building queue full (5)
+[10:48:32] planet 99: no resources for building_robot_factory+1
+[10:48:32] planet 100: no resources for building_deuterium_tank+1
+[10:48:32] planet 39: building queue full (5)
+[2026-05-13 10:49:16] ==== loop 52/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:49:18] planet 39: building queue full (5)
+[10:49:18] planet 99: no resources for building_robot_factory+1
+[10:49:18] planet 100: no resources for building_deuterium_tank+1
+[10:49:18] planet 39: building queue full (5)
+[10:49:18] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:50:09] ==== loop 53/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:50:11] planet 39: building queue full (5)
+[10:50:11] planet 99: no resources for defense_rocket_launcher+8
+[10:50:11] planet 100: queued building_crystal_mine to 1
+[10:50:11] planet 39: building queue full (5)
+[10:50:11] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:50:59] ==== loop 54/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:51:01] planet 39: building queue full (5)
+[10:51:01] planet 99: no resources for defense_rocket_launcher+8
+[10:51:01] planet 100: queued building_crystal_mine to 2
+[10:51:01] planet 39: building queue full (5)
+[2026-05-13 10:51:49] ==== loop 55/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:51:52] planet 39: building queue full (5)
+[10:51:52] planet 99: no resources for defense_rocket_launcher+8
+[10:51:52] planet 100: queued building_crystal_mine to 3
+[10:51:52] planet 39: building queue full (5)
+[10:51:52] ally: transport: 1:5:4 -> 1:282:9 [ally_bot] m=0 c=0 d=58167 ships=0B+10S eta=85s fuel=671
+[2026-05-13 10:52:38] ==== loop 56/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:52:40] planet 39: building queue full (5)
+[10:52:40] planet 100: queued building_crystal_mine to 4
+[10:52:40] planet 99: no resources for defense_rocket_launcher+8
+[10:52:40] planet 39: building queue full (5)
+[2026-05-13 10:53:21] ==== loop 57/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:53:24] planet 39: building queue full (5)
+[10:53:24] planet 100: queued building_crystal_mine to 5
+[10:53:24] planet 99: no resources for defense_rocket_launcher+8
+[10:53:24] planet 39: building queue full (5)
+[10:53:24] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:54:08] ==== loop 58/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:54:10] planet 39: building queue full (5)
+[10:54:10] planet 99: no resources for defense_rocket_launcher+8
+[10:54:10] planet 100: queued building_crystal_mine to 6
+[10:54:10] planet 39: building queue full (5)
+[10:54:10] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:54:58] ==== loop 59/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:55:00] planet 39: building queue full (5)
+[10:55:00] planet 99: no resources for defense_rocket_launcher+8
+[10:55:00] planet 100: queued building_deuterium_sintetizer to 7
+[10:55:00] planet 39: building queue full (5)
+[2026-05-13 10:55:44] ==== loop 60/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:55:46] planet 39: building queue full (5)
+[10:55:46] planet 99: no resources for defense_rocket_launcher+8
+[10:55:46] planet 100: queued building_solar_plant to 9
+[10:55:46] planet 39: building queue full (5)
+[2026-05-13 10:56:32] ==== loop 61/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:56:34] planet 39: building queue full (5)
+[10:56:34] planet 99: no resources for defense_rocket_launcher+8
+[10:56:34] planet 100: no resources for building_deuterium_sintetizer+1
+[10:56:34] planet 39: building queue full (5)
+[10:56:34] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:57:15] ==== loop 62/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:57:17] planet 39: building queue full (5)
+[10:57:17] planet 100: no resources for building_deuterium_sintetizer+1
+[10:57:17] planet 99: no resources for defense_rocket_launcher+8
+[10:57:17] planet 39: building queue full (5)
+[10:57:17] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:58:02] ==== loop 63/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:58:04] planet 39: building queue full (5)
+[10:58:04] planet 100: no resources for building_deuterium_sintetizer+1
+[10:58:04] planet 99: no resources for defense_rocket_launcher+8
+[10:58:04] planet 39: building queue full (5)
+[2026-05-13 10:58:46] ==== loop 64/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:58:48] planet 39: building queue full (5)
+[10:58:48] planet 100: no resources for building_deuterium_sintetizer+1
+[10:58:48] planet 99: no resources for defense_rocket_launcher+8
+[10:58:48] planet 39: building queue full (5)
+[10:58:48] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 10:59:32] ==== loop 65/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[10:59:35] planet 39: building queue full (5)
+[10:59:35] planet 100: no resources for building_deuterium_sintetizer+1
+[10:59:35] planet 99: no resources for defense_rocket_launcher+8
+[10:59:35] planet 39: building queue full (5)
+[10:59:35] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:00:23] ==== loop 66/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:00:27] planet 39: building queue full (5)
+[11:00:27] planet 100: queued building_crystal_store to 1
+[11:00:27] planet 99: queued building_crystal_mine to 1
+[11:00:27] planet 39: building queue full (5)
+[2026-05-13 11:01:14] ==== loop 67/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:01:17] planet 39: building queue full (5)
+[11:01:17] planet 100: queued building_crystal_store to 2
+[11:01:17] planet 99: queued building_solar_plant to 1
+[11:01:17] planet 39: building queue full (5)
+[11:01:17] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:02:00] ==== loop 68/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:02:03] planet 39: building queue full (5)
+[11:02:03] planet 100: queued building_deuterium_sintetizer to 8
+[11:02:03] planet 99: queued building_crystal_mine to 2
+[11:02:03] planet 39: building queue full (5)
+[11:02:03] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:02:51] ==== loop 69/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:02:53] planet 39: building queue full (5)
+[11:02:53] planet 100: queued building_solar_plant to 10
+[11:02:53] planet 99: queued building_solar_plant to 2
+[11:02:53] planet 39: building queue full (5)
+[11:02:53] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:03:38] ==== loop 70/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:03:41] planet 39: building queue full (5)
+[11:03:41] planet 100: queued building_deuterium_tank to 2
+[11:03:41] planet 99: queued building_crystal_mine to 3
+[11:03:41] planet 39: building queue full (5)
+[11:03:41] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:04:29] ==== loop 71/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:04:32] planet 39: building queue full (5)
+[11:04:32] planet 100: no resources for building_deuterium_sintetizer+1
+[11:04:32] planet 99: queued building_crystal_mine to 4
+[11:04:32] planet 39: building queue full (5)
+[11:04:32] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:05:16] ==== loop 72/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:05:19] planet 39: building queue full (5)
+[11:05:19] planet 100: no resources for building_deuterium_sintetizer+1
+[11:05:19] planet 99: queued building_solar_plant to 3
+[11:05:19] planet 39: building queue full (5)
+[11:05:19] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:06:04] ==== loop 73/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:06:06] planet 39: building queue full (5)
+[11:06:06] planet 100: no resources for building_deuterium_sintetizer+1
+[11:06:06] planet 99: queued building_crystal_mine to 5
+[11:06:06] planet 39: building queue full (5)
+[11:06:06] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:06:48] ==== loop 74/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:06:50] planet 39: building queue full (5)
+[11:06:50] planet 100: no resources for building_deuterium_sintetizer+1
+[11:06:50] planet 99: queued building_crystal_mine to 6
+[11:06:50] planet 39: building queue full (5)
+[11:06:50] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:07:36] ==== loop 75/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:07:38] planet 39: building queue full (5)
+[11:07:38] planet 100: no resources for building_deuterium_sintetizer+1
+[11:07:38] planet 99: queued building_solar_plant to 4
+[11:07:38] planet 39: building queue full (5)
+[2026-05-13 11:08:27] ==== loop 76/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:08:29] planet 39: building queue full (5)
+[11:08:29] planet 100: no resources for building_deuterium_sintetizer+1
+[11:08:29] planet 99: queued building_crystal_mine to 7
+[11:08:29] planet 39: building queue full (5)
+[2026-05-13 11:09:15] ==== loop 77/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:09:18] planet 39: building queue full (5)
+[11:09:18] planet 100: no resources for building_deuterium_sintetizer+1
+[11:09:18] planet 99: queued building_solar_plant to 5
+[11:09:18] planet 39: building queue full (5)
+[2026-05-13 11:09:57] ==== loop 78/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:10:00] planet 39: building queue full (5)
+[11:10:00] planet 100: no resources for building_deuterium_sintetizer+1
+[11:10:00] planet 99: queued building_crystal_mine to 8
+[11:10:00] planet 39: building queue full (5)
+[2026-05-13 11:10:44] ==== loop 79/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:10:47] planet 39: building queue full (5)
+[11:10:47] planet 100: queued building_laboratory to 1
+[11:10:47] planet 99: queued building_solar_plant to 6
+[11:10:47] planet 39: building queue full (5)
+[2026-05-13 11:11:31] ==== loop 80/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:11:34] planet 39: building queue full (5)
+[11:11:34] planet 100: queued building_laboratory to 2
+[11:11:34] planet 99: queued building_hangar to 2
+[11:11:34] planet 39: building queue full (5)
+[2026-05-13 11:12:13] ==== loop 81/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:12:16] planet 39: building queue full (5)
+[11:12:16] planet 100: queued building_laboratory to 3
+[11:12:16] planet 99: queued building_hangar to 3
+[11:12:16] planet 39: building queue full (5)
+[11:12:16] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:12:55] ==== loop 82/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:12:57] planet 39: building queue full (5)
+[11:12:57] planet 100: queued building_laboratory to 4
+[11:12:57] planet 99: queued building_hangar to 4
+[11:12:57] planet 39: building queue full (5)
+[11:12:57] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:13:41] ==== loop 83/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:13:43] planet 39: building queue full (5)
+[11:13:43] planet 100: queued building_laboratory to 5
+[11:13:43] planet 99: no resources for building_hangar+1
+[11:13:43] planet 39: building queue full (5)
+[2026-05-13 11:14:21] ==== loop 84/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:14:24] planet 39: building queue full (5)
+[11:14:24] planet 99: no resources for building_hangar+1
+[11:14:24] planet 100: no resources for building_laboratory+1
+[11:14:24] planet 39: building queue full (5)
+[2026-05-13 11:15:06] ==== loop 85/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:15:08] planet 39: building queue full (5)
+[11:15:08] planet 99: no resources for building_hangar+1
+[11:15:08] planet 100: no resources for building_laboratory+1
+[11:15:08] planet 39: building queue full (5)
+[11:15:08] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:15:50] ==== loop 86/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:15:54] planet 39: building queue full (5)
+[11:15:54] planet 100: no resources for building_laboratory+1
+[11:15:54] planet 99: no resources for building_hangar+1
+[11:15:54] planet 39: building queue full (5)
+[11:15:54] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:16:34] ==== loop 87/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:16:38] planet 39: building queue full (5)
+[11:16:38] planet 100: no resources for building_laboratory+1
+[11:16:38] planet 99: no resources for building_hangar+1
+[11:16:38] planet 39: building queue full (5)
+[11:16:38] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:17:24] ==== loop 88/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:17:26] planet 39: building queue full (5)
+[11:17:26] planet 100: no resources for building_laboratory+1
+[11:17:26] planet 99: no resources for building_hangar+1
+[11:17:26] planet 39: building queue full (5)
+[2026-05-13 11:18:14] ==== loop 89/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:18:17] planet 39: building queue full (5)
+[11:18:17] planet 100: no resources for building_laboratory+1
+[11:18:17] planet 99: no resources for building_hangar+1
+[11:18:17] planet 39: building queue full (5)
+[2026-05-13 11:19:03] ==== loop 90/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:19:05] planet 39: building queue full (5)
+[11:19:05] planet 100: no resources for building_laboratory+1
+[11:19:05] planet 99: no resources for building_hangar+1
+[11:19:05] planet 39: building queue full (5)
+[2026-05-13 11:19:48] ==== loop 91/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:19:51] planet 39: building queue full (5)
+[11:19:51] planet 100: no resources for building_laboratory+1
+[11:19:51] planet 99: no resources for building_hangar+1
+[11:19:51] planet 39: building queue full (5)
+[11:19:51] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:20:34] ==== loop 92/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:20:37] planet 39: building queue full (5)
+[11:20:37] planet 100: no resources for building_deuterium_sintetizer+1
+[11:20:37] planet 99: no resources for defense_ion_cannon+3
+[11:20:37] planet 39: building queue full (5)
+[2026-05-13 11:21:19] ==== loop 93/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:21:22] planet 39: building queue full (5)
+[11:21:22] planet 100: no resources for building_deuterium_sintetizer+1
+[11:21:22] planet 99: no resources for defense_ion_cannon+3
+[11:21:22] planet 39: building queue full (5)
+[2026-05-13 11:22:03] ==== loop 94/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:22:06] planet 39: building queue full (5)
+[11:22:06] planet 100: no resources for building_deuterium_sintetizer+1
+[11:22:06] planet 99: no resources for defense_ion_cannon+3
+[11:22:06] planet 39: building queue full (5)
+[2026-05-13 11:22:47] ==== loop 95/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:22:51] planet 39: building queue full (5)
+[11:22:51] planet 100: no resources for building_deuterium_sintetizer+1
+[11:22:51] planet 99: no resources for defense_ion_cannon+3
+[11:22:51] planet 39: building queue full (5)
+[11:22:51] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:23:32] ==== loop 96/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:23:34] planet 39: building queue full (5)
+[11:23:34] planet 100: no resources for building_deuterium_sintetizer+1
+[11:23:34] planet 99: no resources for defense_ion_cannon+3
+[11:23:34] planet 39: building queue full (5)
+[11:23:34] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:24:16] ==== loop 97/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:24:18] planet 39: building queue full (5)
+[11:24:18] planet 100: no resources for building_deuterium_sintetizer+1
+[11:24:18] planet 99: no resources for defense_ion_cannon+3
+[11:24:18] planet 39: building queue full (5)
+[11:24:18] ally: transport: 1:5:4 -> 1:179:5 [ally_bot] m=0 c=42629 d=0 ships=0B+8S eta=70s fuel=353
+[11:24:18] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:25:01] ==== loop 98/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:25:04] planet 39: building queue full (5)
+[11:25:04] planet 100: queued building_deuterium_sintetizer to 9
+[11:25:04] planet 99: no resources for defense_ion_cannon+3
+[11:25:04] planet 39: building queue full (5)
+[2026-05-13 11:25:51] ==== loop 99/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:25:54] planet 39: building queue full (5)
+[11:25:54] planet 99: no resources for defense_ion_cannon+3
+[11:25:54] planet 100: no resources for building_deuterium_sintetizer+1
+[11:25:54] planet 39: building queue full (5)
+[2026-05-13 11:26:40] ==== loop 100/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:26:43] planet 39: building queue full (5)
+[11:26:43] planet 99: no resources for defense_ion_cannon+3
+[11:26:43] planet 100: queued building_solar_plant to 11
+[11:26:43] planet 39: building queue full (5)
+[11:26:43] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:27:27] ==== loop 101/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:27:30] planet 39: building queue full (5)
+[11:27:30] planet 99: no resources for defense_ion_cannon+3
+[11:27:30] planet 100: no resources for building_solar_plant+1
+[11:27:30] planet 39: building queue full (5)
+[11:27:30] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:28:14] ==== loop 102/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:28:17] planet 39: building queue full (5)
+[11:28:17] planet 99: no resources for defense_ion_cannon+3
+[11:28:17] planet 100: no resources for building_deuterium_sintetizer+1
+[11:28:17] planet 39: building queue full (5)
+[2026-05-13 11:28:58] ==== loop 103/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:29:00] planet 39: building queue full (5)
+[11:29:00] planet 100: no resources for building_deuterium_sintetizer+1
+[11:29:00] planet 99: no resources for defense_ion_cannon+3
+[11:29:00] planet 39: building queue full (5)
+[11:29:00] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:29:40] ==== loop 104/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:29:42] planet 39: building queue full (5)
+[11:29:42] planet 100: no resources for building_deuterium_sintetizer+1
+[11:29:42] planet 99: no resources for defense_ion_cannon+3
+[11:29:42] planet 39: building queue full (5)
+[2026-05-13 11:30:21] ==== loop 105/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:30:23] planet 39: building queue full (5)
+[11:30:23] planet 99: queued building_crystal_store to 1
+[11:30:23] planet 100: queued building_metal_mine to 1
+[11:30:23] planet 39: building queue full (5)
+[11:30:23] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:31:06] ==== loop 106/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:31:09] planet 39: building queue full (5)
+[11:31:09] planet 99: queued building_crystal_store to 2
+[11:31:09] planet 100: queued building_metal_mine to 2
+[11:31:09] planet 39: building queue full (5)
+[2026-05-13 11:31:48] ==== loop 107/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:31:51] planet 39: building queue full (5)
+[11:31:51] planet 99: queued building_crystal_store to 3
+[11:31:51] planet 100: queued building_metal_mine to 3
+[11:31:51] planet 39: building queue full (5)
+[2026-05-13 11:32:33] ==== loop 108/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:32:36] planet 39: building queue full (5)
+[11:32:36] planet 99: no resources for building_crystal_store+1
+[11:32:36] planet 100: queued building_metal_mine to 4
+[11:32:36] planet 39: building queue full (5)
+[2026-05-13 11:33:15] ==== loop 109/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:33:18] planet 39: building queue full (5)
+[11:33:18] planet 99: no resources for building_crystal_store+1
+[11:33:18] planet 100: queued building_metal_mine to 5
+[11:33:18] planet 39: building queue full (5)
+[2026-05-13 11:34:00] ==== loop 110/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:34:03] planet 39: building queue full (5)
+[11:34:03] planet 99: no resources for building_crystal_store+1
+[11:34:03] planet 100: queued building_metal_mine to 6
+[11:34:03] planet 39: building queue full (5)
+[2026-05-13 11:34:46] ==== loop 111/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:34:50] planet 39: building queue full (5)
+[11:34:50] planet 99: no resources for building_crystal_store+1
+[11:34:50] planet 100: queued building_solar_plant to 12
+[11:34:50] planet 39: building queue full (5)
+[11:34:50] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:35:28] ==== loop 112/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:35:33] planet 39: building queue full (5)
+[11:35:33] planet 99: no resources for building_crystal_store+1
+[11:35:33] planet 100: building queue full (5)
+[11:35:33] planet 39: building queue full (5)
+[11:35:33] planet 100: building queue full (5)
+[11:35:33] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:36:13] ==== loop 113/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:36:16] planet 39: building queue full (5)
+[11:36:16] planet 99: no resources for building_crystal_store+1
+[11:36:16] planet 100: queued building_metal_mine to 7
+[11:36:16] planet 39: building queue full (5)
+[11:36:16] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:36:57] ==== loop 114/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:36:58] planet 39: building queue full (5)
+[11:36:58] planet 99: no resources for building_crystal_store+1
+[11:36:58] planet 100: queued building_metal_mine to 8
+[11:36:58] planet 39: building queue full (5)
+[2026-05-13 11:37:39] ==== loop 115/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:37:41] planet 39: building queue full (5)
+[11:37:41] planet 99: no resources for building_crystal_store+1
+[11:37:41] planet 100: queued building_metal_mine to 9
+[11:37:41] planet 39: building queue full (5)
+[2026-05-13 11:38:24] ==== loop 116/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:38:27] planet 39: building queue full (5)
+[11:38:27] planet 99: no resources for building_crystal_store+1
+[11:38:27] planet 100: queued building_metal_mine to 10
+[11:38:27] planet 39: building queue full (5)
+[2026-05-13 11:39:15] ==== loop 117/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:39:17] planet 39: building queue full (5)
+[11:39:17] planet 99: no resources for building_crystal_store+1
+[11:39:17] planet 100: queue busy, throttled building_robot_factory
+[11:39:17] planet 39: building queue full (5)
+[2026-05-13 11:40:03] ==== loop 118/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:40:05] planet 39: building queue full (5)
+[11:40:05] planet 100: queue busy, throttled building_robot_factory
+[11:40:05] planet 99: queued building_solar_plant to 7
+[11:40:05] planet 39: building queue full (5)
+[11:40:05] planet 100: queue busy, throttled building_robot_factory
+[11:40:05] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:40:46] ==== loop 119/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:40:47] planet 39: building queue full (5)
+[11:40:47] planet 100: queue busy, throttled building_robot_factory
+[11:40:47] planet 99: queued building_solar_plant to 8
+[11:40:47] planet 39: building queue full (5)
+[11:40:47] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 11:41:30] ==== loop 120/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:41:32] planet 39: building queue full (5)
+[11:41:32] planet 100: queue busy, throttled building_robot_factory
+[11:41:32] planet 99: queued building_robot_factory to 4
+[11:41:32] planet 39: building queue full (5)
+[11:41:32] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 11:42:21] ==== loop 121/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:42:23] planet 39: building queue full (5)
+[11:42:23] planet 100: queue busy, throttled building_robot_factory
+[11:42:23] planet 99: no resources for building_robot_factory+1
+[11:42:23] planet 39: building queue full (5)
+[11:42:23] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 11:43:13] ==== loop 122/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:43:14] planet 39: building queue full (5)
+[11:43:14] planet 100: queue busy, throttled building_robot_factory
+[11:43:14] planet 99: no resources for building_robot_factory+1
+[11:43:14] planet 39: building queue full (5)
+[11:43:14] planet 100: queue busy, throttled building_robot_factory
+[11:43:14] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:44:01] ==== loop 123/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:44:02] planet 39: building queue full (5)
+[11:44:02] planet 100: queue busy, throttled building_robot_factory
+[11:44:02] planet 99: no resources for building_robot_factory+1
+[11:44:02] planet 39: building queue full (5)
+[11:44:02] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 11:44:46] ==== loop 124/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:44:49] planet 39: building queue full (5)
+[11:44:49] planet 100: queue busy, throttled building_robot_factory
+[11:44:49] planet 99: no resources for building_robot_factory+1
+[11:44:49] planet 39: building queue full (5)
+[11:44:49] planet 100: queue busy, throttled building_robot_factory
+[11:44:49] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:45:34] ==== loop 125/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:45:35] planet 39: building queue full (5)
+[11:45:35] planet 100: queue busy, throttled building_robot_factory
+[11:45:35] planet 99: no resources for building_robot_factory+1
+[11:45:35] planet 39: building queue full (5)
+[11:45:35] planet 100: queue busy, throttled building_robot_factory
+[11:45:35] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:46:18] ==== loop 126/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:46:20] planet 39: building queue full (5)
+[11:46:20] planet 100: queue busy, throttled building_robot_factory
+[11:46:20] planet 99: no resources for building_robot_factory+1
+[11:46:20] planet 39: building queue full (5)
+[11:46:20] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 11:47:03] ==== loop 127/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:47:06] planet 39: building queue full (5)
+[11:47:06] planet 100: queue busy, throttled building_robot_factory
+[11:47:06] planet 99: no resources for building_robot_factory+1
+[11:47:06] planet 39: building queue full (5)
+[11:47:06] planet 100: queue busy, throttled building_robot_factory
+[11:47:06] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:47:51] ==== loop 128/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:47:52] planet 39: building queue full (5)
+[11:47:52] planet 100: queue busy, throttled building_robot_factory
+[11:47:52] planet 99: no resources for building_robot_factory+1
+[11:47:52] planet 39: building queue full (5)
+[11:47:52] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 11:48:39] ==== loop 129/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:48:41] planet 39: building queue full (5)
+[11:48:41] planet 100: queue busy, throttled building_robot_factory
+[11:48:41] planet 99: no resources for building_robot_factory+1
+[11:48:41] planet 39: building queue full (5)
+[11:48:41] planet 100: queue busy, throttled building_robot_factory
+[11:48:41] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:49:30] ==== loop 130/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:49:32] planet 39: building queue full (5)
+[11:49:32] planet 100: queue busy, throttled building_robot_factory
+[11:49:32] planet 99: no resources for building_robot_factory+1
+[11:49:32] planet 39: building queue full (5)
+[11:49:32] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 11:50:19] ==== loop 131/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:50:21] planet 39: building queue full (5)
+[11:50:21] planet 100: queue busy, throttled building_robot_factory
+[11:50:21] planet 99: no resources for ship_light_fighter+5
+[11:50:21] planet 39: building queue full (5)
+[11:50:21] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 11:51:06] ==== loop 132/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:51:09] planet 39: building queue full (5)
+[11:51:09] planet 100: queue busy, throttled building_robot_factory
+[11:51:09] planet 99: no resources for ship_light_fighter+5
+[11:51:09] planet 39: building queue full (5)
+[11:51:09] planet 100: queue busy, throttled building_robot_factory
+[11:51:09] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:51:55] ==== loop 133/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:51:57] planet 39: building queue full (5)
+[11:51:57] planet 100: queue busy, throttled building_robot_factory
+[11:51:57] planet 99: no resources for ship_light_fighter+5
+[11:51:57] planet 39: building queue full (5)
+[11:51:57] planet 100: queue busy, throttled building_robot_factory
+[11:51:57] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:52:45] ==== loop 134/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:52:48] planet 39: building queue full (5)
+[11:52:48] planet 100: queue busy, throttled building_robot_factory
+[11:52:48] planet 99: no resources for ship_light_fighter+5
+[11:52:48] planet 39: building queue full (5)
+[11:52:48] planet 100: queue busy, throttled building_robot_factory
+[11:52:48] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:53:27] ==== loop 135/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:53:29] planet 39: building queue full (5)
+[11:53:29] planet 100: queue busy, throttled building_robot_factory
+[11:53:29] planet 99: no resources for ship_light_fighter+5
+[11:53:29] planet 39: building queue full (5)
+[11:53:29] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 11:54:07] ==== loop 136/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:54:10] planet 39: building queue full (5)
+[11:54:10] planet 100: queue busy, throttled building_robot_factory
+[11:54:10] planet 99: no resources for ship_light_fighter+5
+[11:54:10] planet 39: building queue full (5)
+[11:54:10] planet 100: queue busy, throttled building_robot_factory
+[11:54:10] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:54:49] ==== loop 137/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:54:51] planet 39: building queue full (5)
+[11:54:51] planet 100: queue busy, throttled building_robot_factory
+[11:54:51] planet 99: no resources for ship_light_fighter+5
+[11:54:51] planet 39: building queue full (5)
+[11:54:51] planet 100: queue busy, throttled building_robot_factory
+[11:54:51] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:55:38] ==== loop 138/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:55:40] planet 39: building queue full (5)
+[11:55:40] planet 100: queue busy, throttled building_robot_factory
+[11:55:40] planet 99: no resources for ship_light_fighter+5
+[11:55:40] planet 39: building queue full (5)
+[11:55:40] planet 100: queue busy, throttled building_robot_factory
+[11:55:40] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:56:27] ==== loop 139/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:56:28] planet 39: building queue full (5)
+[11:56:28] planet 100: queue busy, throttled building_robot_factory
+[11:56:28] planet 99: no resources for ship_light_fighter+5
+[11:56:28] planet 39: building queue full (5)
+[11:56:28] planet 100: queue busy, throttled building_robot_factory
+[11:56:28] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:57:10] ==== loop 140/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:57:13] planet 39: building queue full (5)
+[11:57:13] planet 100: queue busy, throttled building_robot_factory
+[11:57:13] planet 99: no resources for ship_light_fighter+5
+[11:57:13] planet 39: building queue full (5)
+[11:57:13] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 11:58:00] ==== loop 141/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:58:02] planet 39: building queue full (5)
+[11:58:02] planet 100: queue busy, throttled building_robot_factory
+[11:58:02] planet 99: no resources for ship_light_fighter+5
+[11:58:02] planet 39: building queue full (5)
+[11:58:02] planet 100: queue busy, throttled building_robot_factory
+[11:58:02] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:58:38] ==== loop 142/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:58:40] planet 39: building queue full (5)
+[11:58:40] planet 100: queue busy, throttled building_robot_factory
+[11:58:40] planet 99: no resources for ship_light_fighter+5
+[11:58:40] planet 39: building queue full (5)
+[11:58:40] planet 100: queue busy, throttled building_robot_factory
+[11:58:40] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 11:59:23] ==== loop 143/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[11:59:25] planet 39: building queue full (5)
+[11:59:25] planet 100: queue busy, throttled building_robot_factory
+[11:59:25] planet 99: no resources for ship_light_fighter+5
+[11:59:25] planet 39: building queue full (5)
+[11:59:25] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 12:00:07] ==== loop 144/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:00:09] planet 39: building queue full (5)
+[12:00:09] planet 100: queue busy, throttled building_robot_factory
+[12:00:09] planet 99: no resources for ship_light_fighter+5
+[12:00:09] planet 39: building queue full (5)
+[12:00:09] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 12:00:51] ==== loop 145/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:00:54] planet 39: building queue full (5)
+[12:00:54] planet 100: queue busy, throttled building_robot_factory
+[12:00:54] planet 99: no resources for ship_light_fighter+5
+[12:00:54] planet 39: building queue full (5)
+[12:00:54] planet 100: queue busy, throttled building_robot_factory
+[12:00:54] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 12:01:39] ==== loop 146/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:01:41] planet 39: building queue full (5)
+[12:01:41] planet 100: queue busy, throttled building_robot_factory
+[12:01:41] planet 99: no resources for ship_light_fighter+5
+[12:01:41] planet 39: building queue full (5)
+[12:01:41] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 12:02:26] ==== loop 147/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:02:29] planet 39: building queue full (5)
+[12:02:29] planet 100: queue busy, throttled building_robot_factory
+[12:02:29] planet 99: no resources for ship_light_fighter+5
+[12:02:29] planet 39: building queue full (5)
+[12:02:29] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 12:03:13] ==== loop 148/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:03:15] planet 39: building queue full (5)
+[12:03:15] planet 100: queue busy, throttled building_robot_factory
+[12:03:15] planet 99: no resources for ship_light_fighter+5
+[12:03:15] planet 39: building queue full (5)
+[12:03:15] planet 100: queue busy, throttled building_robot_factory
+[12:03:15] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 12:04:01] ==== loop 149/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:04:03] planet 39: building queue full (5)
+[12:04:03] planet 100: queue busy, throttled building_robot_factory
+[12:04:03] planet 99: no resources for ship_light_fighter+5
+[12:04:03] planet 39: building queue full (5)
+[12:04:03] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 12:04:48] ==== loop 150/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:04:50] planet 39: building queue full (5)
+[12:04:50] planet 100: queue busy, throttled building_robot_factory
+[12:04:50] planet 99: no resources for ship_light_fighter+5
+[12:04:50] planet 39: building queue full (5)
+[12:04:50] planet 100: queue busy, throttled building_robot_factory
+[12:04:50] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 12:05:37] ==== loop 151/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:05:39] planet 39: building queue full (5)
+[12:05:39] planet 100: queue busy, throttled building_robot_factory
+[12:05:39] planet 99: no resources for ship_light_fighter+5
+[12:05:39] planet 39: building queue full (5)
+[12:05:39] planet 100: queue busy, throttled building_robot_factory
+[12:05:39] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 12:06:25] ==== loop 152/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:06:28] planet 39: building queue full (5)
+[12:06:28] planet 100: queue busy, throttled building_robot_factory
+[12:06:28] planet 99: no resources for ship_light_fighter+5
+[12:06:28] planet 39: building queue full (5)
+[12:06:28] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 12:07:14] ==== loop 153/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:07:16] planet 39: building queue full (5)
+[12:07:16] planet 100: queue busy, throttled building_robot_factory
+[12:07:16] planet 99: no resources for ship_light_fighter+5
+[12:07:16] planet 39: building queue full (5)
+[12:07:16] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 12:08:07] ==== loop 154/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:08:09] planet 39: building queue full (5)
+[12:08:09] planet 100: queue busy, throttled building_robot_factory
+[12:08:09] planet 99: no resources for ship_light_fighter+5
+[12:08:09] planet 39: building queue full (5)
+[12:08:09] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 12:09:02] ==== loop 155/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:09:03] planet 39: building queue full (5)
+[12:09:03] planet 100: queue busy, throttled building_robot_factory
+[12:09:03] planet 99: no resources for ship_light_fighter+5
+[12:09:03] planet 39: building queue full (5)
+[12:09:03] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 12:09:47] ==== loop 156/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:09:48] planet 39: building queue full (5)
+[12:09:48] planet 100: queue busy, throttled building_robot_factory
+[12:09:48] planet 99: no resources for ship_light_fighter+5
+[12:09:48] planet 39: building queue full (5)
+[12:09:48] planet 100: queue busy, throttled building_robot_factory
+[12:09:48] research: blocked research_plasma_technology (research_laser_technology 8/10)
+[2026-05-13 12:10:34] ==== loop 157/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:10:35] planet 39: building queue full (5)
+[12:10:35] planet 100: queue busy, throttled building_robot_factory
+[12:10:35] planet 99: no resources for defense_ion_cannon+3
+[12:10:35] planet 39: building queue full (5)
+[12:10:35] planet 100: queue busy, throttled building_robot_factory
+[2026-05-13 12:11:18] ==== loop 158/∞ | seed=761628055573473671 archetype=balanced personality=defensor focus=mil actions_per_loop=4 ====
+[12:11:19] planet 39: building queue full (5)
+[12:11:19] planet 100: queue busy, throttled building_robot_factory
+[12:11:19] planet 99: no resources for defense_ion_cannon+3
+[12:11:19] planet 39: building queue full (5)
+[12:11:19] planet 100: queue busy, throttled building_robot_factory
+[12:11:19] research: blocked research_plasma_technology (research_laser_technology 8/10)

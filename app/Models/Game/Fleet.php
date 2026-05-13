@@ -33,7 +33,8 @@ class Fleet extends Model
                         s.`ship_solar_satellite`,
                         s.`ship_destroyer`,
                         s.`ship_deathstar`,
-                        s.`ship_battlecruiser`
+                        s.`ship_battlecruiser`,
+                        s.`ship_mining_drill`
                     FROM `' . SHIPS . "` AS s
                     WHERE s.`ship_planet_id` = '" . $planet_id . "';"
             );
@@ -66,7 +67,7 @@ class Fleet extends Model
     /**
      * Get ACS Data by group ID
      *
-     * @param int $group_id
+     * @param string $group_id
      *
      * @return array
      */
@@ -142,7 +143,7 @@ class Fleet extends Model
      * @param int $p    Planet
      * @param int $pt   Planet Type
      *
-     * @return bool
+     * @return array
      */
     public function getPlanetOwnerByCoords(int $g, int $s, int $p, int $pt): array
     {
@@ -224,6 +225,7 @@ class Fleet extends Model
             $this->db->beginTransaction();
 
             // prepare the query
+            $sql = [];
             foreach ($fleet_data as $field => $value) {
                 $sql[] = '`' . $field . "` = '" . $value . "'";
             }
@@ -240,7 +242,7 @@ class Fleet extends Model
             $this->db->commitTransaction();
 
             return true;
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
 
             return false;
@@ -292,7 +294,7 @@ class Fleet extends Model
             );
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }
@@ -309,6 +311,7 @@ class Fleet extends Model
     public function updatePlanet(array $planet_data, array $fleet_data, array $fleet_ships)
     {
         // prepare the query
+        $sql = [];
         foreach ($fleet_ships as $field => $value) {
             $sql[] = '`' . $field . '` = `' . $field . "` - '" . $value . "'";
         }
@@ -330,7 +333,7 @@ class Fleet extends Model
      * @param int $current_planet Current Planet ID
      * @param int $target_planet  Target Planet ID
      *
-     * @return array
+     * @return string
      */
     public function getBuddies(int $current_planet, int $target_planet): string
     {
@@ -391,7 +394,7 @@ class Fleet extends Model
      *
      * @param int $fleet_group
      *
-     * @return string
+     * @return int
      */
     public function getAcsOwner(int $fleet_group): int
     {
@@ -455,9 +458,9 @@ class Fleet extends Model
             }
 
             $base_time = time();
-            $fleet_creation = $fleet->getFleetCreation();
+            $fleet_creation = (int) $fleet->getFleetCreation();
             $current_time = $base_time - $fleet_creation;
-            $flight_lenght = $fleet->getFleetStartTime() - $fleet_creation;
+            $flight_lenght = (int) $fleet->getFleetStartTime() - $fleet_creation;
             $return_time = $base_time + $current_time;
 
             if ($fleet->getFleetEndStay() != 0
@@ -478,7 +481,7 @@ class Fleet extends Model
             $this->db->commitTransaction();
 
             return true;
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
 
             return false;
@@ -521,7 +524,7 @@ class Fleet extends Model
             $this->db->commitTransaction();
 
             return $group_id;
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
 
             return false;

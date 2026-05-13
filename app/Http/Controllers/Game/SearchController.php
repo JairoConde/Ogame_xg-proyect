@@ -79,12 +79,15 @@ class SearchController extends BaseController
                 case 'player_name':
                 default:
                     $this->results = $this->searchModel->getResultsByPlayerName($search_query['search_text']);
+
                     break;
                 case 'alliance_tag':
                     $this->results = $this->searchModel->getResultsByAllianceTag($search_query['search_text']);
+
                     break;
                 case 'planet_names':
                     $this->results = $this->searchModel->getResultsByPlanetName($search_query['search_text']);
+
                     break;
             }
 

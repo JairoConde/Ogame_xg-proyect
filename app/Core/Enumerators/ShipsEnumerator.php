@@ -20,4 +20,5 @@ abstract class ShipsEnumerator
     public const ship_destroyer = 213;
     public const ship_deathstar = 214;
     public const ship_battlecruiser = 215;
+    public const ship_mining_drill = 216;
 }

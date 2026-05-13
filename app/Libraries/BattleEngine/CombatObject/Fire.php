@@ -59,10 +59,7 @@ class Fire
     /**
      * Fire::__construct()
      *
-     * @param ShipType $attackerShipType
-     * @param Fleet $defenderFleet
-     * @param bool $attacking
-     * @return
+     * @return void
      */
     public function __construct(ShipType $attackerShipType, Fleet $defenderFleet)
     {
@@ -72,12 +69,12 @@ class Fire
         $this->calculateTotal();
     }
 
-    public function getPower()
+    public function getPower(): int
     {
         return $this->attackerShipType->getPower();
     }
 
-    public function getId()
+    public function getId(): int
     {
         return $this->attackerShipType->getId();
     }
@@ -88,7 +85,7 @@ class Fire
      * Return the total fire
      * @return int
      */
-    public function getAttackerTotalFire()
+    public function getAttackerTotalFire(): int
     {
         return $this->power;
     }
@@ -98,7 +95,7 @@ class Fire
      * Return the total shots
      * @return int
      */
-    public function getAttackerTotalShots()
+    public function getAttackerTotalShots(): int
     {
         return $this->shots;
     }
@@ -108,7 +105,7 @@ class Fire
      * Calculate the total power and shots amount of attacker, including RF and standart fire
      * @return void
      */
-    private function calculateTotal()
+    private function calculateTotal(): void
     {
         $this->shots += $this->attackerShipType->getCount();
         $this->power += $this->getNormalPower();
@@ -137,7 +134,7 @@ class Fire
      * This function implement the RF component of above function
      * @return void
      */
-    private function calculateRf()
+    private function calculateRf(): void
     {
         //rapid fire
         $tmpshots = round($this->getShotsFromOneAttackerShipOfType($this->attackerShipType) * $this->attackerShipType->getCount());
@@ -162,7 +159,7 @@ class Fire
      * @param ShipType $shipType_A
      * @return int
      */
-    private function getShotsFromOneAttackerShipOfType(ShipType $shipType_A)
+    private function getShotsFromOneAttackerShipOfType(ShipType $shipType_A): int
     {
         $p = $this->getProbabilityToShotAgainForAttackerShipOfType($shipType_A);
         $meanShots = GeometricDistribution::getMeanFromProbability(1 - $p) - 1;
@@ -172,8 +169,10 @@ class Fire
             log_var('$max', $max);
             log_var('$min', $min);
             log_var('$mean', $meanShots);
+
             return Gauss::getNextMsBetween($meanShots, GeometricDistribution::getStandardDeviationFromProbability(1 - $p), $min, $max);
         }
+
         return $meanShots;
     }
 
@@ -183,7 +182,7 @@ class Fire
      * @param ShipType $shipType_A
      * @return int
      */
-    private function getProbabilityToShotAgainForAttackerShipOfType(ShipType $shipType_A)
+    private function getProbabilityToShotAgainForAttackerShipOfType(ShipType $shipType_A): int
     {
         $p = 0;
         foreach ($this->defenderFleet->getIterator() as $idFleet => $shipType_D) {
@@ -192,6 +191,7 @@ class Fire
             $probabilityToHitThisType = $shipType_D->getCount() / $this->defenderFleet->getTotalCount();
             $p += $probabilityToShotAgain * $probabilityToHitThisType;
         }
+
         return $p;
 
         /* old way
@@ -216,54 +216,59 @@ class Fire
      * Return the total fire shotted from attacker ShipType to all defenders without RF
      * @return int
      */
-    private function getNormalPower()
+    private function getNormalPower(): int
     {
         return $this->attackerShipType->getCount() * $this->attackerShipType->getPower();
     }
 
     //------- INCOMING FIRE------------
 
-    public function getShotsFiredByAttackerTypeToDefenderType(ShipType $shipType_A, ShipType $shipType_D, $real = false)
+    public function getShotsFiredByAttackerTypeToDefenderType(ShipType $shipType_A, ShipType $shipType_D, bool $real = false): Number
     {
         $first = $this->getShotsFiredByAttackerToOne($shipType_A);
         $second = new Number($shipType_D->getCount());
+
         return Math::multiple($first, $second, $real);
     }
 
-    public function getShotsFiredByAttackerToOne(ShipType $shipType_A, $real = false)
+    public function getShotsFiredByAttackerToOne(ShipType $shipType_A, bool $real = false): Number
     {
         $num = $this->getShotsFiredByAttackerToAll($shipType_A);
         $denum = new Number($this->defenderFleet->getTotalCount());
+
         return Math::divide($num, $denum, $real);
     }
 
-    public function getShotsFiredByAllToDefenderType(ShipType $shipType_D, $real = false)
+    public function getShotsFiredByAllToDefenderType(ShipType $shipType_D, bool $real = false): Number
     {
         $first = $this->getShotsFiredByAllToOne();
         $second = new Number($shipType_D->getCount());
+
         return Math::multiple($first, $second, $real);
     }
 
-    public function getShotsFiredByAttackerToAll(ShipType $shipType_A, $real = false)
+    public function getShotsFiredByAttackerToAll(ShipType $shipType_A, bool $real = false): Number
     {
         $num = new Number($this->getAttackerTotalShots() * $shipType_A->getCount());
         $denum = new Number($this->attackerShipType->getTotalCount());
+
         return Math::divide($num, $denum, $real);
     }
 
-    public function getShotsFiredByAllToOne($real = false)
+    public function getShotsFiredByAllToOne(bool $real = false): Number
     {
         $num = new Number($this->getAttackerTotalShots());
         $denum = new Number($this->defenderFleet->getTotalCount());
+
         return Math::divide($num, $denum, $real);
     }
 
     /**
      * Fire::__toString()
      * Rappresentation of this object
-     * @return
+     * @return string
      */
-    public function __toString()
+    public function __toString(): string
     {
         //global $resource;
         //        $shots = $this->getAttackerTotalShots();
@@ -289,7 +294,7 @@ class Fire
         return $this->getAttackerTotalFire() . '';
     }
 
-    public function cloneMe()
+    public function cloneMe(): Fire
     {
         return new Fire($this->attackerShipType, $this->defenderFleet);
     }

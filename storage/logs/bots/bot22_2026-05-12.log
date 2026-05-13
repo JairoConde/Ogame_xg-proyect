@@ -1,0 +1,1886 @@
+[2026-05-12 07:07:54] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:07:55] planet 50: queued building_crystal_mine to 21
+[07:07:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:08:27] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:08:28] planet 50: queued building_robot_factory to 1
+[07:08:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:08:55] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:08:55] planet 50: queued building_robot_factory to 2
+[07:08:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:09:22] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:09:22] planet 50: queue busy, throttled building_robot_factory
+[07:09:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:09:45] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:09:45] planet 50: queue busy, throttled building_robot_factory
+[07:09:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:10:07] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:10:07] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:10:28] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:10:28] planet 50: queue busy, throttled building_robot_factory
+[07:10:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:10:47] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:10:47] planet 50: queue busy, throttled building_robot_factory
+[07:10:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:11:06] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:11:06] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:11:26] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:11:26] planet 50: queue busy, throttled building_robot_factory
+[07:11:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:11:46] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:11:46] planet 50: queue busy, throttled building_robot_factory
+[07:11:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:12:30] ==== loop 13/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:12:30] planet 50: queue busy, throttled building_robot_factory
+[07:12:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:12:52] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:12:52] planet 50: queue busy, throttled building_robot_factory
+[07:12:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:13:16] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:13:16] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:13:38] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:13:38] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:14:02] ==== loop 17/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:14:02] alliance: idle no_candidate
+[07:14:02] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:14:24] ==== loop 18/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:14:24] planet 50: queue busy, throttled building_robot_factory
+[07:14:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:14:42] ==== loop 19/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:14:42] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:15:01] ==== loop 20/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:15:01] planet 50: queue busy, throttled building_robot_factory
+[07:15:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:15:22] ==== loop 21/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:15:22] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:15:40] ==== loop 22/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:15:40] planet 50: queue busy, throttled building_robot_factory
+[07:15:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:15:56] ==== loop 23/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:15:56] planet 50: queue busy, throttled building_robot_factory
+[07:15:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:16:14] ==== loop 24/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:16:14] planet 50: queue busy, throttled building_robot_factory
+[07:16:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:16:34] ==== loop 25/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:16:34] planet 50: queue busy, throttled building_robot_factory
+[07:16:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:16:54] ==== loop 26/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:16:54] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:17:15] ==== loop 27/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:17:15] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:17:32] ==== loop 28/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:17:32] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:17:54] ==== loop 29/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:17:54] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:18:14] ==== loop 30/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:18:14] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:18:31] ==== loop 31/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:18:31] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:19:09] ==== loop 33/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:19:09] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:19:27] ==== loop 34/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:19:27] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:19:51] ==== loop 35/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:19:51] planet 50: queue busy, throttled building_robot_factory
+[07:19:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:20:14] ==== loop 36/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:20:14] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:20:34] ==== loop 37/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:20:34] alliance: idle no_candidate
+[07:20:34] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:20:54] ==== loop 38/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:20:54] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:21:11] ==== loop 39/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:21:11] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:21:49] ==== loop 41/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:21:49] planet 50: queue busy, throttled building_robot_factory
+[07:21:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:22:10] ==== loop 42/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:22:10] planet 50: queue busy, throttled building_robot_factory
+[07:22:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:22:31] ==== loop 43/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:22:31] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:22:48] ==== loop 44/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:22:48] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:23:06] ==== loop 45/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:23:06] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:23:25] ==== loop 46/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:23:25] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:23:45] ==== loop 47/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:23:45] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:24:07] ==== loop 48/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:24:07] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:24:51] ==== loop 50/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:24:51] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:25:37] ==== loop 52/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:25:37] planet 50: queue busy, throttled building_robot_factory
+[07:25:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:26:01] ==== loop 53/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:26:01] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:26:23] ==== loop 54/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:26:23] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:26:44] ==== loop 55/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:26:44] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:27:04] ==== loop 56/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:27:04] planet 50: queue busy, throttled building_robot_factory
+[07:27:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:27:21] ==== loop 57/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:27:21] alliance: idle no_candidate
+[07:27:21] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:27:41] ==== loop 58/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:27:41] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:28:00] ==== loop 59/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:28:00] planet 50: queue busy, throttled building_robot_factory
+[07:28:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:28:23] ==== loop 60/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:28:23] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:28:44] ==== loop 61/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:28:44] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:29:03] ==== loop 62/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:29:03] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:29:25] ==== loop 63/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:29:25] planet 50: queue busy, throttled building_robot_factory
+[07:29:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:29:47] ==== loop 64/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:29:47] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:30:10] ==== loop 65/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:30:10] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:30:30] ==== loop 66/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:30:30] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:30:53] ==== loop 67/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:30:53] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:31:15] ==== loop 68/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:31:15] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:31:35] ==== loop 69/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:31:35] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:31:54] ==== loop 70/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:31:54] planet 50: queue busy, throttled building_robot_factory
+[07:31:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:32:16] ==== loop 71/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:32:16] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:32:38] ==== loop 72/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:32:38] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:32:57] ==== loop 73/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:32:57] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:33:19] ==== loop 74/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:33:19] planet 50: queue busy, throttled building_robot_factory
+[07:33:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:33:43] ==== loop 75/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:33:43] planet 50: queue busy, throttled building_robot_factory
+[07:33:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:34:05] ==== loop 76/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:34:05] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:34:24] ==== loop 77/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:34:24] alliance: idle no_candidate
+[07:34:24] planet 50: queue busy, throttled building_robot_factory
+[07:34:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:34:43] ==== loop 78/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:34:43] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:35:02] ==== loop 79/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:35:02] planet 50: queue busy, throttled building_robot_factory
+[07:35:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:35:24] ==== loop 80/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:35:24] planet 50: queue busy, throttled building_robot_factory
+[07:35:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:35:45] ==== loop 81/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:35:45] planet 50: queue busy, throttled building_robot_factory
+[07:35:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:36:07] ==== loop 82/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:36:07] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:36:29] ==== loop 83/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:36:29] planet 50: queue busy, throttled building_robot_factory
+[07:36:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:36:52] ==== loop 84/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:36:52] planet 50: queue busy, throttled building_robot_factory
+[07:36:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:37:13] ==== loop 85/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:37:13] planet 50: queue busy, throttled building_robot_factory
+[07:37:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:37:34] ==== loop 86/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:37:34] planet 50: queue busy, throttled building_robot_factory
+[07:37:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:37:56] ==== loop 87/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:37:56] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:38:18] ==== loop 88/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:38:18] planet 50: queue busy, throttled building_robot_factory
+[07:38:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:38:40] ==== loop 89/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:38:40] planet 50: queue busy, throttled building_robot_factory
+[07:38:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:39:02] ==== loop 90/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:39:02] planet 50: queue busy, throttled building_robot_factory
+[07:39:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:39:20] ==== loop 91/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:39:20] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:39:37] ==== loop 92/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:39:37] planet 50: queue busy, throttled building_robot_factory
+[07:39:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:39:57] ==== loop 93/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:39:57] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:40:16] ==== loop 94/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:40:16] planet 50: queue busy, throttled building_robot_factory
+[07:40:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:40:34] ==== loop 95/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:40:34] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:40:53] ==== loop 96/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:40:53] planet 50: queue busy, throttled building_robot_factory
+[07:40:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:41:13] ==== loop 97/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:41:13] alliance: idle no_candidate
+[07:41:13] planet 50: queue busy, throttled building_robot_factory
+[07:41:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:41:33] ==== loop 98/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:41:33] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:41:55] ==== loop 99/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:41:55] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:42:15] ==== loop 100/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:42:15] planet 50: queue busy, throttled building_robot_factory
+[07:42:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:42:37] ==== loop 101/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:42:37] planet 50: queue busy, throttled building_robot_factory
+[07:42:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:43:00] ==== loop 102/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:43:00] planet 50: queue busy, throttled building_robot_factory
+[07:43:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:43:21] ==== loop 103/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:43:21] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:43:44] ==== loop 104/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:43:44] planet 50: queue busy, throttled building_robot_factory
+[07:43:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:44:29] ==== loop 106/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:44:29] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:44:51] ==== loop 107/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:44:51] planet 50: queue busy, throttled building_robot_factory
+[07:44:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:45:12] ==== loop 108/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:45:12] planet 50: queue busy, throttled building_robot_factory
+[07:45:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:45:33] ==== loop 109/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:45:33] planet 50: queue busy, throttled building_robot_factory
+[07:45:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:45:54] ==== loop 110/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:45:54] planet 50: queue busy, throttled building_robot_factory
+[07:45:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:46:14] ==== loop 111/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:46:14] planet 50: queue busy, throttled building_robot_factory
+[07:46:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:46:37] ==== loop 112/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:46:37] planet 50: queue busy, throttled building_robot_factory
+[07:46:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:46:56] ==== loop 113/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:46:56] planet 50: queue busy, throttled building_robot_factory
+[07:46:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:47:16] ==== loop 114/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:47:16] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:47:38] ==== loop 115/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:47:38] planet 50: queue busy, throttled building_robot_factory
+[07:47:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:47:58] ==== loop 116/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:47:58] planet 50: queue busy, throttled building_robot_factory
+[07:47:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:48:17] ==== loop 117/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:48:17] alliance: idle no_candidate
+[07:48:17] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:48:38] ==== loop 118/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:48:38] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:48:56] ==== loop 119/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:48:56] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:49:17] ==== loop 120/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:49:17] planet 50: queue busy, throttled building_robot_factory
+[07:49:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:49:34] ==== loop 121/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:49:34] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:49:58] ==== loop 122/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:49:58] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:50:18] ==== loop 123/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:50:18] planet 50: queue busy, throttled building_robot_factory
+[07:50:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:50:39] ==== loop 124/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:50:39] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:50:58] ==== loop 125/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:50:58] planet 50: queue busy, throttled building_robot_factory
+[07:50:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:51:18] ==== loop 126/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:51:18] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:51:36] ==== loop 127/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:51:36] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:51:57] ==== loop 128/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:51:57] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:52:15] ==== loop 129/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:52:15] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:52:34] ==== loop 130/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:52:34] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:52:55] ==== loop 131/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:52:55] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:53:35] ==== loop 133/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:53:35] planet 50: queue busy, throttled building_robot_factory
+[07:53:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:53:54] ==== loop 134/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:53:54] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:54:33] ==== loop 136/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:54:33] planet 50: queue busy, throttled building_robot_factory
+[07:54:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:54:53] ==== loop 137/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:54:53] alliance: idle no_candidate
+[07:54:53] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:55:14] ==== loop 138/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:55:14] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:55:35] ==== loop 139/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:55:35] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:55:57] ==== loop 140/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:55:57] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:56:38] ==== loop 142/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:56:38] planet 50: queue busy, throttled building_robot_factory
+[07:56:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:56:57] ==== loop 143/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:56:57] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:57:17] ==== loop 144/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:57:17] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:57:34] ==== loop 145/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:57:34] planet 50: queue busy, throttled building_robot_factory
+[07:57:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:58:18] ==== loop 147/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:58:18] planet 50: queue busy, throttled building_robot_factory
+[07:58:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:58:40] ==== loop 148/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:58:40] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 07:59:03] ==== loop 149/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:59:03] planet 50: queue busy, throttled building_robot_factory
+[07:59:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:59:26] ==== loop 150/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:59:26] planet 50: queue busy, throttled building_robot_factory
+[07:59:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 07:59:47] ==== loop 151/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[07:59:47] planet 50: queue busy, throttled building_robot_factory
+[07:59:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:00:09] ==== loop 152/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:00:09] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:00:30] ==== loop 153/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:00:30] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:00:52] ==== loop 154/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:00:52] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:01:33] ==== loop 156/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:01:33] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:02:17] ==== loop 158/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:02:17] planet 50: queue busy, throttled building_robot_factory
+[08:02:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:02:36] ==== loop 159/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:02:36] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:02:55] ==== loop 160/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:02:55] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:03:14] ==== loop 161/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:03:14] planet 50: queue busy, throttled building_robot_factory
+[08:03:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:03:35] ==== loop 162/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:03:35] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:03:54] ==== loop 163/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:03:54] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:04:14] ==== loop 164/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:04:14] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:04:32] ==== loop 165/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:04:32] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:05:19] ==== loop 167/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:05:19] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:05:40] ==== loop 168/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:05:40] planet 50: queue busy, throttled building_robot_factory
+[08:05:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:06:00] ==== loop 169/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:06:00] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:06:19] ==== loop 170/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:06:19] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:06:39] ==== loop 171/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:06:39] planet 50: queue busy, throttled building_robot_factory
+[08:06:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:07:01] ==== loop 172/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:07:01] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:07:20] ==== loop 173/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:07:20] planet 50: queue busy, throttled building_robot_factory
+[08:07:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:07:44] ==== loop 174/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:07:44] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:08:02] ==== loop 175/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:08:02] planet 50: queue busy, throttled building_robot_factory
+[08:08:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:08:24] ==== loop 176/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:08:24] planet 50: queue busy, throttled building_robot_factory
+[08:08:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:08:47] ==== loop 177/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:08:47] alliance: idle no_candidate
+[08:08:47] planet 50: queue busy, throttled building_robot_factory
+[08:08:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:09:09] ==== loop 178/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:09:09] planet 50: queue busy, throttled building_robot_factory
+[08:09:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:09:31] ==== loop 179/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:09:31] planet 50: queue busy, throttled building_robot_factory
+[08:09:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:09:51] ==== loop 180/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:09:51] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:10:13] ==== loop 181/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:10:13] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:10:36] ==== loop 182/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:10:36] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:10:59] ==== loop 183/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:10:59] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:11:23] ==== loop 184/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:11:23] planet 50: queue busy, throttled building_robot_factory
+[08:11:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:12:03] ==== loop 186/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:12:03] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:12:25] ==== loop 187/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:12:25] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:12:47] ==== loop 188/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:12:47] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:13:10] ==== loop 189/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:13:10] planet 50: queue busy, throttled building_robot_factory
+[08:13:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:13:32] ==== loop 190/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:13:32] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:13:55] ==== loop 191/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:13:55] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:14:18] ==== loop 192/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:14:18] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:14:38] ==== loop 193/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:14:38] planet 50: queue busy, throttled building_robot_factory
+[08:14:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:15:01] ==== loop 194/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:15:01] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:15:46] ==== loop 196/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:15:46] planet 50: queue busy, throttled building_robot_factory
+[08:15:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:16:10] ==== loop 197/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:16:10] alliance: idle no_candidate
+[08:16:10] planet 50: queue busy, throttled building_robot_factory
+[08:16:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:16:33] ==== loop 198/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:16:33] planet 50: queue busy, throttled building_robot_factory
+[08:16:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:16:53] ==== loop 199/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:16:53] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:17:15] ==== loop 200/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:17:15] planet 50: queue busy, throttled building_robot_factory
+[08:17:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:17:39] ==== loop 201/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:17:39] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:17:59] ==== loop 202/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:17:59] planet 50: queue busy, throttled building_robot_factory
+[08:17:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:18:23] ==== loop 203/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:18:23] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:19:09] ==== loop 205/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:19:09] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:19:29] ==== loop 206/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:19:29] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:19:48] ==== loop 207/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:19:48] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:20:10] ==== loop 208/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:20:10] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:20:32] ==== loop 209/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:20:32] planet 50: queue busy, throttled building_robot_factory
+[08:20:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:20:55] ==== loop 210/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:20:55] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:21:18] ==== loop 211/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:21:18] planet 50: queue busy, throttled building_robot_factory
+[08:21:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:21:40] ==== loop 212/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:21:40] planet 50: queue busy, throttled building_robot_factory
+[08:21:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:22:01] ==== loop 213/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:22:01] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:22:22] ==== loop 214/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:22:22] planet 50: queue busy, throttled building_robot_factory
+[08:22:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:22:45] ==== loop 215/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:22:45] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:23:08] ==== loop 216/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:23:08] planet 50: queue busy, throttled building_robot_factory
+[08:23:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:23:32] ==== loop 217/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:23:32] alliance: idle no_candidate
+[08:23:32] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:23:56] ==== loop 218/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:23:56] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:24:46] ==== loop 220/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:24:46] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:25:13] ==== loop 221/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:25:13] planet 50: queue busy, throttled building_robot_factory
+[08:25:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:25:37] ==== loop 222/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:25:37] planet 50: queue busy, throttled building_robot_factory
+[08:25:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:26:03] ==== loop 223/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:26:03] planet 50: queue busy, throttled building_robot_factory
+[08:26:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:26:28] ==== loop 224/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:26:28] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:26:55] ==== loop 225/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:26:55] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:27:22] ==== loop 226/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:27:22] planet 50: queued building_crystal_mine to 22
+[08:27:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:27:50] ==== loop 227/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:27:50] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:28:17] ==== loop 228/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:28:17] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:28:41] ==== loop 229/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:28:41] planet 50: queue busy, throttled building_robot_factory
+[08:28:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:29:06] ==== loop 230/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:29:06] planet 50: queue busy, throttled building_robot_factory
+[08:29:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:29:30] ==== loop 231/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:29:30] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:29:56] ==== loop 232/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:29:56] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:30:22] ==== loop 233/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:30:22] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:31:11] ==== loop 235/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:31:11] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:31:32] ==== loop 236/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:31:32] planet 50: queue busy, throttled building_robot_factory
+[08:31:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:31:54] ==== loop 237/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:31:54] alliance: idle no_candidate
+[08:31:54] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:32:17] ==== loop 238/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:32:17] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:32:40] ==== loop 239/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:32:40] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:33:04] ==== loop 240/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:33:04] planet 50: queue busy, throttled building_robot_factory
+[08:33:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:33:27] ==== loop 241/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:33:27] planet 50: queue busy, throttled building_robot_factory
+[08:33:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:33:45] ==== loop 242/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:33:45] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:34:09] ==== loop 243/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:34:09] planet 50: queue busy, throttled building_robot_factory
+[08:34:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:34:29] ==== loop 244/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:34:29] planet 50: queue busy, throttled building_robot_factory
+[08:34:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:34:51] ==== loop 245/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:34:51] planet 50: queue busy, throttled building_robot_factory
+[08:34:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:35:13] ==== loop 246/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:35:13] planet 50: queue busy, throttled building_robot_factory
+[08:35:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:35:36] ==== loop 247/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:35:36] planet 50: queue busy, throttled building_robot_factory
+[08:35:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:35:56] ==== loop 248/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:35:56] planet 50: queue busy, throttled building_robot_factory
+[08:35:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:36:19] ==== loop 249/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:36:19] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:36:41] ==== loop 250/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:36:41] planet 50: queue busy, throttled building_robot_factory
+[08:36:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:37:06] ==== loop 251/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:37:06] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:37:28] ==== loop 252/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:37:28] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:37:51] ==== loop 253/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:37:51] planet 50: queue busy, throttled building_robot_factory
+[08:37:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:38:14] ==== loop 254/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:38:14] planet 50: queue busy, throttled building_robot_factory
+[08:38:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:38:36] ==== loop 255/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:38:36] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:39:00] ==== loop 256/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:39:00] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:39:44] ==== loop 258/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:39:44] planet 50: queue busy, throttled building_robot_factory
+[08:39:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:40:05] ==== loop 259/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:40:05] planet 50: queue busy, throttled building_robot_factory
+[08:40:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:40:27] ==== loop 260/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:40:27] planet 50: queue busy, throttled building_robot_factory
+[08:40:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:40:50] ==== loop 261/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:40:50] planet 50: queue busy, throttled building_robot_factory
+[08:40:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:41:12] ==== loop 262/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:41:12] planet 50: queue busy, throttled building_robot_factory
+[08:41:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:41:32] ==== loop 263/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:41:32] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:41:53] ==== loop 264/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:41:53] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:42:14] ==== loop 265/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:42:14] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:42:38] ==== loop 266/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:42:38] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:42:57] ==== loop 267/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:42:57] planet 50: queue busy, throttled building_robot_factory
+[08:42:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:43:17] ==== loop 268/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:43:17] planet 50: queue busy, throttled building_robot_factory
+[08:43:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:43:36] ==== loop 269/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:43:36] planet 50: queue busy, throttled building_robot_factory
+[08:43:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:43:57] ==== loop 270/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:43:57] planet 50: queue busy, throttled building_robot_factory
+[08:43:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:44:15] ==== loop 271/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:44:15] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:44:33] ==== loop 272/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:44:33] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:44:55] ==== loop 273/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:44:55] planet 50: queue busy, throttled building_robot_factory
+[08:44:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:45:15] ==== loop 274/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:45:15] planet 50: queue busy, throttled building_robot_factory
+[08:45:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:45:34] ==== loop 275/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:45:34] planet 50: queue busy, throttled building_robot_factory
+[08:45:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:45:57] ==== loop 276/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:45:57] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:46:20] ==== loop 277/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:46:20] alliance: idle no_candidate
+[08:46:20] planet 50: queue busy, throttled building_robot_factory
+[08:46:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:47:00] ==== loop 279/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:47:00] planet 50: queue busy, throttled building_robot_factory
+[08:47:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:47:39] ==== loop 281/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:47:39] planet 50: queue busy, throttled building_robot_factory
+[08:47:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:48:20] ==== loop 283/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:48:20] planet 50: queue busy, throttled building_robot_factory
+[08:48:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:48:39] ==== loop 284/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:48:39] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:48:58] ==== loop 285/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:48:58] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:49:16] ==== loop 286/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:49:16] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:49:34] ==== loop 287/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:49:34] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:49:52] ==== loop 288/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:49:52] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:50:12] ==== loop 289/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:50:12] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:50:31] ==== loop 290/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:50:31] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:50:51] ==== loop 291/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:50:51] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:51:12] ==== loop 292/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:51:12] planet 50: queue busy, throttled building_robot_factory
+[08:51:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:51:57] ==== loop 294/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:51:57] planet 50: queue busy, throttled building_robot_factory
+[08:51:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:53:06] ==== loop 297/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:53:06] alliance: idle no_candidate
+[08:53:06] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:53:30] ==== loop 298/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:53:30] planet 50: queue busy, throttled building_robot_factory
+[08:53:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:53:54] ==== loop 299/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:53:54] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:54:16] ==== loop 300/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:54:16] planet 50: queue busy, throttled building_robot_factory
+[08:54:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:54:36] ==== loop 301/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:54:36] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:54:59] ==== loop 302/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:54:59] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:55:21] ==== loop 303/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:55:21] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:55:43] ==== loop 304/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:55:43] planet 50: queue busy, throttled building_robot_factory
+[08:55:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:56:07] ==== loop 305/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:56:07] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:56:30] ==== loop 306/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:56:30] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:56:52] ==== loop 307/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:56:52] planet 50: queue busy, throttled building_robot_factory
+[08:56:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:57:14] ==== loop 308/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:57:14] planet 50: queue busy, throttled building_robot_factory
+[08:57:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:57:39] ==== loop 309/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:57:39] planet 50: queue busy, throttled building_robot_factory
+[08:57:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:58:03] ==== loop 310/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:58:03] planet 50: queue busy, throttled building_robot_factory
+[08:58:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:58:25] ==== loop 311/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:58:25] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:58:48] ==== loop 312/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:58:48] planet 50: queue busy, throttled building_robot_factory
+[08:58:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 08:59:15] ==== loop 313/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:59:15] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 08:59:38] ==== loop 314/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[08:59:38] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:00:00] ==== loop 315/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:00:00] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:00:23] ==== loop 316/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:00:23] planet 50: queue busy, throttled building_robot_factory
+[09:00:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:00:44] ==== loop 317/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:00:44] alliance: idle no_candidate
+[09:00:44] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:01:07] ==== loop 318/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:01:07] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:01:51] ==== loop 320/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:01:51] planet 50: queue busy, throttled building_robot_factory
+[09:01:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:02:13] ==== loop 321/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:02:13] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:02:59] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:02:59] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:03:42] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:03:42] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:04:23] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:04:23] planet 50: queue busy, throttled building_robot_factory
+[09:04:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:05:08] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:05:08] planet 50: queue busy, throttled building_robot_factory
+[09:05:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:05:48] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:05:48] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:06:29] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:06:29] planet 50: queue busy, throttled building_robot_factory
+[09:06:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:07:14] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:07:14] planet 50: queue busy, throttled building_robot_factory
+[09:07:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:08:01] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:08:01] planet 50: queue busy, throttled building_robot_factory
+[09:08:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:08:43] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:08:43] planet 50: queue busy, throttled building_robot_factory
+[09:08:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:09:24] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:09:24] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:10:12] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:10:12] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:10:52] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:10:52] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:11:34] ==== loop 13/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:11:34] planet 50: queue busy, throttled building_robot_factory
+[09:11:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:12:18] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:12:18] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:13:04] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:13:04] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:13:52] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:13:52] alliance: idle no_candidate
+[09:13:52] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:14:41] ==== loop 17/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:14:41] planet 50: queue busy, throttled building_robot_factory
+[09:14:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:15:25] ==== loop 18/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:15:25] planet 50: queue busy, throttled building_robot_factory
+[09:15:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:16:13] ==== loop 19/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:16:13] planet 50: queue busy, throttled building_robot_factory
+[09:16:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:16:57] ==== loop 20/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:16:57] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:17:45] ==== loop 21/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:17:45] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:19:08] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:19:08] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:19:59] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:19:59] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:20:38] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:20:38] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:21:27] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:21:27] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:22:18] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:22:18] planet 50: queue busy, throttled building_robot_factory
+[09:22:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:23:02] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:23:02] planet 50: queue busy, throttled building_robot_factory
+[09:23:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:23:47] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:23:47] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:24:27] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:24:27] planet 50: queue busy, throttled building_robot_factory
+[09:24:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:25:16] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:25:16] planet 50: queue busy, throttled building_robot_factory
+[09:25:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:26:05] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:26:05] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:26:52] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:26:52] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 09:27:37] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:27:38] planet 50: queued building_robot_factory to 3
+[09:27:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:28:25] ==== loop 13/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:28:26] planet 50: building queue full (5)
+[2026-05-12 09:29:13] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:29:14] planet 50: building queue full (5)
+[09:29:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:30:00] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:30:01] alliance: idle no_candidate
+[09:30:01] planet 50: building queue full (5)
+[09:30:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:30:44] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:30:44] planet 50: building queue full (5)
+[09:30:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:32:14] ==== loop 18/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:32:15] planet 50: building queue full (5)
+[2026-05-12 09:32:56] ==== loop 19/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:32:56] planet 50: building queue full (5)
+[09:32:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:33:40] ==== loop 20/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:33:40] planet 50: building queue full (5)
+[2026-05-12 09:34:36] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:34:36] planet 50: building queue full (5)
+[09:34:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:35:17] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:35:17] planet 50: building queue full (5)
+[09:35:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:36:01] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:36:01] planet 50: building queue full (5)
+[09:36:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:36:41] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:36:42] planet 50: building queue full (5)
+[09:36:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:38:07] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:38:08] planet 50: building queue full (5)
+[09:38:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:38:46] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:38:46] planet 50: building queue full (5)
+[2026-05-12 09:40:08] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:40:09] planet 50: building queue full (5)
+[09:40:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:41:35] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:41:36] planet 50: building queue full (5)
+[09:41:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:42:22] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:42:22] planet 50: building queue full (5)
+[09:42:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:43:05] ==== loop 13/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:43:05] planet 50: building queue full (5)
+[2026-05-12 09:43:48] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:43:49] planet 50: building queue full (5)
+[2026-05-12 09:44:27] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:44:28] alliance: idle no_candidate
+[09:44:28] planet 50: building queue full (5)
+[09:44:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:45:13] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:45:14] planet 50: building queue full (5)
+[09:45:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:46:41] ==== loop 18/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:46:43] planet 50: building queue full (5)
+[09:46:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:47:28] ==== loop 19/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:47:28] planet 50: building queue full (5)
+[2026-05-12 09:48:11] ==== loop 20/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:48:12] planet 50: building queue full (5)
+[2026-05-12 09:49:45] ==== loop 22/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:49:45] planet 50: building queue full (5)
+[09:49:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:50:25] ==== loop 23/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:50:27] planet 50: building queue full (5)
+[2026-05-12 09:51:09] ==== loop 24/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:51:10] planet 50: building queue full (5)
+[09:51:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:51:48] ==== loop 25/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:51:49] planet 50: building queue full (5)
+[2026-05-12 09:52:29] ==== loop 26/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:52:29] planet 50: building queue full (5)
+[09:52:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:53:08] ==== loop 27/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:53:08] planet 50: building queue full (5)
+[09:53:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:53:53] ==== loop 28/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:53:53] planet 50: building queue full (5)
+[09:53:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:54:39] ==== loop 29/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:54:40] planet 50: building queue full (5)
+[2026-05-12 09:55:19] ==== loop 30/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:55:20] planet 50: building queue full (5)
+[09:55:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:56:04] ==== loop 31/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:56:05] planet 50: building queue full (5)
+[09:56:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:56:51] ==== loop 32/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:56:52] planet 50: building queue full (5)
+[09:56:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:58:22] ==== loop 34/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:58:22] planet 50: building queue full (5)
+[09:58:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:59:07] ==== loop 35/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:59:08] alliance: idle no_candidate
+[09:59:08] planet 50: building queue full (5)
+[09:59:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 09:59:49] ==== loop 36/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[09:59:50] planet 50: building queue full (5)
+[09:59:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:00:33] ==== loop 37/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:00:34] planet 50: building queue full (5)
+[10:00:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:01:18] ==== loop 38/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:01:19] planet 50: building queue full (5)
+[10:01:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:02:00] ==== loop 39/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:02:00] planet 50: building queue full (5)
+[10:02:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:02:42] ==== loop 40/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:02:43] planet 50: building queue full (5)
+[10:02:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:03:26] ==== loop 41/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:03:26] planet 50: building queue full (5)
+[10:03:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:04:51] ==== loop 43/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:04:51] planet 50: building queue full (5)
+[2026-05-12 10:05:38] ==== loop 44/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:05:38] planet 50: building queue full (5)
+[10:05:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:06:21] ==== loop 45/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:06:21] planet 50: building queue full (5)
+[2026-05-12 10:07:07] ==== loop 46/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:07:08] planet 50: building queue full (5)
+[10:07:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:07:52] ==== loop 47/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:07:53] planet 50: building queue full (5)
+[10:07:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:08:35] ==== loop 48/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:08:36] planet 50: building queue full (5)
+[2026-05-12 10:09:19] ==== loop 49/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:09:21] planet 50: building queue full (5)
+[2026-05-12 10:10:01] ==== loop 50/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:10:02] planet 50: building queue full (5)
+[10:10:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:10:42] ==== loop 51/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:10:42] planet 50: building queue full (5)
+[2026-05-12 10:11:32] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:11:33] planet 50: queued building_laboratory to 1
+[10:11:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:12:07] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:12:07] planet 50: queue busy, throttled building_laboratory
+[10:12:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:12:41] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:12:41] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:13:16] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:13:16] alliance: idle no_candidate
+[10:13:16] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:13:47] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:13:47] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:14:23] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:14:23] planet 50: queue busy, throttled building_laboratory
+[10:14:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:14:59] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:14:59] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:15:41] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:15:41] planet 50: queue busy, throttled building_laboratory
+[10:15:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:16:17] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:16:17] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:16:55] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:16:55] planet 50: queue busy, throttled building_laboratory
+[10:16:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:17:33] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:17:33] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:18:11] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:18:11] planet 50: queue busy, throttled building_laboratory
+[10:18:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:18:48] ==== loop 13/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:18:48] planet 50: queue busy, throttled building_laboratory
+[10:18:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:19:27] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:19:27] planet 50: queue busy, throttled building_laboratory
+[10:19:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:20:04] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:20:04] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:20:43] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:20:43] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:21:55] ==== loop 18/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:21:55] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:22:31] ==== loop 19/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:22:31] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:23:07] ==== loop 20/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:23:07] planet 50: queue busy, throttled building_laboratory
+[10:23:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:23:45] ==== loop 21/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:23:45] planet 50: queue busy, throttled building_laboratory
+[10:23:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:24:22] ==== loop 22/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:24:22] planet 50: queue busy, throttled building_laboratory
+[10:24:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:24:58] ==== loop 23/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:24:58] planet 50: queue busy, throttled building_laboratory
+[10:24:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:25:35] ==== loop 24/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:25:35] alliance: idle no_candidate
+[10:25:35] planet 50: queue busy, throttled building_laboratory
+[10:25:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:26:13] ==== loop 25/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:26:13] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:27:29] ==== loop 27/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:27:29] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:28:10] ==== loop 28/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:28:10] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:28:49] ==== loop 29/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:28:49] planet 50: queue busy, throttled building_laboratory
+[10:28:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:29:26] ==== loop 30/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:29:26] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:30:05] ==== loop 31/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:30:05] planet 50: queue busy, throttled building_laboratory
+[10:30:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:30:41] ==== loop 32/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:30:41] planet 50: queue busy, throttled building_laboratory
+[10:30:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:31:21] ==== loop 33/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:31:21] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:32:05] ==== loop 34/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:32:05] planet 50: queue busy, throttled building_laboratory
+[10:32:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:32:47] ==== loop 35/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:32:47] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:33:31] ==== loop 36/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:33:31] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:34:12] ==== loop 37/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:34:12] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:34:53] ==== loop 38/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:34:53] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:36:11] ==== loop 40/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:36:11] planet 50: queue busy, throttled building_laboratory
+[10:36:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:36:53] ==== loop 41/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:36:53] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:37:41] ==== loop 42/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:37:41] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:38:24] ==== loop 43/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:38:24] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:39:09] ==== loop 44/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:39:09] alliance: idle no_candidate
+[10:39:09] planet 50: queue busy, throttled building_laboratory
+[10:39:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:39:59] ==== loop 45/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:39:59] planet 50: queue busy, throttled building_laboratory
+[10:39:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:40:34] ==== loop 46/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:40:34] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:41:17] ==== loop 47/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:41:17] planet 50: queue busy, throttled building_laboratory
+[10:41:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:41:58] ==== loop 48/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:41:58] planet 50: queue busy, throttled building_laboratory
+[10:41:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:42:38] ==== loop 49/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:42:38] planet 50: queue busy, throttled building_laboratory
+[10:42:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:43:25] ==== loop 50/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:43:25] planet 50: queue busy, throttled building_laboratory
+[10:43:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:44:11] ==== loop 51/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:44:11] planet 50: queue busy, throttled building_laboratory
+[10:44:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:44:58] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:44:58] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:45:43] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:45:43] planet 50: queue busy, throttled building_laboratory
+[10:45:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:46:27] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:46:27] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:47:07] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:47:07] planet 50: queue busy, throttled building_laboratory
+[10:47:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:47:47] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:47:47] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:48:27] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:48:27] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:49:05] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:49:05] planet 50: queue busy, throttled building_laboratory
+[10:49:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:49:43] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:49:43] planet 50: queue busy, throttled building_laboratory
+[10:49:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:50:30] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:50:30] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:51:15] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:51:15] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:52:42] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:52:42] planet 50: queue busy, throttled building_laboratory
+[10:52:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:53:28] ==== loop 13/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:53:28] alliance: idle no_candidate
+[10:53:28] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:54:14] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:54:14] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:54:56] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:54:56] planet 50: queue busy, throttled building_laboratory
+[10:54:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:55:42] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:55:42] planet 50: queue busy, throttled building_laboratory
+[10:55:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:56:24] ==== loop 17/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:56:24] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:57:08] ==== loop 18/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:57:08] planet 50: queue busy, throttled building_laboratory
+[10:57:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:57:51] ==== loop 19/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:57:51] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 10:58:38] ==== loop 20/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:58:38] planet 50: queue busy, throttled building_laboratory
+[10:58:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 10:59:22] ==== loop 21/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[10:59:22] planet 50: queue busy, throttled building_laboratory
+[10:59:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:00:03] ==== loop 22/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:00:03] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:00:45] ==== loop 23/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:00:46] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:01:33] ==== loop 24/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:01:33] planet 50: queue busy, throttled building_laboratory
+[11:01:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:02:13] ==== loop 25/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:02:13] planet 50: queue busy, throttled building_laboratory
+[11:02:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:02:59] ==== loop 26/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:02:59] planet 50: queue busy, throttled building_laboratory
+[11:02:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:04:37] ==== loop 28/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:04:37] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:05:22] ==== loop 29/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:05:22] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:06:07] ==== loop 30/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:06:07] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:06:54] ==== loop 31/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:06:54] planet 50: queue busy, throttled building_laboratory
+[11:06:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:07:44] ==== loop 32/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:07:44] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:08:25] ==== loop 33/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:08:25] alliance: idle no_candidate
+[11:08:25] planet 50: queue busy, throttled building_laboratory
+[11:08:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:09:10] ==== loop 34/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:09:10] planet 50: queue busy, throttled building_laboratory
+[11:09:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:10:44] ==== loop 36/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:10:44] planet 50: queue busy, throttled building_laboratory
+[11:10:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:11:27] ==== loop 37/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:11:27] planet 50: queue busy, throttled building_laboratory
+[11:11:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:12:08] ==== loop 38/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:12:08] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:12:50] ==== loop 39/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:12:50] planet 50: queue busy, throttled building_laboratory
+[11:12:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:13:34] ==== loop 40/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:13:34] planet 50: queue busy, throttled building_laboratory
+[11:13:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:15:00] ==== loop 42/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:15:00] planet 50: queue busy, throttled building_laboratory
+[11:15:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:15:52] ==== loop 43/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:15:52] planet 50: queue busy, throttled building_laboratory
+[11:15:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:16:39] ==== loop 44/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:16:39] planet 50: queue busy, throttled building_laboratory
+[11:16:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:17:26] ==== loop 45/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:17:26] planet 50: queue busy, throttled building_laboratory
+[11:17:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:18:18] ==== loop 46/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:18:18] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:19:02] ==== loop 47/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:19:02] planet 50: queue busy, throttled building_laboratory
+[11:19:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:19:48] ==== loop 48/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:19:48] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:20:31] ==== loop 49/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:20:31] planet 50: queue busy, throttled building_laboratory
+[11:20:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:21:15] ==== loop 50/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:21:15] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:21:56] ==== loop 51/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:21:56] planet 50: queue busy, throttled building_laboratory
+[11:21:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:22:38] ==== loop 52/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:22:38] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:23:19] ==== loop 53/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:23:19] alliance: idle no_candidate
+[11:23:19] planet 50: queue busy, throttled building_laboratory
+[11:23:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:24:42] ==== loop 55/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:24:42] planet 50: queue busy, throttled building_laboratory
+[11:24:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:25:25] ==== loop 56/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:25:25] planet 50: queue busy, throttled building_laboratory
+[11:25:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:26:07] ==== loop 57/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:26:07] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:26:48] ==== loop 58/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:26:48] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:27:27] ==== loop 59/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:27:27] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:28:10] ==== loop 60/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:28:10] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:28:53] ==== loop 61/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:28:53] planet 50: queue busy, throttled building_laboratory
+[11:28:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:29:38] ==== loop 62/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:29:38] planet 50: queue busy, throttled building_laboratory
+[11:29:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:30:16] ==== loop 63/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:30:16] planet 50: queue busy, throttled building_laboratory
+[11:30:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:30:55] ==== loop 64/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:30:55] planet 50: queue busy, throttled building_laboratory
+[11:30:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:31:38] ==== loop 65/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:31:38] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:32:21] ==== loop 66/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:32:21] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:33:04] ==== loop 67/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:33:05] planet 50: queue busy, throttled building_laboratory
+[11:33:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:33:43] ==== loop 68/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:33:43] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:34:29] ==== loop 69/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:34:29] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:35:20] ==== loop 70/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:35:21] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:36:10] ==== loop 71/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:36:10] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:36:53] ==== loop 72/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:36:53] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:37:45] ==== loop 73/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:37:45] alliance: idle no_candidate
+[11:37:45] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:38:31] ==== loop 74/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:38:31] planet 50: queue busy, throttled building_laboratory
+[11:38:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:39:19] ==== loop 75/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:39:19] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:40:02] ==== loop 76/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:40:02] planet 50: queue busy, throttled building_laboratory
+[11:40:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:40:46] ==== loop 77/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:40:46] planet 50: queue busy, throttled building_laboratory
+[11:40:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:44:02] ==== loop 81/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:44:02] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:44:51] ==== loop 82/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:44:51] planet 50: queue busy, throttled building_laboratory
+[11:44:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:46:23] ==== loop 84/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:46:23] planet 50: queue busy, throttled building_laboratory
+[11:46:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:47:09] ==== loop 85/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:47:09] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:47:57] ==== loop 86/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:47:57] planet 50: queue busy, throttled building_laboratory
+[11:47:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:48:43] ==== loop 87/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:48:43] planet 50: queue busy, throttled building_laboratory
+[11:48:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:49:30] ==== loop 88/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:49:30] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:50:17] ==== loop 89/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:50:17] planet 50: queue busy, throttled building_laboratory
+[11:50:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:51:00] ==== loop 90/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:51:00] planet 50: queue busy, throttled building_laboratory
+[11:51:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:51:46] ==== loop 91/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:51:46] planet 50: queue busy, throttled building_laboratory
+[11:51:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:52:33] ==== loop 92/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:52:33] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:53:20] ==== loop 93/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:53:20] alliance: idle no_candidate
+[11:53:20] planet 50: queue busy, throttled building_laboratory
+[11:53:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:54:02] ==== loop 94/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:54:02] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:54:50] ==== loop 95/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:54:50] planet 50: queue busy, throttled building_laboratory
+[11:54:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:55:37] ==== loop 96/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:55:37] planet 50: queue busy, throttled building_laboratory
+[11:55:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 11:56:25] ==== loop 97/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:56:25] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:57:11] ==== loop 98/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:57:11] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:57:55] ==== loop 99/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:57:55] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:58:43] ==== loop 100/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:58:43] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 11:59:29] ==== loop 101/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[11:59:29] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:00:13] ==== loop 102/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:00:13] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:00:54] ==== loop 103/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:00:54] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:01:43] ==== loop 104/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:01:43] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:02:27] ==== loop 105/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:02:27] planet 50: queue busy, throttled building_laboratory
+[12:02:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:03:13] ==== loop 106/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:03:13] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:03:58] ==== loop 107/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:03:58] planet 50: queue busy, throttled building_laboratory
+[12:03:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:04:42] ==== loop 108/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:04:42] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:05:22] ==== loop 109/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:05:22] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:06:09] ==== loop 110/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:06:09] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:06:48] ==== loop 111/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:06:48] planet 50: queue busy, throttled building_laboratory
+[12:06:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:07:33] ==== loop 112/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:07:33] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:08:18] ==== loop 113/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:08:18] alliance: idle no_candidate
+[12:08:18] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:09:00] ==== loop 114/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:09:00] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:10:24] ==== loop 116/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:10:24] planet 50: queue busy, throttled building_laboratory
+[12:10:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:11:08] ==== loop 117/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:11:08] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:11:51] ==== loop 118/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:11:51] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:13:18] ==== loop 120/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:13:18] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:14:02] ==== loop 121/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:14:02] planet 50: queue busy, throttled building_laboratory
+[12:14:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:14:45] ==== loop 122/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:14:45] planet 50: queue busy, throttled building_laboratory
+[12:14:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:16:15] ==== loop 124/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:16:15] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:18:30] ==== loop 127/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:18:30] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:19:19] ==== loop 128/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:19:19] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:20:05] ==== loop 129/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:20:05] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:20:50] ==== loop 130/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:20:50] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:21:34] ==== loop 131/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:21:34] planet 50: queue busy, throttled building_laboratory
+[12:21:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:22:19] ==== loop 132/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:22:19] planet 50: queue busy, throttled building_laboratory
+[12:22:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:23:04] ==== loop 133/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:23:04] alliance: idle no_candidate
+[12:23:04] planet 50: queue busy, throttled building_laboratory
+[12:23:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:23:50] ==== loop 134/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:23:50] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:24:38] ==== loop 135/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:24:38] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:25:23] ==== loop 136/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:25:23] planet 50: queue busy, throttled building_laboratory
+[12:25:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:26:10] ==== loop 137/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:26:10] planet 50: queue busy, throttled building_laboratory
+[12:26:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:27:00] ==== loop 138/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:27:00] planet 50: queue busy, throttled building_laboratory
+[12:27:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:27:47] ==== loop 139/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:27:47] planet 50: queue busy, throttled building_laboratory
+[12:27:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:28:32] ==== loop 140/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:28:32] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:29:18] ==== loop 141/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:29:18] planet 50: queue busy, throttled building_laboratory
+[12:29:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:30:05] ==== loop 142/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:30:05] planet 50: queue busy, throttled building_laboratory
+[12:30:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:30:48] ==== loop 143/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:30:48] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:31:36] ==== loop 144/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:31:36] planet 50: queue busy, throttled building_laboratory
+[12:31:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:32:22] ==== loop 145/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:32:22] planet 50: queue busy, throttled building_laboratory
+[12:32:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:33:12] ==== loop 146/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:33:12] planet 50: queue busy, throttled building_laboratory
+[12:33:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:33:56] ==== loop 147/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:33:56] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:34:39] ==== loop 148/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:34:39] planet 50: queue busy, throttled building_laboratory
+[12:34:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:35:30] ==== loop 149/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:35:30] planet 50: queue busy, throttled building_laboratory
+[12:35:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:36:13] ==== loop 150/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:36:13] planet 50: queue busy, throttled building_laboratory
+[12:36:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:36:58] ==== loop 151/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:36:58] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:37:42] ==== loop 152/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:37:42] planet 50: queue busy, throttled building_laboratory
+[12:37:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:38:27] ==== loop 153/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:38:27] alliance: idle no_candidate
+[12:38:27] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:39:16] ==== loop 154/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:39:16] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:40:01] ==== loop 155/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:40:01] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:40:44] ==== loop 156/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:40:44] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:41:24] ==== loop 157/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:41:24] planet 50: queue busy, throttled building_laboratory
+[12:41:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:42:07] ==== loop 158/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:42:07] planet 50: queue busy, throttled building_laboratory
+[12:42:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:42:56] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:42:56] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:43:39] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:43:39] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:44:26] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:44:26] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:45:05] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:45:05] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:45:43] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:45:43] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:46:21] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:46:21] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:47:03] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:47:03] planet 50: queue busy, throttled building_laboratory
+[12:47:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:48:28] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:48:28] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:49:08] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:49:08] planet 50: queue busy, throttled building_laboratory
+[12:49:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:49:52] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:49:52] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:50:33] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:50:33] planet 50: queue busy, throttled building_laboratory
+[12:50:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:51:14] ==== loop 13/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:51:14] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:51:59] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:51:59] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:52:38] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:52:38] alliance: idle no_candidate
+[12:52:38] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:53:21] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:53:21] planet 50: queue busy, throttled building_laboratory
+[12:53:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:54:00] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:54:00] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:54:44] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:54:44] planet 50: queue busy, throttled building_laboratory
+[12:54:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:55:27] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:55:27] planet 50: queue busy, throttled building_laboratory
+[12:55:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:56:09] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:56:09] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:56:52] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:56:52] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:57:35] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:57:35] planet 50: queue busy, throttled building_laboratory
+[12:57:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:58:17] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:58:17] planet 50: queue busy, throttled building_laboratory
+[12:58:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 12:59:00] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:59:00] planet 50: queue busy, throttled building_laboratory
+llm_inbox: encolado job_id=20 message_id=2422
+[2026-05-12 12:59:43] ==== loop 1/1 | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:59:43] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 12:59:45] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[12:59:45] planet 50: queue busy, throttled building_laboratory
+[12:59:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 13:00:26] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:00:26] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 13:01:06] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:01:06] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 13:01:46] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:01:46] planet 50: queue busy, throttled building_laboratory
+llm_inbox: job 20 fallido (incoming)
+[2026-05-12 13:04:01] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:04:01] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 13:04:44] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:04:44] planet 50: queue busy, throttled building_laboratory
+[13:04:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 13:05:32] ==== loop 17/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:05:32] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 13:06:15] ==== loop 18/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:06:15] alliance: idle no_candidate
+[13:06:15] planet 50: queue busy, throttled building_laboratory
+llm_inbox: recuperados 1 job(s) fallido→respondido (reintento aplicar)
+llm_inbox: job 20 done (mensaje ya no existe)
+[2026-05-12 13:06:50] ==== loop 1/1 | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:06:50] planet 50: queue busy, throttled building_laboratory
+[13:06:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 13:06:53] ==== loop 19/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:06:53] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 13:07:36] ==== loop 20/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:07:36] planet 50: queue busy, throttled building_laboratory
+[2026-05-12 13:08:15] ==== loop 21/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:08:15] planet 50: queue busy, throttled building_laboratory
+[13:08:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 13:09:33] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:09:33] planet 50: queue busy, throttled building_laboratory
+[13:09:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-12 13:10:12] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:10:13] planet 50: queued building_laboratory to 2
+[13:10:13] research: queued research_energy_technology on planet 50 (5s)
+[2026-05-12 13:10:53] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:10:54] planet 50: queued building_laboratory to 3
+[13:10:54] research: already in progress
+[2026-05-12 13:11:35] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:11:36] planet 50: queued building_metal_store to 7
+[13:11:36] research: already in progress
+[2026-05-12 13:12:18] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:12:18] planet 50: building queue full (5)
+[2026-05-12 13:12:57] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:12:57] planet 50: building queue full (5)
+[2026-05-12 13:13:41] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:13:41] planet 50: queued building_metal_store to 8
+[13:13:41] research: already in progress
+[2026-05-12 13:14:25] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:14:25] planet 50: building queue full (5)
+[2026-05-12 13:15:08] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:15:08] planet 50: building queue full (5)
+[13:15:08] research: already in progress
+[2026-05-12 13:15:51] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:15:52] planet 50: building queue full (5)
+[13:15:52] research: already in progress
+[2026-05-12 13:16:41] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:16:42] planet 50: building queue full (5)
+[13:16:42] research: already in progress
+[2026-05-12 13:17:23] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:17:23] planet 50: building queue full (5)
+[2026-05-12 13:18:06] ==== loop 13/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:18:06] planet 50: queued building_metal_store to 9
+[13:18:06] research: already in progress
+[2026-05-12 13:18:51] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:18:51] planet 50: building queue full (5)
+[13:18:51] research: already in progress
+[2026-05-12 13:19:36] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:19:36] planet 50: building queue full (5)
+[13:19:36] research: already in progress
+[2026-05-12 13:20:16] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:20:16] alliance: idle no_candidate
+[13:20:16] planet 50: queued building_crystal_mine to 23
+[2026-05-12 13:20:59] ==== loop 17/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:21:00] planet 50: queued building_robot_factory to 4
+[13:21:00] research: already in progress
+[2026-05-12 13:21:46] ==== loop 18/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:21:46] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:22:52] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:22:52] planet 50: queue busy, throttled building_robot_factory
+[13:22:52] research: already in progress
+[2026-05-12 13:24:11] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:24:11] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:24:47] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:24:47] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:25:26] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:25:26] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:26:13] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:26:14] planet 50: building queue full (5)
+[13:26:14] research: already in progress
+[2026-05-12 13:26:57] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:26:58] planet 50: building queue full (5)
+[13:26:58] research: already in progress
+[2026-05-12 13:27:33] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:27:33] planet 50: building queue full (5)
+[13:27:33] research: already in progress
+[2026-05-12 13:28:40] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:28:40] planet 50: building queue full (5)
+[2026-05-12 13:29:21] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:29:22] planet 50: building queue full (5)
+[2026-05-12 13:30:04] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:30:04] planet 50: building queue full (5)
+[2026-05-12 13:31:18] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:31:19] planet 50: building queue full (5)
+[2026-05-12 13:31:54] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:31:54] planet 50: building queue full (5)
+[13:31:54] research: already in progress
+[2026-05-12 13:32:32] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:32:32] planet 50: building queue full (5)
+[13:32:32] research: already in progress
+[2026-05-12 13:33:16] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:33:17] planet 50: queued building_metal_mine to 18
+[2026-05-12 13:33:51] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:33:51] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:34:27] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:34:27] alliance: idle no_candidate
+[13:34:27] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:35:06] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:35:07] planet 50: building queue full (5)
+[2026-05-12 13:35:45] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:35:46] planet 50: building queue full (5)
+[13:35:46] research: already in progress
+[2026-05-12 13:36:24] ==== loop 13/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:36:26] planet 50: building queue full (5)
+[2026-05-12 13:36:58] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:36:59] planet 50: building queue full (5)
+[2026-05-12 13:37:37] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:37:38] planet 50: building queue full (5)
+[2026-05-12 13:38:17] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:38:17] planet 50: building queue full (5)
+[2026-05-12 13:38:52] ==== loop 17/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:38:53] planet 50: building queue full (5)
+[2026-05-12 13:39:40] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:39:41] planet 50: building queue full (5)
+[2026-05-12 13:40:16] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:40:16] planet 50: queued building_deuterium_sintetizer to 7
+[13:40:16] research: already in progress
+[2026-05-12 13:40:54] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:40:55] planet 50: building queue full (5)
+[13:40:55] research: already in progress
+[2026-05-12 13:41:28] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:41:29] planet 50: building queue full (5)
+[2026-05-12 13:42:04] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:42:04] planet 50: building queue full (5)
+[2026-05-12 13:42:40] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:42:41] planet 50: building queue full (5)
+[2026-05-12 13:43:19] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:43:20] planet 50: building queue full (5)
+[2026-05-12 13:43:59] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:44:00] planet 50: building queue full (5)
+[2026-05-12 13:44:49] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:44:50] planet 50: building queue full (5)
+[2026-05-12 13:46:00] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:46:01] planet 50: building queue full (5)
+[13:46:01] research: already in progress
+[2026-05-12 13:46:40] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:46:41] planet 50: building queue full (5)
+[13:46:41] research: already in progress
+[2026-05-12 13:47:12] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:47:13] alliance: idle no_candidate
+[13:47:13] planet 50: building queue full (5)
+[13:47:13] research: already in progress
+[2026-05-12 13:47:52] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:47:53] planet 50: building queue full (5)
+[2026-05-12 13:48:31] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:48:32] planet 50: building queue full (5)
+[13:48:32] research: already in progress
+[2026-05-12 13:49:13] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:49:13] planet 50: building queue full (5)
+[2026-05-12 13:49:52] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:49:53] planet 50: building queue full (5)
+[2026-05-12 13:50:29] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:50:30] planet 50: queued building_crystal_store to 13
+[2026-05-12 13:51:04] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:51:04] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:51:39] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:51:39] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:52:48] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:52:48] planet 50: queue busy, throttled building_robot_factory
+[13:52:48] research: already in progress
+[2026-05-12 13:53:23] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:53:23] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:54:00] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:54:00] planet 50: queue busy, throttled building_robot_factory
+[13:54:00] research: already in progress
+[2026-05-12 13:54:39] ==== loop 17/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:54:39] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:55:15] ==== loop 18/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:55:15] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:55:54] ==== loop 19/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:55:54] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:57:04] ==== loop 21/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:57:04] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:57:42] ==== loop 22/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:57:42] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:58:19] ==== loop 23/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:58:19] planet 50: queue busy, throttled building_robot_factory
+[13:58:19] research: already in progress
+[2026-05-12 13:58:52] ==== loop 24/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:58:52] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 13:59:29] ==== loop 25/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[13:59:29] alliance: idle no_candidate
+[13:59:29] planet 50: queue busy, throttled building_robot_factory
+[13:59:29] research: already in progress
+[2026-05-12 14:00:34] ==== loop 27/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:00:34] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:01:13] ==== loop 28/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:01:13] planet 50: queue busy, throttled building_robot_factory
+[14:01:13] research: already in progress
+[2026-05-12 14:01:51] ==== loop 29/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:01:51] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:03:15] ==== loop 31/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:03:15] planet 50: queue busy, throttled building_robot_factory
+[14:03:15] research: already in progress
+[2026-05-12 14:03:57] ==== loop 32/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:03:57] planet 50: queue busy, throttled building_robot_factory
+[14:03:57] research: already in progress
+[2026-05-12 14:04:35] ==== loop 33/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:04:35] planet 50: queue busy, throttled building_robot_factory
+[14:04:35] research: already in progress
+[2026-05-12 14:05:52] ==== loop 35/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:05:52] planet 50: queue busy, throttled building_robot_factory
+[14:05:52] research: already in progress
+[2026-05-12 14:06:31] ==== loop 36/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:06:31] planet 50: queue busy, throttled building_robot_factory
+[14:06:31] research: already in progress
+[2026-05-12 14:07:11] ==== loop 37/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:07:11] planet 50: queue busy, throttled building_robot_factory
+[14:07:11] research: already in progress
+[2026-05-12 14:07:51] ==== loop 38/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:07:51] planet 50: queue busy, throttled building_robot_factory
+[14:07:51] research: already in progress
+[2026-05-12 14:08:31] ==== loop 39/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:08:31] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:09:56] ==== loop 41/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:09:56] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:11:15] ==== loop 43/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:11:15] planet 50: queue busy, throttled building_robot_factory
+[14:11:15] research: already in progress
+[2026-05-12 14:11:50] ==== loop 44/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:11:51] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:12:30] ==== loop 45/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:12:30] alliance: idle no_candidate
+[14:12:30] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:13:06] ==== loop 46/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:13:06] planet 50: queue busy, throttled building_robot_factory
+[14:13:06] research: already in progress
+[2026-05-12 14:13:44] ==== loop 47/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:13:44] planet 50: queue busy, throttled building_robot_factory
+[14:13:44] research: already in progress
+[2026-05-12 14:14:18] ==== loop 48/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:14:18] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:14:57] ==== loop 49/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:14:57] planet 50: queue busy, throttled building_robot_factory
+[14:14:57] research: already in progress
+[2026-05-12 14:15:35] ==== loop 50/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:15:35] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:16:11] ==== loop 51/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:16:11] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:16:45] ==== loop 52/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:16:45] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:17:22] ==== loop 53/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:17:22] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:18:34] ==== loop 55/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:18:34] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:19:07] ==== loop 56/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:19:07] planet 50: queue busy, throttled building_robot_factory
+[14:19:07] research: already in progress
+[2026-05-12 14:19:47] ==== loop 57/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:19:47] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:20:25] ==== loop 58/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:20:25] planet 50: queue busy, throttled building_robot_factory
+[14:20:25] research: already in progress
+[2026-05-12 14:21:07] ==== loop 59/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:21:07] planet 50: queue busy, throttled building_robot_factory
+[14:21:07] research: already in progress
+[2026-05-12 14:21:47] ==== loop 60/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:21:47] planet 50: queue busy, throttled building_robot_factory
+[14:21:47] research: already in progress
+[2026-05-12 14:22:33] ==== loop 61/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:22:33] planet 50: queue busy, throttled building_robot_factory
+[14:22:33] research: already in progress
+[2026-05-12 14:23:23] ==== loop 62/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:23:23] planet 50: queue busy, throttled building_robot_factory
+[14:23:23] research: already in progress
+[2026-05-12 14:24:05] ==== loop 63/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:24:05] planet 50: queue busy, throttled building_robot_factory
+[14:24:05] research: already in progress
+[2026-05-12 14:25:25] ==== loop 65/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:25:25] alliance: idle no_candidate
+[14:25:25] planet 50: queue busy, throttled building_robot_factory
+[14:25:25] research: already in progress
+[2026-05-12 14:26:04] ==== loop 66/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:26:04] planet 50: queue busy, throttled building_robot_factory
+[14:26:04] research: already in progress
+[2026-05-12 14:26:51] ==== loop 67/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:26:51] planet 50: queue busy, throttled building_robot_factory
+[14:26:51] research: already in progress
+[2026-05-12 14:27:33] ==== loop 68/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:27:33] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:28:14] ==== loop 69/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:28:14] planet 50: queue busy, throttled building_robot_factory
+[14:28:14] research: already in progress
+[2026-05-12 14:28:54] ==== loop 70/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:28:54] planet 50: queue busy, throttled building_robot_factory
+[14:28:54] research: already in progress
+[2026-05-12 14:29:38] ==== loop 71/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:29:38] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:30:21] ==== loop 72/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:30:22] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:31:06] ==== loop 73/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:31:06] planet 50: queue busy, throttled building_robot_factory
+[14:31:06] research: already in progress
+[2026-05-12 14:31:58] ==== loop 74/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:31:58] planet 50: queue busy, throttled building_robot_factory
+[14:31:58] research: already in progress
+[2026-05-12 14:32:40] ==== loop 75/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:32:40] planet 50: queue busy, throttled building_robot_factory
+[14:32:40] research: already in progress
+[2026-05-12 14:33:31] ==== loop 76/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:33:31] planet 50: queue busy, throttled building_robot_factory
+[14:33:31] research: already in progress
+[2026-05-12 14:34:18] ==== loop 77/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:34:18] planet 50: queue busy, throttled building_robot_factory
+[2026-05-12 14:35:22] ==== loop 1/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:35:23] planet 50: queued building_robot_factory to 5
+[2026-05-12 14:36:05] ==== loop 2/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:36:07] planet 50: building queue full (5)
+[2026-05-12 14:36:52] ==== loop 3/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:36:52] planet 50: building queue full (5)
+[14:36:52] research: already in progress
+[2026-05-12 14:37:38] ==== loop 4/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:37:39] planet 50: building queue full (5)
+[14:37:39] research: already in progress
+[2026-05-12 14:38:22] ==== loop 5/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:38:22] planet 50: building queue full (5)
+[14:38:22] research: already in progress
+[2026-05-12 14:39:09] ==== loop 6/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:39:09] planet 50: building queue full (5)
+[14:39:09] research: already in progress
+[2026-05-12 14:39:56] ==== loop 7/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:39:57] planet 50: building queue full (5)
+[2026-05-12 14:40:44] ==== loop 8/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:40:46] alliance: idle no_candidate
+[14:40:46] planet 50: building queue full (5)
+[14:40:46] research: already in progress
+[2026-05-12 14:41:25] ==== loop 9/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:41:26] planet 50: building queue full (5)
+[2026-05-12 14:42:10] ==== loop 10/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:42:10] planet 50: building queue full (5)
+[2026-05-12 14:42:52] ==== loop 11/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:42:52] planet 50: building queue full (5)
+[14:42:52] research: already in progress
+[2026-05-12 14:43:37] ==== loop 12/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:43:37] planet 50: building queue full (5)
+[14:43:37] research: already in progress
+[2026-05-12 14:44:23] ==== loop 13/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:44:24] planet 50: building queue full (5)
+[14:44:24] research: already in progress
+[2026-05-12 14:45:08] ==== loop 14/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:45:08] planet 50: building queue full (5)
+[2026-05-12 14:45:50] ==== loop 15/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:45:51] planet 50: building queue full (5)
+[2026-05-12 14:46:31] ==== loop 16/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:46:32] planet 50: building queue full (5)
+[14:46:32] research: already in progress
+[2026-05-12 14:47:15] ==== loop 17/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:47:16] planet 50: building queue full (5)
+[14:47:16] research: already in progress
+[2026-05-12 14:47:59] ==== loop 18/∞ | seed=440277987251864452 archetype=balanced personality=minero focus=tech actions_per_loop=1 ====
+[14:48:00] planet 50: building queue full (5)
+[14:48:00] research: already in progress

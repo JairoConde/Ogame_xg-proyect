@@ -177,7 +177,7 @@ class OfficierController extends BaseController
      */
     private function isOfficierAccesible(int $officier, string $time): bool
     {
-        return ($this->objects->getPrice($officier, $time) <= $this->user['premium_dark_matter']);
+        return $this->objects->getPrice($officier, $time) <= $this->user['premium_dark_matter'];
     }
 
     /**

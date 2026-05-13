@@ -59,7 +59,7 @@ class BuildingsController extends BaseController
      *
      * @return void
      */
-    private function setUpBuildings()
+    private function setUpBuildings(): void
     {
         $this->_building = new Building(
             $this->planet,
@@ -80,8 +80,8 @@ class BuildingsController extends BaseController
     {
         $action = filter_input(INPUT_GET, 'cmd');
         $reload = filter_input(INPUT_GET, 'r');
-        $building = filter_input(INPUT_GET, 'building', FILTER_VALIDATE_INT);
-        $list_id = filter_input(INPUT_GET, 'listid', FILTER_VALIDATE_INT);
+        $building = filter_input(INPUT_GET, 'building', FILTER_VALIDATE_INT) ?? 0;
+        $list_id = filter_input(INPUT_GET, 'listid', FILTER_VALIDATE_INT) ?? 0;
         $allowed_actions = ['cancel', 'destroy', 'insert', 'remove'];
 
         if (!is_null($action)) {
@@ -90,18 +90,22 @@ class BuildingsController extends BaseController
                     switch ($action) {
                         case 'cancel':
                             $this->cancelCurrent();
+
                             break;
 
                         case 'destroy':
                             $this->addToQueue($building, false);
+
                             break;
 
                         case 'insert':
                             $this->addToQueue($building, true);
+
                             break;
 
                         case 'remove':
                             $this->removeFromQueue($list_id);
+
                             break;
                     }
 
@@ -143,9 +147,9 @@ class BuildingsController extends BaseController
     /**
      * Build the list of buildings
      *
-     * @return string
+     * @return array
      */
-    private function buildListOfBuildings()
+    private function buildListOfBuildings(): array
     {
         $buildings_list = [];
 
@@ -163,7 +167,7 @@ class BuildingsController extends BaseController
      *
      * @return array
      */
-    private function buildQueueBlock()
+    private function buildQueueBlock(): array
     {
         $return['BuildListScript'] = '';
         $return['BuildList'] = '';
@@ -185,7 +189,7 @@ class BuildingsController extends BaseController
      *
      * @return array
      */
-    private function setListOfBuildingsItem($building_id)
+    private function setListOfBuildingsItem(int $building_id): array
     {
         $item_to_parse = [];
 
@@ -208,7 +212,7 @@ class BuildingsController extends BaseController
      *
      * @return string
      */
-    private function getBuildingLevelWithFormat($building_id)
+    private function getBuildingLevelWithFormat(int $building_id): string
     {
         return Developments::setLevelFormat(
             $this->getBuildingLevel($building_id),
@@ -223,7 +227,7 @@ class BuildingsController extends BaseController
      *
      * @return string
      */
-    private function getBuildingPriceWithFormat($building_id)
+    private function getBuildingPriceWithFormat(int $building_id): string
     {
         return Developments::formatedDevelopmentPrice(
             $this->user,
@@ -242,7 +246,7 @@ class BuildingsController extends BaseController
      *
      * @return string
      */
-    private function getBuildingTimeWithFormat($building_id)
+    private function getBuildingTimeWithFormat(int $building_id): string
     {
         return Developments::formatedDevelopmentTime(
             $this->getBuildingTime($building_id),
@@ -257,7 +261,7 @@ class BuildingsController extends BaseController
      *
      * @return int
      */
-    private function getBuildingLevel($building_id)
+    private function getBuildingLevel(int $building_id): int
     {
         return $this->planet[$this->objects->getObjects()[$building_id]];
     }
@@ -269,9 +273,9 @@ class BuildingsController extends BaseController
      *
      * @return int
      */
-    private function getBuildingTime($building_id)
+    private function getBuildingTime(int $building_id): int
     {
-        return Developments::developmentTime(
+        return (int) Developments::developmentTime(
             $this->user,
             $this->planet,
             $building_id,
@@ -287,7 +291,7 @@ class BuildingsController extends BaseController
      *
      * @return string
      */
-    private function getActionButton($building_id)
+    private function getActionButton(int $building_id): string
     {
         $build_url = 'game.php?page=' . $this->getCurrentPage() . '&cmd=insert&building=' . $building_id;
 
@@ -348,7 +352,7 @@ class BuildingsController extends BaseController
      *
      * @return string
      */
-    private function buildCountDownClock($building_id)
+    private function buildCountDownClock(int $building_id): string
     {
         $first_queued_element = (int) $this->_building->getNewQueueAsArray()[0][0];
 
@@ -374,9 +378,9 @@ class BuildingsController extends BaseController
      *
      * @return boolean
      */
-    private function canInitBuildAction($building_id, $list_id)
+    private function canInitBuildAction(int $building_id, ?int $list_id = null): bool
     {
-        if (isset($list_id)) {
+        if ($list_id) {
             return true;
         }
 
@@ -402,7 +406,7 @@ class BuildingsController extends BaseController
      *
      * @return string
      */
-    private function buildButton($button_code)
+    private function buildButton(string $button_code): string
     {
         $listOfButtons = [
             'all_occupied' => ['color' => 'red', 'lang' => 'bd_no_more_fields'],
@@ -426,7 +430,7 @@ class BuildingsController extends BaseController
      *
      * @return boolean
      */
-    private function isWorkInProgress($building_id)
+    private function isWorkInProgress(int $building_id): bool
     {
         $working_buildings = [14, 15, 21];
 
@@ -444,11 +448,11 @@ class BuildingsController extends BaseController
     /**
      * Determine the current page and validate it
      *
-     * @return array
+     * @return string
      *
      * @throws Exception
      */
-    private function getCurrentPage()
+    private function getCurrentPage(): string
     {
         try {
             $get_value = filter_input(INPUT_GET, 'page');
@@ -470,16 +474,23 @@ class BuildingsController extends BaseController
      *
      * @return array
      */
-    private function getAllowedBuildings()
+    private function getAllowedBuildings(): array
     {
+        // Planets: full resource + station lists. Moons: same resources; station adds lunar-only (41–43).
+        $planetResources = [1, 2, 3, 4, 12, 22, 23, 24];
+        $planetStation = [14, 15, 21, 31, 33, 34, 44];
+        $moonStationExtras = [41, 42, 43];
+        $moonStation = array_values(array_unique(array_merge($planetStation, $moonStationExtras)));
+        sort($moonStation);
+
         $allowed_buildings = [
             'resources' => [
-                1 => [1, 2, 3, 4, 12, 22, 23, 24],
-                3 => [12, 22, 23, 24],
+                1 => $planetResources,
+                3 => $planetResources,
             ],
             'station' => [
-                1 => [14, 15, 21, 31, 33, 34, 44],
-                3 => [14, 21, 41, 42, 43],
+                1 => $planetStation,
+                3 => $moonStation,
             ],
         ];
 
@@ -527,7 +538,7 @@ class BuildingsController extends BaseController
                     $ListIDArray = explode(',', $QueueArray[$ID]);
 
                     if ($ListIDArray[0] == $building) {
-                        $ListIDArray[1] -= 1;
+                        $ListIDArray[1] = (int) $ListIDArray[1] - 1;
                     }
 
                     $current_build_time = Developments::developmentTime($this->user, $this->planet, $ListIDArray[0]);
@@ -576,6 +587,8 @@ class BuildingsController extends BaseController
      */
     private function removeFromQueue($QueueID)
     {
+        $NewQueue = $this->planet['planet_b_building_id'];
+
         if ($QueueID > 1) {
             $CurrentQueue = $this->planet['planet_b_building_id'];
 
@@ -605,7 +618,7 @@ class BuildingsController extends BaseController
                 // update the rest of buildings queue
                 for ($ID = $lastID; $ID < $ActualCount - 1; $ID++) {
                     $nextListIDArray = explode(',', $QueueArray[$ID + 1]);
-                    $nextBuildEndTime = $nextListIDArray[3] - $lastB[2];
+                    $nextBuildEndTime = (int) $nextListIDArray[3] - (int) $lastB[2];
                     $nextListIDArray[3] = $nextBuildEndTime;
                     $QueueArray[$ID] = join(',', $nextListIDArray);
                 }
@@ -724,7 +737,7 @@ class BuildingsController extends BaseController
                     $BuildEndTime = time() + $BuildTime;
                 } else {
                     $PrevBuild = explode(',', $QueueArray[$ActualCount - 1]);
-                    $BuildEndTime = $PrevBuild[3] + $BuildTime;
+                    $BuildEndTime = (int) $PrevBuild[3] + $BuildTime;
                 }
 
                 $QueueArray[$ActualCount] = $building . ',' . $BuildLevel . ',' . $BuildTime . ',' . $BuildEndTime . ',' . $BuildMode;
@@ -733,6 +746,7 @@ class BuildingsController extends BaseController
                 $this->planet['planet_b_building_id'] = $NewQueue;
             }
         }
+
         return $QueueID;
     }
 

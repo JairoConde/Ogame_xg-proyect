@@ -6,7 +6,7 @@ use App\Core\Entity;
 
 class ReportEntity extends Entity
 {
-    public function __construct($data)
+    public function __construct(array $data)
     {
         parent::__construct($data);
     }
@@ -16,7 +16,7 @@ class ReportEntity extends Entity
      *
      * @return string
      */
-    public function getReportOwners()
+    public function getReportOwners(): string
     {
         return $this->data['report_owners'];
     }
@@ -26,7 +26,7 @@ class ReportEntity extends Entity
      *
      * @return string
      */
-    public function getReportId()
+    public function getReportId(): string
     {
         return $this->data['report_rid'];
     }
@@ -36,7 +36,7 @@ class ReportEntity extends Entity
      *
      * @return string
      */
-    public function getReportContent()
+    public function getReportContent(): string
     {
         return $this->data['report_content'];
     }
@@ -46,7 +46,7 @@ class ReportEntity extends Entity
      *
      * @return string
      */
-    public function getReportDestroyed()
+    public function getReportDestroyed(): string
     {
         return $this->data['report_destroyed'];
     }
@@ -56,7 +56,7 @@ class ReportEntity extends Entity
      *
      * @return string
      */
-    public function getReportTime()
+    public function getReportTime(): string
     {
         return $this->data['report_time'];
     }

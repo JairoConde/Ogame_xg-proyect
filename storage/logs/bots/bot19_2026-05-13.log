@@ -1,0 +1,881 @@
+[2026-05-13 10:11:48] ==== loop 1/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:11:49] planet 45: queued building_hangar to 1
+[10:11:49] planet 45: queued ship_light_fighter +5
+[10:11:49] planet 45: skipped duplicate ship_light_fighter this loop
+[10:11:49] planet 45: skipped duplicate ship_light_fighter this loop
+[10:11:49] research: already in progress
+[2026-05-13 10:12:29] ==== loop 2/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:12:29] planet 45: queued ship_light_fighter +5
+[10:12:29] planet 45: skipped duplicate ship_light_fighter this loop
+[10:12:29] planet 45: skipped duplicate ship_light_fighter this loop
+[10:12:29] planet 45: skipped duplicate ship_light_fighter this loop
+[10:12:29] research: already in progress
+[2026-05-13 10:13:09] ==== loop 3/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:13:10] planet 45: queued ship_light_fighter +5
+[10:13:10] planet 45: skipped duplicate ship_light_fighter this loop
+[10:13:10] planet 45: skipped duplicate ship_light_fighter this loop
+[10:13:10] planet 45: skipped duplicate ship_light_fighter this loop
+[2026-05-13 10:13:49] ==== loop 4/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:13:50] planet 45: queued ship_light_fighter +5
+[10:13:50] planet 45: skipped duplicate ship_light_fighter this loop
+[10:13:50] planet 45: skipped duplicate ship_light_fighter this loop
+[10:13:50] planet 45: skipped duplicate ship_light_fighter this loop
+[10:13:50] research: already in progress
+[2026-05-13 10:14:33] ==== loop 5/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:14:33] planet 45: queued ship_light_fighter +5
+[10:14:33] planet 45: skipped duplicate ship_light_fighter this loop
+[10:14:33] planet 45: skipped duplicate ship_light_fighter this loop
+[10:14:33] planet 45: skipped duplicate ship_light_fighter this loop
+[2026-05-13 10:15:12] ==== loop 6/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:15:13] planet 45: queued ship_light_fighter +5
+[10:15:13] planet 45: skipped duplicate ship_light_fighter this loop
+[10:15:13] planet 45: skipped duplicate ship_light_fighter this loop
+[10:15:13] planet 45: skipped duplicate ship_light_fighter this loop
+[10:15:13] research: already in progress
+[2026-05-13 10:15:57] ==== loop 7/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:15:58] planet 45: queued ship_light_fighter +5
+[10:15:58] planet 45: skipped duplicate ship_light_fighter this loop
+[10:15:58] planet 45: skipped duplicate ship_light_fighter this loop
+[10:15:58] planet 45: skipped duplicate ship_light_fighter this loop
+[2026-05-13 10:16:41] ==== loop 8/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:16:41] planet 45: queued ship_light_fighter +5
+[10:16:41] planet 45: skipped duplicate ship_light_fighter this loop
+[10:16:41] planet 45: skipped duplicate ship_light_fighter this loop
+[10:16:41] planet 45: skipped duplicate ship_light_fighter this loop
+[2026-05-13 10:17:25] ==== loop 9/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:17:26] planet 45: queued ship_light_fighter +5
+[10:17:26] planet 45: skipped duplicate ship_light_fighter this loop
+[10:17:26] planet 45: skipped duplicate ship_light_fighter this loop
+[10:17:26] planet 45: skipped duplicate ship_light_fighter this loop
+[10:17:26] research: already in progress
+[2026-05-13 10:18:07] ==== loop 10/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:18:08] planet 45: queued ship_light_fighter +5
+[10:18:08] planet 45: skipped duplicate ship_light_fighter this loop
+[10:18:08] planet 45: skipped duplicate ship_light_fighter this loop
+[10:18:08] planet 45: skipped duplicate ship_light_fighter this loop
+[10:18:08] research: already in progress
+[2026-05-13 10:18:53] ==== loop 11/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:18:54] planet 45: queued ship_light_fighter +5
+[10:18:54] planet 45: skipped duplicate ship_light_fighter this loop
+[10:18:54] planet 45: skipped duplicate ship_light_fighter this loop
+[10:18:54] planet 45: skipped duplicate ship_light_fighter this loop
+[10:18:54] research: already in progress
+[2026-05-13 10:19:39] ==== loop 12/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:19:40] planet 45: queued ship_light_fighter +5
+[10:19:40] planet 45: skipped duplicate ship_light_fighter this loop
+[10:19:40] planet 45: skipped duplicate ship_light_fighter this loop
+[10:19:40] planet 45: skipped duplicate ship_light_fighter this loop
+[10:19:40] research: already in progress
+[2026-05-13 10:20:20] ==== loop 13/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:20:21] planet 45: queued building_metal_mine to 23
+[10:20:21] research: already in progress
+[2026-05-13 10:21:03] ==== loop 14/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:21:07] planet 45: building queue full (5)
+[10:21:07] planet 45: building queue full (5)
+[10:21:07] planet 45: building queue full (5)
+[10:21:07] planet 45: building queue full (5)
+[2026-05-13 10:21:49] ==== loop 15/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:21:52] planet 45: building queue full (5)
+[10:21:52] planet 45: building queue full (5)
+[10:21:52] planet 45: building queue full (5)
+[10:21:52] planet 45: building queue full (5)
+[10:21:52] research: already in progress
+[2026-05-13 10:22:36] ==== loop 16/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:22:39] planet 45: building queue full (5)
+[10:22:39] planet 45: building queue full (5)
+[10:22:39] planet 45: building queue full (5)
+[10:22:39] planet 45: building queue full (5)
+[10:22:39] research: already in progress
+[2026-05-13 10:23:22] ==== loop 17/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:23:25] planet 45: building queue full (5)
+[10:23:25] planet 45: building queue full (5)
+[10:23:25] planet 45: building queue full (5)
+[10:23:25] research: already in progress
+[2026-05-13 10:24:11] ==== loop 18/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:24:11] planet 45: queued building_metal_mine to 24
+[10:24:11] research: already in progress
+[2026-05-13 10:24:59] ==== loop 19/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:25:01] planet 45: building queue full (5)
+[10:25:01] planet 45: building queue full (5)
+[10:25:01] planet 45: building queue full (5)
+[10:25:01] planet 45: building queue full (5)
+[10:25:01] research: already in progress
+[2026-05-13 10:25:45] ==== loop 20/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:25:47] planet 45: building queue full (5)
+[10:25:47] planet 45: building queue full (5)
+[10:25:47] planet 45: building queue full (5)
+[10:25:47] planet 45: building queue full (5)
+[10:25:47] research: already in progress
+[2026-05-13 10:26:30] ==== loop 21/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:26:33] planet 45: building queue full (5)
+[10:26:33] planet 45: building queue full (5)
+[10:26:33] planet 45: building queue full (5)
+[10:26:33] planet 45: building queue full (5)
+[2026-05-13 10:27:17] ==== loop 22/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:27:19] planet 45: building queue full (5)
+[10:27:19] planet 45: building queue full (5)
+[10:27:19] planet 45: building queue full (5)
+[10:27:19] planet 45: building queue full (5)
+[2026-05-13 10:27:59] ==== loop 23/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:28:02] planet 45: building queue full (5)
+[10:28:02] planet 45: building queue full (5)
+[10:28:02] planet 45: building queue full (5)
+[10:28:02] planet 45: building queue full (5)
+[2026-05-13 10:28:50] ==== loop 24/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:28:53] planet 45: building queue full (5)
+[10:28:53] planet 45: building queue full (5)
+[10:28:53] planet 45: building queue full (5)
+[10:28:53] planet 45: building queue full (5)
+[10:28:53] research: already in progress
+[2026-05-13 10:29:37] ==== loop 25/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:29:38] planet 45: queued building_metal_mine to 25
+[2026-05-13 10:30:20] ==== loop 26/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:30:21] planet 45: queued building_crystal_store to 11
+[2026-05-13 10:31:00] ==== loop 27/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:31:02] planet 45: building queue full (5)
+[10:31:02] planet 45: building queue full (5)
+[10:31:02] planet 45: building queue full (5)
+[10:31:02] planet 45: building queue full (5)
+[10:31:02] research: already in progress
+[2026-05-13 10:31:39] ==== loop 28/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:31:42] planet 45: building queue full (5)
+[10:31:42] planet 45: building queue full (5)
+[10:31:42] planet 45: building queue full (5)
+[10:31:42] planet 45: building queue full (5)
+[2026-05-13 10:32:23] ==== loop 29/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:32:25] planet 45: building queue full (5)
+[10:32:25] planet 45: building queue full (5)
+[10:32:25] planet 45: building queue full (5)
+[10:32:25] planet 45: building queue full (5)
+[10:32:25] research: already in progress
+[2026-05-13 10:33:08] ==== loop 30/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:33:10] planet 45: building queue full (5)
+[10:33:10] planet 45: building queue full (5)
+[10:33:10] planet 45: building queue full (5)
+[10:33:10] planet 45: building queue full (5)
+[2026-05-13 10:33:51] ==== loop 31/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:33:55] planet 45: building queue full (5)
+[10:33:55] planet 45: building queue full (5)
+[10:33:55] planet 45: building queue full (5)
+[10:33:55] planet 45: building queue full (5)
+[10:33:55] research: already in progress
+[2026-05-13 10:34:35] ==== loop 32/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:34:38] planet 45: building queue full (5)
+[10:34:38] planet 45: building queue full (5)
+[10:34:38] planet 45: building queue full (5)
+[10:34:38] planet 45: building queue full (5)
+[2026-05-13 10:35:18] ==== loop 33/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:35:21] planet 45: building queue full (5)
+[10:35:21] planet 45: building queue full (5)
+[10:35:21] planet 45: building queue full (5)
+[10:35:21] planet 45: building queue full (5)
+[2026-05-13 10:36:04] ==== loop 34/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:36:07] planet 45: building queue full (5)
+[10:36:07] planet 45: building queue full (5)
+[10:36:07] planet 45: building queue full (5)
+[10:36:07] planet 45: building queue full (5)
+[2026-05-13 10:36:48] ==== loop 35/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:36:48] planet 45: queued ship_solar_satellite +5
+[10:36:48] planet 45: skipped duplicate ship_solar_satellite this loop
+[10:36:48] planet 45: skipped duplicate ship_solar_satellite this loop
+[10:36:48] planet 45: skipped duplicate ship_solar_satellite this loop
+[10:36:48] research: already in progress
+[2026-05-13 10:37:25] ==== loop 36/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:37:25] planet 45: queued building_metal_store to 17
+[10:37:25] research: already in progress
+[2026-05-13 10:38:05] ==== loop 37/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:38:06] planet 45: queued building_nano_factory to 1
+[2026-05-13 10:38:48] ==== loop 38/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:38:48] planet 45: queue busy, throttled building_nano_factory
+[10:38:48] planet 45: queue busy, throttled building_nano_factory
+[10:38:48] planet 45: queue busy, throttled building_nano_factory
+[10:38:48] planet 45: queue busy, throttled building_nano_factory
+[10:38:48] research: already in progress
+[2026-05-13 10:39:30] ==== loop 39/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:39:30] planet 45: queue busy, throttled building_nano_factory
+[10:39:30] planet 45: queue busy, throttled building_nano_factory
+[10:39:30] planet 45: queue busy, throttled building_nano_factory
+[10:39:30] planet 45: queue busy, throttled building_nano_factory
+[2026-05-13 10:40:13] ==== loop 40/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:40:13] planet 45: queue busy, throttled building_nano_factory
+[10:40:13] planet 45: queue busy, throttled building_nano_factory
+[10:40:13] planet 45: queue busy, throttled building_nano_factory
+[10:40:13] planet 45: queue busy, throttled building_nano_factory
+[10:40:13] research: already in progress
+[2026-05-13 10:40:54] ==== loop 41/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:40:54] planet 45: queue busy, throttled building_nano_factory
+[10:40:54] planet 45: queue busy, throttled building_nano_factory
+[10:40:54] planet 45: queue busy, throttled building_nano_factory
+[10:40:54] planet 45: queue busy, throttled building_nano_factory
+[10:40:54] research: queued research_energy_technology on planet 45 (7s)
+[2026-05-13 10:41:39] ==== loop 42/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:41:39] planet 45: queue busy, throttled building_nano_factory
+[10:41:39] planet 45: queue busy, throttled building_nano_factory
+[10:41:39] planet 45: queue busy, throttled building_nano_factory
+[10:41:39] planet 45: queue busy, throttled building_nano_factory
+[2026-05-13 10:42:27] ==== loop 43/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:42:27] planet 45: queue busy, throttled building_nano_factory
+[10:42:27] planet 45: queue busy, throttled building_nano_factory
+[10:42:27] planet 45: queue busy, throttled building_nano_factory
+[10:42:27] planet 45: queue busy, throttled building_nano_factory
+[10:42:27] research: already in progress
+[2026-05-13 10:43:11] ==== loop 44/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:43:11] planet 45: queue busy, throttled building_nano_factory
+[10:43:11] planet 45: queue busy, throttled building_nano_factory
+[10:43:11] planet 45: queue busy, throttled building_nano_factory
+[10:43:11] planet 45: queue busy, throttled building_nano_factory
+[10:43:11] research: already in progress
+[2026-05-13 10:43:57] ==== loop 45/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:43:57] planet 45: queue busy, throttled building_nano_factory
+[10:43:57] planet 45: queue busy, throttled building_nano_factory
+[10:43:57] planet 45: queue busy, throttled building_nano_factory
+[10:43:57] planet 45: queue busy, throttled building_nano_factory
+[2026-05-13 10:44:41] ==== loop 46/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:44:41] planet 45: queue busy, throttled building_nano_factory
+[10:44:41] planet 45: queue busy, throttled building_nano_factory
+[10:44:41] planet 45: queue busy, throttled building_nano_factory
+[10:44:41] planet 45: queue busy, throttled building_nano_factory
+[2026-05-13 10:45:23] ==== loop 47/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:45:27] planet 45: building queue full (5)
+[10:45:27] planet 45: building queue full (5)
+[10:45:27] planet 45: building queue full (5)
+[10:45:27] planet 45: building queue full (5)
+[10:45:27] research: already in progress
+[2026-05-13 10:46:10] ==== loop 48/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:46:13] planet 45: building queue full (5)
+[10:46:13] planet 45: building queue full (5)
+[10:46:13] planet 45: building queue full (5)
+[10:46:13] planet 45: building queue full (5)
+[10:46:13] research: already in progress
+[2026-05-13 10:47:02] ==== loop 49/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:47:05] planet 45: building queue full (5)
+[10:47:05] planet 45: building queue full (5)
+[10:47:05] planet 45: building queue full (5)
+[10:47:05] planet 45: building queue full (5)
+[2026-05-13 10:47:51] ==== loop 50/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:47:53] planet 45: building queue full (5)
+[10:47:53] planet 45: building queue full (5)
+[10:47:53] planet 45: building queue full (5)
+[10:47:53] planet 45: building queue full (5)
+[10:47:53] research: already in progress
+[2026-05-13 10:48:40] ==== loop 51/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:48:42] planet 45: building queue full (5)
+[10:48:42] planet 45: building queue full (5)
+[10:48:42] planet 45: building queue full (5)
+[2026-05-13 10:49:29] ==== loop 52/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:49:32] planet 45: building queue full (5)
+[10:49:32] planet 45: building queue full (5)
+[10:49:32] planet 45: building queue full (5)
+[10:49:32] planet 45: building queue full (5)
+[2026-05-13 10:50:22] ==== loop 53/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:50:25] planet 45: building queue full (5)
+[10:50:25] planet 45: building queue full (5)
+[10:50:25] planet 45: building queue full (5)
+[10:50:25] planet 45: building queue full (5)
+[2026-05-13 10:51:12] ==== loop 54/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:51:14] planet 45: building queue full (5)
+[10:51:14] planet 45: building queue full (5)
+[10:51:14] planet 45: building queue full (5)
+[10:51:14] planet 45: building queue full (5)
+[10:51:14] research: already in progress
+[2026-05-13 10:52:01] ==== loop 55/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:52:04] planet 45: building queue full (5)
+[10:52:04] planet 45: building queue full (5)
+[10:52:04] planet 45: building queue full (5)
+[10:52:04] planet 45: building queue full (5)
+[10:52:04] ally: transport: 1:6:6 -> 1:282:9 [ally_bot] m=0 c=0 d=58167 ships=0B+12S eta=178s fuel=405
+[10:52:04] attack: idle no_fleet_slots (used=1 max=1)
+[10:52:04] research: already in progress
+[2026-05-13 10:52:47] ==== loop 56/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:52:49] planet 45: building queue full (5)
+[10:52:49] planet 45: building queue full (5)
+[10:52:49] planet 45: building queue full (5)
+[10:52:49] planet 45: building queue full (5)
+[10:52:49] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 10:53:31] ==== loop 57/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:53:33] planet 45: building queue full (5)
+[10:53:33] planet 45: building queue full (5)
+[10:53:33] planet 45: building queue full (5)
+[10:53:33] planet 45: building queue full (5)
+[10:53:33] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 10:54:18] ==== loop 58/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:54:21] planet 45: building queue full (5)
+[10:54:21] planet 45: building queue full (5)
+[10:54:21] planet 45: building queue full (5)
+[10:54:21] planet 45: building queue full (5)
+[10:54:21] attack: idle no_fleet_slots (used=1 max=1)
+[10:54:21] research: already in progress
+[2026-05-13 10:55:08] ==== loop 59/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:55:10] planet 45: building queue full (5)
+[10:55:10] planet 45: building queue full (5)
+[10:55:10] planet 45: building queue full (5)
+[10:55:10] planet 45: building queue full (5)
+[10:55:10] attack: idle no_fleet_slots (used=1 max=1)
+[10:55:10] research: already in progress
+[2026-05-13 10:55:54] ==== loop 60/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:55:56] planet 45: building queue full (5)
+[10:55:56] planet 45: building queue full (5)
+[10:55:56] planet 45: building queue full (5)
+[10:55:56] planet 45: building queue full (5)
+[10:55:56] attack: idle no_fleet_slots (used=1 max=1)
+[10:55:56] research: already in progress
+[2026-05-13 10:56:42] ==== loop 61/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:56:45] planet 45: building queue full (5)
+[10:56:45] planet 45: building queue full (5)
+[10:56:45] planet 45: building queue full (5)
+[10:56:45] planet 45: building queue full (5)
+[10:56:45] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 10:57:25] ==== loop 62/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:57:28] planet 45: building queue full (5)
+[10:57:28] planet 45: building queue full (5)
+[10:57:28] planet 45: building queue full (5)
+[10:57:28] planet 45: building queue full (5)
+[10:57:28] attack: idle no_fleet_slots (used=1 max=1)
+[10:57:28] research: already in progress
+[2026-05-13 10:58:13] ==== loop 63/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:58:14] planet 45: building queue full (5)
+[10:58:14] planet 45: building queue full (5)
+[10:58:14] planet 45: building queue full (5)
+[10:58:14] planet 45: building queue full (5)
+[10:58:14] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 10:58:57] ==== loop 64/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:58:59] planet 45: building queue full (5)
+[10:58:59] planet 45: building queue full (5)
+[10:58:59] planet 45: building queue full (5)
+[10:58:59] planet 45: building queue full (5)
+[10:58:59] attack: idle no_fleet_slots (used=1 max=1)
+[10:58:59] research: already in progress
+[2026-05-13 10:59:44] ==== loop 65/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[10:59:47] planet 45: building queue full (5)
+[10:59:47] planet 45: building queue full (5)
+[10:59:47] planet 45: building queue full (5)
+[10:59:47] planet 45: building queue full (5)
+[10:59:47] attack: idle no_fleet_slots (used=1 max=1)
+[10:59:47] research: already in progress
+[2026-05-13 11:00:36] ==== loop 66/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:00:39] planet 45: building queue full (5)
+[11:00:39] planet 45: building queue full (5)
+[11:00:39] planet 45: building queue full (5)
+[11:00:39] planet 45: building queue full (5)
+[11:00:39] attack: idle no_fleet_slots (used=1 max=1)
+[11:00:39] research: already in progress
+[2026-05-13 11:01:23] ==== loop 67/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:01:25] planet 45: building queue full (5)
+[11:01:25] planet 45: building queue full (5)
+[11:01:25] planet 45: building queue full (5)
+[11:01:25] planet 45: building queue full (5)
+[2026-05-13 11:02:12] ==== loop 68/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:02:14] planet 45: building queue full (5)
+[11:02:14] planet 45: building queue full (5)
+[11:02:14] planet 45: building queue full (5)
+[11:02:14] planet 45: building queue full (5)
+[2026-05-13 11:03:03] ==== loop 69/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:03:05] planet 45: building queue full (5)
+[11:03:05] planet 45: building queue full (5)
+[11:03:05] planet 45: building queue full (5)
+[11:03:05] research: queued research_energy_technology on planet 45 (14s)
+[2026-05-13 11:03:50] ==== loop 70/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:03:54] planet 45: building queue full (5)
+[11:03:54] planet 45: building queue full (5)
+[11:03:54] planet 45: building queue full (5)
+[11:03:54] planet 45: building queue full (5)
+[11:03:54] research: already in progress
+[2026-05-13 11:04:42] ==== loop 71/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:04:45] planet 45: building queue full (5)
+[11:04:45] planet 45: building queue full (5)
+[11:04:45] planet 45: building queue full (5)
+[11:04:45] planet 45: building queue full (5)
+[11:04:45] research: already in progress
+[2026-05-13 11:05:28] ==== loop 72/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:05:31] planet 45: building queue full (5)
+[11:05:31] planet 45: building queue full (5)
+[11:05:31] planet 45: building queue full (5)
+[11:05:31] planet 45: building queue full (5)
+[11:05:31] research: already in progress
+[2026-05-13 11:06:13] ==== loop 73/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:06:15] planet 45: building queue full (5)
+[11:06:15] planet 45: building queue full (5)
+[11:06:15] planet 45: building queue full (5)
+[11:06:15] research: already in progress
+[2026-05-13 11:07:00] ==== loop 74/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:07:01] planet 45: building queue full (5)
+[11:07:01] planet 45: building queue full (5)
+[11:07:01] planet 45: building queue full (5)
+[11:07:01] research: already in progress
+[2026-05-13 11:07:47] ==== loop 75/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:07:51] planet 45: building queue full (5)
+[11:07:51] planet 45: building queue full (5)
+[11:07:51] planet 45: building queue full (5)
+[11:07:51] planet 45: building queue full (5)
+[11:07:51] research: already in progress
+[2026-05-13 11:08:38] ==== loop 76/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:08:41] planet 45: building queue full (5)
+[11:08:41] planet 45: building queue full (5)
+[11:08:41] planet 45: building queue full (5)
+[11:08:41] planet 45: building queue full (5)
+[11:08:41] research: already in progress
+[2026-05-13 11:09:27] ==== loop 77/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:09:30] planet 45: building queue full (5)
+[11:09:30] planet 45: building queue full (5)
+[11:09:30] planet 45: building queue full (5)
+[11:09:30] planet 45: building queue full (5)
+[2026-05-13 11:10:08] ==== loop 78/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:10:10] planet 45: building queue full (5)
+[11:10:10] planet 45: building queue full (5)
+[11:10:10] planet 45: building queue full (5)
+[11:10:10] planet 45: building queue full (5)
+[2026-05-13 11:10:56] ==== loop 79/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:10:59] planet 45: building queue full (5)
+[11:10:59] planet 45: building queue full (5)
+[11:10:59] planet 45: building queue full (5)
+[11:10:59] planet 45: building queue full (5)
+[11:10:59] research: already in progress
+[2026-05-13 11:11:42] ==== loop 80/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:11:46] planet 45: building queue full (5)
+[11:11:46] planet 45: building queue full (5)
+[11:11:46] planet 45: building queue full (5)
+[11:11:46] planet 45: building queue full (5)
+[11:11:46] research: already in progress
+[2026-05-13 11:12:23] ==== loop 81/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:12:25] planet 45: building queue full (5)
+[11:12:25] planet 45: building queue full (5)
+[11:12:25] planet 45: building queue full (5)
+[11:12:25] research: already in progress
+[2026-05-13 11:13:06] ==== loop 82/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:13:10] planet 45: building queue full (5)
+[11:13:10] planet 45: building queue full (5)
+[11:13:10] planet 45: building queue full (5)
+[11:13:10] planet 45: building queue full (5)
+[2026-05-13 11:13:53] ==== loop 83/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:13:54] planet 45: building queue full (5)
+[11:13:54] planet 45: building queue full (5)
+[11:13:54] planet 45: building queue full (5)
+[11:13:54] research: already in progress
+[2026-05-13 11:14:31] ==== loop 84/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:14:35] planet 45: building queue full (5)
+[11:14:35] planet 45: building queue full (5)
+[11:14:35] planet 45: building queue full (5)
+[11:14:35] planet 45: building queue full (5)
+[11:14:35] research: already in progress
+[2026-05-13 11:15:16] ==== loop 85/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:15:19] planet 45: building queue full (5)
+[11:15:19] planet 45: building queue full (5)
+[11:15:19] planet 45: building queue full (5)
+[11:15:19] planet 45: building queue full (5)
+[11:15:19] research: already in progress
+[2026-05-13 11:16:00] ==== loop 86/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:16:03] planet 45: building queue full (5)
+[11:16:03] planet 45: building queue full (5)
+[11:16:03] planet 45: building queue full (5)
+[11:16:03] planet 45: building queue full (5)
+[2026-05-13 11:16:46] ==== loop 87/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:16:51] planet 45: building queue full (5)
+[11:16:51] planet 45: building queue full (5)
+[11:16:51] planet 45: building queue full (5)
+[11:16:51] planet 45: building queue full (5)
+[11:16:51] research: already in progress
+[2026-05-13 11:17:35] ==== loop 88/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:17:38] planet 45: building queue full (5)
+[11:17:38] planet 45: building queue full (5)
+[11:17:38] planet 45: building queue full (5)
+[11:17:38] planet 45: building queue full (5)
+[11:17:38] research: already in progress
+[2026-05-13 11:18:25] ==== loop 89/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:18:28] planet 45: building queue full (5)
+[11:18:28] planet 45: building queue full (5)
+[11:18:28] planet 45: building queue full (5)
+[11:18:28] planet 45: building queue full (5)
+[2026-05-13 11:19:14] ==== loop 90/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:19:16] planet 45: building queue full (5)
+[11:19:16] planet 45: building queue full (5)
+[11:19:16] planet 45: building queue full (5)
+[11:19:16] planet 45: building queue full (5)
+[11:19:16] ally: transport: 1:6:6 -> 1:179:5 [ally_bot] m=45001 c=0 d=0 ships=0B+10S eta=145s fuel=224
+[11:19:16] attack: idle no_fleet_slots (used=1 max=1)
+[2026-05-13 11:20:01] ==== loop 91/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:20:04] planet 45: building queue full (5)
+[11:20:04] planet 45: building queue full (5)
+[11:20:04] planet 45: building queue full (5)
+[11:20:04] attack: idle no_fleet_slots (used=1 max=1)
+[11:20:04] research: already in progress
+[2026-05-13 11:20:47] ==== loop 92/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:20:50] planet 45: building queue full (5)
+[11:20:50] planet 45: building queue full (5)
+[11:20:50] planet 45: building queue full (5)
+[11:20:50] planet 45: building queue full (5)
+[11:20:50] attack: idle no_fleet_slots (used=1 max=1)
+[11:20:50] research: already in progress
+[2026-05-13 11:21:32] ==== loop 93/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:21:35] planet 45: building queue full (5)
+[11:21:35] planet 45: building queue full (5)
+[11:21:35] planet 45: building queue full (5)
+[11:21:35] planet 45: building queue full (5)
+[11:21:35] attack: idle no_fleet_slots (used=1 max=1)
+[11:21:35] research: already in progress
+[2026-05-13 11:22:15] ==== loop 94/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:22:17] planet 45: building queue full (5)
+[11:22:17] planet 45: building queue full (5)
+[11:22:17] planet 45: building queue full (5)
+[11:22:17] planet 45: building queue full (5)
+[2026-05-13 11:22:59] ==== loop 95/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:23:02] planet 45: building queue full (5)
+[11:23:02] planet 45: building queue full (5)
+[11:23:02] planet 45: building queue full (5)
+[11:23:02] research: queued research_energy_technology on planet 45 (28s)
+[2026-05-13 11:23:43] ==== loop 96/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:23:46] planet 45: building queue full (5)
+[11:23:46] planet 45: building queue full (5)
+[11:23:46] planet 45: building queue full (5)
+[11:23:46] planet 45: building queue full (5)
+[2026-05-13 11:24:28] ==== loop 97/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:24:30] planet 45: building queue full (5)
+[11:24:30] planet 45: building queue full (5)
+[11:24:30] planet 45: building queue full (5)
+[11:24:30] planet 45: building queue full (5)
+[11:24:30] research: already in progress
+[2026-05-13 11:25:14] ==== loop 98/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:25:18] planet 45: building queue full (5)
+[11:25:18] planet 45: building queue full (5)
+[11:25:18] planet 45: building queue full (5)
+[11:25:18] planet 45: building queue full (5)
+[11:25:18] research: already in progress
+[2026-05-13 11:26:04] ==== loop 99/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:26:07] planet 45: building queue full (5)
+[11:26:07] planet 45: building queue full (5)
+[11:26:07] planet 45: building queue full (5)
+[11:26:07] planet 45: building queue full (5)
+[11:26:07] research: already in progress
+[2026-05-13 11:26:52] ==== loop 100/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:26:53] planet 45: building queue full (5)
+[11:26:53] planet 45: building queue full (5)
+[11:26:53] planet 45: building queue full (5)
+[11:26:53] planet 45: building queue full (5)
+[2026-05-13 11:27:40] ==== loop 101/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:27:42] planet 45: building queue full (5)
+[11:27:42] planet 45: building queue full (5)
+[11:27:42] planet 45: building queue full (5)
+[11:27:42] planet 45: building queue full (5)
+[11:27:42] research: already in progress
+[2026-05-13 11:28:26] ==== loop 102/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:28:29] planet 45: building queue full (5)
+[11:28:29] planet 45: building queue full (5)
+[11:28:29] planet 45: building queue full (5)
+[11:28:29] planet 45: building queue full (5)
+[11:28:29] research: already in progress
+[2026-05-13 11:29:08] ==== loop 103/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:29:11] planet 45: building queue full (5)
+[11:29:11] planet 45: building queue full (5)
+[11:29:11] planet 45: building queue full (5)
+[11:29:11] planet 45: building queue full (5)
+[11:29:11] research: already in progress
+[2026-05-13 11:29:49] ==== loop 104/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:29:52] planet 45: building queue full (5)
+[11:29:52] planet 45: building queue full (5)
+[11:29:52] planet 45: building queue full (5)
+[11:29:52] planet 45: building queue full (5)
+[11:29:52] research: already in progress
+[2026-05-13 11:30:33] ==== loop 105/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:30:37] planet 45: building queue full (5)
+[11:30:37] planet 45: building queue full (5)
+[11:30:37] planet 45: building queue full (5)
+[11:30:37] planet 45: building queue full (5)
+[11:30:37] research: already in progress
+[2026-05-13 11:31:18] ==== loop 106/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:31:20] planet 45: building queue full (5)
+[11:31:20] planet 45: building queue full (5)
+[11:31:20] planet 45: building queue full (5)
+[11:31:20] planet 45: building queue full (5)
+[11:31:20] research: already in progress
+[2026-05-13 11:32:01] ==== loop 107/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:32:03] planet 45: building queue full (5)
+[11:32:03] planet 45: building queue full (5)
+[11:32:03] planet 45: building queue full (5)
+[11:32:03] planet 45: building queue full (5)
+[11:32:03] research: already in progress
+[2026-05-13 11:32:42] ==== loop 108/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:32:45] planet 45: building queue full (5)
+[11:32:45] planet 45: building queue full (5)
+[11:32:45] planet 45: building queue full (5)
+[11:32:45] research: already in progress
+[2026-05-13 11:33:27] ==== loop 109/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:33:29] planet 45: building queue full (5)
+[11:33:29] planet 45: building queue full (5)
+[11:33:29] planet 45: building queue full (5)
+[11:33:29] planet 45: building queue full (5)
+[11:33:29] research: already in progress
+[2026-05-13 11:34:13] ==== loop 110/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:34:16] planet 45: building queue full (5)
+[11:34:16] planet 45: building queue full (5)
+[11:34:16] planet 45: building queue full (5)
+[11:34:16] planet 45: building queue full (5)
+[11:34:16] research: already in progress
+[2026-05-13 11:34:58] ==== loop 111/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:35:00] planet 45: building queue full (5)
+[11:35:00] planet 45: building queue full (5)
+[11:35:00] planet 45: building queue full (5)
+[11:35:00] research: already in progress
+[2026-05-13 11:35:40] ==== loop 112/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:35:43] planet 45: building queue full (5)
+[11:35:43] planet 45: building queue full (5)
+[11:35:43] planet 45: building queue full (5)
+[11:35:43] planet 45: building queue full (5)
+[2026-05-13 11:36:22] ==== loop 113/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:36:24] planet 45: building queue full (5)
+[11:36:24] planet 45: building queue full (5)
+[11:36:24] planet 45: building queue full (5)
+[11:36:24] planet 45: building queue full (5)
+[11:36:24] research: already in progress
+[2026-05-13 11:37:06] ==== loop 114/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:37:09] planet 45: building queue full (5)
+[11:37:09] planet 45: building queue full (5)
+[11:37:09] planet 45: building queue full (5)
+[11:37:09] planet 45: building queue full (5)
+[11:37:09] research: already in progress
+[2026-05-13 11:37:50] ==== loop 115/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:37:51] planet 45: building queue full (5)
+[11:37:51] planet 45: building queue full (5)
+[11:37:51] planet 45: building queue full (5)
+[2026-05-13 11:38:34] ==== loop 116/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:38:37] planet 45: building queue full (5)
+[11:38:37] planet 45: building queue full (5)
+[11:38:37] planet 45: building queue full (5)
+[11:38:37] planet 45: building queue full (5)
+[11:38:37] research: already in progress
+[2026-05-13 11:39:24] ==== loop 117/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:39:27] planet 45: building queue full (5)
+[11:39:27] planet 45: building queue full (5)
+[11:39:27] planet 45: building queue full (5)
+[11:39:27] planet 45: building queue full (5)
+[11:39:27] research: already in progress
+[2026-05-13 11:40:13] ==== loop 118/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:40:15] planet 45: building queue full (5)
+[11:40:15] planet 45: building queue full (5)
+[11:40:15] planet 45: building queue full (5)
+[11:40:15] research: already in progress
+[2026-05-13 11:40:53] ==== loop 119/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:40:56] planet 45: building queue full (5)
+[11:40:56] planet 45: building queue full (5)
+[11:40:56] planet 45: building queue full (5)
+[11:40:56] planet 45: building queue full (5)
+[11:40:56] research: already in progress
+[2026-05-13 11:41:41] ==== loop 120/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:41:43] planet 45: building queue full (5)
+[11:41:43] planet 45: building queue full (5)
+[11:41:43] planet 45: building queue full (5)
+[11:41:43] planet 45: building queue full (5)
+[11:41:43] ally: transport: 1:6:6 -> 1:33:9 [ally_bot] m=0 c=34429 d=2306 ships=0B+8S eta=76s fuel=50
+[11:41:43] attack: idle no_fleet_slots (used=1 max=1)
+[11:41:43] research: already in progress
+[2026-05-13 11:42:34] ==== loop 121/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:42:36] planet 45: building queue full (5)
+[11:42:36] planet 45: building queue full (5)
+[11:42:36] planet 45: building queue full (5)
+[11:42:36] planet 45: building queue full (5)
+[11:42:36] attack: idle no_fleet_slots (used=1 max=1)
+[11:42:36] research: already in progress
+[2026-05-13 11:43:22] ==== loop 122/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:43:25] planet 45: building queue full (5)
+[11:43:25] planet 45: building queue full (5)
+[11:43:25] planet 45: building queue full (5)
+[11:43:25] planet 45: building queue full (5)
+[11:43:25] attack: idle no_fleet_slots (used=1 max=1)
+[11:43:25] research: already in progress
+[2026-05-13 11:44:12] ==== loop 123/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:44:14] planet 45: building queue full (5)
+[11:44:14] planet 45: building queue full (5)
+[11:44:14] planet 45: building queue full (5)
+[11:44:14] planet 45: building queue full (5)
+[2026-05-13 11:44:57] ==== loop 124/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:45:00] planet 45: building queue full (5)
+[11:45:00] planet 45: building queue full (5)
+[11:45:00] planet 45: building queue full (5)
+[11:45:00] planet 45: building queue full (5)
+[11:45:00] research: queued research_energy_technology on planet 45 (57s)
+[2026-05-13 11:45:44] ==== loop 125/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:45:45] planet 45: building queue full (5)
+[11:45:45] planet 45: building queue full (5)
+[11:45:45] planet 45: building queue full (5)
+[11:45:45] research: already in progress
+[2026-05-13 11:46:29] ==== loop 126/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:46:32] planet 45: building queue full (5)
+[11:46:32] planet 45: building queue full (5)
+[11:46:32] planet 45: building queue full (5)
+[11:46:32] planet 45: building queue full (5)
+[2026-05-13 11:47:17] ==== loop 127/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:47:21] planet 45: building queue full (5)
+[11:47:21] planet 45: building queue full (5)
+[11:47:21] planet 45: building queue full (5)
+[11:47:21] planet 45: building queue full (5)
+[2026-05-13 11:48:01] ==== loop 128/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:48:04] planet 45: building queue full (5)
+[11:48:04] planet 45: building queue full (5)
+[11:48:04] planet 45: building queue full (5)
+[11:48:04] planet 45: building queue full (5)
+[11:48:04] research: already in progress
+[2026-05-13 11:48:51] ==== loop 129/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:48:54] planet 45: building queue full (5)
+[11:48:54] planet 45: building queue full (5)
+[11:48:54] planet 45: building queue full (5)
+[11:48:54] planet 45: building queue full (5)
+[11:48:54] research: already in progress
+[2026-05-13 11:49:43] ==== loop 130/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:49:46] planet 45: building queue full (5)
+[11:49:46] planet 45: building queue full (5)
+[11:49:46] planet 45: building queue full (5)
+[11:49:46] planet 45: building queue full (5)
+[11:49:46] research: already in progress
+[2026-05-13 11:50:31] ==== loop 131/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:50:33] planet 45: building queue full (5)
+[11:50:33] planet 45: building queue full (5)
+[11:50:33] planet 45: building queue full (5)
+[2026-05-13 11:51:21] ==== loop 132/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:51:24] planet 45: building queue full (5)
+[11:51:24] planet 45: building queue full (5)
+[11:51:24] planet 45: building queue full (5)
+[11:51:24] planet 45: building queue full (5)
+[11:51:24] research: already in progress
+[2026-05-13 11:52:06] ==== loop 133/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:52:09] planet 45: building queue full (5)
+[11:52:09] planet 45: building queue full (5)
+[11:52:09] planet 45: building queue full (5)
+[11:52:09] planet 45: building queue full (5)
+[11:52:09] research: already in progress
+[2026-05-13 11:52:57] ==== loop 134/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:52:58] planet 45: building queue full (5)
+[11:52:58] planet 45: building queue full (5)
+[11:52:58] planet 45: building queue full (5)
+[2026-05-13 11:53:41] ==== loop 135/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:53:42] planet 45: building queue full (5)
+[11:53:42] planet 45: building queue full (5)
+[11:53:42] planet 45: building queue full (5)
+[11:53:42] planet 45: building queue full (5)
+[11:53:42] research: already in progress
+[2026-05-13 11:54:21] ==== loop 136/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:54:24] planet 45: building queue full (5)
+[11:54:24] planet 45: building queue full (5)
+[11:54:24] planet 45: building queue full (5)
+[11:54:24] planet 45: building queue full (5)
+[11:54:24] research: already in progress
+[2026-05-13 11:54:59] ==== loop 137/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:55:02] planet 45: building queue full (5)
+[11:55:02] planet 45: building queue full (5)
+[11:55:02] planet 45: building queue full (5)
+[11:55:02] planet 45: building queue full (5)
+[2026-05-13 11:55:50] ==== loop 138/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:55:53] planet 45: building queue full (5)
+[11:55:53] planet 45: building queue full (5)
+[11:55:53] planet 45: building queue full (5)
+[11:55:53] planet 45: building queue full (5)
+[2026-05-13 11:56:37] ==== loop 139/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:56:39] planet 45: building queue full (5)
+[11:56:39] planet 45: building queue full (5)
+[11:56:39] planet 45: building queue full (5)
+[11:56:39] planet 45: building queue full (5)
+[2026-05-13 11:57:25] ==== loop 140/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:57:27] planet 45: building queue full (5)
+[11:57:27] planet 45: building queue full (5)
+[11:57:27] planet 45: building queue full (5)
+[11:57:27] research: already in progress
+[2026-05-13 11:58:11] ==== loop 141/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:58:13] planet 45: building queue full (5)
+[11:58:13] planet 45: building queue full (5)
+[11:58:13] planet 45: building queue full (5)
+[11:58:13] planet 45: building queue full (5)
+[11:58:13] research: already in progress
+[2026-05-13 11:58:51] ==== loop 142/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:58:54] planet 45: building queue full (5)
+[11:58:54] planet 45: building queue full (5)
+[11:58:54] planet 45: building queue full (5)
+[11:58:54] research: already in progress
+[2026-05-13 11:59:33] ==== loop 143/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[11:59:36] planet 45: building queue full (5)
+[11:59:36] planet 45: building queue full (5)
+[11:59:36] planet 45: building queue full (5)
+[11:59:36] planet 45: building queue full (5)
+[11:59:36] research: already in progress
+[2026-05-13 12:00:18] ==== loop 144/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:00:22] planet 45: building queue full (5)
+[12:00:22] planet 45: building queue full (5)
+[12:00:22] planet 45: building queue full (5)
+[12:00:22] planet 45: building queue full (5)
+[12:00:22] research: already in progress
+[2026-05-13 12:01:04] ==== loop 145/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:01:07] planet 45: building queue full (5)
+[12:01:07] planet 45: building queue full (5)
+[12:01:07] planet 45: building queue full (5)
+[12:01:07] planet 45: building queue full (5)
+[12:01:07] research: already in progress
+[2026-05-13 12:01:49] ==== loop 146/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:01:52] planet 45: building queue full (5)
+[12:01:52] planet 45: building queue full (5)
+[12:01:52] planet 45: building queue full (5)
+[12:01:52] planet 45: building queue full (5)
+[12:01:52] research: already in progress
+[2026-05-13 12:02:37] ==== loop 147/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:02:40] planet 45: building queue full (5)
+[12:02:40] planet 45: building queue full (5)
+[12:02:40] planet 45: building queue full (5)
+[12:02:40] planet 45: building queue full (5)
+[12:02:40] research: already in progress
+[2026-05-13 12:03:25] ==== loop 148/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:03:26] planet 45: building queue full (5)
+[12:03:26] planet 45: building queue full (5)
+[12:03:26] planet 45: building queue full (5)
+[12:03:26] research: already in progress
+[2026-05-13 12:04:13] ==== loop 149/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:04:16] planet 45: building queue full (5)
+[12:04:16] planet 45: building queue full (5)
+[12:04:16] planet 45: building queue full (5)
+[12:04:16] planet 45: building queue full (5)
+[12:04:16] research: already in progress
+[2026-05-13 12:04:59] ==== loop 150/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:05:02] planet 45: building queue full (5)
+[12:05:02] planet 45: building queue full (5)
+[12:05:02] planet 45: building queue full (5)
+[12:05:02] planet 45: building queue full (5)
+[12:05:02] research: already in progress
+[2026-05-13 12:05:50] ==== loop 151/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:05:52] planet 45: building queue full (5)
+[12:05:52] planet 45: building queue full (5)
+[12:05:52] planet 45: building queue full (5)
+[12:05:52] planet 45: building queue full (5)
+[2026-05-13 12:06:39] ==== loop 152/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:06:43] planet 45: building queue full (5)
+[12:06:43] planet 45: building queue full (5)
+[12:06:43] planet 45: building queue full (5)
+[12:06:43] planet 45: building queue full (5)
+[2026-05-13 12:07:26] ==== loop 153/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:07:29] planet 45: building queue full (5)
+[12:07:29] planet 45: building queue full (5)
+[12:07:29] planet 45: building queue full (5)
+[12:07:29] planet 45: building queue full (5)
+[12:07:29] research: already in progress
+[2026-05-13 12:08:21] ==== loop 154/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:08:24] planet 45: building queue full (5)
+[12:08:24] planet 45: building queue full (5)
+[12:08:24] planet 45: building queue full (5)
+[12:08:24] planet 45: building queue full (5)
+[12:08:24] research: already in progress
+[2026-05-13 12:09:12] ==== loop 155/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:09:16] planet 45: building queue full (5)
+[12:09:16] planet 45: building queue full (5)
+[12:09:16] planet 45: building queue full (5)
+[12:09:16] planet 45: building queue full (5)
+[12:09:16] research: already in progress
+[2026-05-13 12:09:59] ==== loop 156/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:10:02] planet 45: building queue full (5)
+[12:10:02] planet 45: building queue full (5)
+[12:10:02] planet 45: building queue full (5)
+[12:10:02] planet 45: building queue full (5)
+[12:10:02] research: already in progress
+[2026-05-13 12:10:45] ==== loop 157/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:10:47] planet 45: building queue full (5)
+[12:10:47] planet 45: building queue full (5)
+[12:10:47] planet 45: building queue full (5)
+[12:10:47] planet 45: building queue full (5)
+[2026-05-13 12:11:29] ==== loop 158/∞ | seed=368671384774069427 archetype=turbo personality=tecnologico focus=tech actions_per_loop=4 ====
+[12:11:32] planet 45: building queue full (5)
+[12:11:32] planet 45: building queue full (5)
+[12:11:32] planet 45: building queue full (5)
+[12:11:32] planet 45: building queue full (5)
+[12:11:32] research: already in progress

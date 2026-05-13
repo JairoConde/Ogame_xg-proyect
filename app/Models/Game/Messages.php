@@ -77,7 +77,6 @@ class Messages extends Model
      * Mark messages as read by user id and type
      *
      * @param int    $user_id         User id
-     * @param string $msg_type_string Message types
      *
      * @return mixed
      */

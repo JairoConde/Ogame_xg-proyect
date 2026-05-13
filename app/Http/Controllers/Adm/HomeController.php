@@ -129,10 +129,9 @@ class HomeController extends BaseController
                     'https://updates.xgproyect.org/latest.php',
                     false,
                     stream_context_create(
-                        ['https' =>
-                            [
-                                'timeout' => 1, // one second
-                            ],
+                        ['https' => [
+                            'timeout' => 1, // one second
+                        ],
                         ]
                     )
                 );
@@ -165,6 +164,6 @@ class HomeController extends BaseController
     {
         $logs_path = XGP_ROOT . LOGS_PATH;
 
-        return (count(glob($logs_path . '*.txt')) > 0);
+        return count(glob($logs_path . '*.txt')) > 0;
     }
 }

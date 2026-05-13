@@ -97,18 +97,22 @@ class Users extends Model
         switch ($edit) {
             case 'planet':
                 $get_query = 'p.* ';
+
                 break;
 
             case 'buildings':
                 $get_query = 'b.* ';
+
                 break;
 
             case 'ships':
                 $get_query = 's.* ';
+
                 break;
 
             case 'defenses':
                 $get_query = 'd.* ';
+
                 break;
 
             case '':
@@ -150,23 +154,28 @@ class Users extends Model
         switch ($edit) {
             case 'moon':
                 $get_query = 'm.* ';
+
                 break;
 
             case 'buildings':
                 $get_query = 'b.* ';
+
                 break;
 
             case 'ships':
                 $get_query = 's.* ';
+
                 break;
 
             case 'defenses':
                 $get_query = 'd.* ';
+
                 break;
 
             case '':
             default:
                 $get_query = 'm.*, b.*, d.*, s.*';
+
                 break;
         }
 
@@ -304,7 +313,7 @@ class Users extends Model
             if (strpos($premium, 'premium_') !== false) {
                 // dark matter has a different behaviour
                 if ($premium == 'premium_dark_matter') {
-                    if (!is_numeric($data) or empty($data) or !isset($data)) {
+                    if (!is_numeric($data) or !$data) {
                         $data = 0;
                     }
                 } else {
@@ -312,14 +321,17 @@ class Users extends Model
                         default:
                         case 0:
                             $data = $user_query[$premium];
+
                             break;
                         case 1:
                             $data = 0;
+
                             break;
                         case 2:
                         case 3:
                             // set the time (3 = 3 months, 2 = one week, 1 = not active / deactivate)
                             $data = time() + ($data == 3 ? (3600 * 24 * 30 * 3) : (3600 * 24 * 7));
+
                             break;
                     }
                 }
@@ -356,10 +368,12 @@ class Users extends Model
                     } else {
                         $query_string .= "`planet_destroyed` = '0',";
                     }
+
                     break;
 
                 case 'planet_last_jump_time':
                     $query_string .= "`planet_last_jump_time` = '0',";
+
                     break;
 
                 case '':
@@ -369,6 +383,7 @@ class Users extends Model
                     } else {
                         $query_string .= "`{$this->db->escapeValue($field)}` = '" . (int) $value . "',";
                     }
+
                     break;
             }
         }

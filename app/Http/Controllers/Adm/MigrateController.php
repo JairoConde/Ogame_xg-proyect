@@ -60,6 +60,7 @@ class MigrateController extends BaseController
             $this->prefix = isset($_POST['prefix']) ? $_POST['prefix'] : null;
             $this->version = $_POST['version_select'];
             $this->demo = (isset($_POST['demo_mode']) && $_POST['demo_mode'] == 'on') ? true : false;
+            $alerts = '';
 
             if (!$this->validateDbData()) {
                 $alerts = $this->langs->line('mi_empty_fields_error');
@@ -239,7 +240,7 @@ class MigrateController extends BaseController
         require_once $migration_path;
 
         // Check if there was something
-        if (isset($queries) && count($queries) > 0) {
+        if ($queries && count($queries) > 0) {
             foreach ($queries as $query) {
                 // set the prefix
                 $query = strtr($query, ['{prefix}' => $this->prefix]);
@@ -268,7 +269,7 @@ class MigrateController extends BaseController
         require_once $migration_path;
 
         // Check if there was something/*
-        if (isset($queries) && count($queries) > 0) {
+        if ($queries && count($queries) > 0) {
             foreach ($queries as $query) {
                 // set the prefix
                 $query = strtr($query, ['{prefix}' => $this->prefix]);

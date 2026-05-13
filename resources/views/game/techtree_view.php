@@ -10,7 +10,7 @@
                 <table width="100%">
                     <tr>
                         <td style="background-color: transparent;" align="left">
-                            <img src="{dpath}elements/{tt_info}.gif" alt="{tt_name}" style="height: 28px;width: 28px;">
+                            <img src="{dpath}elements/{tt_image}.gif" alt="{tt_name}" style="height: 28px;width: 28px;">
                             <a href="game.php?page=infos&gid={tt_info}">
                                 <span style="vertical-align:top;font-weight:normal;">{tt_name}</span>
                             </a>
@@ -37,7 +37,7 @@
                 <table width="100%">
                     <tr>
                         <td style="background-color: transparent;" align="left">
-                            <img src="{dpath}elements/{tt_info}.gif" alt="{tt_name}" style="height: 28px;width: 28px;">
+                            <img src="{dpath}elements/{tt_image}.gif" alt="{tt_name}" style="height: 28px;width: 28px;">
                             <a href="game.php?page=infos&gid={tt_info}">
                                 <span style="vertical-align:top;font-weight:normal;">{tt_name}</span>
                             </a>
@@ -64,7 +64,7 @@
                 <table width="100%">
                     <tr>
                         <td style="background-color: transparent;" align="left">
-                            <img src="{dpath}elements/{tt_info}.gif" alt="{tt_name}" style="height: 28px;width: 28px;">
+                            <img src="{dpath}elements/{tt_image}.gif" alt="{tt_name}" style="height: 28px;width: 28px;">
                             <a href="game.php?page=infos&gid={tt_info}">
                                 <span style="vertical-align:top;font-weight:normal;">{tt_name}</span>
                             </a>
@@ -91,7 +91,7 @@
                 <table width="100%">
                     <tr>
                         <td style="background-color: transparent;" align="left">
-                            <img src="{dpath}elements/{tt_info}.gif" alt="{tt_name}" style="height: 28px;width: 28px;">
+                            <img src="{dpath}elements/{tt_image}.gif" alt="{tt_name}" style="height: 28px;width: 28px;">
                             <a href="game.php?page=infos&gid={tt_info}">
                                 <span style="vertical-align:top;font-weight:normal;">{tt_name}</span>
                             </a>
@@ -118,7 +118,7 @@
                 <table width="100%">
                     <tr>
                         <td style="background-color: transparent;" align="left">
-                            <img src="{dpath}elements/{tt_info}.gif" alt="{tt_name}" style="height: 28px;width: 28px;">
+                            <img src="{dpath}elements/{tt_image}.gif" alt="{tt_name}" style="height: 28px;width: 28px;">
                             <a href="game.php?page=infos&gid={tt_info}">
                                 <span style="vertical-align:top;font-weight:normal;">{tt_name}</span>
                             </a>

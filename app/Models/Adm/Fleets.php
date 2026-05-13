@@ -34,7 +34,7 @@ class Fleets extends Model
     /**
      * Delete fleet by ID
      *
-     * @param integer $fleet_id
+     * @param int $fleet
      * @return void
      */
     public function restartFleetById(int $fleet): void
@@ -63,7 +63,7 @@ class Fleets extends Model
             );
 
             $this->db->commitTransaction();
-        } catch (Exception $e) {
+        } catch (\Exception $e) {
             $this->db->rollbackTransaction();
         }
     }

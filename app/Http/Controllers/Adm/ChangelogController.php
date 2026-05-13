@@ -202,7 +202,6 @@ class ChangelogController extends BaseController
     /**
      * Save action to add/edit a record
      *
-     * @param string $source
      * @return void
      */
     private function saveAction(): void
@@ -242,6 +241,7 @@ class ChangelogController extends BaseController
             foreach ($data as $field => $value) {
                 if ($value === false or $value === null) {
                     $valid = false;
+
                     break;
                 }
             }
@@ -332,7 +332,7 @@ class ChangelogController extends BaseController
      * Performs a regular expression check to determine if a valid version was provided
      *
      * @param string|null $version
-     * @return boolean
+     * @return string|null
      */
     private function isValidVersion(?string $version): ?string
     {

@@ -135,5 +135,6 @@ $lang = [
     'al_requests' => 'Solicitudes',
     'al_circular_message' => 'Correo circular',
     'al_leave_alliance' => 'Abandonar la alianza',
+    'al_declare_war' => 'Declarar guerra a otra alianza',
     'al_confirm_remove_member' => '¿Estás seguro que deseas expulsar a %s?',
 ];

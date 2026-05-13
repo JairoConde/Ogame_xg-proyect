@@ -16,4 +16,5 @@ $lang = [
     'ship_destroyer' => 'Destroyer',
     'ship_deathstar' => 'Deathstar',
     'ship_battlecruiser' => 'Battlecruiser',
+    'ship_mining_drill' => 'Drill Ship',
 ];

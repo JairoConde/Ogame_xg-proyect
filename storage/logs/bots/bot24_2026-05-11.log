@@ -1,0 +1,1101 @@
+[2026-05-11 10:30:35] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:30:36] planet 52: queued defense_rocket_launcher +8
+[10:30:36] planet 52: skipped duplicate defense_rocket_launcher this loop
+[10:30:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:31:16] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:31:17] planet 52: queued defense_rocket_launcher +8
+[10:31:17] planet 52: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 10:31:54] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:31:55] planet 52: queued defense_rocket_launcher +8
+[10:31:55] planet 52: skipped duplicate defense_rocket_launcher this loop
+[10:31:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:32:31] ==== loop 4/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:32:32] planet 52: queued defense_rocket_launcher +8
+[2026-05-11 10:33:12] ==== loop 5/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:33:13] planet 52: queued defense_rocket_launcher +8
+[2026-05-11 10:33:52] ==== loop 6/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:33:53] planet 52: queued defense_rocket_launcher +8
+[10:33:53] planet 52: queue busy, throttled building_laboratory
+[10:33:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:34:37] ==== loop 7/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:34:37] planet 52: queue busy, throttled building_laboratory
+[10:34:37] planet 52: queue busy, throttled building_laboratory
+[10:34:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:35:17] ==== loop 8/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:35:17] planet 52: queue busy, throttled building_laboratory
+[10:35:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:35:51] ==== loop 9/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:35:51] planet 52: queue busy, throttled building_laboratory
+[10:35:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:36:30] ==== loop 10/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:36:30] planet 52: queue busy, throttled building_laboratory
+[10:36:30] planet 52: queue busy, throttled building_laboratory
+[10:36:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:37:12] ==== loop 11/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:37:12] planet 52: queue busy, throttled building_laboratory
+[10:37:12] planet 52: queue busy, throttled building_laboratory
+[2026-05-11 10:37:53] ==== loop 12/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:37:53] planet 52: queue busy, throttled building_laboratory
+[10:37:53] planet 52: queue busy, throttled building_laboratory
+[10:37:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:38:31] ==== loop 13/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:38:31] planet 52: queue busy, throttled building_laboratory
+[10:38:31] planet 52: queue busy, throttled building_laboratory
+[2026-05-11 10:39:13] ==== loop 14/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:39:13] planet 52: queue busy, throttled building_laboratory
+[10:39:13] planet 52: queue busy, throttled building_laboratory
+[10:39:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:39:50] ==== loop 15/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:39:50] planet 52: queue busy, throttled building_laboratory
+[10:39:50] planet 52: queue busy, throttled building_laboratory
+[2026-05-11 10:40:29] ==== loop 16/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:40:29] planet 52: queued building_crystal_mine to 2
+[2026-05-11 10:41:11] ==== loop 17/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:41:13] planet 52: building queue full (5)
+[10:41:13] planet 52: building queue full (5)
+[10:41:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:42:27] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:42:28] planet 52: building queue full (5)
+[10:42:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:43:11] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:43:13] planet 52: building queue full (5)
+[10:43:13] planet 52: building queue full (5)
+[2026-05-11 10:43:52] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:43:54] planet 52: building queue full (5)
+[10:43:54] planet 52: building queue full (5)
+[2026-05-11 10:44:36] ==== loop 4/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:44:37] planet 52: building queue full (5)
+[10:44:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:45:24] ==== loop 5/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:45:25] planet 52: building queue full (5)
+[10:45:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:46:22] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:46:22] planet 52: building queue full (5)
+[10:46:22] planet 52: building queue full (5)
+[10:46:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:47:03] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:47:04] planet 52: building queue full (5)
+[10:47:04] planet 52: building queue full (5)
+[10:47:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:47:56] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:47:56] planet 52: building queue full (5)
+[10:47:56] planet 52: building queue full (5)
+[10:47:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:48:39] ==== loop 4/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:48:40] planet 52: building queue full (5)
+[10:48:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:49:26] ==== loop 5/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:49:27] planet 52: building queue full (5)
+[10:49:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:50:11] ==== loop 6/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:50:12] planet 52: building queue full (5)
+[10:50:12] planet 52: building queue full (5)
+[10:50:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:50:59] ==== loop 7/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:51:00] planet 52: building queue full (5)
+[10:51:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:51:40] ==== loop 8/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:51:41] planet 52: building queue full (5)
+[10:51:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:52:20] ==== loop 9/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:52:22] planet 52: building queue full (5)
+[10:52:22] planet 52: building queue full (5)
+[10:52:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:53:00] ==== loop 10/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:53:01] planet 52: building queue full (5)
+[2026-05-11 10:53:42] ==== loop 11/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:53:44] planet 52: building queue full (5)
+[10:53:44] planet 52: building queue full (5)
+[10:53:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:54:31] ==== loop 12/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:54:31] planet 52: building queue full (5)
+[10:54:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:55:14] ==== loop 13/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:55:15] planet 52: building queue full (5)
+[10:55:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:56:01] ==== loop 14/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:56:01] planet 52: building queue full (5)
+[10:56:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:56:43] ==== loop 15/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:56:44] planet 52: building queue full (5)
+[10:56:44] planet 52: building queue full (5)
+[10:56:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:57:28] ==== loop 16/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:57:29] planet 52: building queue full (5)
+[10:57:29] planet 52: building queue full (5)
+[10:57:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:58:12] ==== loop 17/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:58:13] planet 52: building queue full (5)
+[10:58:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 10:58:55] ==== loop 18/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:58:56] planet 52: building queue full (5)
+[2026-05-11 10:59:38] ==== loop 19/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[10:59:39] planet 52: building queue full (5)
+[10:59:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:00:20] ==== loop 20/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:00:20] planet 52: building queue full (5)
+[11:00:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:01:09] ==== loop 21/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:01:11] planet 52: building queue full (5)
+[11:01:11] planet 52: building queue full (5)
+[11:01:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:01:55] ==== loop 22/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:01:57] planet 52: building queue full (5)
+[11:01:57] planet 52: building queue full (5)
+[11:01:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:02:41] ==== loop 23/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:02:41] planet 52: building queue full (5)
+[11:02:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:03:20] ==== loop 24/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:03:21] planet 52: building queue full (5)
+[11:03:21] planet 52: building queue full (5)
+[2026-05-11 11:04:02] ==== loop 25/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:04:03] planet 52: building queue full (5)
+[11:04:03] planet 52: building queue full (5)
+[11:04:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:04:42] ==== loop 26/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:04:44] planet 52: building queue full (5)
+[11:04:44] planet 52: building queue full (5)
+[11:04:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:05:24] ==== loop 27/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:05:26] planet 52: building queue full (5)
+[11:05:26] planet 52: building queue full (5)
+[11:05:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:06:11] ==== loop 28/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:06:13] planet 52: building queue full (5)
+[11:06:13] planet 52: building queue full (5)
+[11:06:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:06:53] ==== loop 29/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:06:54] planet 52: building queue full (5)
+[11:06:54] planet 52: building queue full (5)
+[11:06:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:07:37] ==== loop 30/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:07:38] planet 52: building queue full (5)
+[11:07:38] planet 52: building queue full (5)
+[11:07:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:08:17] ==== loop 31/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:08:18] planet 52: building queue full (5)
+[11:08:18] planet 52: building queue full (5)
+[2026-05-11 11:09:00] ==== loop 32/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:09:02] planet 52: building queue full (5)
+[11:09:02] planet 52: building queue full (5)
+[11:09:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:09:45] ==== loop 33/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:09:46] planet 52: building queue full (5)
+[11:09:46] planet 52: building queue full (5)
+[11:09:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:10:36] ==== loop 34/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:10:37] planet 52: no resources for building_metal_mine+1
+[11:10:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:11:18] ==== loop 35/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:11:19] planet 52: no resources for building_metal_mine+1
+[2026-05-11 11:12:07] ==== loop 36/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:12:08] planet 52: no resources for building_metal_mine+1
+[11:12:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:12:54] ==== loop 37/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:12:55] planet 52: no resources for building_metal_mine+1
+[11:12:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:13:36] ==== loop 38/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:13:37] planet 52: no resources for building_metal_mine+1
+[11:13:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:14:25] ==== loop 39/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:14:26] planet 52: no resources for building_metal_mine+1
+[11:14:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:15:13] ==== loop 40/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:15:13] planet 52: no resources for building_metal_mine+1
+[2026-05-11 11:15:50] ==== loop 41/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:15:50] planet 52: no resources for building_metal_mine+1
+[11:15:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:16:36] ==== loop 42/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:16:37] planet 52: no resources for building_metal_mine+1
+[11:16:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:17:16] ==== loop 43/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:17:17] planet 52: no resources for building_metal_mine+1
+[2026-05-11 11:18:01] ==== loop 44/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:18:01] planet 52: no resources for building_metal_mine+1
+[11:18:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:18:50] ==== loop 45/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:18:50] planet 52: no resources for building_metal_mine+1
+[11:18:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:19:40] ==== loop 46/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:19:41] planet 52: no resources for building_metal_mine+1
+[11:19:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:20:22] ==== loop 47/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:20:22] planet 52: no resources for building_metal_mine+1
+[11:20:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:20:57] ==== loop 48/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:20:58] planet 52: no resources for building_metal_mine+1
+[2026-05-11 11:21:33] ==== loop 49/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:21:34] planet 52: no resources for building_metal_mine+1
+[11:21:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:22:09] ==== loop 50/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:22:09] planet 52: no resources for building_metal_mine+1
+[11:22:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:22:48] ==== loop 51/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:22:49] planet 52: no resources for building_metal_mine+1
+[11:22:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:23:25] ==== loop 52/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:23:26] planet 52: no resources for building_metal_mine+1
+[11:23:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:24:03] ==== loop 53/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:24:04] planet 52: no resources for building_metal_mine+1
+[11:24:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:24:41] ==== loop 54/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:24:42] planet 52: no resources for building_metal_mine+1
+[2026-05-11 11:25:17] ==== loop 55/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:25:18] planet 52: no resources for building_metal_mine+1
+[2026-05-11 11:25:51] ==== loop 56/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:25:52] planet 52: no resources for building_metal_mine+1
+[11:25:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:26:25] ==== loop 57/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:26:25] planet 52: no resources for building_metal_mine+1
+[11:26:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:27:36] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:27:37] alliance: apply ally=1
+[11:27:37] planet 52: no resources for building_metal_mine+1
+[11:27:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:28:13] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:28:14] planet 52: no resources for building_metal_mine+1
+[11:28:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:28:49] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:28:49] planet 52: no resources for building_metal_mine+1
+[11:28:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:29:27] ==== loop 4/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:29:28] planet 52: no resources for building_metal_mine+1
+[11:29:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:29:58] ==== loop 5/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:29:59] planet 52: no resources for building_metal_mine+1
+[11:29:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:30:43] ==== loop 6/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:30:44] planet 52: building queue full (5)
+[11:30:44] planet 52: building queue full (5)
+[11:30:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:31:31] ==== loop 7/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:31:32] alliance: application cleared (rejected or cancelled) ally=1
+[11:31:32] planet 52: building queue full (5)
+[11:31:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:32:24] ==== loop 8/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:32:26] planet 52: building queue full (5)
+[11:32:26] planet 52: building queue full (5)
+[11:32:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:33:12] ==== loop 9/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:33:14] planet 52: building queue full (5)
+[11:33:14] planet 52: building queue full (5)
+[11:33:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:33:57] ==== loop 10/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:33:58] planet 52: building queue full (5)
+[11:33:58] planet 52: building queue full (5)
+[11:33:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:35:23] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:35:24] planet 52: building queue full (5)
+[11:35:24] planet 52: building queue full (5)
+[11:35:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:36:06] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:36:07] planet 52: building queue full (5)
+[11:36:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:36:55] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:36:57] planet 52: building queue full (5)
+[11:36:57] planet 52: building queue full (5)
+[11:36:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:37:50] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:37:51] planet 52: building queue full (5)
+[11:37:51] planet 52: building queue full (5)
+[11:37:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:38:38] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:38:39] planet 52: building queue full (5)
+[11:38:39] planet 52: building queue full (5)
+[2026-05-11 11:39:26] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:39:27] planet 52: queued building_metal_store to 9
+[11:39:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:40:11] ==== loop 4/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:40:12] planet 52: building queue full (5)
+[11:40:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:40:58] ==== loop 5/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:41:00] planet 52: building queue full (5)
+[11:41:00] planet 52: building queue full (5)
+[11:41:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:41:41] ==== loop 6/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:41:42] planet 52: building queue full (5)
+[11:41:42] planet 52: building queue full (5)
+[2026-05-11 11:42:54] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:42:55] planet 52: building queue full (5)
+[11:42:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:43:38] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:43:40] planet 52: building queue full (5)
+[11:43:40] planet 52: building queue full (5)
+[2026-05-11 11:44:23] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:44:23] planet 52: building queue full (5)
+[11:44:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:45:29] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:45:30] planet 52: building queue full (5)
+[11:45:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:46:11] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:46:11] planet 52: building queue full (5)
+[11:46:11] planet 52: building queue full (5)
+[11:46:11] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:46:51] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:46:52] planet 52: building queue full (5)
+[11:46:52] planet 52: building queue full (5)
+[11:46:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:47:29] ==== loop 4/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:47:30] alliance: idle no_candidate
+[11:47:30] planet 52: building queue full (5)
+[11:47:30] planet 52: building queue full (5)
+[11:47:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:48:09] ==== loop 5/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:48:10] planet 52: building queue full (5)
+[11:48:10] planet 52: building queue full (5)
+[11:48:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:48:51] ==== loop 6/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:48:52] planet 52: building queue full (5)
+[11:48:52] planet 52: building queue full (5)
+[11:48:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:49:29] ==== loop 7/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:49:29] planet 52: building queue full (5)
+[11:49:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:50:11] ==== loop 8/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:50:12] planet 52: no resources for building_metal_mine+1
+[11:50:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:50:45] ==== loop 9/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:50:46] planet 52: no resources for building_metal_mine+1
+[11:50:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:51:33] ==== loop 10/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:51:33] planet 52: no resources for building_metal_mine+1
+[11:51:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:52:17] ==== loop 11/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:52:17] planet 52: no resources for building_metal_mine+1
+[2026-05-11 11:53:01] ==== loop 12/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:53:02] planet 52: no resources for building_metal_mine+1
+[11:53:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:53:40] ==== loop 13/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:53:41] planet 52: no resources for building_metal_mine+1
+[2026-05-11 11:54:19] ==== loop 14/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:54:20] planet 52: no resources for building_metal_mine+1
+[2026-05-11 11:55:08] ==== loop 15/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:55:09] planet 52: no resources for building_metal_mine+1
+[11:55:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:55:51] ==== loop 16/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:55:52] planet 52: no resources for building_metal_mine+1
+[11:55:52] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:56:35] ==== loop 17/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:56:36] planet 52: no resources for building_metal_mine+1
+[11:56:36] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:57:14] ==== loop 18/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:57:15] planet 52: no resources for building_metal_mine+1
+[2026-05-11 11:57:58] ==== loop 19/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:57:59] planet 52: no resources for building_metal_mine+1
+[11:57:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:58:41] ==== loop 20/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:58:42] planet 52: no resources for building_metal_mine+1
+[11:58:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 11:59:26] ==== loop 21/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[11:59:27] planet 52: no resources for building_metal_mine+1
+[11:59:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:00:14] ==== loop 22/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:00:14] planet 52: queued defense_rocket_launcher +8
+[12:00:14] planet 52: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 12:01:00] ==== loop 23/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:01:01] planet 52: queued defense_rocket_launcher +8
+[12:01:01] planet 52: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 12:01:41] ==== loop 24/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:01:42] alliance: idle no_candidate
+[12:01:42] planet 52: queued defense_rocket_launcher +8
+[12:01:42] planet 52: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 12:02:26] ==== loop 25/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:02:27] planet 52: queued defense_rocket_launcher +8
+[12:02:27] planet 52: skipped duplicate defense_rocket_launcher this loop
+[2026-05-11 12:03:02] ==== loop 26/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:03:03] planet 52: queued defense_rocket_launcher +8
+[12:03:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:03:41] ==== loop 27/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:03:42] planet 52: queued defense_rocket_launcher +3
+[12:03:42] planet 52: no resources for defense_gauss_cannon+8
+[12:03:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:04:18] ==== loop 28/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:04:19] planet 52: no resources for defense_gauss_cannon+8
+[12:04:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:05:03] ==== loop 29/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:05:04] planet 52: no resources for defense_gauss_cannon+8
+[2026-05-11 12:05:47] ==== loop 30/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:05:48] planet 52: no resources for defense_gauss_cannon+8
+[12:05:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:06:30] ==== loop 31/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:06:31] planet 52: no resources for defense_gauss_cannon+8
+[12:06:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:07:14] ==== loop 32/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:07:14] planet 52: no resources for defense_gauss_cannon+8
+[12:07:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:07:58] ==== loop 33/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:07:59] planet 52: no resources for defense_gauss_cannon+8
+[12:07:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:08:43] ==== loop 34/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:08:43] planet 52: no resources for defense_gauss_cannon+8
+[2026-05-11 12:09:24] ==== loop 35/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:09:25] planet 52: no resources for defense_gauss_cannon+8
+[2026-05-11 12:10:11] ==== loop 36/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:10:13] planet 52: building queue full (5)
+[12:10:13] planet 52: building queue full (5)
+[2026-05-11 12:10:52] ==== loop 37/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:10:54] planet 52: building queue full (5)
+[12:10:54] planet 52: building queue full (5)
+[12:10:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:11:49] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:11:51] planet 52: building queue full (5)
+[12:11:51] planet 52: building queue full (5)
+[2026-05-11 12:12:30] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:12:31] planet 52: building queue full (5)
+[12:12:31] planet 52: building queue full (5)
+[2026-05-11 12:13:09] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:13:09] planet 52: building queue full (5)
+[12:13:09] planet 52: building queue full (5)
+[12:13:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:13:46] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:13:46] planet 52: building queue full (5)
+[12:13:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:14:19] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:14:20] planet 52: building queue full (5)
+[12:14:20] planet 52: building queue full (5)
+[12:14:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:14:56] ==== loop 4/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:14:58] planet 52: building queue full (5)
+[12:14:58] planet 52: building queue full (5)
+[12:14:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:15:58] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:16:00] alliance: idle no_candidate
+[12:16:00] planet 52: building queue full (5)
+[12:16:00] planet 52: building queue full (5)
+[12:16:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:16:41] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:16:42] planet 52: building queue full (5)
+[12:16:42] planet 52: building queue full (5)
+[2026-05-11 12:17:20] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:17:22] planet 52: building queue full (5)
+[12:17:22] planet 52: building queue full (5)
+[12:17:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:18:01] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:18:03] planet 52: building queue full (5)
+[12:18:03] planet 52: building queue full (5)
+[12:18:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:18:40] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:18:41] planet 52: building queue full (5)
+[12:18:41] planet 52: building queue full (5)
+[12:18:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:19:18] ==== loop 4/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:19:18] planet 52: building queue full (5)
+[12:19:18] planet 52: building queue full (5)
+[12:19:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:19:57] ==== loop 5/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:19:58] planet 52: building queue full (5)
+[12:19:58] planet 52: building queue full (5)
+[12:19:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:20:32] ==== loop 6/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:20:33] planet 52: no resources for ship_battleship+5
+[2026-05-11 12:21:05] ==== loop 7/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:21:06] planet 52: no resources for ship_battleship+5
+[12:21:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:21:42] ==== loop 8/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:21:42] planet 52: no resources for ship_battleship+5
+[12:21:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:22:20] ==== loop 9/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:22:20] planet 52: no resources for ship_battleship+5
+[12:22:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:22:55] ==== loop 10/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:22:56] planet 52: no resources for ship_battleship+5
+[2026-05-11 12:23:30] ==== loop 11/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:23:31] planet 52: no resources for ship_battleship+5
+[12:23:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:24:08] ==== loop 12/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:24:09] planet 52: no resources for ship_battleship+5
+[12:24:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:24:43] ==== loop 13/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:24:43] planet 52: no resources for ship_battleship+5
+[2026-05-11 12:25:22] ==== loop 14/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:25:22] planet 52: no resources for ship_battleship+5
+[12:25:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:26:00] ==== loop 15/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:26:01] planet 52: no resources for ship_battleship+5
+[2026-05-11 12:26:38] ==== loop 16/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:26:38] planet 52: no resources for ship_battleship+5
+[12:26:38] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:27:14] ==== loop 17/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:27:14] planet 52: no resources for ship_battleship+5
+[2026-05-11 12:27:54] ==== loop 18/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:27:55] planet 52: no resources for ship_battleship+5
+[12:27:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:28:31] ==== loop 19/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:28:32] alliance: idle no_candidate
+[12:28:32] planet 52: no resources for ship_battleship+5
+[2026-05-11 12:29:12] ==== loop 20/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:29:13] planet 52: no resources for ship_battleship+5
+[12:29:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:29:52] ==== loop 21/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:29:53] planet 52: no resources for ship_battleship+5
+[12:29:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:30:33] ==== loop 22/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:30:34] planet 52: no resources for defense_gauss_cannon+8
+[12:30:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:31:19] ==== loop 23/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:31:19] planet 52: no resources for defense_gauss_cannon+8
+[2026-05-11 12:32:04] ==== loop 24/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:32:05] planet 52: no resources for defense_gauss_cannon+8
+[12:32:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:32:49] ==== loop 25/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:32:50] planet 52: no resources for defense_gauss_cannon+8
+[12:32:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:33:36] ==== loop 26/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:33:37] planet 52: no resources for defense_gauss_cannon+8
+[2026-05-11 12:34:18] ==== loop 27/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:34:19] planet 52: no resources for defense_gauss_cannon+8
+[12:34:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:35:03] ==== loop 28/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:35:03] planet 52: no resources for defense_gauss_cannon+8
+[12:35:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:35:47] ==== loop 29/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:35:47] planet 52: no resources for defense_gauss_cannon+8
+[2026-05-11 12:36:33] ==== loop 30/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:36:33] planet 52: no resources for defense_gauss_cannon+8
+[2026-05-11 12:37:16] ==== loop 31/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:37:16] planet 52: no resources for defense_gauss_cannon+8
+[12:37:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:37:59] ==== loop 32/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:38:01] planet 52: no resources for defense_gauss_cannon+8
+[12:38:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:38:44] ==== loop 33/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:38:45] planet 52: no resources for defense_gauss_cannon+8
+[2026-05-11 12:39:29] ==== loop 34/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:39:29] planet 52: no resources for defense_gauss_cannon+8
+[12:39:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:40:09] ==== loop 35/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:40:09] planet 52: queue busy, throttled building_hangar
+[12:40:09] planet 52: queue busy, throttled building_hangar
+[12:40:09] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:40:49] ==== loop 36/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:40:49] planet 52: queue busy, throttled building_hangar
+[12:40:49] planet 52: queue busy, throttled building_hangar
+[12:40:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:41:24] ==== loop 37/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:41:24] planet 52: queue busy, throttled building_hangar
+[12:41:24] planet 52: queue busy, throttled building_hangar
+[12:41:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:42:00] ==== loop 38/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=eco actions_per_loop=2 ====
+[12:42:00] planet 52: queue busy, throttled building_hangar
+[12:42:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:42:42] ==== loop 39/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:42:42] alliance: idle no_candidate
+[12:42:42] planet 52: queued ship_small_cargo_ship +8
+[12:42:42] planet 52: skipped duplicate ship_small_cargo_ship this loop
+[12:42:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:43:16] ==== loop 40/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:43:17] planet 52: no resources for ship_small_cargo_ship+8
+[2026-05-11 12:43:54] ==== loop 41/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:43:55] planet 52: no resources for ship_small_cargo_ship+8
+[2026-05-11 12:44:34] ==== loop 42/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:44:35] planet 52: no resources for ship_small_cargo_ship+8
+[2026-05-11 12:45:11] ==== loop 43/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:45:12] planet 52: no resources for ship_small_cargo_ship+8
+[12:45:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:45:46] ==== loop 44/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:45:47] planet 52: no resources for ship_small_cargo_ship+8
+[12:45:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:46:25] ==== loop 45/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:46:25] planet 52: no resources for ship_small_cargo_ship+8
+[12:46:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:47:03] ==== loop 46/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:47:04] planet 52: no resources for ship_small_cargo_ship+8
+[12:47:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:47:39] ==== loop 47/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:47:40] planet 52: no resources for ship_small_cargo_ship+8
+[2026-05-11 12:48:12] ==== loop 48/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:48:13] planet 52: no resources for ship_small_cargo_ship+8
+[12:48:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:48:49] ==== loop 49/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:48:50] planet 52: no resources for ship_small_cargo_ship+8
+[2026-05-11 12:49:27] ==== loop 50/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:49:28] planet 52: no resources for ship_small_cargo_ship+8
+[12:49:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:50:08] ==== loop 51/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:50:09] planet 52: building queue full (5)
+[2026-05-11 12:50:47] ==== loop 52/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:50:49] planet 52: building queue full (5)
+[12:50:49] planet 52: building queue full (5)
+[12:50:49] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:51:20] ==== loop 53/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:51:22] planet 52: building queue full (5)
+[12:51:22] planet 52: building queue full (5)
+[12:51:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:51:58] ==== loop 54/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:51:59] planet 52: building queue full (5)
+[12:51:59] planet 52: building queue full (5)
+[2026-05-11 12:52:35] ==== loop 55/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:52:35] planet 52: building queue full (5)
+[12:52:35] planet 52: building queue full (5)
+[2026-05-11 12:53:13] ==== loop 56/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:53:14] planet 52: building queue full (5)
+[12:53:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:53:45] ==== loop 57/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:53:47] planet 52: building queue full (5)
+[12:53:47] planet 52: building queue full (5)
+[12:53:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:54:21] ==== loop 58/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:54:22] planet 52: building queue full (5)
+[12:54:22] planet 52: building queue full (5)
+[12:54:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:54:55] ==== loop 59/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:54:57] alliance: idle no_candidate
+[12:54:57] planet 52: building queue full (5)
+[12:54:57] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:55:33] ==== loop 60/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:55:33] planet 52: building queue full (5)
+[2026-05-11 12:56:04] ==== loop 61/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:56:05] planet 52: building queue full (5)
+[12:56:05] planet 52: building queue full (5)
+[12:56:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:56:40] ==== loop 62/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:56:40] planet 52: building queue full (5)
+[12:56:40] planet 52: building queue full (5)
+[2026-05-11 12:57:18] ==== loop 63/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:57:19] planet 52: building queue full (5)
+[12:57:19] planet 52: building queue full (5)
+[2026-05-11 12:57:53] ==== loop 64/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:57:54] planet 52: building queue full (5)
+[12:57:54] planet 52: building queue full (5)
+[2026-05-11 12:58:29] ==== loop 65/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:58:30] planet 52: building queue full (5)
+[12:58:30] planet 52: building queue full (5)
+[12:58:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 12:59:09] ==== loop 66/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:59:09] planet 52: building queue full (5)
+[12:59:09] planet 52: building queue full (5)
+[2026-05-11 12:59:44] ==== loop 67/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[12:59:45] planet 52: building queue full (5)
+[2026-05-11 13:00:17] ==== loop 68/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:00:18] planet 52: queued defense_light_laser +5
+[13:00:18] planet 52: no resources for defense_gauss_cannon+8
+[13:00:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:00:57] ==== loop 69/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:00:58] planet 52: no resources for defense_gauss_cannon+8
+[13:00:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:01:33] ==== loop 70/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:01:33] planet 52: no resources for defense_gauss_cannon+8
+[13:01:33] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:02:09] ==== loop 71/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:02:10] planet 52: no resources for defense_gauss_cannon+8
+[13:02:10] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:02:42] ==== loop 72/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:02:43] planet 52: no resources for defense_gauss_cannon+8
+[13:02:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:03:18] ==== loop 73/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:03:19] planet 52: no resources for defense_gauss_cannon+8
+[13:03:19] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:03:54] ==== loop 74/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:03:54] planet 52: no resources for defense_gauss_cannon+8
+[13:03:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:04:28] ==== loop 75/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:04:28] planet 52: no resources for defense_gauss_cannon+8
+[2026-05-11 13:05:03] ==== loop 76/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:05:04] planet 52: no resources for defense_gauss_cannon+8
+[13:05:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:05:39] ==== loop 77/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:05:40] planet 52: no resources for defense_gauss_cannon+8
+[13:05:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:06:13] ==== loop 78/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:06:14] planet 52: no resources for defense_gauss_cannon+8
+[13:06:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:06:47] ==== loop 79/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:06:47] alliance: idle no_candidate
+[13:06:47] planet 52: no resources for defense_gauss_cannon+8
+[13:06:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:07:26] ==== loop 80/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:07:27] planet 52: no resources for defense_gauss_cannon+8
+[13:07:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:07:57] ==== loop 81/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:07:58] planet 52: no resources for defense_gauss_cannon+8
+[2026-05-11 13:08:27] ==== loop 82/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:08:28] planet 52: no resources for defense_gauss_cannon+8
+[13:08:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:09:05] ==== loop 83/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:09:05] planet 52: no resources for ship_solar_satellite+9
+[2026-05-11 13:09:38] ==== loop 84/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:09:39] planet 52: no resources for ship_solar_satellite+9
+[13:09:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:10:23] ==== loop 85/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:10:24] planet 52: no resources for ship_solar_satellite+9
+[2026-05-11 13:11:05] ==== loop 86/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:11:06] planet 52: no resources for ship_solar_satellite+9
+[13:11:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:11:50] ==== loop 87/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:11:51] planet 52: no resources for ship_solar_satellite+14
+[13:11:51] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:12:33] ==== loop 88/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:12:34] planet 52: no resources for ship_solar_satellite+14
+[13:12:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:13:13] ==== loop 89/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:13:14] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:13:55] ==== loop 90/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:13:56] planet 52: no resources for ship_solar_satellite+14
+[13:13:56] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:14:39] ==== loop 91/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:14:41] planet 52: no resources for ship_solar_satellite+14
+[13:14:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:15:27] ==== loop 92/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:15:27] planet 52: no resources for ship_solar_satellite+14
+[13:15:27] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:16:11] ==== loop 93/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:16:12] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:17:01] ==== loop 94/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:17:02] planet 52: no resources for ship_solar_satellite+14
+[13:17:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:17:44] ==== loop 95/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:17:45] planet 52: no resources for ship_solar_satellite+14
+[13:17:45] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:18:32] ==== loop 96/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:18:32] planet 52: no resources for ship_solar_satellite+14
+[13:18:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:19:20] ==== loop 97/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:19:21] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:20:00] ==== loop 98/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:20:00] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:20:41] ==== loop 99/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:20:42] alliance: idle no_candidate
+[13:20:42] planet 52: no resources for ship_solar_satellite+14
+[13:20:42] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:21:25] ==== loop 100/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:21:25] planet 52: no resources for ship_solar_satellite+14
+[13:21:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:22:31] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:22:32] planet 52: no resources for ship_solar_satellite+14
+[13:22:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:23:14] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:23:15] planet 52: no resources for ship_solar_satellite+14
+[13:23:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:24:02] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:24:02] planet 52: no resources for ship_solar_satellite+14
+[13:24:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:24:46] ==== loop 4/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:24:47] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:25:31] ==== loop 5/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:25:32] planet 52: no resources for ship_solar_satellite+14
+[13:25:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:26:13] ==== loop 6/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:26:14] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:26:53] ==== loop 7/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:26:54] planet 52: no resources for ship_solar_satellite+14
+[13:26:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:27:34] ==== loop 8/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:27:35] planet 52: no resources for ship_solar_satellite+14
+[13:27:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:28:21] ==== loop 9/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:28:22] planet 52: no resources for ship_solar_satellite+14
+[13:28:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:29:02] ==== loop 10/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:29:03] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:29:42] ==== loop 11/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:29:43] planet 52: no resources for ship_solar_satellite+14
+[13:29:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:30:20] ==== loop 12/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:30:21] planet 52: no resources for ship_solar_satellite+14
+[13:30:21] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:31:04] ==== loop 13/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:31:04] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:31:47] ==== loop 14/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:31:48] planet 52: no resources for ship_solar_satellite+14
+[13:31:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:32:32] ==== loop 15/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:32:32] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:33:17] ==== loop 16/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:33:18] planet 52: no resources for ship_solar_satellite+14
+[13:33:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:34:06] ==== loop 17/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:34:06] planet 52: no resources for ship_solar_satellite+14
+[13:34:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:34:50] ==== loop 18/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:34:50] planet 52: no resources for ship_solar_satellite+14
+[13:34:50] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:35:38] ==== loop 19/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:35:39] alliance: idle no_candidate
+[13:35:39] planet 52: no resources for ship_solar_satellite+14
+[13:35:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:36:29] ==== loop 20/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:36:30] planet 52: no resources for ship_solar_satellite+14
+[13:36:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:37:16] ==== loop 21/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:37:16] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:38:05] ==== loop 22/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:38:06] planet 52: no resources for ship_solar_satellite+14
+[13:38:06] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:38:53] ==== loop 23/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:38:53] planet 52: no resources for ship_solar_satellite+14
+[13:38:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:39:39] ==== loop 24/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:39:40] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:40:30] ==== loop 25/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:40:30] planet 52: no resources for ship_solar_satellite+14
+[13:40:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:41:14] ==== loop 26/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:41:14] planet 52: no resources for ship_solar_satellite+14
+[13:41:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:42:03] ==== loop 27/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:42:04] planet 52: no resources for ship_solar_satellite+14
+[13:42:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:42:43] ==== loop 28/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:42:44] planet 52: no resources for ship_solar_satellite+14
+[13:42:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:43:28] ==== loop 29/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:43:28] planet 52: no resources for ship_solar_satellite+14
+[13:43:28] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:44:11] ==== loop 30/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:44:12] planet 52: no resources for ship_solar_satellite+14
+[13:44:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:45:01] ==== loop 31/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:45:02] planet 52: no resources for ship_solar_satellite+14
+[13:45:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:45:47] ==== loop 32/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:45:48] planet 52: no resources for ship_solar_satellite+14
+[13:45:48] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:46:33] ==== loop 33/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:46:34] planet 52: no resources for ship_solar_satellite+14
+[13:46:34] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:47:15] ==== loop 34/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:47:15] planet 52: no resources for ship_solar_satellite+14
+[13:47:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:48:00] ==== loop 35/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:48:00] planet 52: no resources for ship_solar_satellite+14
+[13:48:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:48:51] ==== loop 36/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:48:52] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:49:38] ==== loop 37/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:49:38] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:50:24] ==== loop 38/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:50:25] planet 52: no resources for ship_solar_satellite+14
+[13:50:25] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:51:03] ==== loop 39/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:51:04] alliance: idle no_candidate
+[13:51:04] planet 52: no resources for ship_solar_satellite+14
+[13:51:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:51:43] ==== loop 40/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:51:43] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:52:25] ==== loop 41/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:52:26] planet 52: no resources for ship_solar_satellite+14
+[13:52:26] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:53:19] ==== loop 1/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:53:20] planet 52: no resources for ship_solar_satellite+14
+[13:53:20] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:54:03] ==== loop 2/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:54:04] planet 52: no resources for ship_solar_satellite+14
+[13:54:04] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:54:44] ==== loop 3/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:54:44] planet 52: no resources for ship_solar_satellite+14
+[13:54:44] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:55:31] ==== loop 4/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:55:31] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:56:17] ==== loop 5/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:56:17] planet 52: no resources for ship_solar_satellite+14
+[13:56:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:56:59] ==== loop 6/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:57:00] planet 52: no resources for ship_solar_satellite+14
+[13:57:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:57:40] ==== loop 7/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:57:41] planet 52: no resources for ship_solar_satellite+14
+[13:57:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 13:58:21] ==== loop 8/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:58:21] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:59:04] ==== loop 9/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:59:05] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 13:59:47] ==== loop 10/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[13:59:47] planet 52: no resources for ship_solar_satellite+14
+[13:59:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:00:22] ==== loop 11/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:00:23] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:01:00] ==== loop 12/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:01:01] planet 52: no resources for ship_solar_satellite+14
+[14:01:01] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:01:36] ==== loop 13/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:01:37] planet 52: no resources for ship_solar_satellite+14
+[14:01:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:02:16] ==== loop 14/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:02:16] planet 52: no resources for ship_solar_satellite+14
+[14:02:16] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:02:58] ==== loop 15/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:03:00] planet 52: no resources for ship_solar_satellite+14
+[14:03:00] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:03:39] ==== loop 16/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:03:39] planet 52: no resources for ship_solar_satellite+14
+[14:03:39] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:04:18] ==== loop 17/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:04:18] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:04:55] ==== loop 18/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:04:55] alliance: idle no_candidate
+[14:04:55] planet 52: no resources for ship_solar_satellite+14
+[14:04:55] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:05:29] ==== loop 19/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:05:30] planet 52: no resources for ship_solar_satellite+14
+[14:05:30] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:06:11] ==== loop 20/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:06:12] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:06:46] ==== loop 21/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:06:47] planet 52: no resources for ship_solar_satellite+14
+[14:06:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:07:23] ==== loop 22/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:07:24] planet 52: no resources for ship_solar_satellite+14
+[14:07:24] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:08:01] ==== loop 23/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:08:02] planet 52: no resources for ship_solar_satellite+14
+[14:08:02] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:08:40] ==== loop 24/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:08:40] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:09:17] ==== loop 25/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:09:17] planet 52: no resources for ship_solar_satellite+14
+[14:09:17] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:09:53] ==== loop 26/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:09:53] planet 52: no resources for ship_solar_satellite+14
+[14:09:53] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:10:30] ==== loop 27/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:10:31] planet 52: no resources for ship_solar_satellite+14
+[14:10:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:11:12] ==== loop 28/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:11:12] planet 52: no resources for ship_solar_satellite+14
+[14:11:12] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:11:55] ==== loop 29/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:11:55] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:12:31] ==== loop 30/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:12:32] planet 52: no resources for ship_solar_satellite+14
+[14:12:32] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:13:13] ==== loop 31/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:13:14] planet 52: no resources for ship_solar_satellite+14
+[14:13:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:13:57] ==== loop 32/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:13:58] planet 52: no resources for ship_solar_satellite+14
+[14:13:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:14:40] ==== loop 33/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:14:40] planet 52: no resources for ship_solar_satellite+14
+[14:14:40] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:15:21] ==== loop 34/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:15:22] planet 52: no resources for ship_solar_satellite+14
+[14:15:22] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:16:07] ==== loop 35/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:16:07] planet 52: no resources for ship_solar_satellite+14
+[14:16:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:16:46] ==== loop 36/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:16:46] planet 52: no resources for ship_solar_satellite+14
+[14:16:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:17:25] ==== loop 37/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:17:25] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:18:05] ==== loop 38/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:18:05] alliance: idle no_candidate
+[14:18:05] planet 52: no resources for ship_solar_satellite+14
+[14:18:05] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:18:43] ==== loop 39/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:18:43] planet 52: no resources for ship_solar_satellite+14
+[14:18:43] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:19:23] ==== loop 40/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:19:23] planet 52: no resources for ship_solar_satellite+14
+[14:19:23] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:20:01] ==== loop 41/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:20:01] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:20:36] ==== loop 42/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:20:37] planet 52: no resources for ship_solar_satellite+14
+[14:20:37] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:21:13] ==== loop 43/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:21:14] planet 52: no resources for ship_solar_satellite+14
+[14:21:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:21:53] ==== loop 44/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:21:54] planet 52: no resources for ship_solar_satellite+14
+[14:21:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:22:28] ==== loop 45/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:22:29] planet 52: no resources for ship_solar_satellite+14
+[14:22:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:23:03] ==== loop 46/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:23:03] planet 52: no resources for ship_solar_satellite+14
+[14:23:03] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:23:34] ==== loop 47/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:23:35] planet 52: no resources for ship_solar_satellite+14
+[14:23:35] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:24:08] ==== loop 48/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:24:09] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:24:40] ==== loop 49/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:24:41] planet 52: no resources for ship_solar_satellite+14
+[14:24:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:25:11] ==== loop 50/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:25:11] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:25:47] ==== loop 51/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:25:47] planet 52: no resources for ship_solar_satellite+14
+[14:25:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:26:19] ==== loop 52/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:26:20] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:26:53] ==== loop 53/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:26:54] planet 52: no resources for ship_solar_satellite+14
+[14:26:54] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:27:30] ==== loop 54/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:27:31] planet 52: no resources for ship_solar_satellite+14
+[14:27:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:28:06] ==== loop 55/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:28:07] planet 52: no resources for ship_solar_satellite+14
+[14:28:07] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:28:40] ==== loop 56/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:28:41] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:29:14] ==== loop 57/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:29:15] planet 52: no resources for ship_solar_satellite+14
+[14:29:15] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:29:45] ==== loop 58/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:29:46] alliance: idle no_candidate
+[14:29:46] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:30:22] ==== loop 59/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:30:22] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:31:03] ==== loop 60/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:31:04] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:31:45] ==== loop 61/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:31:46] planet 52: no resources for ship_solar_satellite+14
+[14:31:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:32:26] ==== loop 62/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:32:26] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:33:07] ==== loop 63/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:33:08] planet 52: no resources for ship_solar_satellite+14
+[14:33:08] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:33:50] ==== loop 64/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:33:51] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:34:33] ==== loop 65/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:34:34] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:35:13] ==== loop 66/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:35:13] planet 52: no resources for ship_solar_satellite+14
+[14:35:13] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:35:58] ==== loop 67/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:35:59] planet 52: no resources for ship_solar_satellite+14
+[14:35:59] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:36:41] ==== loop 68/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:36:41] planet 52: no resources for ship_solar_satellite+14
+[14:36:41] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:37:18] ==== loop 69/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:37:18] planet 52: no resources for ship_solar_satellite+14
+[14:37:18] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:38:04] ==== loop 70/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:38:05] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:38:46] ==== loop 71/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:38:46] planet 52: no resources for ship_solar_satellite+14
+[14:38:46] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:39:30] ==== loop 72/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:39:31] planet 52: no resources for ship_solar_satellite+14
+[14:39:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:40:13] ==== loop 73/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:40:14] planet 52: no resources for ship_solar_satellite+14
+[14:40:14] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:40:57] ==== loop 1/1 | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:40:58] planet 52: no resources for ship_solar_satellite+14
+[14:40:58] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:40:58] ==== loop 74/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:40:59] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:41:46] ==== loop 75/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:41:47] planet 52: no resources for ship_solar_satellite+14
+[14:41:47] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:42:30] ==== loop 76/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:42:31] planet 52: no resources for ship_solar_satellite+14
+[14:42:31] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:43:12] ==== loop 77/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:43:13] alliance: idle no_candidate
+[14:43:13] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:43:54] ==== loop 78/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:43:54] planet 52: no resources for ship_solar_satellite+14
+[2026-05-11 14:44:28] ==== loop 79/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:44:29] planet 52: no resources for ship_solar_satellite+14
+[14:44:29] research: blocked research_energy_technology (building_laboratory 0/1)
+[2026-05-11 14:45:13] ==== loop 80/∞ | seed=841841511454635041 archetype=turtle personality=flotero focus=mil actions_per_loop=2 ====
+[14:45:13] planet 52: queued ship_solar_satellite +14

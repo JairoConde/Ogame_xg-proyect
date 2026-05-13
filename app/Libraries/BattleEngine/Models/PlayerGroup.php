@@ -34,12 +34,11 @@ use Exception;
  */
 class PlayerGroup extends IterableUtil
 {
-    protected $array = [];
     public $battleResult;
-    private static $id_count = 0;
-    private $id;
+    private static int $id_count = 0;
+    private int $id;
 
-    public function __construct($players = [])
+    public function __construct(array $players = [])
     {
         $this->id = ++self::$id_count;
         foreach ($players as $player) {
@@ -47,12 +46,12 @@ class PlayerGroup extends IterableUtil
         }
     }
 
-    public function getId()
+    public function getId(): int
     {
         return $this->id;
     }
 
-    public function decrement($idPlayer, $idFleet, $idShipType, $count)
+    public function decrement($idPlayer, $idFleet, $idShipType, $count): void
     {
         if (!$this->existPlayer($idPlayer)) {
             throw new Exception('Player with id : ' . $idPlayer . ' not exist');
@@ -68,44 +67,47 @@ class PlayerGroup extends IterableUtil
         return isset($this->array[$id]) ? $this->array[$id] : false;
     }
 
-    public function existPlayer($id)
+    public function existPlayer($id): bool
     {
         return isset($this->array[$id]);
     }
 
-    public function addPlayer(Player $player)
+    public function addPlayer(Player $player): void
     {
         $this->array[$player->getId()] = $player->cloneMe(); //avoid collateral effects: when the object or array is an argument && it's saved in a structure
     }
 
-    public function createPlayerIfNotExist($id, $fleets, $militaryTech, $shieldTech, $defenceTech)
+    public function createPlayerIfNotExist($id, $fleets, $militaryTech, $shieldTech, $defenceTech): Player
     {
         if (!$this->existPlayer($id)) {
             $this->addPlayer(new Player($id, $fleets, $militaryTech, $shieldTech, $defenceTech));
         }
+
         return $this->getPlayer($id);
     }
 
-    public function isEmpty()
+    public function isEmpty(): bool
     {
         foreach ($this->array as $id => $player) {
             if (!$player->isEmpty()) {
                 return false;
             }
         }
+
         return true;
     }
 
-    public function __toString()
+    public function __toString(): string
     {
         ob_start();
         $_playerGroup = $this;
         $_st = '';
         require OPBEPATH . 'Views/playerGroup.html';
+
         return ob_get_clean();
     }
 
-    public function inflictDamage(FireManager $fire)
+    public function inflictDamage(FireManager $fire): array
     {
         $physicShots = [];
         foreach ($this->array as $idPlayer => $player) {
@@ -113,10 +115,11 @@ class PlayerGroup extends IterableUtil
             $ps = $player->inflictDamage($fire);
             $physicShots[$idPlayer] = $ps;
         }
+
         return $physicShots;
     }
 
-    public function cleanShips()
+    public function cleanShips(): array
     {
         $shipsCleaners = [];
         foreach ($this->array as $idPlayer => $player) {
@@ -127,31 +130,34 @@ class PlayerGroup extends IterableUtil
                 unset($this->array[$idPlayer]);
             }
         }
+
         return $shipsCleaners;
     }
 
-    public function repairShields()
+    public function repairShields(): void
     {
         foreach ($this->array as $idPlayer => $player) {
             $player->repairShields();
         }
     }
 
-    public function getEquivalentFleetContent()
+    public function getEquivalentFleetContent(): Fleet
     {
         $merged = new Fleet(-1);
         foreach ($this->array as $idPlayer => $player) { // cloning don't have any sense because we don't touch the array,maybe php bug :(
             $merged->mergeFleet($player->getEquivalentFleetContent());
         }
+
         return $merged;
     }
 
-    public function getTotalCount()
+    public function getTotalCount(): int
     {
         $amount = 0;
         foreach ($this->array as $idPlayer => $player) {
             $amount += $player->getTotalCount();
         }
+
         return $amount;
     }
     /*
@@ -169,13 +175,14 @@ class PlayerGroup extends IterableUtil
       }
      */
 
-    public function cloneMe()
+    public function cloneMe(): PlayerGroup
     {
         $players = array_values($this->array);
         $tmp = new PlayerGroup($players);
         $tmp->battleResult = $this->battleResult;
         $tmp->id = $this->id;
         self::$id_count--;
+
         return $tmp;
     }
 }

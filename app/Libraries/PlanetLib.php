@@ -32,7 +32,7 @@ class PlanetLib
      *
      * @return boolean
      */
-    public function setNewPlanet($galaxy, $system, $position, $owner, $name = '', $main = false)
+    public function setNewPlanet(int $galaxy, int $system, int $position, int $owner, string $name = '', bool $main = false): bool
     {
         $planet_exist = $this->planetslibModel->checkPlanetExists($galaxy, $system, $position);
 
@@ -90,9 +90,9 @@ class PlanetLib
      * @param int    $min_temp   Min Temp
      * @param int    $max_temp   Max Temp
      *
-     * @return string
+     * @return bool
      */
-    public function setNewMoon($galaxy, $system, $position, $owner, $name = '', $chance = 0, $size = 0, $max_fields = 1, $min_temp = 0, $max_temp = 0)
+    public function setNewMoon(int $galaxy, int $system, int $position, int $owner, string $name = '', int $chance = 0, int $size = 0, int $max_fields = 1, int $min_temp = 0, int $max_temp = 0): bool
     {
         $MoonPlanet = $this->planetslibModel->checkMoonExists($galaxy, $system, $position);
 

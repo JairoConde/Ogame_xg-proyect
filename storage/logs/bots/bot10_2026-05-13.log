@@ -1,0 +1,1042 @@
+[2026-05-13 10:11:40] ==== loop 1/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:11:42] planet 36: no resources for building_metal_store+1
+[10:11:42] planet 82: queue busy, throttled building_robot_factory
+[10:11:42] planet 81: queue busy, throttled building_robot_factory
+[10:11:42] planet 80: queued ship_solar_satellite +5
+[10:11:42] planet 82: queue busy, throttled building_robot_factory
+[10:11:42] transport: 1:85:10 -> 1:87:10 [role_balance] m=94211 c=137873 d=91915 ships=0B+48S eta=26s fuel=315
+[10:11:42] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:12:21] ==== loop 2/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:12:23] planet 36: no resources for building_metal_store+1
+[10:12:23] planet 82: queue busy, throttled building_robot_factory
+[10:12:23] planet 80: queued ship_solar_satellite +2
+[10:12:23] planet 81: queue busy, throttled building_robot_factory
+[2026-05-13 10:12:59] ==== loop 3/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:13:00] planet 36: no resources for building_metal_store+1
+[10:13:00] planet 82: queue busy, throttled building_robot_factory
+[10:13:00] planet 80: queued building_metal_store to 3
+[10:13:00] planet 81: queue busy, throttled building_robot_factory
+[2026-05-13 10:13:40] ==== loop 4/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:13:42] planet 36: no resources for building_metal_store+1
+[10:13:42] planet 82: queue busy, throttled building_robot_factory
+[10:13:42] planet 81: queue busy, throttled building_robot_factory
+[10:13:42] planet 80: queued building_metal_store to 4
+[10:13:42] planet 82: queue busy, throttled building_robot_factory
+[10:13:42] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:14:22] ==== loop 5/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:14:24] planet 36: no resources for building_metal_store+1
+[10:14:24] planet 82: queue busy, throttled building_robot_factory
+[10:14:24] planet 81: queue busy, throttled building_robot_factory
+[10:14:24] planet 80: queued building_metal_store to 5
+[10:14:24] planet 82: queue busy, throttled building_robot_factory
+[10:14:24] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:15:01] ==== loop 6/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:15:03] planet 36: no resources for building_metal_store+1
+[10:15:03] planet 82: queue busy, throttled building_robot_factory
+[10:15:03] planet 81: queue busy, throttled building_robot_factory
+[10:15:03] planet 80: building queue full (5)
+[10:15:03] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 10:15:44] ==== loop 7/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:15:46] planet 36: no resources for building_metal_store+1
+[10:15:46] planet 82: queue busy, throttled building_robot_factory
+[10:15:46] planet 81: queue busy, throttled building_robot_factory
+[10:15:46] planet 80: building queue full (5)
+[10:15:46] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 10:16:29] ==== loop 8/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:16:31] planet 36: no resources for building_metal_store+1
+[10:16:31] planet 82: queue busy, throttled building_robot_factory
+[10:16:31] planet 81: queue busy, throttled building_robot_factory
+[10:16:31] planet 80: queued building_crystal_store to 8
+[10:16:31] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:17:13] ==== loop 9/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:17:15] planet 36: no resources for building_metal_store+1
+[10:17:15] planet 82: queue busy, throttled building_robot_factory
+[10:17:15] planet 81: queue busy, throttled building_robot_factory
+[10:17:15] planet 80: building queue full (5)
+[10:17:15] planet 82: queue busy, throttled building_robot_factory
+[10:17:15] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:17:56] ==== loop 10/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:17:57] planet 36: no resources for building_metal_store+1
+[10:17:57] planet 82: queue busy, throttled building_robot_factory
+[10:17:57] planet 81: queue busy, throttled building_robot_factory
+[10:17:57] planet 80: building queue full (5)
+[10:17:57] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:18:40] ==== loop 11/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:18:42] planet 36: no resources for building_metal_store+1
+[10:18:42] planet 82: queue busy, throttled building_robot_factory
+[10:18:42] planet 81: queue busy, throttled building_robot_factory
+[10:18:42] planet 80: building queue full (5)
+[10:18:42] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 10:19:27] ==== loop 12/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:19:28] planet 36: no resources for building_metal_store+1
+[10:19:28] planet 82: queue busy, throttled building_robot_factory
+[10:19:28] planet 81: queue busy, throttled building_robot_factory
+[10:19:28] planet 80: building queue full (5)
+[10:19:28] planet 82: queue busy, throttled building_robot_factory
+[10:19:28] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:20:12] ==== loop 13/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:20:14] planet 36: queued building_metal_mine to 41
+[10:20:14] planet 82: queue busy, throttled building_robot_factory
+[10:20:14] planet 81: queue busy, throttled building_robot_factory
+[10:20:14] planet 80: queued building_metal_mine to 15
+[10:20:14] planet 82: queue busy, throttled building_robot_factory
+[10:20:14] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:20:53] ==== loop 14/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:20:54] planet 36: no resources for building_metal_mine+1
+[10:20:54] planet 82: queue busy, throttled building_robot_factory
+[10:20:54] planet 81: queue busy, throttled building_robot_factory
+[10:20:54] planet 80: building queue full (5)
+[10:20:54] planet 82: queue busy, throttled building_robot_factory
+[10:20:54] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:21:40] ==== loop 15/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:21:41] planet 36: no resources for building_metal_mine+1
+[10:21:41] planet 82: queue busy, throttled building_robot_factory
+[10:21:41] planet 81: queue busy, throttled building_robot_factory
+[10:21:41] planet 80: building queue full (5)
+[10:21:41] planet 82: queue busy, throttled building_robot_factory
+[10:21:41] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:22:25] ==== loop 16/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:22:26] planet 36: no resources for building_metal_mine+1
+[10:22:26] planet 82: queue busy, throttled building_robot_factory
+[10:22:26] planet 81: queue busy, throttled building_robot_factory
+[10:22:26] planet 80: building queue full (5)
+[10:22:26] planet 82: queue busy, throttled building_robot_factory
+[10:22:26] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:23:10] ==== loop 17/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:23:12] planet 36: no resources for building_metal_mine+1
+[10:23:12] planet 82: queue busy, throttled building_robot_factory
+[10:23:12] planet 81: queue busy, throttled building_robot_factory
+[10:23:12] planet 80: building queue full (5)
+[10:23:12] planet 82: queue busy, throttled building_robot_factory
+[10:23:12] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:23:57] ==== loop 18/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:23:58] planet 36: no resources for building_metal_mine+1
+[10:23:58] planet 82: queue busy, throttled building_robot_factory
+[10:23:58] planet 81: queue busy, throttled building_robot_factory
+[10:23:58] planet 80: building queue full (5)
+[10:23:58] planet 82: queue busy, throttled building_robot_factory
+[10:23:58] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:24:46] ==== loop 19/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:24:48] planet 36: no resources for building_metal_mine+1
+[10:24:48] planet 82: queue busy, throttled building_robot_factory
+[10:24:48] planet 81: queue busy, throttled building_robot_factory
+[10:24:48] planet 80: building queue full (5)
+[10:24:48] planet 82: queue busy, throttled building_robot_factory
+[10:24:48] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:25:35] ==== loop 20/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:25:36] planet 36: no resources for building_metal_mine+1
+[10:25:36] planet 82: queue busy, throttled building_robot_factory
+[10:25:36] planet 81: queue busy, throttled building_robot_factory
+[10:25:36] planet 80: building queue full (5)
+[10:25:36] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 10:26:19] ==== loop 21/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:26:20] planet 36: no resources for building_metal_mine+1
+[10:26:20] planet 82: queue busy, throttled building_robot_factory
+[10:26:20] planet 81: queue busy, throttled building_robot_factory
+[10:26:20] planet 80: building queue full (5)
+[10:26:20] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 10:27:07] ==== loop 22/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:27:09] planet 36: queued ship_solar_satellite +5
+[10:27:09] planet 82: queue busy, throttled building_robot_factory
+[10:27:09] planet 81: queue busy, throttled building_robot_factory
+[10:27:09] planet 80: building queue full (5)
+[10:27:09] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:27:09] transport: 1:85:10 -> 1:87:10 [role_balance] m=95098 c=137340 d=91560 ships=0B+48S eta=26s fuel=315
+[10:27:09] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:27:50] ==== loop 23/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:27:51] planet 36: queued ship_solar_satellite +5
+[10:27:51] planet 82: queue busy, throttled building_robot_factory
+[10:27:51] planet 81: queue busy, throttled building_robot_factory
+[10:27:51] planet 80: building queue full (5)
+[10:27:51] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:27:51] planet 82: queue busy, throttled building_robot_factory
+[10:27:51] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:28:39] ==== loop 24/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:28:41] planet 36: queued ship_solar_satellite +5
+[10:28:41] planet 82: queue busy, throttled building_robot_factory
+[10:28:41] planet 81: queue busy, throttled building_robot_factory
+[10:28:41] planet 80: building queue full (5)
+[10:28:41] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:28:41] planet 82: queue busy, throttled building_robot_factory
+[10:28:41] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:29:27] ==== loop 25/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:29:28] planet 36: queued ship_solar_satellite +5
+[10:29:28] planet 82: queue busy, throttled building_robot_factory
+[10:29:28] planet 81: queue busy, throttled building_robot_factory
+[10:29:28] planet 80: building queue full (5)
+[10:29:28] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:29:28] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 10:30:11] ==== loop 26/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:30:12] planet 36: queued ship_solar_satellite +5
+[10:30:12] planet 82: queue busy, throttled building_robot_factory
+[10:30:12] planet 81: queue busy, throttled building_robot_factory
+[10:30:12] planet 80: queued building_metal_store to 6
+[10:30:12] planet 36: skipped duplicate ship_solar_satellite this loop
+[2026-05-13 10:30:51] ==== loop 27/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:30:52] planet 36: queued ship_solar_satellite +5
+[10:30:52] planet 82: queue busy, throttled building_robot_factory
+[10:30:52] planet 81: queue busy, throttled building_robot_factory
+[10:30:52] planet 80: building queue full (5)
+[10:30:52] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:30:52] planet 82: queue busy, throttled building_robot_factory
+[10:30:52] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:31:33] ==== loop 28/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:31:34] planet 36: queued ship_solar_satellite +5
+[10:31:34] planet 82: queue busy, throttled building_robot_factory
+[10:31:34] planet 81: queue busy, throttled building_robot_factory
+[10:31:34] planet 80: building queue full (5)
+[10:31:34] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:31:34] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:32:15] ==== loop 29/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:32:17] planet 36: queued ship_solar_satellite +5
+[10:32:17] planet 82: queue busy, throttled building_robot_factory
+[10:32:17] planet 81: queue busy, throttled building_robot_factory
+[10:32:17] planet 80: building queue full (5)
+[10:32:17] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:32:17] planet 82: queue busy, throttled building_robot_factory
+[10:32:17] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:32:59] ==== loop 30/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:33:01] planet 36: queued ship_solar_satellite +5
+[10:33:01] planet 82: queue busy, throttled building_robot_factory
+[10:33:01] planet 81: queue busy, throttled building_robot_factory
+[10:33:01] planet 80: building queue full (5)
+[10:33:01] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:33:01] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:33:45] ==== loop 31/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:33:45] planet 36: queued ship_solar_satellite +5
+[10:33:45] planet 82: queue busy, throttled building_robot_factory
+[10:33:45] planet 81: queue busy, throttled building_robot_factory
+[10:33:45] planet 80: building queue full (5)
+[10:33:45] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:33:45] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:34:26] ==== loop 32/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:34:27] planet 36: queued ship_solar_satellite +5
+[10:34:27] planet 82: queue busy, throttled building_robot_factory
+[10:34:27] planet 81: queue busy, throttled building_robot_factory
+[10:34:27] planet 80: building queue full (5)
+[10:34:27] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:34:27] planet 82: queue busy, throttled building_robot_factory
+[10:34:27] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:35:10] ==== loop 33/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:35:12] planet 36: queued ship_solar_satellite +5
+[10:35:12] planet 82: queue busy, throttled building_robot_factory
+[10:35:12] planet 81: queue busy, throttled building_robot_factory
+[10:35:12] planet 80: building queue full (5)
+[10:35:12] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:35:12] planet 82: queue busy, throttled building_robot_factory
+[10:35:12] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:35:54] ==== loop 34/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:35:55] planet 36: queued ship_solar_satellite +5
+[10:35:55] planet 82: queue busy, throttled building_robot_factory
+[10:35:55] planet 81: queue busy, throttled building_robot_factory
+[10:35:55] planet 80: building queue full (5)
+[10:35:55] planet 36: skipped duplicate ship_solar_satellite this loop
+[10:35:55] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:36:38] ==== loop 35/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:36:40] planet 36: queued ship_solar_satellite +1
+[10:36:40] planet 82: queue busy, throttled building_robot_factory
+[10:36:40] planet 81: queue busy, throttled building_robot_factory
+[10:36:40] planet 80: building queue full (5)
+[10:36:40] planet 36: queued building_solar_plant to 29
+[10:36:40] planet 82: queue busy, throttled building_robot_factory
+[10:36:40] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:37:16] ==== loop 36/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:37:17] planet 36: queued building_solar_plant to 30
+[10:37:17] planet 82: queue busy, throttled building_robot_factory
+[10:37:17] planet 81: queue busy, throttled building_robot_factory
+[10:37:17] planet 80: building queue full (5)
+[10:37:17] planet 82: queue busy, throttled building_robot_factory
+[10:37:17] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:37:56] ==== loop 37/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:37:58] planet 36: queued building_solar_plant to 31
+[10:37:58] planet 82: queue busy, throttled building_robot_factory
+[10:37:58] planet 81: queue busy, throttled building_robot_factory
+[10:37:58] planet 80: building queue full (5)
+[10:37:58] planet 82: queue busy, throttled building_robot_factory
+[10:37:58] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:38:38] ==== loop 38/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:38:39] planet 36: queued building_solar_plant to 32
+[10:38:39] planet 82: queue busy, throttled building_robot_factory
+[10:38:39] planet 81: queue busy, throttled building_robot_factory
+[10:38:39] planet 80: building queue full (5)
+[10:38:39] planet 82: queue busy, throttled building_robot_factory
+[10:38:39] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:39:19] ==== loop 39/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:39:20] planet 36: queued building_solar_plant to 33
+[10:39:20] planet 82: queue busy, throttled building_robot_factory
+[10:39:20] planet 81: queue busy, throttled building_robot_factory
+[10:39:20] planet 80: building queue full (5)
+[10:39:20] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 10:40:03] ==== loop 40/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:40:03] planet 36: no resources for building_deuterium_tank+1
+[10:40:03] planet 82: queue busy, throttled building_robot_factory
+[10:40:03] planet 81: queue busy, throttled building_robot_factory
+[10:40:03] planet 80: queued ship_light_fighter +5
+[10:40:03] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:40:42] ==== loop 41/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:40:43] planet 36: no resources for building_deuterium_tank+1
+[10:40:43] planet 82: queue busy, throttled building_robot_factory
+[10:40:43] planet 81: queue busy, throttled building_robot_factory
+[10:40:43] planet 80: queued ship_light_fighter +5
+[10:40:43] planet 82: queue busy, throttled building_robot_factory
+[10:40:43] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:41:27] ==== loop 42/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:41:28] planet 36: no resources for building_deuterium_tank+1
+[10:41:28] planet 82: queue busy, throttled building_robot_factory
+[10:41:28] planet 81: queue busy, throttled building_robot_factory
+[10:41:28] planet 80: queued ship_light_fighter +5
+[10:41:28] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:42:16] ==== loop 43/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:42:18] planet 36: no resources for building_deuterium_tank+1
+[10:42:18] planet 82: queue busy, throttled building_robot_factory
+[10:42:18] planet 81: queue busy, throttled building_robot_factory
+[10:42:18] planet 80: queued ship_light_fighter +5
+[10:42:18] transport: 1:85:10 -> 1:87:10 [role_balance] m=94951 c=137428 d=91619 ships=0B+48S eta=26s fuel=315
+[10:42:18] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:42:58] ==== loop 44/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:42:59] planet 36: no resources for building_deuterium_tank+1
+[10:42:59] planet 82: queue busy, throttled building_robot_factory
+[10:42:59] planet 81: queue busy, throttled building_robot_factory
+[10:42:59] planet 80: queued ship_light_fighter +5
+[10:42:59] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 10:43:45] ==== loop 45/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:43:47] planet 36: no resources for building_deuterium_tank+1
+[10:43:47] planet 82: queue busy, throttled building_robot_factory
+[10:43:47] planet 81: queue busy, throttled building_robot_factory
+[10:43:47] planet 80: queued ship_light_fighter +5
+[10:43:47] planet 82: queue busy, throttled building_robot_factory
+[10:43:47] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:44:30] ==== loop 46/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:44:31] planet 36: no resources for building_deuterium_tank+1
+[10:44:31] planet 82: queue busy, throttled building_robot_factory
+[10:44:31] planet 81: queue busy, throttled building_robot_factory
+[10:44:31] planet 80: queued ship_light_fighter +5
+[10:44:31] planet 82: queue busy, throttled building_robot_factory
+[10:44:31] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:45:11] ==== loop 47/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:45:12] planet 36: no resources for building_deuterium_tank+1
+[10:45:12] planet 82: queue busy, throttled building_robot_factory
+[10:45:12] planet 81: queue busy, throttled building_robot_factory
+[10:45:12] planet 80: queued ship_light_fighter +5
+[10:45:12] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:45:58] ==== loop 48/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:45:59] planet 36: no resources for building_deuterium_tank+1
+[10:45:59] planet 82: queue busy, throttled building_robot_factory
+[10:45:59] planet 81: queue busy, throttled building_robot_factory
+[10:45:59] planet 80: queued ship_light_fighter +5
+[10:45:59] planet 82: queue busy, throttled building_robot_factory
+[10:45:59] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:46:45] ==== loop 49/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:46:47] planet 36: no resources for building_deuterium_tank+1
+[10:46:47] planet 82: queue busy, throttled building_robot_factory
+[10:46:47] planet 81: queue busy, throttled building_robot_factory
+[10:46:47] planet 80: queued ship_light_fighter +5
+[10:46:47] planet 82: queue busy, throttled building_robot_factory
+[10:46:47] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:47:37] ==== loop 50/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:47:38] planet 36: no resources for building_deuterium_tank+1
+[10:47:38] planet 82: queue busy, throttled building_robot_factory
+[10:47:38] planet 81: queue busy, throttled building_robot_factory
+[10:47:38] planet 80: queued ship_light_fighter +5
+[10:47:38] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:48:27] ==== loop 51/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:48:28] planet 36: no resources for building_deuterium_tank+1
+[10:48:28] planet 82: queue busy, throttled building_robot_factory
+[10:48:28] planet 81: queue busy, throttled building_robot_factory
+[10:48:28] planet 80: queued ship_light_fighter +5
+[10:48:28] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:49:13] ==== loop 52/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:49:13] planet 36: no resources for building_deuterium_tank+1
+[10:49:13] planet 82: queue busy, throttled building_robot_factory
+[10:49:13] planet 81: queue busy, throttled building_robot_factory
+[10:49:13] planet 80: queued ship_light_fighter +5
+[10:49:13] planet 82: queue busy, throttled building_robot_factory
+[10:49:13] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:50:06] ==== loop 53/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:50:06] planet 36: no resources for building_metal_store+1
+[10:50:06] planet 82: queue busy, throttled building_robot_factory
+[10:50:06] planet 81: queue busy, throttled building_robot_factory
+[10:50:06] planet 80: queued building_deuterium_sintetizer to 16
+[10:50:06] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 10:50:55] ==== loop 54/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:50:56] planet 36: no resources for building_metal_store+1
+[10:50:56] planet 82: queue busy, throttled building_robot_factory
+[10:50:56] planet 81: queue busy, throttled building_robot_factory
+[10:50:56] planet 80: queued ship_solar_satellite +2
+[10:50:56] planet 82: queue busy, throttled building_robot_factory
+[10:50:56] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:51:45] ==== loop 55/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:51:47] planet 36: no resources for building_metal_store+1
+[10:51:47] planet 82: queue busy, throttled building_robot_factory
+[10:51:47] planet 81: queue busy, throttled building_robot_factory
+[10:51:47] planet 80: queued ship_solar_satellite +2
+[10:51:47] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 10:52:34] ==== loop 56/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:52:35] planet 36: no resources for building_metal_store+1
+[10:52:35] planet 82: queue busy, throttled building_robot_factory
+[10:52:35] planet 81: queue busy, throttled building_robot_factory
+[10:52:35] planet 80: queued ship_solar_satellite +2
+[10:52:35] planet 82: queue busy, throttled building_robot_factory
+[10:52:35] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:53:18] ==== loop 57/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:53:19] planet 36: no resources for building_metal_store+1
+[10:53:19] planet 82: queue busy, throttled building_robot_factory
+[10:53:19] planet 81: queue busy, throttled building_robot_factory
+[10:53:19] planet 80: queued ship_solar_satellite +2
+[10:53:19] planet 82: queue busy, throttled building_robot_factory
+[10:53:19] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:54:05] ==== loop 58/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:54:06] planet 36: no resources for building_metal_store+1
+[10:54:06] planet 82: queue busy, throttled building_robot_factory
+[10:54:06] planet 81: queue busy, throttled building_robot_factory
+[10:54:06] planet 80: queued ship_solar_satellite +2
+[2026-05-13 10:54:53] ==== loop 59/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:54:54] planet 36: no resources for building_metal_store+1
+[10:54:54] planet 82: queue busy, throttled building_robot_factory
+[10:54:54] planet 81: queue busy, throttled building_robot_factory
+[10:54:54] planet 80: queued ship_solar_satellite +2
+[10:54:54] planet 82: queue busy, throttled building_robot_factory
+[10:54:54] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:55:41] ==== loop 60/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:55:43] planet 36: no resources for building_metal_store+1
+[10:55:43] planet 82: queue busy, throttled building_robot_factory
+[10:55:43] planet 81: queue busy, throttled building_robot_factory
+[10:55:43] planet 80: queued ship_solar_satellite +2
+[10:55:43] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:56:28] ==== loop 61/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:56:30] planet 36: no resources for building_metal_store+1
+[10:56:30] planet 82: queue busy, throttled building_robot_factory
+[10:56:30] planet 81: queue busy, throttled building_robot_factory
+[10:56:30] planet 80: queued ship_solar_satellite +2
+[10:56:30] planet 82: queue busy, throttled building_robot_factory
+[10:56:30] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:57:11] ==== loop 62/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:57:13] planet 36: no resources for building_metal_store+1
+[10:57:13] planet 82: queue busy, throttled building_robot_factory
+[10:57:13] planet 81: queue busy, throttled building_robot_factory
+[10:57:13] planet 80: queued ship_solar_satellite +2
+[10:57:13] planet 82: queue busy, throttled building_robot_factory
+[10:57:13] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:57:59] ==== loop 63/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:58:01] planet 36: no resources for building_metal_store+1
+[10:58:01] planet 82: queue busy, throttled building_robot_factory
+[10:58:01] planet 81: queue busy, throttled building_robot_factory
+[10:58:01] planet 80: queued ship_solar_satellite +2
+[10:58:01] planet 82: queue busy, throttled building_robot_factory
+[10:58:01] transport: 1:85:10 -> 1:87:10 [role_balance] m=94007 c=137995 d=91997 ships=0B+48S eta=26s fuel=315
+[10:58:01] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:58:42] ==== loop 64/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:58:44] planet 36: no resources for building_metal_store+1
+[10:58:44] planet 82: queue busy, throttled building_robot_factory
+[10:58:44] planet 81: queue busy, throttled building_robot_factory
+[10:58:44] planet 80: queued ship_solar_satellite +2
+[10:58:44] planet 82: queue busy, throttled building_robot_factory
+[10:58:44] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 10:59:29] ==== loop 65/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[10:59:30] planet 36: no resources for building_metal_store+1
+[10:59:30] planet 82: queue busy, throttled building_robot_factory
+[10:59:30] planet 81: queue busy, throttled building_robot_factory
+[10:59:30] planet 80: building queue full (5)
+[2026-05-13 11:00:21] ==== loop 66/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:00:22] planet 36: no resources for building_crystal_store+1
+[11:00:22] planet 82: queue busy, throttled building_robot_factory
+[11:00:22] planet 81: queue busy, throttled building_robot_factory
+[11:00:22] planet 80: queued building_crystal_store to 9
+[2026-05-13 11:01:12] ==== loop 67/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:01:14] planet 36: no resources for building_crystal_store+1
+[11:01:14] planet 82: queue busy, throttled building_robot_factory
+[11:01:14] planet 81: queue busy, throttled building_robot_factory
+[11:01:14] planet 80: queued building_robot_factory to 1
+[11:01:14] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:01:59] ==== loop 68/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:01:59] planet 36: no resources for building_crystal_store+1
+[11:01:59] planet 82: queue busy, throttled building_robot_factory
+[11:01:59] planet 81: queue busy, throttled building_robot_factory
+[11:01:59] planet 80: queue busy, throttled building_robot_factory
+[11:01:59] planet 82: queue busy, throttled building_robot_factory
+[11:01:59] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:02:48] ==== loop 69/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:02:49] planet 36: no resources for building_crystal_store+1
+[11:02:49] planet 82: queue busy, throttled building_robot_factory
+[11:02:49] planet 81: queue busy, throttled building_robot_factory
+[11:02:49] planet 80: queue busy, throttled building_robot_factory
+[11:02:49] planet 82: queue busy, throttled building_robot_factory
+[11:02:49] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:03:36] ==== loop 70/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:03:37] planet 36: no resources for building_crystal_store+1
+[11:03:37] planet 82: queue busy, throttled building_robot_factory
+[11:03:37] planet 81: queue busy, throttled building_robot_factory
+[11:03:37] planet 80: queue busy, throttled building_robot_factory
+[2026-05-13 11:04:26] ==== loop 71/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:04:26] planet 36: no resources for building_crystal_store+1
+[11:04:26] planet 82: queue busy, throttled building_robot_factory
+[11:04:26] planet 81: queue busy, throttled building_robot_factory
+[11:04:26] planet 80: queue busy, throttled building_robot_factory
+[2026-05-13 11:05:13] ==== loop 72/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:05:14] planet 36: no resources for building_crystal_store+1
+[11:05:14] planet 82: queue busy, throttled building_robot_factory
+[11:05:14] planet 81: queue busy, throttled building_robot_factory
+[11:05:14] planet 80: queue busy, throttled building_robot_factory
+[11:05:14] planet 82: queue busy, throttled building_robot_factory
+[11:05:14] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:06:02] ==== loop 73/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:06:03] planet 36: no resources for building_crystal_store+1
+[11:06:03] planet 82: queue busy, throttled building_robot_factory
+[11:06:03] planet 81: queue busy, throttled building_robot_factory
+[11:06:03] planet 80: queue busy, throttled building_robot_factory
+[2026-05-13 11:06:46] ==== loop 74/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:06:47] planet 36: no resources for building_crystal_store+1
+[11:06:47] planet 82: queue busy, throttled building_robot_factory
+[11:06:47] planet 81: queue busy, throttled building_robot_factory
+[11:06:47] planet 80: queue busy, throttled building_robot_factory
+[11:06:47] planet 82: queue busy, throttled building_robot_factory
+[11:06:47] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:07:35] ==== loop 75/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:07:35] planet 36: no resources for building_crystal_store+1
+[11:07:35] planet 82: queue busy, throttled building_robot_factory
+[11:07:35] planet 81: queue busy, throttled building_robot_factory
+[11:07:35] planet 80: queue busy, throttled building_robot_factory
+[11:07:35] planet 82: queue busy, throttled building_robot_factory
+[11:07:35] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:08:25] ==== loop 76/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:08:25] planet 36: no resources for building_crystal_store+1
+[11:08:25] planet 82: queue busy, throttled building_robot_factory
+[11:08:25] planet 81: queue busy, throttled building_robot_factory
+[11:08:25] planet 80: queue busy, throttled building_robot_factory
+[11:08:25] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:09:12] ==== loop 77/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:09:13] planet 36: no resources for building_crystal_store+1
+[11:09:13] planet 82: queue busy, throttled building_robot_factory
+[11:09:13] planet 81: queue busy, throttled building_robot_factory
+[11:09:13] planet 80: queue busy, throttled building_robot_factory
+[11:09:13] planet 82: queue busy, throttled building_robot_factory
+[11:09:13] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:09:55] ==== loop 78/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:09:56] planet 36: no resources for building_crystal_store+1
+[11:09:56] planet 82: queue busy, throttled building_robot_factory
+[11:09:56] planet 81: queue busy, throttled building_robot_factory
+[11:09:56] planet 80: queue busy, throttled building_robot_factory
+[11:09:56] planet 82: queue busy, throttled building_robot_factory
+[11:09:56] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:10:41] ==== loop 79/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:10:42] planet 36: no resources for building_metal_mine+1
+[11:10:42] planet 82: queue busy, throttled building_robot_factory
+[11:10:42] planet 81: queue busy, throttled building_robot_factory
+[11:10:42] planet 80: queue busy, throttled building_robot_factory
+[11:10:42] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:11:27] ==== loop 80/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:11:28] planet 36: no resources for building_metal_mine+1
+[11:11:28] planet 82: queue busy, throttled building_robot_factory
+[11:11:28] planet 81: queue busy, throttled building_robot_factory
+[11:11:28] planet 80: queue busy, throttled building_robot_factory
+[11:11:28] planet 82: queue busy, throttled building_robot_factory
+[11:11:28] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:12:10] ==== loop 81/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:12:11] planet 36: no resources for building_metal_mine+1
+[11:12:11] planet 82: queue busy, throttled building_robot_factory
+[11:12:11] planet 81: queue busy, throttled building_robot_factory
+[11:12:11] planet 80: queue busy, throttled building_robot_factory
+[11:12:11] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:12:53] ==== loop 82/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:12:53] planet 36: no resources for building_metal_mine+1
+[11:12:53] planet 82: queue busy, throttled building_robot_factory
+[11:12:53] planet 81: queue busy, throttled building_robot_factory
+[11:12:53] planet 80: queue busy, throttled building_robot_factory
+[11:12:53] planet 82: queue busy, throttled building_robot_factory
+[11:12:53] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:13:39] ==== loop 83/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:13:39] planet 36: no resources for building_metal_mine+1
+[11:13:39] planet 82: queue busy, throttled building_robot_factory
+[11:13:39] planet 81: queue busy, throttled building_robot_factory
+[11:13:39] planet 80: queue busy, throttled building_robot_factory
+[11:13:39] transport: 1:85:10 -> 1:87:10 [role_balance] m=95262 c=137242 d=91495 ships=0B+48S eta=26s fuel=315
+[11:13:39] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:14:19] ==== loop 84/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:14:19] planet 36: no resources for building_metal_mine+1
+[11:14:19] planet 82: queue busy, throttled building_robot_factory
+[11:14:19] planet 81: queue busy, throttled building_robot_factory
+[11:14:19] planet 80: queue busy, throttled building_robot_factory
+[11:14:19] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:15:04] ==== loop 85/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:15:04] planet 36: no resources for building_metal_mine+1
+[11:15:04] planet 82: queue busy, throttled building_robot_factory
+[11:15:04] planet 81: queue busy, throttled building_robot_factory
+[11:15:04] planet 80: queue busy, throttled building_robot_factory
+[11:15:04] planet 82: queue busy, throttled building_robot_factory
+[11:15:04] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:15:48] ==== loop 86/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:15:49] planet 36: no resources for building_metal_mine+1
+[11:15:49] planet 82: queue busy, throttled building_robot_factory
+[11:15:49] planet 81: queue busy, throttled building_robot_factory
+[11:15:49] planet 80: queue busy, throttled building_robot_factory
+[2026-05-13 11:16:31] ==== loop 87/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:16:32] planet 36: no resources for building_metal_mine+1
+[11:16:32] planet 82: queue busy, throttled building_robot_factory
+[11:16:32] planet 81: queue busy, throttled building_robot_factory
+[11:16:32] planet 80: queue busy, throttled building_robot_factory
+[11:16:32] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:17:21] ==== loop 88/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:17:23] planet 36: no resources for building_metal_mine+1
+[11:17:23] planet 82: queue busy, throttled building_robot_factory
+[11:17:23] planet 81: queue busy, throttled building_robot_factory
+[11:17:23] planet 80: building queue full (5)
+[11:17:23] planet 82: queue busy, throttled building_robot_factory
+[11:17:23] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:18:10] ==== loop 89/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:18:11] planet 36: no resources for building_metal_mine+1
+[11:18:11] planet 82: queue busy, throttled building_robot_factory
+[11:18:11] planet 81: queue busy, throttled building_robot_factory
+[11:18:11] planet 80: building queue full (5)
+[11:18:11] planet 82: queue busy, throttled building_robot_factory
+[11:18:11] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:18:57] ==== loop 90/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:18:59] planet 36: no resources for building_metal_mine+1
+[11:18:59] planet 82: queue busy, throttled building_robot_factory
+[11:18:59] planet 81: queue busy, throttled building_robot_factory
+[11:18:59] planet 80: queued building_metal_mine to 16
+[11:18:59] planet 82: queue busy, throttled building_robot_factory
+[11:18:59] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:19:46] ==== loop 91/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:19:47] planet 36: no resources for building_metal_mine+1
+[11:19:47] planet 82: queue busy, throttled building_robot_factory
+[11:19:47] planet 81: queue busy, throttled building_robot_factory
+[11:19:47] planet 80: queue busy, throttled building_robot_factory
+[11:19:47] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:20:30] ==== loop 92/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:20:31] planet 36: no resources for building_crystal_store+1
+[11:20:31] planet 82: queue busy, throttled building_robot_factory
+[11:20:31] planet 81: queue busy, throttled building_robot_factory
+[11:20:31] planet 80: queue busy, throttled building_robot_factory
+[11:20:31] planet 82: queue busy, throttled building_robot_factory
+[11:20:31] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:21:17] ==== loop 93/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:21:17] planet 36: no resources for building_crystal_store+1
+[11:21:17] planet 82: queue busy, throttled building_robot_factory
+[11:21:17] planet 81: queue busy, throttled building_robot_factory
+[11:21:17] planet 80: queue busy, throttled building_robot_factory
+[11:21:17] planet 82: queue busy, throttled building_robot_factory
+[11:21:17] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:22:02] ==== loop 94/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:22:02] planet 36: no resources for building_crystal_store+1
+[11:22:02] planet 82: queue busy, throttled building_robot_factory
+[11:22:02] planet 81: queue busy, throttled building_robot_factory
+[11:22:02] planet 80: queue busy, throttled building_robot_factory
+[11:22:02] planet 82: queue busy, throttled building_robot_factory
+[11:22:02] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:22:44] ==== loop 95/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:22:45] planet 36: no resources for building_crystal_store+1
+[11:22:45] planet 82: queue busy, throttled building_robot_factory
+[11:22:45] planet 81: queue busy, throttled building_robot_factory
+[11:22:45] planet 80: queue busy, throttled building_robot_factory
+[11:22:45] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:23:30] ==== loop 96/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:23:31] planet 36: no resources for building_crystal_store+1
+[11:23:31] planet 82: queue busy, throttled building_robot_factory
+[11:23:31] planet 81: queue busy, throttled building_robot_factory
+[11:23:31] planet 80: queue busy, throttled building_robot_factory
+[11:23:31] planet 82: queue busy, throttled building_robot_factory
+[11:23:31] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:24:13] ==== loop 97/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:24:15] planet 36: no resources for building_crystal_store+1
+[11:24:15] planet 82: queue busy, throttled building_robot_factory
+[11:24:15] planet 81: queue busy, throttled building_robot_factory
+[11:24:15] planet 80: queued building_crystal_mine to 16
+[11:24:15] planet 82: queue busy, throttled building_robot_factory
+[11:24:15] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:24:57] ==== loop 98/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:24:58] planet 36: no resources for building_crystal_store+1
+[11:24:58] planet 82: queue busy, throttled building_robot_factory
+[11:24:58] planet 81: queue busy, throttled building_robot_factory
+[11:24:58] planet 80: queue busy, throttled building_robot_factory
+[11:24:58] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:25:49] ==== loop 99/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:25:50] planet 36: no resources for building_crystal_store+1
+[11:25:50] planet 82: queue busy, throttled building_robot_factory
+[11:25:50] planet 81: queue busy, throttled building_robot_factory
+[11:25:50] planet 80: queue busy, throttled building_robot_factory
+[11:25:50] planet 82: queue busy, throttled building_robot_factory
+[11:25:50] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:26:37] ==== loop 100/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:26:38] planet 36: no resources for building_crystal_store+1
+[11:26:38] planet 82: queue busy, throttled building_robot_factory
+[11:26:38] planet 81: queue busy, throttled building_robot_factory
+[11:26:38] planet 80: queue busy, throttled building_robot_factory
+[11:26:38] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:27:24] ==== loop 101/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:27:25] planet 36: no resources for building_crystal_store+1
+[11:27:25] planet 82: queue busy, throttled building_robot_factory
+[11:27:25] planet 81: queue busy, throttled building_robot_factory
+[11:27:25] planet 80: queue busy, throttled building_robot_factory
+[11:27:25] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:28:11] ==== loop 102/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:28:12] planet 36: no resources for building_crystal_store+1
+[11:28:12] planet 82: queue busy, throttled building_robot_factory
+[11:28:12] planet 81: queue busy, throttled building_robot_factory
+[11:28:12] planet 80: queue busy, throttled building_robot_factory
+[11:28:12] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:28:57] ==== loop 103/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:28:57] planet 36: no resources for building_crystal_store+1
+[11:28:57] planet 82: queue busy, throttled building_robot_factory
+[11:28:57] planet 81: queue busy, throttled building_robot_factory
+[11:28:57] planet 80: queue busy, throttled building_robot_factory
+[11:28:57] planet 82: queue busy, throttled building_robot_factory
+[11:28:57] transport: 1:85:10 -> 1:87:10 [role_balance] m=96475 c=136514 d=91009 ships=0B+48S eta=26s fuel=315
+[11:28:57] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:29:39] ==== loop 104/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:29:39] planet 36: no resources for building_crystal_store+1
+[11:29:39] planet 82: queue busy, throttled building_robot_factory
+[11:29:39] planet 81: queue busy, throttled building_robot_factory
+[11:29:39] planet 80: queue busy, throttled building_robot_factory
+[11:29:39] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:30:17] ==== loop 105/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:30:18] planet 36: no resources for building_metal_store+1
+[11:30:18] planet 82: queue busy, throttled building_robot_factory
+[11:30:18] planet 81: queue busy, throttled building_robot_factory
+[11:30:18] planet 80: queue busy, throttled building_robot_factory
+[11:30:18] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:31:03] ==== loop 106/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:31:04] planet 36: no resources for building_metal_store+1
+[11:31:04] planet 82: queue busy, throttled building_robot_factory
+[11:31:04] planet 81: queue busy, throttled building_robot_factory
+[11:31:04] planet 80: queue busy, throttled building_robot_factory
+[11:31:04] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:31:45] ==== loop 107/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:31:46] planet 36: no resources for building_metal_store+1
+[11:31:46] planet 82: queue busy, throttled building_robot_factory
+[11:31:46] planet 81: queue busy, throttled building_robot_factory
+[11:31:46] planet 80: queue busy, throttled building_robot_factory
+[11:31:46] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:32:31] ==== loop 108/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:32:32] planet 36: no resources for building_metal_store+1
+[11:32:32] planet 82: queue busy, throttled building_robot_factory
+[11:32:32] planet 81: queue busy, throttled building_robot_factory
+[11:32:32] planet 80: queue busy, throttled building_robot_factory
+[11:32:32] planet 82: queue busy, throttled building_robot_factory
+[11:32:32] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:33:13] ==== loop 109/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:33:14] planet 36: no resources for building_metal_store+1
+[11:33:14] planet 82: queue busy, throttled building_robot_factory
+[11:33:14] planet 81: queue busy, throttled building_robot_factory
+[11:33:14] planet 80: queue busy, throttled building_robot_factory
+[11:33:14] planet 82: queue busy, throttled building_robot_factory
+[11:33:14] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:33:56] ==== loop 110/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:33:57] planet 36: no resources for building_metal_store+1
+[11:33:57] planet 82: queue busy, throttled building_robot_factory
+[11:33:57] planet 81: queue busy, throttled building_robot_factory
+[11:33:57] planet 80: queue busy, throttled building_robot_factory
+[11:33:57] planet 82: queue busy, throttled building_robot_factory
+[11:33:57] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:34:44] ==== loop 111/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:34:45] planet 36: no resources for building_metal_store+1
+[11:34:45] planet 82: queue busy, throttled building_robot_factory
+[11:34:45] planet 81: queue busy, throttled building_robot_factory
+[11:34:45] planet 80: queue busy, throttled building_robot_factory
+[11:34:45] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:35:26] ==== loop 112/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:35:26] planet 36: no resources for building_metal_store+1
+[11:35:26] planet 82: queue busy, throttled building_robot_factory
+[11:35:26] planet 81: queue busy, throttled building_robot_factory
+[11:35:26] planet 80: queue busy, throttled building_robot_factory
+[11:35:26] planet 82: queue busy, throttled building_robot_factory
+[11:35:26] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:36:12] ==== loop 113/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:36:12] planet 36: no resources for building_metal_store+1
+[11:36:12] planet 82: queue busy, throttled building_robot_factory
+[11:36:12] planet 81: queue busy, throttled building_robot_factory
+[11:36:12] planet 80: queue busy, throttled building_robot_factory
+[11:36:12] planet 82: queue busy, throttled building_robot_factory
+[11:36:12] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:36:53] ==== loop 114/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:36:54] planet 36: no resources for building_metal_store+1
+[11:36:54] planet 82: queue busy, throttled building_robot_factory
+[11:36:54] planet 81: queue busy, throttled building_robot_factory
+[11:36:54] planet 80: queued building_deuterium_tank to 7
+[11:36:54] planet 82: queue busy, throttled building_robot_factory
+[11:36:54] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:37:36] ==== loop 115/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:37:37] planet 36: no resources for building_metal_store+1
+[11:37:37] planet 82: queue busy, throttled building_robot_factory
+[11:37:37] planet 81: queue busy, throttled building_robot_factory
+[11:37:37] planet 80: queue busy, throttled building_robot_factory
+[11:37:37] planet 82: queue busy, throttled building_robot_factory
+[11:37:37] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:38:21] ==== loop 116/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:38:22] planet 36: no resources for building_metal_store+1
+[11:38:22] planet 82: queue busy, throttled building_robot_factory
+[11:38:22] planet 81: queue busy, throttled building_robot_factory
+[11:38:22] planet 80: queue busy, throttled building_robot_factory
+[11:38:22] planet 82: queue busy, throttled building_robot_factory
+[11:38:22] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:39:12] ==== loop 117/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:39:13] planet 36: no resources for building_metal_store+1
+[11:39:13] planet 82: queue busy, throttled building_robot_factory
+[11:39:13] planet 81: queue busy, throttled building_robot_factory
+[11:39:13] planet 80: queue busy, throttled building_robot_factory
+[11:39:13] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:40:02] ==== loop 118/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:40:02] planet 36: no resources for building_deuterium_tank+1
+[11:40:02] planet 82: queue busy, throttled building_robot_factory
+[11:40:02] planet 81: queue busy, throttled building_robot_factory
+[11:40:02] planet 80: queue busy, throttled building_robot_factory
+[11:40:02] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:40:43] ==== loop 119/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:40:44] planet 36: no resources for building_deuterium_tank+1
+[11:40:44] planet 82: queue busy, throttled building_robot_factory
+[11:40:44] planet 81: queue busy, throttled building_robot_factory
+[11:40:44] planet 80: queue busy, throttled building_robot_factory
+[11:40:44] planet 82: queue busy, throttled building_robot_factory
+[11:40:44] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:41:27] ==== loop 120/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:41:27] planet 36: no resources for building_deuterium_tank+1
+[11:41:27] planet 82: queue busy, throttled building_robot_factory
+[11:41:27] planet 81: queue busy, throttled building_robot_factory
+[11:41:27] planet 80: queue busy, throttled building_robot_factory
+[11:41:27] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:42:18] ==== loop 121/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:42:19] planet 36: no resources for building_deuterium_tank+1
+[11:42:19] planet 82: queue busy, throttled building_robot_factory
+[11:42:19] planet 81: queue busy, throttled building_robot_factory
+[11:42:19] planet 80: queue busy, throttled building_robot_factory
+[11:42:19] planet 82: queue busy, throttled building_robot_factory
+[11:42:19] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:43:09] ==== loop 122/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:43:10] planet 36: no resources for building_deuterium_tank+1
+[11:43:10] planet 82: queue busy, throttled building_robot_factory
+[11:43:10] planet 81: queue busy, throttled building_robot_factory
+[11:43:10] planet 80: queue busy, throttled building_robot_factory
+[11:43:10] planet 82: queue busy, throttled building_robot_factory
+[11:43:10] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:43:59] ==== loop 123/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:43:59] planet 36: no resources for building_deuterium_tank+1
+[11:43:59] planet 82: queue busy, throttled building_robot_factory
+[11:43:59] planet 81: queue busy, throttled building_robot_factory
+[11:43:59] planet 80: queue busy, throttled building_robot_factory
+[11:43:59] planet 82: queue busy, throttled building_robot_factory
+[11:43:59] transport: 1:85:10 -> 1:87:10 [role_balance] m=97594 c=135843 d=90562 ships=0B+48S eta=26s fuel=315
+[11:43:59] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:44:44] ==== loop 124/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:44:44] planet 36: no resources for building_deuterium_tank+1
+[11:44:44] planet 82: queue busy, throttled building_robot_factory
+[11:44:44] planet 81: queue busy, throttled building_robot_factory
+[11:44:44] planet 80: queue busy, throttled building_robot_factory
+[11:44:44] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:45:32] ==== loop 125/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:45:32] planet 36: no resources for building_deuterium_tank+1
+[11:45:32] planet 82: queue busy, throttled building_robot_factory
+[11:45:32] planet 81: queue busy, throttled building_robot_factory
+[11:45:32] planet 80: queue busy, throttled building_robot_factory
+[11:45:32] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:46:16] ==== loop 126/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:46:17] planet 36: no resources for building_deuterium_tank+1
+[11:46:17] planet 82: queue busy, throttled building_robot_factory
+[11:46:17] planet 81: queue busy, throttled building_robot_factory
+[11:46:17] planet 80: queue busy, throttled building_robot_factory
+[11:46:17] planet 82: queue busy, throttled building_robot_factory
+[11:46:17] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:47:00] ==== loop 127/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:47:01] planet 36: no resources for building_deuterium_tank+1
+[11:47:01] planet 82: queue busy, throttled building_robot_factory
+[11:47:01] planet 81: queue busy, throttled building_robot_factory
+[11:47:01] planet 80: queue busy, throttled building_robot_factory
+[11:47:01] planet 82: queue busy, throttled building_robot_factory
+[11:47:01] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:47:49] ==== loop 128/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:47:50] planet 36: no resources for building_deuterium_tank+1
+[11:47:50] planet 82: queue busy, throttled building_robot_factory
+[11:47:50] planet 81: queue busy, throttled building_robot_factory
+[11:47:50] planet 80: queue busy, throttled building_robot_factory
+[11:47:50] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:48:36] ==== loop 129/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:48:37] planet 36: no resources for building_deuterium_tank+1
+[11:48:37] planet 82: queue busy, throttled building_robot_factory
+[11:48:37] planet 81: queue busy, throttled building_robot_factory
+[11:48:37] planet 80: queue busy, throttled building_robot_factory
+[11:48:37] planet 82: queue busy, throttled building_robot_factory
+[11:48:37] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:49:27] ==== loop 130/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:49:28] planet 36: no resources for building_deuterium_tank+1
+[11:49:28] planet 82: queue busy, throttled building_robot_factory
+[11:49:28] planet 81: queue busy, throttled building_robot_factory
+[11:49:28] planet 80: queue busy, throttled building_robot_factory
+[11:49:28] planet 82: queue busy, throttled building_robot_factory
+[11:49:28] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:50:15] ==== loop 131/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:50:16] planet 36: no resources for building_metal_mine+1
+[11:50:16] planet 82: queue busy, throttled building_robot_factory
+[11:50:16] planet 81: queue busy, throttled building_robot_factory
+[11:50:16] planet 80: queue busy, throttled building_robot_factory
+[11:50:16] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:51:03] ==== loop 132/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:51:04] planet 36: no resources for building_metal_mine+1
+[11:51:04] planet 82: queue busy, throttled building_robot_factory
+[11:51:04] planet 81: queue busy, throttled building_robot_factory
+[11:51:04] planet 80: queue busy, throttled building_robot_factory
+[11:51:04] planet 82: queue busy, throttled building_robot_factory
+[11:51:04] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:51:54] ==== loop 133/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:51:54] planet 36: no resources for building_metal_mine+1
+[11:51:54] planet 82: queue busy, throttled building_robot_factory
+[11:51:54] planet 81: queue busy, throttled building_robot_factory
+[11:51:54] planet 80: queue busy, throttled building_robot_factory
+[2026-05-13 11:52:42] ==== loop 134/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:52:43] planet 36: no resources for building_metal_mine+1
+[11:52:43] planet 82: queue busy, throttled building_robot_factory
+[11:52:43] planet 81: queue busy, throttled building_robot_factory
+[11:52:43] planet 80: queue busy, throttled building_robot_factory
+[11:52:43] planet 82: queue busy, throttled building_robot_factory
+[11:52:43] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:53:25] ==== loop 135/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:53:26] planet 36: no resources for building_metal_mine+1
+[11:53:26] planet 82: queue busy, throttled building_robot_factory
+[11:53:26] planet 81: queue busy, throttled building_robot_factory
+[11:53:26] planet 80: queue busy, throttled building_robot_factory
+[2026-05-13 11:54:05] ==== loop 136/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:54:06] planet 36: no resources for building_metal_mine+1
+[11:54:06] planet 82: queue busy, throttled building_robot_factory
+[11:54:06] planet 81: queue busy, throttled building_robot_factory
+[11:54:06] planet 80: queue busy, throttled building_robot_factory
+[11:54:06] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:54:47] ==== loop 137/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:54:48] planet 36: no resources for building_metal_mine+1
+[11:54:48] planet 82: queue busy, throttled building_robot_factory
+[11:54:48] planet 81: queue busy, throttled building_robot_factory
+[11:54:48] planet 80: queue busy, throttled building_robot_factory
+[11:54:48] planet 82: queue busy, throttled building_robot_factory
+[11:54:48] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:55:34] ==== loop 138/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:55:35] planet 36: no resources for building_metal_mine+1
+[11:55:35] planet 82: queue busy, throttled building_robot_factory
+[11:55:35] planet 81: queue busy, throttled building_robot_factory
+[11:55:35] planet 80: queue busy, throttled building_robot_factory
+[11:55:35] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:56:24] ==== loop 139/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:56:25] planet 36: no resources for building_metal_mine+1
+[11:56:25] planet 82: queue busy, throttled building_robot_factory
+[11:56:25] planet 81: queue busy, throttled building_robot_factory
+[11:56:25] planet 80: queue busy, throttled building_robot_factory
+[11:56:25] planet 82: queue busy, throttled building_robot_factory
+[11:56:25] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:57:08] ==== loop 140/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:57:08] planet 36: no resources for building_metal_mine+1
+[11:57:08] planet 82: queue busy, throttled building_robot_factory
+[11:57:08] planet 81: queue busy, throttled building_robot_factory
+[11:57:08] planet 80: queue busy, throttled building_robot_factory
+[11:57:08] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:57:57] ==== loop 141/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:57:58] planet 36: no resources for building_metal_mine+1
+[11:57:58] planet 82: queue busy, throttled building_robot_factory
+[11:57:58] planet 81: queue busy, throttled building_robot_factory
+[11:57:58] planet 80: building queue full (5)
+[11:57:58] planet 82: queue busy, throttled building_robot_factory
+[11:57:58] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 11:58:36] ==== loop 142/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:58:36] planet 36: no resources for building_metal_mine+1
+[11:58:36] planet 82: queue busy, throttled building_robot_factory
+[11:58:36] planet 81: queue busy, throttled building_robot_factory
+[11:58:36] planet 80: building queue full (5)
+[11:58:36] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 11:59:20] ==== loop 143/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[11:59:21] planet 36: no resources for building_metal_mine+1
+[11:59:21] planet 82: queue busy, throttled building_robot_factory
+[11:59:21] planet 81: queue busy, throttled building_robot_factory
+[11:59:21] planet 80: building queue full (5)
+[11:59:21] planet 82: queue busy, throttled building_robot_factory
+[11:59:21] transport: 1:85:10 -> 1:87:10 [role_balance] m=98796 c=135122 d=90081 ships=0B+48S eta=26s fuel=315
+[11:59:21] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:00:03] ==== loop 144/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:00:05] planet 36: no resources for building_deuterium_tank+1
+[12:00:05] planet 82: queue busy, throttled building_robot_factory
+[12:00:05] planet 81: queue busy, throttled building_robot_factory
+[12:00:05] planet 80: building queue full (5)
+[12:00:05] planet 82: queue busy, throttled building_robot_factory
+[12:00:05] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:00:48] ==== loop 145/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:00:50] planet 36: no resources for building_deuterium_tank+1
+[12:00:50] planet 82: queue busy, throttled building_robot_factory
+[12:00:50] planet 81: queue busy, throttled building_robot_factory
+[12:00:50] planet 80: building queue full (5)
+[12:00:50] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:01:36] ==== loop 146/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:01:37] planet 36: no resources for building_deuterium_tank+1
+[12:01:37] planet 82: queue busy, throttled building_robot_factory
+[12:01:37] planet 81: queue busy, throttled building_robot_factory
+[12:01:37] planet 80: building queue full (5)
+[12:01:37] planet 82: queue busy, throttled building_robot_factory
+[12:01:37] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:02:23] ==== loop 147/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:02:24] planet 36: no resources for building_deuterium_tank+1
+[12:02:24] planet 82: queue busy, throttled building_robot_factory
+[12:02:24] planet 81: queue busy, throttled building_robot_factory
+[12:02:24] planet 80: building queue full (5)
+[12:02:24] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 12:03:11] ==== loop 148/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:03:12] planet 36: no resources for building_deuterium_tank+1
+[12:03:12] planet 82: queue busy, throttled building_robot_factory
+[12:03:12] planet 81: queue busy, throttled building_robot_factory
+[12:03:12] planet 80: building queue full (5)
+[12:03:12] planet 82: queue busy, throttled building_robot_factory
+[12:03:12] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:03:57] ==== loop 149/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:03:59] planet 36: no resources for building_deuterium_tank+1
+[12:03:59] planet 82: queue busy, throttled building_robot_factory
+[12:03:59] planet 81: queue busy, throttled building_robot_factory
+[12:03:59] planet 80: building queue full (5)
+[12:03:59] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:04:44] ==== loop 150/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:04:46] planet 36: no resources for building_deuterium_tank+1
+[12:04:46] planet 82: queue busy, throttled building_robot_factory
+[12:04:46] planet 81: queue busy, throttled building_robot_factory
+[12:04:46] planet 80: building queue full (5)
+[12:04:46] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:05:33] ==== loop 151/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:05:34] planet 36: no resources for building_deuterium_tank+1
+[12:05:34] planet 82: queue busy, throttled building_robot_factory
+[12:05:34] planet 81: queue busy, throttled building_robot_factory
+[12:05:34] planet 80: building queue full (5)
+[12:05:34] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 12:06:22] ==== loop 152/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:06:24] planet 36: no resources for building_deuterium_tank+1
+[12:06:24] planet 82: queue busy, throttled building_robot_factory
+[12:06:24] planet 81: queue busy, throttled building_robot_factory
+[12:06:24] planet 80: building queue full (5)
+[12:06:24] planet 82: queue busy, throttled building_robot_factory
+[12:06:24] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:07:10] ==== loop 153/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:07:11] planet 36: no resources for building_deuterium_tank+1
+[12:07:11] planet 82: queue busy, throttled building_robot_factory
+[12:07:11] planet 81: queue busy, throttled building_robot_factory
+[12:07:11] planet 80: building queue full (5)
+[12:07:11] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:08:02] ==== loop 154/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:08:04] planet 36: no resources for building_deuterium_tank+1
+[12:08:04] planet 82: queue busy, throttled building_robot_factory
+[12:08:04] planet 81: queue busy, throttled building_robot_factory
+[12:08:04] planet 80: building queue full (5)
+[12:08:04] planet 82: queue busy, throttled building_robot_factory
+[12:08:04] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:08:58] ==== loop 155/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:08:59] planet 36: no resources for building_deuterium_tank+1
+[12:08:59] planet 82: queue busy, throttled building_robot_factory
+[12:08:59] planet 81: queue busy, throttled building_robot_factory
+[12:08:59] planet 80: building queue full (5)
+[12:08:59] planet 82: queue busy, throttled building_robot_factory
+[12:08:59] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:09:44] ==== loop 156/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:09:45] planet 36: no resources for building_deuterium_tank+1
+[12:09:45] planet 82: queue busy, throttled building_robot_factory
+[12:09:45] planet 81: queue busy, throttled building_robot_factory
+[12:09:45] planet 80: building queue full (5)
+[12:09:45] planet 82: queue busy, throttled building_robot_factory
+[2026-05-13 12:10:30] ==== loop 157/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:10:31] planet 36: no resources for building_metal_store+1
+[12:10:31] planet 82: queue busy, throttled building_robot_factory
+[12:10:31] planet 81: queue busy, throttled building_robot_factory
+[12:10:31] planet 80: queue busy, throttled building_laboratory
+[12:10:31] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)
+[2026-05-13 12:11:15] ==== loop 158/∞ | seed=167160460978177910 archetype=balanced personality=minero focus=tech actions_per_loop=3 ====
+[12:11:15] planet 36: no resources for building_metal_store+1
+[12:11:15] planet 82: queue busy, throttled building_robot_factory
+[12:11:15] planet 81: queue busy, throttled building_robot_factory
+[12:11:15] planet 80: queue busy, throttled building_laboratory
+[12:11:15] research: blocked research_intergalactic_research_network (research_hyperspace_technology 7/8)

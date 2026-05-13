@@ -216,7 +216,7 @@ class BackupController extends BaseController
      * Check whether if it's a valid file, returns an empty string if it's not
      *
      * @param string $file_name
-     * @return boolean
+     * @return string
      */
     private function isValidFile(string $file_name): string
     {

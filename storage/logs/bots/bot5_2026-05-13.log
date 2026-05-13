@@ -1,0 +1,961 @@
+[2026-05-13 10:11:37] ==== loop 1/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:11:38] planet 31: queued ship_solar_satellite +5
+[10:11:38] planet 31: skipped duplicate ship_solar_satellite this loop
+[10:11:38] planet 31: skipped duplicate ship_solar_satellite this loop
+[2026-05-13 10:12:16] ==== loop 2/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:12:17] planet 31: queued ship_solar_satellite +5
+[10:12:17] planet 31: skipped duplicate ship_solar_satellite this loop
+[10:12:17] planet 31: skipped duplicate ship_solar_satellite this loop
+[2026-05-13 10:12:55] ==== loop 3/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:12:55] planet 31: queued ship_heavy_fighter +5
+[10:12:55] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:12:55] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:12:55] research: already in progress
+[2026-05-13 10:13:36] ==== loop 4/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:13:37] planet 31: queued ship_heavy_fighter +5
+[10:13:37] planet 31: skipped duplicate ship_heavy_fighter this loop
+[2026-05-13 10:14:16] ==== loop 5/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:14:17] planet 31: queued ship_heavy_fighter +5
+[10:14:17] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:14:17] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:14:17] research: already in progress
+[2026-05-13 10:14:57] ==== loop 6/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:14:57] planet 31: queued ship_heavy_fighter +5
+[10:14:57] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:14:57] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:14:57] research: already in progress
+[2026-05-13 10:15:39] ==== loop 7/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:15:40] planet 31: queued ship_heavy_fighter +5
+[10:15:40] planet 31: skipped duplicate ship_heavy_fighter this loop
+[2026-05-13 10:16:24] ==== loop 8/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:16:25] planet 31: queued ship_heavy_fighter +5
+[10:16:25] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:16:25] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:16:25] research: already in progress
+[2026-05-13 10:17:08] ==== loop 9/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:17:09] planet 31: queued ship_heavy_fighter +5
+[10:17:09] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:17:09] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:17:09] research: already in progress
+[2026-05-13 10:17:50] ==== loop 10/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:17:51] planet 31: queued ship_heavy_fighter +5
+[10:17:51] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:17:51] planet 31: skipped duplicate ship_heavy_fighter this loop
+[2026-05-13 10:18:35] ==== loop 11/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:18:36] planet 31: queued ship_heavy_fighter +5
+[10:18:36] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:18:36] research: queued research_espionage_technology on planet 31 (10s)
+[2026-05-13 10:19:22] ==== loop 12/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:19:22] planet 31: queued ship_heavy_fighter +5
+[10:19:22] planet 31: skipped duplicate ship_heavy_fighter this loop
+[10:19:22] research: already in progress
+[2026-05-13 10:20:06] ==== loop 13/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:20:06] planet 31: queued ship_espionage_probe +5
+[10:20:06] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:20:06] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:20:06] attack: spy 1:7:8 probes=4 eta=1s
+[10:20:06] attack: spy 1:4:10 probes=4 eta=1s
+[10:20:06] research: already in progress
+[2026-05-13 10:20:46] ==== loop 14/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:20:47] planet 31: queued ship_espionage_probe +5
+[10:20:47] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:20:47] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:20:47] attack: intel 1:7:8 ships=207 defs=165 res=109820499
+[10:20:47] attack: intel 1:4:10 ships=194 defs=2 res=390477960
+[10:20:47] attack: spy 1:6:4 probes=4 eta=1s
+[10:20:47] attack: spy 1:6:8 probes=4 eta=1s
+[10:20:47] attack: spy 1:7:10 probes=4 eta=1s
+[2026-05-13 10:21:33] ==== loop 15/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:21:34] planet 31: queued ship_espionage_probe +5
+[10:21:34] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:21:34] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:21:34] attack: intel 1:6:4 ships=755 defs=183 res=327806152
+[10:21:34] attack: intel 1:6:8 ships=689 defs=262 res=387473705
+[10:21:34] attack: intel 1:7:10 ships=468 defs=210 res=114100704
+[10:21:34] attack: spy 1:56:9 probes=4 eta=1s
+[10:21:34] attack: spy 1:57:9 probes=4 eta=1s
+[10:21:34] research: already in progress
+[2026-05-13 10:22:18] ==== loop 16/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:22:19] planet 31: queued ship_espionage_probe +5
+[10:22:19] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:22:19] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:22:19] attack: intel 1:56:9 ships=15 defs=0 res=166780
+[10:22:19] attack: intel 1:57:9 ships=0 defs=4 res=141036
+[10:22:19] attack: spy 1:58:9 probes=4 eta=1s
+[10:22:19] attack: spy 1:2:1 probes=4 eta=1s
+[10:22:19] attack: spy 1:2:2 probes=4 eta=1s
+[2026-05-13 10:23:05] ==== loop 17/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:23:06] planet 31: queued ship_espionage_probe +5
+[10:23:06] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:23:06] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:23:06] attack: intel 1:58:9 ships=0 defs=0 res=1773
+[10:23:06] attack: intel 1:2:1 ships=5 defs=0 res=8645774192
+[10:23:06] attack: intel 1:2:2 ships=5 defs=0 res=8574180357
+[10:23:06] attack: spy 1:2:3 probes=4 eta=1s
+[10:23:06] attack: spy 1:2:4 probes=4 eta=1s
+[10:23:06] attack: spy 1:2:5 probes=4 eta=1s
+[10:23:06] attack: spy 1:2:6 probes=4 eta=1s
+[2026-05-13 10:23:51] ==== loop 18/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:23:52] planet 31: queued ship_espionage_probe +5
+[10:23:52] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:23:52] attack: intel 1:2:3 ships=10 defs=0 res=8575408317
+[10:23:52] attack: intel 1:2:4 ships=0 defs=0 res=8575152750
+[10:23:52] attack: intel 1:2:5 ships=0 defs=0 res=8441284214
+[10:23:52] attack: intel 1:2:6 ships=16 defs=0 res=8565537224
+[10:23:52] attack: spy 1:2:7 probes=4 eta=1s
+[10:23:52] attack: spy 1:2:8 probes=4 eta=1s
+[10:23:52] attack: spy 1:2:9 probes=4 eta=1s
+[10:23:52] attack: spy 1:2:10 probes=4 eta=1s
+[10:23:52] research: queued research_espionage_technology on planet 31 (21s)
+[2026-05-13 10:24:38] ==== loop 19/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:24:39] planet 31: queued ship_espionage_probe +5
+[10:24:39] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:24:39] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:24:39] attack: intel 1:2:7 ships=8 defs=0 res=7270450260
+[10:24:39] attack: intel 1:2:8 ships=0 defs=0 res=7127366943
+[10:24:39] attack: intel 1:2:9 ships=0 defs=0 res=7634989234
+[10:24:39] attack: intel 1:2:10 ships=0 defs=0 res=8834238649
+[10:24:39] attack: spy 1:2:11 probes=4 eta=1s
+[10:24:39] attack: spy 1:2:12 probes=4 eta=1s
+[10:24:39] attack: spy 1:2:13 probes=4 eta=1s
+[10:24:39] research: already in progress
+[2026-05-13 10:25:29] ==== loop 20/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:25:30] planet 31: queued ship_espionage_probe +5
+[10:25:30] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:25:30] attack: intel 1:2:11 ships=0 defs=0 res=8835148988
+[10:25:30] attack: intel 1:2:12 ships=0 defs=0 res=8812909647
+[10:25:30] attack: intel 1:2:13 ships=0 defs=0 res=7268134641
+[10:25:30] attack: idle no_fleet_slots (used=7 max=7)
+[10:25:30] research: already in progress
+[2026-05-13 10:26:13] ==== loop 21/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:26:13] planet 31: queued ship_espionage_probe +5
+[10:26:13] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:26:13] attack: idle no_fleet_slots (used=7 max=7)
+[10:26:13] research: already in progress
+[2026-05-13 10:27:00] ==== loop 22/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:27:01] planet 31: queued ship_espionage_probe +5
+[10:27:01] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:27:01] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:27:01] attack: idle no_fleet_slots (used=7 max=7)
+[2026-05-13 10:27:43] ==== loop 23/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:27:44] planet 31: queued ship_espionage_probe +5
+[10:27:44] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:27:44] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:27:44] attack: spy 1:2:14 probes=4 eta=1s
+[10:27:44] attack: spy 1:2:15 probes=4 eta=1s
+[10:27:44] attack: spy 1:3:1 probes=4 eta=1s
+[10:27:44] attack: spy 1:3:2 probes=4 eta=1s
+[2026-05-13 10:28:33] ==== loop 24/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:28:34] planet 31: queued ship_espionage_probe +5
+[10:28:34] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:28:34] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:28:34] attack: intel 1:2:14 ships=0 defs=0 res=7486535520
+[10:28:34] attack: intel 1:2:15 ships=0 defs=0 res=7524671521
+[10:28:34] attack: intel 1:3:1 ships=0 defs=0 res=7620816598
+[10:28:34] attack: intel 1:3:2 ships=0 defs=0 res=7616483778
+[10:28:34] attack: spy 1:3:3 probes=4 eta=1s
+[10:28:34] attack: spy 1:3:4 probes=4 eta=1s
+[10:28:34] attack: spy 1:3:5 probes=4 eta=1s
+[10:28:34] research: queued research_espionage_technology on planet 31 (43s)
+[2026-05-13 10:29:19] ==== loop 25/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:29:19] planet 31: queued ship_espionage_probe +5
+[10:29:19] planet 31: skipped duplicate ship_espionage_probe this loop
+[10:29:19] attack: intel 1:3:3 ships=0 defs=0 res=7627307481
+[10:29:19] attack: intel 1:3:4 ships=10 defs=0 res=7276513808
+[10:29:19] attack: intel 1:3:5 ships=0 defs=0 res=7144826226
+[10:29:19] attack: idle no_fleet_slots (used=7 max=7)
+[10:29:19] research: already in progress
+[2026-05-13 10:30:03] ==== loop 26/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:30:04] planet 31: queued ship_cruiser +5
+[10:30:04] planet 31: skipped duplicate ship_cruiser this loop
+[10:30:04] planet 31: skipped duplicate ship_cruiser this loop
+[10:30:04] attack: idle no_fleet_slots (used=7 max=7)
+[10:30:04] research: already in progress
+[2026-05-13 10:30:45] ==== loop 27/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:30:46] planet 31: queued ship_cruiser +5
+[10:30:46] planet 31: skipped duplicate ship_cruiser this loop
+[10:30:46] planet 31: skipped duplicate ship_cruiser this loop
+[10:30:46] attack: idle no_fleet_slots (used=7 max=7)
+[10:30:46] research: already in progress
+[2026-05-13 10:31:27] ==== loop 28/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:31:28] planet 31: queued ship_cruiser +5
+[10:31:28] planet 31: skipped duplicate ship_cruiser this loop
+[10:31:28] attack: idle no_fleet_slots (used=7 max=7)
+[10:31:28] research: already in progress
+[2026-05-13 10:32:09] ==== loop 29/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:32:10] planet 31: queued ship_cruiser +5
+[10:32:10] planet 31: skipped duplicate ship_cruiser this loop
+[10:32:10] planet 31: skipped duplicate ship_cruiser this loop
+[10:32:10] attack: idle no_fleet_slots (used=7 max=7)
+[10:32:10] research: already in progress
+[2026-05-13 10:32:51] ==== loop 30/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:32:52] planet 31: queued ship_cruiser +5
+[10:32:52] planet 31: skipped duplicate ship_cruiser this loop
+[10:32:52] attack: idle no_fleet_slots (used=7 max=7)
+[10:32:52] research: already in progress
+[2026-05-13 10:33:37] ==== loop 31/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:33:38] planet 31: queued ship_cruiser +5
+[10:33:38] planet 31: skipped duplicate ship_cruiser this loop
+[10:33:38] planet 31: skipped duplicate ship_cruiser this loop
+[10:33:38] attack: idle no_fleet_slots (used=7 max=7)
+[2026-05-13 10:34:21] ==== loop 32/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:34:22] planet 31: queued ship_cruiser +5
+[10:34:22] planet 31: skipped duplicate ship_cruiser this loop
+[10:34:22] attack: spy 1:7:8 probes=4 eta=1s
+[10:34:22] attack: spy 1:4:10 probes=4 eta=1s
+[10:34:22] attack: spy 1:6:4 probes=4 eta=1s
+[10:34:22] attack: spy 1:6:8 probes=4 eta=1s
+[2026-05-13 10:35:05] ==== loop 33/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:35:05] planet 31: queued ship_cruiser +5
+[10:35:05] planet 31: skipped duplicate ship_cruiser this loop
+[10:35:05] attack: intel 1:7:8 ships=195 defs=200 res=110052990
+[10:35:05] attack: intel 1:4:10 ships=194 defs=2 res=392181785
+[10:35:05] attack: intel 1:6:4 ships=755 defs=183 res=329010185
+[10:35:05] attack: intel 1:6:8 ships=689 defs=262 res=388886714
+[10:35:05] attack: spy 1:7:10 probes=4 eta=1s
+[10:35:05] attack: spy 1:56:9 probes=4 eta=1s
+[10:35:05] attack: spy 1:57:9 probes=4 eta=1s
+[10:35:05] research: queued research_astrophysics on planet 31 (54s)
+[2026-05-13 10:35:49] ==== loop 34/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:35:49] planet 31: queued ship_cruiser +5
+[10:35:49] planet 31: skipped duplicate ship_cruiser this loop
+[10:35:49] attack: intel 1:7:10 ships=468 defs=210 res=114692303
+[10:35:49] attack: intel 1:56:9 ships=15 defs=0 res=170615
+[10:35:49] attack: intel 1:57:9 ships=0 defs=5 res=121204
+[10:35:49] attack: spy 1:58:9 probes=4 eta=1s
+[10:35:49] attack: spy 1:2:1 probes=4 eta=1s
+[10:35:49] attack: spy 1:2:2 probes=4 eta=1s
+[10:35:49] attack: spy 1:2:3 probes=4 eta=1s
+[10:35:49] research: already in progress
+[2026-05-13 10:36:33] ==== loop 35/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:36:34] planet 31: queued ship_cruiser +5
+[10:36:34] planet 31: skipped duplicate ship_cruiser this loop
+[10:36:34] planet 31: skipped duplicate ship_cruiser this loop
+[10:36:34] attack: intel 1:58:9 ships=0 defs=0 res=11372
+[10:36:34] attack: intel 1:2:1 ships=5 defs=0 res=8659838131
+[10:36:34] attack: intel 1:2:2 ships=5 defs=0 res=8587574792
+[10:36:34] attack: intel 1:2:3 ships=10 defs=0 res=8588545497
+[10:36:34] attack: spy 1:2:4 probes=4 eta=1s
+[10:36:34] attack: spy 1:2:5 probes=4 eta=1s
+[10:36:34] attack: spy 1:2:6 probes=4 eta=1s
+[10:36:34] attack: spy 1:2:7 probes=4 eta=1s
+[10:36:34] research: already in progress
+[2026-05-13 10:37:12] ==== loop 36/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:37:12] planet 31: queued ship_cruiser +5
+[10:37:12] planet 31: skipped duplicate ship_cruiser this loop
+[10:37:12] planet 31: skipped duplicate ship_cruiser this loop
+[10:37:12] attack: intel 1:2:4 ships=0 defs=0 res=8575152750
+[10:37:12] attack: intel 1:2:5 ships=0 defs=0 res=8441284214
+[10:37:12] attack: intel 1:2:6 ships=16 defs=0 res=8565537224
+[10:37:12] attack: intel 1:2:7 ships=8 defs=0 res=8564428108
+[10:37:12] attack: spy 1:2:8 probes=4 eta=1s
+[10:37:12] attack: spy 1:2:9 probes=4 eta=1s
+[10:37:12] attack: spy 1:2:10 probes=4 eta=1s
+[10:37:12] research: already in progress
+[2026-05-13 10:37:50] ==== loop 37/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:37:51] planet 31: queued ship_cruiser +5
+[10:37:51] planet 31: skipped duplicate ship_cruiser this loop
+[10:37:51] planet 31: skipped duplicate ship_cruiser this loop
+[10:37:51] attack: intel 1:2:8 ships=0 defs=0 res=8420127113
+[10:37:51] attack: intel 1:2:9 ships=0 defs=0 res=8927697954
+[10:37:51] attack: intel 1:2:10 ships=0 defs=0 res=10126295656
+[10:37:51] attack: idle no_fleet_slots (used=7 max=7)
+[10:37:51] research: already in progress
+[2026-05-13 10:38:31] ==== loop 38/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:38:32] planet 31: queued ship_cruiser +5
+[10:38:32] planet 31: skipped duplicate ship_cruiser this loop
+[10:38:32] planet 31: skipped duplicate ship_cruiser this loop
+[10:38:32] attack: idle no_fleet_slots (used=7 max=7)
+[10:38:32] research: already in progress
+[2026-05-13 10:39:12] ==== loop 39/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:39:13] planet 31: queued ship_colony_ship +1
+[10:39:13] planet 31: queued ship_cruiser +5
+[10:39:13] planet 31: skipped duplicate ship_cruiser this loop
+[10:39:13] attack: spy 1:2:11 probes=4 eta=1s
+[10:39:13] attack: spy 1:2:12 probes=4 eta=1s
+[10:39:13] attack: spy 1:2:13 probes=4 eta=1s
+[10:39:13] attack: spy 1:2:14 probes=4 eta=1s
+[2026-05-13 10:39:58] ==== loop 40/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:39:59] planet 31: queued ship_cruiser +5
+[10:39:59] planet 31: skipped duplicate ship_cruiser this loop
+[10:39:59] planet 31: skipped duplicate ship_cruiser this loop
+[10:39:59] attack: intel 1:2:11 ships=0 defs=0 res=10126571431
+[10:39:59] attack: intel 1:2:12 ships=0 defs=0 res=10127622284
+[10:39:59] attack: intel 1:2:13 ships=0 defs=0 res=8582847279
+[10:39:59] attack: intel 1:2:14 ships=0 defs=0 res=8807765297
+[10:39:59] attack: spy 1:2:15 probes=4 eta=1s
+[10:39:59] attack: spy 1:3:1 probes=4 eta=1s
+[10:39:59] attack: spy 1:3:2 probes=4 eta=1s
+[10:39:59] research: queued research_astrophysics on planet 31 (47s)
+[2026-05-13 10:40:34] ==== loop 41/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:40:35] planet 31: queued building_deuterium_tank to 14
+[10:40:35] attack: intel 1:2:15 ships=0 defs=0 res=8851938226
+[10:40:35] attack: intel 1:3:1 ships=0 defs=0 res=8948083301
+[10:40:35] attack: intel 1:3:2 ships=0 defs=0 res=8943750482
+[10:40:35] attack: spy 1:3:3 probes=4 eta=1s
+[10:40:35] attack: spy 1:3:4 probes=4 eta=1s
+[10:40:35] attack: spy 1:3:5 probes=4 eta=1s
+[10:40:35] attack: spy 1:3:11 probes=4 eta=1s
+[10:40:35] research: already in progress
+[2026-05-13 10:41:23] ==== loop 42/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:41:24] planet 31: queued building_nano_factory to 1
+[10:41:24] attack: intel 1:3:3 ships=0 defs=0 res=8942568929
+[10:41:24] attack: intel 1:3:4 ships=10 defs=0 res=8591775259
+[10:41:24] attack: intel 1:3:5 ships=0 defs=0 res=8460087675
+[10:41:24] attack: intel 1:3:11 ships=0 defs=0 res=8809301154
+[10:41:24] attack: spy 1:3:12 probes=4 eta=1s
+[10:41:24] attack: spy 1:3:13 probes=4 eta=1s
+[10:41:24] attack: spy 1:4:3 probes=4 eta=1s
+[10:41:24] attack: spy 1:3:8 probes=4 eta=1s
+[10:41:24] research: already in progress
+[2026-05-13 10:42:09] ==== loop 43/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:42:11] planet 31: building queue full (5)
+[10:42:11] planet 31: building queue full (5)
+[10:42:11] planet 31: building queue full (5)
+[10:42:11] attack: intel 1:3:12 ships=0 defs=16 res=8462131842
+[10:42:11] attack: intel 1:3:13 ships=0 defs=0 res=8599720299
+[10:42:11] attack: intel 1:4:3 ships=0 defs=0 res=7273442914
+[10:42:11] attack: intel 1:3:8 ships=98 defs=274 res=119151115
+[10:42:11] attack: spy 1:4:8 probes=4 eta=1s
+[10:42:11] attack: spy 1:6:10 probes=4 eta=1s
+[10:42:11] attack: spy 1:7:4 probes=4 eta=1s
+[10:42:11] attack: spy 1:3:9 probes=4 eta=1s
+[10:42:11] research: queued research_astrophysics on planet 31 (55s)
+[2026-05-13 10:42:51] ==== loop 44/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:42:53] planet 31: building queue full (5)
+[10:42:53] planet 31: building queue full (5)
+[10:42:53] planet 31: building queue full (5)
+[10:42:53] attack: intel 1:4:8 ships=2148 defs=3439 res=1447075248
+[10:42:53] attack: intel 1:6:10 ships=0 defs=0 res=2803641
+[10:42:53] attack: intel 1:7:4 ships=6 defs=171 res=103494498
+[10:42:53] attack: intel 1:3:9 ships=2200 defs=2122 res=1479750000
+[10:42:53] attack: spy 1:7:12 probes=4 eta=1s
+[10:42:53] attack: spy 1:8:4 probes=4 eta=1s
+[10:42:53] attack: spy 1:8:6 probes=4 eta=1s
+[10:42:53] attack: spy 1:8:8 probes=4 eta=1s
+[10:42:53] research: already in progress
+[2026-05-13 10:43:37] ==== loop 45/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:43:39] planet 31: building queue full (5)
+[10:43:39] planet 31: building queue full (5)
+[10:43:39] planet 31: building queue full (5)
+[10:43:39] attack: intel 1:7:12 ships=8701 defs=1776 res=1296787125
+[10:43:39] attack: intel 1:8:4 ships=118 defs=50 res=49579659
+[10:43:39] attack: intel 1:8:6 ships=0 defs=0 res=12401978
+[10:43:39] attack: intel 1:8:8 ships=389 defs=29 res=64928202
+[10:43:39] attack: spy 1:8:10 probes=4 eta=1s
+[10:43:39] attack: spy 1:8:12 probes=4 eta=1s
+[10:43:39] attack: spy 1:9:8 probes=4 eta=1s
+[2026-05-13 10:44:24] ==== loop 46/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:44:25] planet 31: building queue full (5)
+[10:44:25] planet 31: building queue full (5)
+[10:44:25] planet 31: building queue full (5)
+[10:44:25] attack: intel 1:8:10 ships=0 defs=0 res=7702652
+[10:44:25] attack: intel 1:8:12 ships=216 defs=16 res=47396526
+[10:44:25] attack: intel 1:9:8 ships=105 defs=0 res=3433730
+[10:44:25] attack: idle no_fleet_slots (used=7 max=7)
+[10:44:25] research: already in progress
+[2026-05-13 10:45:04] ==== loop 47/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:45:06] planet 31: building queue full (5)
+[10:45:06] planet 31: building queue full (5)
+[10:45:06] planet 31: building queue full (5)
+[10:45:06] attack: idle no_fleet_slots (used=7 max=7)
+[10:45:06] research: already in progress
+[2026-05-13 10:45:53] ==== loop 48/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:45:55] planet 31: building queue full (5)
+[10:45:55] planet 31: building queue full (5)
+[10:45:55] planet 31: building queue full (5)
+[10:45:55] attack: spy 1:7:8 probes=4 eta=1s
+[10:45:55] attack: spy 1:4:10 probes=4 eta=1s
+[10:45:55] attack: spy 1:6:4 probes=4 eta=1s
+[10:45:55] attack: spy 1:6:8 probes=4 eta=1s
+[10:45:55] research: queued research_astrophysics on planet 31 (72s)
+[2026-05-13 10:46:38] ==== loop 49/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:46:39] planet 31: building queue full (5)
+[10:46:39] planet 31: building queue full (5)
+[10:46:39] colonize: 1:3:6 -> 1:323:9 (eta 182s, fuel 3774)
+[10:46:39] attack: intel 1:7:8 ships=151 defs=200 res=110424284
+[10:46:39] attack: intel 1:4:10 ships=194 defs=2 res=393588099
+[10:46:39] attack: intel 1:6:4 ships=755 defs=183 res=330036530
+[10:46:39] attack: intel 1:6:8 ships=689 defs=262 res=390204751
+[10:46:39] attack: spy 1:7:10 probes=4 eta=1s
+[10:46:39] attack: spy 1:56:9 probes=4 eta=1s
+[10:46:39] research: already in progress
+[2026-05-13 10:47:31] ==== loop 50/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:47:32] planet 31: building queue full (5)
+[10:47:32] planet 31: building queue full (5)
+[10:47:32] attack: intel 1:7:10 ships=468 defs=210 res=115183766
+[10:47:32] attack: intel 1:56:9 ships=15 defs=0 res=134173
+[10:47:32] attack: idle no_fleet_slots (used=7 max=7)
+[10:47:32] research: already in progress
+[2026-05-13 10:48:20] ==== loop 51/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:48:21] planet 31: building queue full (5)
+[10:48:21] planet 31: building queue full (5)
+[10:48:21] attack: idle no_fleet_slots (used=7 max=7)
+[2026-05-13 10:49:07] ==== loop 52/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:49:08] planet 31: building queue full (5)
+[10:49:08] planet 31: building queue full (5)
+[10:49:08] attack: idle no_fleet_slots (used=7 max=7)
+[2026-05-13 10:50:01] ==== loop 53/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:50:02] planet 31: building queue full (5)
+[10:50:02] planet 31: building queue full (5)
+[10:50:02] planet 31: building queue full (5)
+[10:50:02] attack: idle no_fleet_slots (used=7 max=7)
+[10:50:02] research: already in progress
+[2026-05-13 10:50:48] ==== loop 54/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:50:51] planet 31: building queue full (5)
+[10:50:51] planet 31: building queue full (5)
+[10:50:51] planet 31: building queue full (5)
+[10:50:51] attack: idle no_fleet_slots (used=7 max=7)
+[10:50:51] research: already in progress
+[2026-05-13 10:51:39] ==== loop 55/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:51:41] planet 31: building queue full (5)
+[10:51:41] planet 31: building queue full (5)
+[10:51:41] planet 31: building queue full (5)
+[10:51:41] ally: transport: 1:3:6 -> 1:282:9 [ally_bot] m=0 c=0 d=58167 ships=0B+12S eta=86s fuel=802
+[10:51:41] attack: idle no_fleet_slots (used=8 max=7)
+[2026-05-13 10:52:27] ==== loop 56/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:52:29] planet 31: building queue full (5)
+[10:52:29] planet 31: building queue full (5)
+[10:52:29] planet 31: building queue full (5)
+[10:52:29] attack: idle no_fleet_slots (used=8 max=7)
+[10:52:29] research: already in progress
+[2026-05-13 10:53:11] ==== loop 57/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:53:13] planet 31: building queue full (5)
+[10:53:13] planet 31: building queue full (5)
+[10:53:13] attack: idle no_fleet_slots (used=8 max=7)
+[10:53:13] research: already in progress
+[2026-05-13 10:53:58] ==== loop 58/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:54:00] planet 31: building queue full (5)
+[10:54:00] planet 102: no resources for building_hangar+1
+[10:54:00] planet 31: building queue full (5)
+[10:54:00] attack: spy 1:57:9 probes=4 eta=1s
+[10:54:00] attack: spy 1:58:9 probes=4 eta=1s
+[10:54:00] attack: spy 1:2:1 probes=4 eta=1s
+[10:54:00] attack: spy 1:2:2 probes=4 eta=1s
+[10:54:00] research: queued research_astrophysics on planet 31 (101s)
+[2026-05-13 10:54:46] ==== loop 59/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:54:48] planet 31: building queue full (5)
+[10:54:48] planet 102: no resources for building_hangar+1
+[10:54:48] planet 31: building queue full (5)
+[10:54:48] attack: intel 1:57:9 ships=5 defs=5 res=49723
+[10:54:48] attack: intel 1:58:9 ships=0 defs=0 res=25332
+[10:54:48] attack: intel 1:2:1 ships=5 defs=0 res=8659838131
+[10:54:48] attack: intel 1:2:2 ships=5 defs=0 res=8587574792
+[10:54:48] attack: spy 1:2:3 probes=4 eta=1s
+[10:54:48] attack: spy 1:2:4 probes=4 eta=1s
+[10:54:48] attack: spy 1:2:5 probes=4 eta=1s
+[10:54:48] research: already in progress
+[2026-05-13 10:55:34] ==== loop 60/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:55:37] planet 31: building queue full (5)
+[10:55:37] planet 102: no resources for building_hangar+1
+[10:55:37] planet 31: building queue full (5)
+[10:55:37] attack: intel 1:2:3 ships=10 defs=0 res=8588545497
+[10:55:37] attack: intel 1:2:4 ships=0 defs=0 res=8590982537
+[10:55:37] attack: intel 1:2:5 ships=0 defs=0 res=8457114001
+[10:55:37] attack: idle no_fleet_slots (used=7 max=7)
+[10:55:37] research: already in progress
+[2026-05-13 10:56:20] ==== loop 61/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:56:22] planet 31: building queue full (5)
+[10:56:22] planet 102: queued building_hangar to 1
+[10:56:22] planet 31: building queue full (5)
+[10:56:22] attack: idle no_fleet_slots (used=7 max=7)
+[10:56:22] research: already in progress
+[2026-05-13 10:57:06] ==== loop 62/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:57:08] planet 31: building queue full (5)
+[10:57:08] planet 102: no resources for building_hangar+1
+[10:57:08] planet 31: building queue full (5)
+[10:57:08] attack: idle no_fleet_slots (used=7 max=7)
+[2026-05-13 10:57:52] ==== loop 63/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:57:54] planet 31: building queue full (5)
+[10:57:54] planet 102: no resources for building_hangar+1
+[10:57:54] planet 31: building queue full (5)
+[10:57:54] attack: idle no_fleet_slots (used=7 max=7)
+[2026-05-13 10:58:36] ==== loop 64/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:58:37] planet 31: building queue full (5)
+[10:58:37] planet 102: no resources for building_hangar+1
+[10:58:37] planet 31: building queue full (5)
+[10:58:37] attack: idle no_fleet_slots (used=7 max=7)
+[10:58:37] research: already in progress
+[2026-05-13 10:59:22] ==== loop 65/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[10:59:24] planet 31: building queue full (5)
+[10:59:24] planet 102: queued building_hangar to 2
+[10:59:24] planet 31: building queue full (5)
+[10:59:24] attack: idle no_fleet_slots (used=7 max=7)
+[10:59:24] research: already in progress
+[2026-05-13 11:00:13] ==== loop 66/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:00:15] planet 31: building queue full (5)
+[11:00:15] planet 102: no resources for building_hangar+1
+[11:00:15] planet 31: building queue full (5)
+[11:00:15] attack: idle no_fleet_slots (used=7 max=7)
+[2026-05-13 11:01:04] ==== loop 67/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:01:06] planet 31: building queue full (5)
+[11:01:06] planet 102: no resources for building_hangar+1
+[11:01:06] planet 31: building queue full (5)
+[11:01:06] attack: spy 1:7:8 probes=4 eta=1s
+[11:01:06] attack: spy 1:4:10 probes=4 eta=1s
+[11:01:06] attack: spy 1:6:4 probes=4 eta=1s
+[11:01:06] attack: spy 1:6:8 probes=4 eta=1s
+[2026-05-13 11:01:50] ==== loop 68/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:01:52] planet 31: building queue full (5)
+[11:01:52] planet 102: no resources for building_hangar+1
+[11:01:52] planet 31: building queue full (5)
+[11:01:52] attack: intel 1:7:8 ships=151 defs=200 res=110987418
+[11:01:52] attack: intel 1:4:10 ships=194 defs=2 res=395444889
+[11:01:52] attack: intel 1:6:4 ships=755 defs=183 res=331378171
+[11:01:52] attack: intel 1:6:8 ships=689 defs=262 res=391774667
+[11:01:52] attack: spy 1:7:10 probes=4 eta=1s
+[11:01:52] attack: spy 1:56:9 probes=4 eta=1s
+[2026-05-13 11:02:40] ==== loop 69/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:02:42] planet 31: building queue full (5)
+[11:02:42] planet 102: no resources for building_hangar+1
+[11:02:42] planet 31: building queue full (5)
+[11:02:42] attack: intel 1:7:10 ships=468 defs=210 res=115813568
+[11:02:42] attack: intel 1:56:9 ships=15 defs=0 res=139606
+[11:02:42] attack: spy 1:2:6 probes=4 eta=1s
+[11:02:42] attack: spy 1:2:7 probes=4 eta=1s
+[11:02:42] research: queued research_astrophysics on planet 31 (147s)
+[2026-05-13 11:03:29] ==== loop 70/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:03:31] planet 31: building queue full (5)
+[11:03:31] planet 102: no resources for building_hangar+1
+[11:03:31] planet 31: building queue full (5)
+[11:03:31] attack: intel 1:2:6 ships=16 defs=0 res=8606629497
+[11:03:31] attack: intel 1:2:7 ships=8 defs=0 res=8601284241
+[11:03:31] attack: spy 1:2:8 probes=4 eta=1s
+[11:03:31] attack: spy 1:2:9 probes=4 eta=1s
+[11:03:31] research: already in progress
+[2026-05-13 11:04:20] ==== loop 71/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:04:22] planet 31: building queue full (5)
+[11:04:22] planet 102: no resources for building_hangar+1
+[11:04:22] planet 31: building queue full (5)
+[11:04:22] attack: intel 1:2:8 ships=0 defs=0 res=8457497757
+[11:04:22] attack: intel 1:2:9 ships=0 defs=0 res=8965068597
+[11:04:22] attack: spy 1:57:9 probes=4 eta=1s
+[11:04:22] attack: spy 1:58:9 probes=4 eta=1s
+[11:04:22] research: already in progress
+[2026-05-13 11:05:06] ==== loop 72/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:05:08] planet 31: building queue full (5)
+[11:05:08] planet 102: no resources for building_hangar+1
+[11:05:08] planet 31: building queue full (5)
+[11:05:08] attack: intel 1:57:9 ships=5 defs=5 res=65617
+[11:05:08] attack: intel 1:58:9 ships=0 defs=0 res=33282
+[11:05:08] research: already in progress
+[2026-05-13 11:05:56] ==== loop 73/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:05:58] planet 31: building queue full (5)
+[11:05:58] planet 102: no resources for building_hangar+1
+[11:05:58] planet 31: building queue full (5)
+[11:05:58] attack: spy 1:2:1 probes=4 eta=1s
+[11:05:58] attack: spy 1:2:2 probes=4 eta=1s
+[11:05:58] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:06:38] ==== loop 74/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:06:41] planet 31: building queue full (5)
+[11:06:41] planet 102: queued building_hangar to 3
+[11:06:41] planet 31: building queue full (5)
+[11:06:41] attack: intel 1:2:1 ships=5 defs=0 res=8692323851
+[11:06:41] attack: intel 1:2:2 ships=5 defs=0 res=8618514049
+[11:06:41] attack: spy 1:2:3 probes=4 eta=1s
+[11:06:41] attack: spy 1:2:4 probes=4 eta=1s
+[11:06:41] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:07:28] ==== loop 75/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:07:30] planet 31: building queue full (5)
+[11:07:30] planet 102: no resources for building_hangar+1
+[11:07:30] planet 31: building queue full (5)
+[11:07:30] attack: intel 1:2:3 ships=10 defs=0 res=8614048089
+[11:07:30] attack: intel 1:2:4 ships=0 defs=0 res=8613792521
+[2026-05-13 11:08:16] ==== loop 76/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:08:17] planet 31: building queue full (5)
+[11:08:17] planet 102: no resources for building_hangar+1
+[11:08:17] planet 31: building queue full (5)
+[2026-05-13 11:09:03] ==== loop 77/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:09:06] planet 31: building queue full (5)
+[11:09:06] planet 102: no resources for building_hangar+1
+[11:09:06] planet 31: building queue full (5)
+[11:09:06] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:09:51] ==== loop 78/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:09:53] planet 31: building queue full (5)
+[11:09:53] planet 102: no resources for building_hangar+1
+[11:09:53] planet 31: building queue full (5)
+[11:09:53] attack: spy 1:2:5 probes=4 eta=1s
+[11:09:53] attack: spy 1:2:10 probes=4 eta=1s
+[11:09:53] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:10:33] ==== loop 79/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:10:35] planet 31: building queue full (5)
+[11:10:35] planet 102: no resources for building_hangar+1
+[11:10:35] planet 31: building queue full (5)
+[11:10:35] attack: intel 1:2:5 ships=0 defs=0 res=8479923985
+[11:10:35] attack: intel 1:2:10 ships=0 defs=0 res=10137906453
+[11:10:35] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:11:20] ==== loop 80/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:11:22] planet 31: building queue full (5)
+[11:11:22] planet 102: no resources for building_hangar+1
+[11:11:22] planet 31: building queue full (5)
+[2026-05-13 11:12:05] ==== loop 81/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:12:06] planet 31: building queue full (5)
+[11:12:06] planet 102: no resources for building_hangar+1
+[11:12:06] planet 31: building queue full (5)
+[11:12:06] attack: spy 1:7:8 probes=4 eta=1s
+[11:12:06] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:12:47] ==== loop 82/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:12:48] planet 31: building queue full (5)
+[11:12:48] planet 102: no resources for building_hangar+1
+[11:12:48] planet 31: building queue full (5)
+[11:12:48] attack: intel 1:7:8 ships=151 defs=200 res=111394938
+[11:12:48] attack: spy 1:4:10 probes=4 eta=1s
+[11:12:48] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:13:32] ==== loop 83/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:13:34] planet 31: building queue full (5)
+[11:13:34] planet 102: no resources for building_hangar+1
+[11:13:34] planet 31: building queue full (5)
+[11:13:34] attack: intel 1:4:10 ships=194 defs=2 res=396937167
+[11:13:34] attack: spy 1:6:4 probes=4 eta=1s
+[11:13:34] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:14:14] ==== loop 84/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:14:16] planet 31: building queue full (5)
+[11:14:16] planet 102: no resources for building_hangar+1
+[11:14:16] planet 31: building queue full (5)
+[11:14:16] attack: intel 1:6:4 ships=755 defs=183 res=332457670
+[11:14:16] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:14:56] ==== loop 85/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:14:59] planet 31: building queue full (5)
+[11:14:59] planet 102: no resources for building_hangar+1
+[11:14:59] planet 31: building queue full (5)
+[11:14:59] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:15:42] ==== loop 86/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:15:43] planet 31: building queue full (5)
+[11:15:43] planet 102: no resources for building_hangar+1
+[11:15:43] planet 31: building queue full (5)
+[11:15:43] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:16:24] ==== loop 87/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:16:25] planet 31: building queue full (5)
+[11:16:25] planet 102: no resources for building_hangar+1
+[11:16:25] planet 31: building queue full (5)
+[2026-05-13 11:17:14] ==== loop 88/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:17:17] planet 31: building queue full (5)
+[11:17:17] planet 102: no resources for building_hangar+1
+[11:17:17] planet 31: building queue full (5)
+[11:17:17] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:18:02] ==== loop 89/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:18:05] planet 31: building queue full (5)
+[11:18:05] planet 102: no resources for building_hangar+1
+[11:18:05] planet 31: building queue full (5)
+[2026-05-13 11:18:53] ==== loop 90/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:18:54] planet 31: building queue full (5)
+[11:18:54] planet 102: no resources for building_hangar+1
+[11:18:54] planet 31: building queue full (5)
+[2026-05-13 11:19:38] ==== loop 91/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:19:40] planet 31: building queue full (5)
+[11:19:40] planet 102: no resources for building_hangar+1
+[11:19:40] planet 31: building queue full (5)
+[11:19:40] ally: transport: 1:3:6 -> 1:179:5 [ally_bot] m=45001 c=0 d=0 ships=0B+10S eta=70s fuel=447
+[11:19:40] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:20:25] ==== loop 92/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:20:27] planet 31: building queue full (5)
+[11:20:27] planet 102: no resources for building_hangar+1
+[11:20:27] planet 31: building queue full (5)
+[11:20:27] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:21:12] ==== loop 93/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:21:13] planet 31: queued building_metal_store to 16
+[11:21:13] planet 102: no resources for building_hangar+1
+[2026-05-13 11:21:58] ==== loop 94/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:21:58] planet 31: queue busy, throttled building_nano_factory
+[11:21:58] planet 102: no resources for building_hangar+1
+[11:21:58] planet 31: queue busy, throttled building_nano_factory
+[11:21:58] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:22:39] ==== loop 95/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:22:40] planet 31: queue busy, throttled building_nano_factory
+[11:22:40] planet 102: no resources for building_hangar+1
+[11:22:40] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:23:26] ==== loop 96/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:23:28] planet 31: queue busy, throttled building_nano_factory
+[11:23:28] planet 102: no resources for building_hangar+1
+[11:23:28] planet 31: queue busy, throttled building_nano_factory
+[11:23:28] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:24:09] ==== loop 97/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:24:09] planet 31: queue busy, throttled building_nano_factory
+[11:24:09] planet 102: no resources for building_hangar+1
+[11:24:09] planet 31: queue busy, throttled building_nano_factory
+[11:24:09] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:24:54] ==== loop 98/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:24:54] planet 31: queue busy, throttled building_nano_factory
+[11:24:54] planet 102: no resources for building_hangar+1
+[11:24:54] planet 31: queue busy, throttled building_nano_factory
+[11:24:54] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:25:44] ==== loop 99/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:25:44] planet 31: queue busy, throttled building_nano_factory
+[11:25:44] planet 102: queued building_hangar to 4
+[11:25:44] planet 31: queue busy, throttled building_nano_factory
+[11:25:44] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:26:33] ==== loop 100/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:26:34] planet 31: queue busy, throttled building_nano_factory
+[11:26:34] planet 102: no resources for ship_colony_ship+1
+[11:26:34] planet 31: queue busy, throttled building_nano_factory
+[11:26:34] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:27:20] ==== loop 101/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:27:20] planet 31: queue busy, throttled building_nano_factory
+[11:27:20] planet 102: no resources for ship_colony_ship+1
+[11:27:20] planet 31: queue busy, throttled building_nano_factory
+[11:27:20] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:28:06] ==== loop 102/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:28:07] planet 31: queue busy, throttled building_nano_factory
+[11:28:07] planet 102: no resources for ship_colony_ship+1
+[11:28:07] planet 31: queue busy, throttled building_nano_factory
+[11:28:07] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:28:53] ==== loop 103/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:28:53] planet 31: queue busy, throttled building_nano_factory
+[11:28:53] planet 102: no resources for ship_colony_ship+1
+[11:28:53] planet 31: queue busy, throttled building_nano_factory
+[11:28:53] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:29:33] ==== loop 104/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:29:34] planet 31: queue busy, throttled building_nano_factory
+[11:29:34] planet 102: no resources for ship_colony_ship+1
+[11:29:34] planet 31: queue busy, throttled building_nano_factory
+[11:29:34] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:30:15] ==== loop 105/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:30:15] planet 31: queue busy, throttled building_nano_factory
+[11:30:15] planet 102: no resources for ship_colony_ship+1
+[11:30:15] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:30:59] ==== loop 106/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:30:59] planet 31: queue busy, throttled building_nano_factory
+[11:30:59] planet 102: no resources for ship_colony_ship+1
+[11:30:59] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:31:41] ==== loop 107/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:31:41] planet 31: queue busy, throttled building_nano_factory
+[11:31:41] planet 102: no resources for ship_colony_ship+1
+[11:31:41] planet 31: queue busy, throttled building_nano_factory
+[11:31:41] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:32:28] ==== loop 108/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:32:28] planet 31: queue busy, throttled building_nano_factory
+[11:32:28] planet 102: no resources for ship_colony_ship+1
+[11:32:28] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:33:09] ==== loop 109/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:33:09] planet 31: queue busy, throttled building_nano_factory
+[11:33:09] planet 102: no resources for ship_colony_ship+1
+[11:33:09] planet 31: queue busy, throttled building_nano_factory
+[11:33:09] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:33:53] ==== loop 110/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:33:53] planet 31: queue busy, throttled building_nano_factory
+[11:33:53] planet 102: no resources for ship_colony_ship+1
+[11:33:53] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:34:40] ==== loop 111/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:34:41] planet 31: queue busy, throttled building_nano_factory
+[11:34:41] planet 102: no resources for ship_colony_ship+1
+[11:34:41] planet 31: queue busy, throttled building_nano_factory
+[11:34:41] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:35:21] ==== loop 112/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:35:22] planet 31: queue busy, throttled building_nano_factory
+[11:35:22] planet 102: no resources for ship_colony_ship+1
+[11:35:22] planet 31: queue busy, throttled building_nano_factory
+[11:35:22] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:36:08] ==== loop 113/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:36:08] planet 31: queue busy, throttled building_nano_factory
+[11:36:08] planet 102: no resources for ship_colony_ship+1
+[11:36:08] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:36:48] ==== loop 114/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:36:49] planet 31: queue busy, throttled building_nano_factory
+[11:36:49] planet 102: no resources for ship_colony_ship+1
+[11:36:49] planet 31: queue busy, throttled building_nano_factory
+[11:36:49] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:37:32] ==== loop 115/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:37:33] planet 31: queue busy, throttled building_nano_factory
+[11:37:33] planet 102: no resources for ship_colony_ship+1
+[11:37:33] planet 31: queue busy, throttled building_nano_factory
+[11:37:33] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:38:16] ==== loop 116/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:38:16] planet 31: queue busy, throttled building_nano_factory
+[11:38:16] planet 102: no resources for ship_colony_ship+1
+[11:38:16] planet 31: queue busy, throttled building_nano_factory
+[11:38:16] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:39:09] ==== loop 117/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:39:09] planet 31: queue busy, throttled building_nano_factory
+[11:39:09] planet 102: no resources for ship_colony_ship+1
+[11:39:09] planet 31: queue busy, throttled building_nano_factory
+[11:39:09] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:39:57] ==== loop 118/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:39:58] planet 31: queue busy, throttled building_nano_factory
+[11:39:58] planet 102: no resources for ship_colony_ship+1
+[11:39:58] planet 31: queue busy, throttled building_nano_factory
+[11:39:58] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:40:40] ==== loop 119/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:40:40] planet 31: queue busy, throttled building_nano_factory
+[11:40:40] planet 102: no resources for ship_colony_ship+1
+[11:40:40] planet 31: queue busy, throttled building_nano_factory
+[11:40:40] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:41:25] ==== loop 120/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:41:26] planet 31: queue busy, throttled building_nano_factory
+[11:41:26] planet 102: no resources for ship_colony_ship+1
+[11:41:26] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:42:15] ==== loop 121/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:42:16] planet 31: queue busy, throttled building_nano_factory
+[11:42:16] planet 102: no resources for ship_colony_ship+1
+[11:42:16] planet 31: queue busy, throttled building_nano_factory
+[11:42:16] ally: transport: 1:3:6 -> 1:33:9 [ally_bot] m=0 c=34429 d=2306 ships=0B+8S eta=38s fuel=102
+[2026-05-13 11:43:06] ==== loop 122/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:43:07] planet 31: queue busy, throttled building_nano_factory
+[11:43:07] planet 102: no resources for ship_colony_ship+1
+[11:43:07] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:43:54] ==== loop 123/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:43:54] planet 31: queue busy, throttled building_nano_factory
+[11:43:54] planet 102: no resources for ship_colony_ship+1
+[11:43:54] planet 31: queue busy, throttled building_nano_factory
+[11:43:54] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:44:40] ==== loop 124/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:44:41] planet 31: queue busy, throttled building_nano_factory
+[11:44:41] planet 102: no resources for ship_colony_ship+1
+[11:44:41] planet 31: queue busy, throttled building_nano_factory
+[11:44:41] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:45:28] ==== loop 125/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:45:29] planet 31: queue busy, throttled building_nano_factory
+[11:45:29] planet 102: no resources for ship_colony_ship+1
+[11:45:29] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:46:14] ==== loop 126/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:46:15] planet 31: queue busy, throttled building_nano_factory
+[11:46:15] planet 102: no resources for ship_colony_ship+1
+[11:46:15] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:46:58] ==== loop 127/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:46:59] planet 31: queue busy, throttled building_nano_factory
+[11:46:59] planet 102: no resources for ship_colony_ship+1
+[11:46:59] planet 31: queue busy, throttled building_nano_factory
+[11:46:59] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:47:47] ==== loop 128/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:47:48] planet 31: queue busy, throttled building_nano_factory
+[11:47:48] planet 102: no resources for ship_colony_ship+1
+[11:47:48] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:48:34] ==== loop 129/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:48:34] planet 31: queue busy, throttled building_nano_factory
+[11:48:34] planet 102: no resources for ship_colony_ship+1
+[11:48:34] planet 31: queue busy, throttled building_nano_factory
+[11:48:34] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:49:24] ==== loop 130/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:49:24] planet 31: queue busy, throttled building_nano_factory
+[11:49:24] planet 102: no resources for ship_colony_ship+1
+[11:49:24] planet 31: queue busy, throttled building_nano_factory
+[11:49:24] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:50:12] ==== loop 131/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:50:13] planet 31: queue busy, throttled building_nano_factory
+[11:50:13] planet 102: no resources for ship_colony_ship+1
+[11:50:13] planet 31: queue busy, throttled building_nano_factory
+[11:50:13] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:51:01] ==== loop 132/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:51:01] planet 31: queue busy, throttled building_nano_factory
+[11:51:01] planet 102: no resources for ship_colony_ship+1
+[11:51:01] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:51:51] ==== loop 133/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:51:51] planet 31: queue busy, throttled building_nano_factory
+[11:51:51] planet 102: no resources for ship_colony_ship+1
+[11:51:51] planet 31: queue busy, throttled building_nano_factory
+[11:51:51] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:52:38] ==== loop 134/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:52:39] planet 31: queue busy, throttled building_nano_factory
+[11:52:39] planet 102: no resources for ship_colony_ship+1
+[11:52:39] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:53:23] ==== loop 135/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:53:24] planet 31: queue busy, throttled building_nano_factory
+[11:53:24] planet 102: no resources for ship_colony_ship+1
+[11:53:24] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:54:03] ==== loop 136/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:54:04] planet 31: queue busy, throttled building_nano_factory
+[11:54:04] planet 102: no resources for ship_colony_ship+1
+[11:54:04] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:54:45] ==== loop 137/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:54:45] planet 31: queue busy, throttled building_nano_factory
+[11:54:45] planet 102: no resources for ship_colony_ship+1
+[11:54:45] planet 31: queue busy, throttled building_nano_factory
+[11:54:45] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:55:30] ==== loop 138/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:55:31] planet 31: queue busy, throttled building_nano_factory
+[11:55:31] planet 102: no resources for ship_colony_ship+1
+[11:55:31] planet 31: queue busy, throttled building_nano_factory
+[11:55:31] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:56:21] ==== loop 139/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:56:22] planet 31: queue busy, throttled building_nano_factory
+[11:56:22] planet 102: no resources for ship_colony_ship+1
+[11:56:22] planet 31: queue busy, throttled building_nano_factory
+[11:56:22] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:57:04] ==== loop 140/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:57:05] planet 31: queue busy, throttled building_nano_factory
+[11:57:05] planet 102: no resources for ship_colony_ship+1
+[11:57:05] planet 31: queue busy, throttled building_nano_factory
+[11:57:05] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:57:54] ==== loop 141/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:57:54] planet 31: queue busy, throttled building_nano_factory
+[11:57:54] planet 102: no resources for ship_colony_ship+1
+[11:57:54] planet 31: queue busy, throttled building_nano_factory
+[11:57:54] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:58:34] ==== loop 142/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:58:34] planet 31: queue busy, throttled building_nano_factory
+[11:58:34] planet 102: no resources for ship_colony_ship+1
+[11:58:34] planet 31: queue busy, throttled building_nano_factory
+[11:58:34] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 11:59:18] ==== loop 143/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[11:59:18] planet 31: queue busy, throttled building_nano_factory
+[11:59:18] planet 102: no resources for ship_colony_ship+1
+[11:59:18] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 11:59:59] ==== loop 144/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:00:01] planet 31: queue busy, throttled building_nano_factory
+[12:00:01] planet 102: no resources for ship_colony_ship+1
+[12:00:01] planet 31: queue busy, throttled building_nano_factory
+[12:00:01] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 12:00:46] ==== loop 145/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:00:46] planet 31: queue busy, throttled building_nano_factory
+[12:00:46] planet 102: no resources for ship_colony_ship+1
+[12:00:46] planet 31: queue busy, throttled building_nano_factory
+[12:00:46] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 12:01:35] ==== loop 146/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:01:35] planet 31: queue busy, throttled building_nano_factory
+[12:01:35] planet 102: no resources for ship_colony_ship+1
+[12:01:35] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 12:02:21] ==== loop 147/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:02:21] planet 31: queue busy, throttled building_nano_factory
+[12:02:21] planet 102: no resources for ship_colony_ship+1
+[12:02:21] planet 31: queue busy, throttled building_nano_factory
+[12:02:21] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 12:03:08] ==== loop 148/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:03:09] planet 31: queue busy, throttled building_nano_factory
+[12:03:09] planet 102: no resources for ship_colony_ship+1
+[12:03:09] planet 31: queue busy, throttled building_nano_factory
+[12:03:09] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 12:03:56] ==== loop 149/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:03:56] planet 31: queue busy, throttled building_nano_factory
+[12:03:56] planet 102: no resources for ship_colony_ship+1
+[12:03:56] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 12:04:42] ==== loop 150/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:04:42] planet 31: queue busy, throttled building_nano_factory
+[12:04:42] planet 102: no resources for ship_colony_ship+1
+[12:04:42] planet 31: queue busy, throttled building_nano_factory
+[12:04:42] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 12:05:30] ==== loop 151/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:05:30] planet 31: queue busy, throttled building_nano_factory
+[12:05:30] planet 102: no resources for ship_colony_ship+1
+[12:05:30] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 12:06:20] ==== loop 152/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:06:20] planet 31: queue busy, throttled building_nano_factory
+[12:06:20] planet 102: no resources for ship_colony_ship+1
+[12:06:20] planet 31: queue busy, throttled building_nano_factory
+[2026-05-13 12:07:06] ==== loop 153/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:07:07] planet 31: queue busy, throttled building_nano_factory
+[12:07:07] planet 102: no resources for ship_colony_ship+1
+[12:07:07] planet 31: queue busy, throttled building_nano_factory
+[12:07:07] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 12:08:00] ==== loop 154/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:08:00] planet 31: queue busy, throttled building_nano_factory
+[12:08:00] planet 102: no resources for ship_colony_ship+1
+[12:08:00] planet 31: queue busy, throttled building_nano_factory
+[12:08:00] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 12:08:55] ==== loop 155/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:08:55] planet 31: queue busy, throttled building_nano_factory
+[12:08:55] planet 102: no resources for ship_colony_ship+1
+[12:08:55] planet 31: queue busy, throttled building_nano_factory
+[12:08:55] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 12:09:41] ==== loop 156/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:09:41] planet 31: queue busy, throttled building_nano_factory
+[12:09:41] planet 102: no resources for ship_colony_ship+1
+[12:09:41] planet 31: queue busy, throttled building_nano_factory
+[12:09:41] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 12:10:26] ==== loop 157/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:10:27] planet 31: queue busy, throttled building_nano_factory
+[12:10:27] planet 102: no resources for ship_colony_ship+1
+[12:10:27] planet 31: queue busy, throttled building_nano_factory
+[12:10:27] research: blocked research_intergalactic_research_network (building_laboratory 3/10)
+[2026-05-13 12:11:13] ==== loop 158/∞ | seed=745832110432779029 archetype=balanced personality=tecnologico focus=tech actions_per_loop=3 ====
+[12:11:14] planet 31: queue busy, throttled building_nano_factory
+[12:11:14] planet 102: no resources for ship_colony_ship+1
+[12:11:14] planet 31: queue busy, throttled building_nano_factory

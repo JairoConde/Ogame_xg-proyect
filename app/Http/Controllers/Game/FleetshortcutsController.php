@@ -52,7 +52,7 @@ class FleetshortcutsController extends BaseController
      *
      * @return void
      */
-    private function setUpShortcuts()
+    private function setUpShortcuts(): void
     {
         $this->_shortcuts = new Shortcuts(
             $this->user['user_fleet_shortcuts']
@@ -160,7 +160,7 @@ class FleetshortcutsController extends BaseController
                     'row_end' => !$set_row ? '</tr>' : '',
                 ];
 
-                ++$this->_shortcuts_count;
+                $this->_shortcuts_count++;
 
                 $set_row = !$set_row;
             }

@@ -1,0 +1,855 @@
+[2026-05-13 10:11:52] ==== loop 1/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:11:54] planet 51: queued ship_solar_satellite +5
+[10:11:54] planet 87: queue busy, throttled building_robot_factory
+[10:11:54] planet 89: queue busy, throttled building_robot_factory
+[10:11:54] planet 86: queued ship_solar_satellite +5
+[10:11:54] transport: 1:282:9 -> 1:7:6 [consolidate_home] m=141085 c=74217 d=6697 ships=0B+37S eta=85s fuel=2433
+[10:11:54] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:12:31] ==== loop 2/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:12:33] planet 51: queued ship_solar_satellite +5
+[10:12:33] planet 86: queued building_crystal_store to 8
+[10:12:33] planet 87: queue busy, throttled building_robot_factory
+[10:12:33] planet 89: queue busy, throttled building_robot_factory
+[10:12:33] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:13:13] ==== loop 3/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:13:14] planet 51: queued ship_solar_satellite +5
+[10:13:14] planet 86: building queue full (5)
+[10:13:14] planet 87: queue busy, throttled building_robot_factory
+[10:13:14] planet 89: queue busy, throttled building_robot_factory
+[10:13:14] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:13:53] ==== loop 4/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:13:54] planet 51: queued ship_solar_satellite +5
+[10:13:54] planet 86: building queue full (5)
+[10:13:54] planet 87: queue busy, throttled building_robot_factory
+[10:13:54] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:14:35] ==== loop 5/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:14:36] planet 51: queued ship_solar_satellite +5
+[10:14:36] planet 86: building queue full (5)
+[10:14:36] planet 87: queue busy, throttled building_robot_factory
+[10:14:36] planet 89: queue busy, throttled building_robot_factory
+[10:14:36] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:15:14] ==== loop 6/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:15:15] planet 51: queued ship_solar_satellite +5
+[10:15:15] planet 86: building queue full (5)
+[10:15:15] planet 87: queue busy, throttled building_robot_factory
+[10:15:15] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:15:58] ==== loop 7/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:16:00] planet 51: queued ship_solar_satellite +1
+[10:16:00] planet 86: building queue full (5)
+[10:16:00] planet 87: queue busy, throttled building_robot_factory
+[10:16:00] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:16:43] ==== loop 8/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:16:44] planet 51: queued building_metal_mine to 35
+[10:16:44] planet 86: building queue full (5)
+[10:16:44] planet 87: queue busy, throttled building_robot_factory
+[10:16:44] planet 89: queue busy, throttled building_robot_factory
+[10:16:44] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:17:28] ==== loop 9/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:17:29] planet 51: building queue full (5)
+[10:17:29] planet 86: building queue full (5)
+[10:17:29] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 10:18:10] ==== loop 10/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:18:11] planet 51: building queue full (5)
+[10:18:11] planet 86: building queue full (5)
+[10:18:11] planet 87: queue busy, throttled building_robot_factory
+[10:18:11] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:18:56] ==== loop 11/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:18:58] planet 51: building queue full (5)
+[10:18:58] planet 86: building queue full (5)
+[10:18:58] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 10:19:43] ==== loop 12/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:19:45] planet 51: building queue full (5)
+[10:19:45] planet 86: building queue full (5)
+[10:19:45] planet 87: queue busy, throttled building_robot_factory
+[10:19:45] planet 89: queue busy, throttled building_robot_factory
+[10:19:45] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:20:22] ==== loop 13/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:20:24] planet 51: queued building_crystal_store to 18
+[10:20:24] planet 86: queued building_crystal_mine to 18
+[10:20:24] planet 87: queue busy, throttled building_robot_factory
+[10:20:24] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:21:09] ==== loop 14/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:21:10] planet 51: queued building_nano_factory to 4
+[10:21:10] planet 86: building queue full (5)
+[10:21:10] planet 87: queue busy, throttled building_robot_factory
+[10:21:10] planet 89: queue busy, throttled building_robot_factory
+[10:21:10] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:21:53] ==== loop 15/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:21:54] planet 51: queue busy, throttled building_nano_factory
+[10:21:54] planet 86: building queue full (5)
+[10:21:54] planet 87: queue busy, throttled building_robot_factory
+[10:21:54] planet 89: queue busy, throttled building_robot_factory
+[10:21:54] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:22:42] ==== loop 16/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:22:43] planet 51: queue busy, throttled building_nano_factory
+[10:22:43] planet 86: building queue full (5)
+[10:22:43] planet 87: queue busy, throttled building_robot_factory
+[10:22:43] planet 89: queue busy, throttled building_robot_factory
+[10:22:43] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:23:26] ==== loop 17/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:23:27] planet 51: queue busy, throttled building_nano_factory
+[10:23:27] planet 86: building queue full (5)
+[10:23:27] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 10:24:12] ==== loop 18/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:24:13] planet 51: queue busy, throttled building_nano_factory
+[10:24:13] planet 86: building queue full (5)
+[10:24:13] planet 87: queue busy, throttled building_robot_factory
+[10:24:13] planet 89: queue busy, throttled building_robot_factory
+[10:24:13] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:25:04] ==== loop 19/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:25:04] planet 51: queue busy, throttled building_nano_factory
+[10:25:04] planet 86: building queue full (5)
+[10:25:04] planet 87: queue busy, throttled building_robot_factory
+[10:25:04] planet 89: queue busy, throttled building_robot_factory
+[10:25:04] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:25:50] ==== loop 20/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:25:50] planet 51: queue busy, throttled building_nano_factory
+[10:25:50] planet 86: building queue full (5)
+[10:25:50] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 10:26:35] ==== loop 21/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:26:36] planet 51: queue busy, throttled building_nano_factory
+[10:26:36] planet 86: building queue full (5)
+[10:26:36] planet 87: queue busy, throttled building_robot_factory
+[10:26:36] planet 89: queue busy, throttled building_robot_factory
+[10:26:36] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:27:20] ==== loop 22/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:27:20] planet 51: queue busy, throttled building_nano_factory
+[10:27:20] planet 86: building queue full (5)
+[10:27:20] planet 87: queue busy, throttled building_robot_factory
+[10:27:20] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:28:05] ==== loop 23/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:28:06] planet 51: queue busy, throttled building_nano_factory
+[10:28:06] planet 86: building queue full (5)
+[10:28:06] planet 87: queue busy, throttled building_robot_factory
+[10:28:06] planet 89: queue busy, throttled building_robot_factory
+[10:28:06] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:28:55] ==== loop 24/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:28:55] planet 51: queue busy, throttled building_nano_factory
+[10:28:55] planet 86: building queue full (5)
+[10:28:55] planet 87: queue busy, throttled building_robot_factory
+[10:28:55] planet 89: queue busy, throttled building_robot_factory
+[10:28:55] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:29:41] ==== loop 25/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:29:41] planet 51: queue busy, throttled building_nano_factory
+[10:29:41] planet 86: building queue full (5)
+[10:29:41] planet 87: queue busy, throttled building_robot_factory
+[10:29:41] planet 89: queue busy, throttled building_robot_factory
+[10:29:41] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:30:23] ==== loop 26/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:30:24] planet 51: queue busy, throttled building_nano_factory
+[10:30:24] planet 86: queued building_laboratory to 2
+[10:30:24] planet 87: queue busy, throttled building_robot_factory
+[10:30:24] planet 89: queue busy, throttled building_robot_factory
+[10:30:24] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:31:04] ==== loop 27/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:31:04] planet 51: queue busy, throttled building_nano_factory
+[10:31:04] planet 86: queue busy, throttled building_laboratory
+[10:31:04] planet 87: queue busy, throttled building_robot_factory
+[10:31:04] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:31:44] ==== loop 28/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:31:44] planet 51: queue busy, throttled building_nano_factory
+[10:31:44] planet 86: queue busy, throttled building_laboratory
+[10:31:44] planet 87: queue busy, throttled building_robot_factory
+[10:31:44] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:32:27] ==== loop 29/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:32:27] planet 51: queue busy, throttled building_nano_factory
+[10:32:27] planet 86: queue busy, throttled building_laboratory
+[10:32:27] planet 87: queue busy, throttled building_robot_factory
+[10:32:27] planet 89: queue busy, throttled building_robot_factory
+[10:32:27] transport: 1:282:9 -> 1:7:6 [consolidate_home] m=141083 c=74223 d=6693 ships=0B+37S eta=85s fuel=2433
+[10:32:27] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:33:11] ==== loop 30/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:33:11] planet 51: queue busy, throttled building_nano_factory
+[10:33:11] planet 86: queue busy, throttled building_laboratory
+[10:33:11] planet 87: queue busy, throttled building_robot_factory
+[10:33:11] planet 89: queue busy, throttled building_robot_factory
+[10:33:11] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:33:56] ==== loop 31/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:33:56] planet 51: queue busy, throttled building_nano_factory
+[10:33:56] planet 86: queue busy, throttled building_laboratory
+[10:33:56] planet 87: queue busy, throttled building_robot_factory
+[10:33:56] planet 89: queue busy, throttled building_robot_factory
+[10:33:56] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:34:39] ==== loop 32/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:34:39] planet 51: queue busy, throttled building_nano_factory
+[10:34:39] planet 86: queue busy, throttled building_laboratory
+[10:34:39] planet 87: queue busy, throttled building_robot_factory
+[10:34:39] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:35:22] ==== loop 33/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:35:22] planet 51: queue busy, throttled building_nano_factory
+[10:35:22] planet 86: queue busy, throttled building_laboratory
+[10:35:22] planet 87: queue busy, throttled building_robot_factory
+[10:35:22] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:36:09] ==== loop 34/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:36:09] planet 51: queue busy, throttled building_nano_factory
+[10:36:09] planet 86: queue busy, throttled building_laboratory
+[10:36:09] planet 87: queue busy, throttled building_robot_factory
+[10:36:09] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:36:49] ==== loop 35/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:36:49] planet 51: queue busy, throttled building_nano_factory
+[10:36:49] planet 86: queue busy, throttled building_laboratory
+[10:36:49] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 10:37:27] ==== loop 36/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:37:27] planet 51: queue busy, throttled building_nano_factory
+[10:37:27] planet 86: queue busy, throttled building_laboratory
+[10:37:27] planet 87: queue busy, throttled building_robot_factory
+[10:37:27] planet 89: queue busy, throttled building_robot_factory
+[10:37:27] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:38:07] ==== loop 37/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:38:07] planet 51: queue busy, throttled building_nano_factory
+[10:38:07] planet 86: queue busy, throttled building_laboratory
+[10:38:07] planet 87: queue busy, throttled building_robot_factory
+[10:38:07] planet 89: queue busy, throttled building_robot_factory
+[10:38:07] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:38:49] ==== loop 38/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:38:49] planet 51: queue busy, throttled building_nano_factory
+[10:38:49] planet 86: queue busy, throttled building_laboratory
+[10:38:49] planet 87: queue busy, throttled building_robot_factory
+[10:38:49] planet 89: queue busy, throttled building_robot_factory
+[10:38:49] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:39:31] ==== loop 39/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:39:31] planet 51: queue busy, throttled building_nano_factory
+[10:39:31] planet 86: queue busy, throttled building_laboratory
+[10:39:31] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 10:40:14] ==== loop 40/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:40:15] planet 51: queue busy, throttled building_nano_factory
+[10:40:15] planet 86: queued defense_plasma_turret +8
+[10:40:15] planet 87: queue busy, throttled building_robot_factory
+[10:40:15] planet 89: queue busy, throttled building_robot_factory
+[10:40:15] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:40:55] ==== loop 41/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:40:56] planet 51: queue busy, throttled building_nano_factory
+[10:40:56] planet 86: queued defense_rocket_launcher +8
+[10:40:56] planet 87: queue busy, throttled building_robot_factory
+[10:40:56] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:41:41] ==== loop 42/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:41:42] planet 51: queue busy, throttled building_nano_factory
+[10:41:42] planet 86: queued defense_rocket_launcher +8
+[10:41:42] planet 87: queue busy, throttled building_robot_factory
+[10:41:42] planet 89: queue busy, throttled building_robot_factory
+[10:41:42] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:42:27] ==== loop 43/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:42:28] planet 51: queue busy, throttled building_nano_factory
+[10:42:28] planet 86: queued defense_plasma_turret +8
+[10:42:28] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 10:43:13] ==== loop 44/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:43:14] planet 51: queue busy, throttled building_nano_factory
+[10:43:14] planet 86: queued defense_plasma_turret +7
+[10:43:14] planet 87: queue busy, throttled building_robot_factory
+[10:43:14] planet 89: queue busy, throttled building_robot_factory
+[10:43:14] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:44:00] ==== loop 45/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:44:00] planet 51: queue busy, throttled building_nano_factory
+[10:44:00] planet 86: queued defense_rocket_launcher +8
+[10:44:00] planet 87: queue busy, throttled building_robot_factory
+[10:44:00] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:44:42] ==== loop 46/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:44:43] planet 51: queue busy, throttled building_nano_factory
+[10:44:43] planet 86: queued defense_rocket_launcher +8
+[10:44:43] planet 87: queue busy, throttled building_robot_factory
+[10:44:43] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:45:28] ==== loop 47/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:45:29] planet 51: queue busy, throttled building_nano_factory
+[10:45:29] planet 86: queued defense_rocket_launcher +8
+[10:45:29] planet 87: queue busy, throttled building_robot_factory
+[10:45:29] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:46:14] ==== loop 48/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:46:14] planet 51: queue busy, throttled building_nano_factory
+[10:46:14] planet 86: queued defense_rocket_launcher +8
+[10:46:14] planet 87: queue busy, throttled building_robot_factory
+[10:46:14] planet 89: queue busy, throttled building_robot_factory
+[10:46:14] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:47:07] ==== loop 49/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:47:08] planet 51: queue busy, throttled building_nano_factory
+[10:47:08] planet 86: queued defense_rocket_launcher +1
+[10:47:08] planet 87: queue busy, throttled building_robot_factory
+[10:47:08] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:47:54] ==== loop 50/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:47:54] planet 51: queue busy, throttled building_nano_factory
+[10:47:54] planet 86: building queue full (5)
+[10:47:54] planet 87: queue busy, throttled building_robot_factory
+[10:47:54] planet 89: queue busy, throttled building_robot_factory
+[10:47:54] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:48:42] ==== loop 51/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:48:43] planet 51: queue busy, throttled building_nano_factory
+[10:48:43] planet 86: building queue full (5)
+[10:48:43] planet 87: queue busy, throttled building_robot_factory
+[10:48:43] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:49:34] ==== loop 52/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:49:35] planet 51: queue busy, throttled building_nano_factory
+[10:49:35] planet 86: building queue full (5)
+[10:49:35] planet 87: queue busy, throttled building_robot_factory
+[10:49:35] planet 89: queue busy, throttled building_robot_factory
+[10:49:35] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:50:27] ==== loop 53/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:50:27] planet 51: queue busy, throttled building_nano_factory
+[10:50:27] planet 86: queued building_crystal_store to 9
+[10:50:27] planet 87: queue busy, throttled building_robot_factory
+[10:50:27] planet 89: queue busy, throttled building_robot_factory
+[10:50:27] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:51:17] ==== loop 54/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:51:17] planet 51: queue busy, throttled building_nano_factory
+[10:51:17] planet 86: queue busy, throttled building_robot_factory
+[10:51:17] planet 87: queue busy, throttled building_robot_factory
+[10:51:17] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:52:04] ==== loop 55/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:52:04] planet 51: queue busy, throttled building_nano_factory
+[10:52:04] planet 86: queue busy, throttled building_robot_factory
+[10:52:04] planet 87: queue busy, throttled building_robot_factory
+[10:52:04] planet 89: queue busy, throttled building_robot_factory
+[10:52:04] transport: 1:7:6 -> 1:282:9 [queue:hangar] m=0 c=0 d=58167 ships=0B+10S eta=85s fuel=664
+[2026-05-13 10:52:50] ==== loop 56/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:52:50] planet 51: queue busy, throttled building_nano_factory
+[10:52:50] planet 86: queue busy, throttled building_robot_factory
+[10:52:50] planet 87: queue busy, throttled building_robot_factory
+[10:52:50] transport: 1:282:9 -> 1:7:6 [consolidate_home] m=146837 c=74461 d=700 ships=0B+37S eta=85s fuel=2433
+[2026-05-13 10:53:33] ==== loop 57/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:53:33] planet 51: queue busy, throttled building_nano_factory
+[10:53:33] planet 86: queue busy, throttled building_robot_factory
+[10:53:33] planet 87: queue busy, throttled building_robot_factory
+[10:53:33] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 10:54:22] ==== loop 58/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:54:22] planet 51: queue busy, throttled building_nano_factory
+[10:54:22] planet 86: queue busy, throttled building_robot_factory
+[10:54:22] planet 87: queue busy, throttled building_robot_factory
+[10:54:22] planet 89: queue busy, throttled building_robot_factory
+[10:54:22] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:55:12] ==== loop 59/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:55:12] planet 51: queue busy, throttled building_nano_factory
+[10:55:12] planet 86: queue busy, throttled building_robot_factory
+[10:55:12] planet 87: queue busy, throttled building_robot_factory
+[10:55:12] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:55:57] ==== loop 60/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:55:57] planet 51: queue busy, throttled building_nano_factory
+[10:55:57] planet 86: queue busy, throttled building_robot_factory
+[10:55:57] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 10:56:46] ==== loop 61/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:56:46] planet 51: queue busy, throttled building_nano_factory
+[10:56:46] planet 86: queue busy, throttled building_robot_factory
+[10:56:46] planet 87: queue busy, throttled building_robot_factory
+[10:56:46] planet 89: queue busy, throttled building_robot_factory
+[10:56:46] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:57:30] ==== loop 62/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:57:30] planet 51: queue busy, throttled building_nano_factory
+[10:57:30] planet 86: queue busy, throttled building_robot_factory
+[10:57:30] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 10:58:15] ==== loop 63/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:58:15] planet 51: queue busy, throttled building_nano_factory
+[10:58:15] planet 86: queue busy, throttled building_robot_factory
+[10:58:15] planet 87: queue busy, throttled building_robot_factory
+[10:58:15] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:59:00] ==== loop 64/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:59:00] planet 51: queue busy, throttled building_nano_factory
+[10:59:00] planet 86: queue busy, throttled building_robot_factory
+[10:59:00] planet 87: queue busy, throttled building_robot_factory
+[10:59:00] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:59:49] ==== loop 65/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[10:59:49] planet 51: queue busy, throttled building_nano_factory
+[10:59:49] planet 86: queue busy, throttled building_robot_factory
+[10:59:49] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 11:00:40] ==== loop 66/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:00:40] planet 51: queue busy, throttled building_nano_factory
+[11:00:40] planet 86: queue busy, throttled building_robot_factory
+[11:00:40] planet 87: queue busy, throttled building_robot_factory
+[11:00:40] planet 89: queue busy, throttled building_robot_factory
+[11:00:40] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:01:26] ==== loop 67/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:01:26] planet 51: queue busy, throttled building_nano_factory
+[11:01:26] planet 86: queue busy, throttled building_robot_factory
+[11:01:26] planet 87: queue busy, throttled building_robot_factory
+[11:01:26] planet 89: queue busy, throttled building_robot_factory
+[11:01:26] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:02:15] ==== loop 68/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:02:15] planet 51: queue busy, throttled building_nano_factory
+[11:02:15] planet 86: queue busy, throttled building_robot_factory
+[11:02:15] planet 87: queue busy, throttled building_robot_factory
+[11:02:15] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:03:06] ==== loop 69/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:03:06] planet 51: queue busy, throttled building_nano_factory
+[11:03:06] planet 86: queue busy, throttled building_robot_factory
+[11:03:06] planet 87: queue busy, throttled building_robot_factory
+[11:03:06] planet 89: queue busy, throttled building_robot_factory
+[11:03:06] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:03:55] ==== loop 70/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:03:55] planet 51: queue busy, throttled building_nano_factory
+[11:03:55] planet 86: queue busy, throttled building_robot_factory
+[11:03:55] planet 87: queue busy, throttled building_robot_factory
+[11:03:55] planet 89: queue busy, throttled building_robot_factory
+[11:03:55] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:04:46] ==== loop 71/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:04:46] planet 51: queue busy, throttled building_nano_factory
+[11:04:46] planet 86: queue busy, throttled building_robot_factory
+[11:04:46] planet 87: queue busy, throttled building_robot_factory
+[11:04:46] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:05:33] ==== loop 72/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:05:33] planet 51: queue busy, throttled building_nano_factory
+[11:05:33] planet 86: queue busy, throttled building_robot_factory
+[11:05:33] planet 87: queue busy, throttled building_robot_factory
+[11:05:33] planet 89: queue busy, throttled building_robot_factory
+[11:05:33] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:06:16] ==== loop 73/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:06:16] planet 51: queue busy, throttled building_nano_factory
+[11:06:16] planet 86: queue busy, throttled building_robot_factory
+[11:06:16] planet 87: queue busy, throttled building_robot_factory
+[11:06:16] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:07:03] ==== loop 74/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:07:03] planet 51: queue busy, throttled building_nano_factory
+[11:07:03] planet 86: queue busy, throttled building_robot_factory
+[11:07:03] planet 87: queue busy, throttled building_robot_factory
+[11:07:03] planet 89: queue busy, throttled building_robot_factory
+[11:07:03] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:07:51] ==== loop 75/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:07:52] planet 51: queued building_solar_plant to 24
+[11:07:52] planet 86: queue busy, throttled building_robot_factory
+[11:07:52] planet 87: queue busy, throttled building_robot_factory
+[11:07:52] planet 89: queue busy, throttled building_robot_factory
+[11:07:52] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:08:42] ==== loop 76/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:08:43] planet 51: building queue full (5)
+[11:08:43] planet 86: queue busy, throttled building_robot_factory
+[11:08:43] planet 87: queue busy, throttled building_robot_factory
+[11:08:43] planet 89: queue busy, throttled building_robot_factory
+[11:08:43] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:09:31] ==== loop 77/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:09:32] planet 51: building queue full (5)
+[11:09:32] planet 86: queue busy, throttled building_robot_factory
+[11:09:32] planet 87: queue busy, throttled building_robot_factory
+[11:09:32] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:10:12] ==== loop 78/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:10:12] planet 51: building queue full (5)
+[11:10:12] planet 86: queue busy, throttled building_robot_factory
+[11:10:12] planet 87: queue busy, throttled building_robot_factory
+[11:10:12] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:11:01] ==== loop 79/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:11:01] planet 51: building queue full (5)
+[11:11:01] planet 86: queue busy, throttled building_robot_factory
+[11:11:01] planet 87: queue busy, throttled building_robot_factory
+[11:11:01] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:11:47] ==== loop 80/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:11:47] planet 51: building queue full (5)
+[11:11:47] planet 86: queue busy, throttled building_robot_factory
+[11:11:47] planet 87: queue busy, throttled building_robot_factory
+[11:11:47] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:12:27] ==== loop 81/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:12:28] planet 51: building queue full (5)
+[11:12:28] planet 86: queue busy, throttled building_robot_factory
+[11:12:28] planet 87: queue busy, throttled building_robot_factory
+[11:12:28] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:13:11] ==== loop 82/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:13:12] planet 51: building queue full (5)
+[11:13:12] planet 86: queue busy, throttled building_robot_factory
+[11:13:12] planet 87: queue busy, throttled building_robot_factory
+[11:13:12] planet 89: queue busy, throttled building_robot_factory
+[11:13:12] transport: 1:282:9 -> 1:7:6 [consolidate_home] m=143824 c=71473 d=6701 ships=0B+37S eta=85s fuel=2433
+[2026-05-13 11:13:55] ==== loop 83/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:13:55] planet 51: building queue full (5)
+[11:13:55] planet 86: queue busy, throttled building_robot_factory
+[11:13:55] planet 87: queue busy, throttled building_robot_factory
+[11:13:55] planet 89: queue busy, throttled building_robot_factory
+[11:13:55] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:14:36] ==== loop 84/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:14:37] planet 51: building queue full (5)
+[11:14:37] planet 86: queue busy, throttled building_robot_factory
+[11:14:37] planet 87: queue busy, throttled building_robot_factory
+[11:14:37] planet 89: queue busy, throttled building_robot_factory
+[11:14:37] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:15:20] ==== loop 85/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:15:21] planet 51: building queue full (5)
+[11:15:21] planet 86: queue busy, throttled building_robot_factory
+[11:15:21] planet 87: queue busy, throttled building_robot_factory
+[11:15:21] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:16:04] ==== loop 86/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:16:05] planet 51: building queue full (5)
+[11:16:05] planet 86: queue busy, throttled building_robot_factory
+[11:16:05] planet 87: queue busy, throttled building_robot_factory
+[11:16:05] planet 89: queue busy, throttled building_robot_factory
+[11:16:05] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:16:52] ==== loop 87/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:16:53] planet 51: building queue full (5)
+[11:16:53] planet 86: queue busy, throttled building_robot_factory
+[11:16:53] planet 87: queue busy, throttled building_robot_factory
+[11:16:53] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:17:40] ==== loop 88/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:17:41] planet 51: building queue full (5)
+[11:17:41] planet 86: queued ship_solar_satellite +5
+[11:17:41] planet 87: queue busy, throttled building_robot_factory
+[11:17:41] planet 89: queue busy, throttled building_robot_factory
+[11:17:41] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:18:30] ==== loop 89/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:18:31] planet 51: building queue full (5)
+[11:18:31] planet 86: queued building_robot_factory to 1
+[11:18:31] planet 87: queue busy, throttled building_robot_factory
+[11:18:31] planet 89: queue busy, throttled building_robot_factory
+[11:18:31] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:19:18] ==== loop 90/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:19:19] planet 51: building queue full (5)
+[11:19:19] planet 86: queued building_deuterium_sintetizer to 8
+[11:19:19] planet 87: queue busy, throttled building_robot_factory
+[11:19:19] planet 89: queue busy, throttled building_robot_factory
+[11:19:19] ally: transport: 1:7:6 -> 1:179:5 [ally_bot] m=45001 c=0 d=0 ships=0B+8S eta=69s fuel=353
+[2026-05-13 11:20:06] ==== loop 91/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:20:08] planet 51: building queue full (5)
+[11:20:08] planet 86: queued building_metal_store to 9
+[11:20:08] planet 87: queue busy, throttled building_robot_factory
+[11:20:08] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:20:52] ==== loop 92/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:20:53] planet 51: building queue full (5)
+[11:20:53] planet 86: queue busy, throttled building_robot_factory
+[11:20:53] planet 87: queue busy, throttled building_robot_factory
+[11:20:53] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:21:37] ==== loop 93/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:21:37] planet 51: building queue full (5)
+[11:21:37] planet 86: queue busy, throttled building_robot_factory
+[11:21:37] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 11:22:19] ==== loop 94/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:22:20] planet 51: building queue full (5)
+[11:22:20] planet 86: queue busy, throttled building_robot_factory
+[11:22:20] planet 87: queue busy, throttled building_robot_factory
+[11:22:20] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:23:04] ==== loop 95/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:23:04] planet 51: building queue full (5)
+[11:23:04] planet 86: queue busy, throttled building_robot_factory
+[11:23:04] planet 87: queue busy, throttled building_robot_factory
+[11:23:04] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:23:48] ==== loop 96/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:23:49] planet 51: building queue full (5)
+[11:23:49] planet 86: queue busy, throttled building_robot_factory
+[11:23:49] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 11:24:32] ==== loop 97/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:24:32] planet 51: building queue full (5)
+[11:24:32] planet 86: queue busy, throttled building_robot_factory
+[11:24:32] planet 87: queue busy, throttled building_robot_factory
+[11:24:32] planet 89: queue busy, throttled building_robot_factory
+[11:24:32] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:25:18] ==== loop 98/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:25:18] planet 51: building queue full (5)
+[11:25:18] planet 86: queue busy, throttled building_robot_factory
+[11:25:18] planet 87: queue busy, throttled building_robot_factory
+[11:25:18] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:26:09] ==== loop 99/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:26:10] planet 51: building queue full (5)
+[11:26:10] planet 86: queue busy, throttled building_robot_factory
+[11:26:10] planet 87: queue busy, throttled building_robot_factory
+[11:26:10] planet 89: queue busy, throttled building_robot_factory
+[11:26:10] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:26:56] ==== loop 100/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:26:56] planet 51: building queue full (5)
+[11:26:56] planet 86: queue busy, throttled building_robot_factory
+[11:26:56] planet 87: queue busy, throttled building_robot_factory
+[11:26:56] planet 89: queue busy, throttled building_robot_factory
+[11:26:56] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:27:44] ==== loop 101/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:27:44] planet 51: building queue full (5)
+[11:27:44] planet 86: queue busy, throttled building_robot_factory
+[11:27:44] planet 87: queue busy, throttled building_robot_factory
+[11:27:44] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:28:30] ==== loop 102/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:28:31] planet 51: building queue full (5)
+[11:28:31] planet 86: queue busy, throttled building_robot_factory
+[11:28:31] planet 87: queue busy, throttled building_robot_factory
+[11:28:31] planet 89: queue busy, throttled building_robot_factory
+[11:28:31] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:29:12] ==== loop 103/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:29:12] planet 51: building queue full (5)
+[11:29:12] planet 86: queue busy, throttled building_robot_factory
+[11:29:12] planet 87: queue busy, throttled building_robot_factory
+[11:29:12] planet 89: queue busy, throttled building_robot_factory
+[11:29:12] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:29:55] ==== loop 104/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:29:56] planet 51: building queue full (5)
+[11:29:56] planet 86: queue busy, throttled building_robot_factory
+[11:29:56] planet 87: queue busy, throttled building_robot_factory
+[11:29:56] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:30:38] ==== loop 105/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:30:39] planet 51: building queue full (5)
+[11:30:39] planet 86: queue busy, throttled building_robot_factory
+[11:30:39] planet 87: queue busy, throttled building_robot_factory
+[11:30:39] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:31:22] ==== loop 106/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:31:22] planet 51: building queue full (5)
+[11:31:22] planet 86: queue busy, throttled building_robot_factory
+[11:31:22] planet 87: queue busy, throttled building_robot_factory
+[11:31:22] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:32:05] ==== loop 107/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:32:06] planet 51: building queue full (5)
+[11:32:06] planet 86: queue busy, throttled building_robot_factory
+[11:32:06] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 11:32:46] ==== loop 108/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:32:47] planet 51: building queue full (5)
+[11:32:47] planet 86: queue busy, throttled building_robot_factory
+[11:32:47] planet 87: queue busy, throttled building_robot_factory
+[11:32:47] planet 89: queue busy, throttled building_robot_factory
+[11:32:47] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:33:32] ==== loop 109/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:33:32] planet 51: building queue full (5)
+[11:33:32] planet 86: queue busy, throttled building_robot_factory
+[11:33:32] planet 87: queue busy, throttled building_robot_factory
+[11:33:32] planet 89: queue busy, throttled building_robot_factory
+[11:33:32] transport: 1:282:9 -> 1:7:6 [consolidate_home] m=143739 c=71586 d=6673 ships=0B+37S eta=85s fuel=2433
+[2026-05-13 11:34:18] ==== loop 110/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:34:19] planet 51: building queue full (5)
+[11:34:19] planet 86: queue busy, throttled building_robot_factory
+[11:34:19] planet 87: queue busy, throttled building_robot_factory
+[11:34:19] planet 89: queue busy, throttled building_robot_factory
+[11:34:19] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:35:01] ==== loop 111/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:35:02] planet 51: building queue full (5)
+[11:35:02] planet 86: queue busy, throttled building_robot_factory
+[11:35:02] planet 87: queue busy, throttled building_robot_factory
+[11:35:02] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:35:46] ==== loop 112/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:35:47] planet 51: building queue full (5)
+[11:35:47] planet 86: queue busy, throttled building_robot_factory
+[11:35:47] planet 87: queue busy, throttled building_robot_factory
+[11:35:47] planet 89: queue busy, throttled building_robot_factory
+[11:35:47] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:36:26] ==== loop 113/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:36:26] planet 51: building queue full (5)
+[11:36:26] planet 86: queue busy, throttled building_robot_factory
+[11:36:26] planet 87: queue busy, throttled building_robot_factory
+[11:36:26] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:37:10] ==== loop 114/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:37:10] planet 51: building queue full (5)
+[11:37:10] planet 86: queue busy, throttled building_robot_factory
+[11:37:10] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 11:37:53] ==== loop 115/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:37:53] planet 51: building queue full (5)
+[11:37:53] planet 86: queue busy, throttled building_robot_factory
+[11:37:53] planet 87: queue busy, throttled building_robot_factory
+[11:37:53] planet 89: queue busy, throttled building_robot_factory
+[11:37:53] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:38:40] ==== loop 116/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:38:40] planet 51: building queue full (5)
+[11:38:40] planet 86: queue busy, throttled building_robot_factory
+[11:38:40] planet 87: queue busy, throttled building_robot_factory
+[11:38:40] planet 89: queue busy, throttled building_robot_factory
+[11:38:40] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:39:28] ==== loop 117/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:39:28] planet 51: building queue full (5)
+[11:39:28] planet 86: queue busy, throttled building_robot_factory
+[11:39:28] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 11:40:16] ==== loop 118/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:40:16] planet 51: building queue full (5)
+[11:40:16] planet 86: queue busy, throttled building_robot_factory
+[11:40:16] planet 87: queue busy, throttled building_robot_factory
+[11:40:16] planet 89: queue busy, throttled building_robot_factory
+[11:40:16] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:40:58] ==== loop 119/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:40:58] planet 51: building queue full (5)
+[11:40:58] planet 86: queue busy, throttled building_robot_factory
+[11:40:58] planet 87: queue busy, throttled building_robot_factory
+[11:40:58] planet 89: queue busy, throttled building_robot_factory
+[11:40:58] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:41:46] ==== loop 120/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:41:47] planet 51: building queue full (5)
+[11:41:47] planet 86: queue busy, throttled building_robot_factory
+[11:41:47] planet 87: queue busy, throttled building_robot_factory
+[11:41:47] planet 89: queue busy, throttled building_robot_factory
+[11:41:47] ally: transport: 1:7:6 -> 1:33:9 [ally_bot] m=0 c=34429 d=2306 ships=0B+7S eta=36s fuel=85
+[2026-05-13 11:42:39] ==== loop 121/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:42:40] planet 51: building queue full (5)
+[11:42:40] planet 86: queue busy, throttled building_robot_factory
+[11:42:40] planet 87: queue busy, throttled building_robot_factory
+[11:42:40] planet 89: queue busy, throttled building_robot_factory
+[11:42:40] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:43:25] ==== loop 122/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:43:26] planet 51: building queue full (5)
+[11:43:26] planet 86: queue busy, throttled building_robot_factory
+[11:43:26] planet 87: queue busy, throttled building_robot_factory
+[11:43:26] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:44:15] ==== loop 123/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:44:16] planet 51: building queue full (5)
+[11:44:16] planet 86: queue busy, throttled building_robot_factory
+[11:44:16] planet 87: queue busy, throttled building_robot_factory
+[11:44:16] planet 89: queue busy, throttled building_robot_factory
+[11:44:16] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:45:02] ==== loop 124/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:45:03] planet 51: building queue full (5)
+[11:45:03] planet 86: queue busy, throttled building_robot_factory
+[11:45:03] planet 87: queue busy, throttled building_robot_factory
+[11:45:03] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:45:48] ==== loop 125/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:45:49] planet 51: building queue full (5)
+[11:45:49] planet 86: queue busy, throttled building_robot_factory
+[11:45:49] planet 87: queue busy, throttled building_robot_factory
+[11:45:49] planet 89: queue busy, throttled building_robot_factory
+[11:45:49] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:46:32] ==== loop 126/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:46:33] planet 51: building queue full (5)
+[11:46:33] planet 86: queue busy, throttled building_robot_factory
+[11:46:33] planet 87: queue busy, throttled building_robot_factory
+[11:46:33] planet 89: queue busy, throttled building_robot_factory
+[11:46:33] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:47:22] ==== loop 127/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:47:22] planet 51: building queue full (5)
+[11:47:22] planet 86: queue busy, throttled building_robot_factory
+[11:47:22] planet 87: queue busy, throttled building_robot_factory
+[11:47:22] planet 89: queue busy, throttled building_robot_factory
+[11:47:22] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:48:07] ==== loop 128/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:48:07] planet 51: building queue full (5)
+[11:48:07] planet 86: queue busy, throttled building_robot_factory
+[11:48:07] planet 87: queue busy, throttled building_robot_factory
+[11:48:07] planet 89: queue busy, throttled building_robot_factory
+[11:48:07] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:48:55] ==== loop 129/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:48:55] planet 51: building queue full (5)
+[11:48:55] planet 86: queue busy, throttled building_robot_factory
+[11:48:55] planet 87: queue busy, throttled building_robot_factory
+[11:48:55] planet 89: queue busy, throttled building_robot_factory
+[11:48:55] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:49:47] ==== loop 130/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:49:48] planet 51: building queue full (5)
+[11:49:48] planet 86: queue busy, throttled building_robot_factory
+[11:49:48] planet 87: queue busy, throttled building_robot_factory
+[11:49:48] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:50:35] ==== loop 131/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:50:36] planet 51: building queue full (5)
+[11:50:36] planet 86: queue busy, throttled building_robot_factory
+[11:50:36] planet 87: queue busy, throttled building_robot_factory
+[11:50:36] planet 89: queue busy, throttled building_robot_factory
+[11:50:36] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:51:25] ==== loop 132/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:51:25] planet 51: building queue full (5)
+[11:51:25] planet 86: queue busy, throttled building_robot_factory
+[11:51:25] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 11:52:11] ==== loop 133/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:52:12] planet 51: building queue full (5)
+[11:52:12] planet 86: queue busy, throttled building_robot_factory
+[11:52:12] planet 87: queue busy, throttled building_robot_factory
+[11:52:12] planet 89: queue busy, throttled building_robot_factory
+[11:52:12] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:53:00] ==== loop 134/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:53:00] planet 51: building queue full (5)
+[11:53:00] planet 86: queue busy, throttled building_robot_factory
+[11:53:00] planet 87: queue busy, throttled building_robot_factory
+[11:53:00] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:53:44] ==== loop 135/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:53:44] planet 51: building queue full (5)
+[11:53:44] planet 86: queue busy, throttled building_robot_factory
+[11:53:44] planet 87: queue busy, throttled building_robot_factory
+[11:53:44] transport: 1:282:9 -> 1:7:6 [consolidate_home] m=143581 c=71759 d=6658 ships=0B+37S eta=85s fuel=2433
+[2026-05-13 11:54:25] ==== loop 136/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:54:25] planet 51: building queue full (5)
+[11:54:25] planet 86: queue busy, throttled building_robot_factory
+[11:54:25] planet 87: queue busy, throttled building_robot_factory
+[11:54:25] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:55:04] ==== loop 137/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:55:04] planet 51: building queue full (5)
+[11:55:04] planet 86: queue busy, throttled building_robot_factory
+[11:55:04] planet 87: queue busy, throttled building_robot_factory
+[11:55:04] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:55:56] ==== loop 138/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:55:56] planet 51: building queue full (5)
+[11:55:56] planet 86: queue busy, throttled building_robot_factory
+[11:55:56] planet 87: queue busy, throttled building_robot_factory
+[11:55:56] planet 89: queue busy, throttled building_robot_factory
+[11:55:56] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:56:40] ==== loop 139/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:56:41] planet 51: building queue full (5)
+[11:56:41] planet 86: queue busy, throttled building_robot_factory
+[11:56:41] planet 87: queue busy, throttled building_robot_factory
+[11:56:41] planet 89: queue busy, throttled building_robot_factory
+[11:56:41] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:57:29] ==== loop 140/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:57:30] planet 51: building queue full (5)
+[11:57:30] planet 86: queue busy, throttled building_robot_factory
+[11:57:30] planet 87: queue busy, throttled building_robot_factory
+[11:57:30] planet 89: queue busy, throttled building_robot_factory
+[11:57:30] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:58:14] ==== loop 141/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:58:15] planet 51: building queue full (5)
+[11:58:15] planet 86: queue busy, throttled building_robot_factory
+[11:58:15] planet 87: queue busy, throttled building_robot_factory
+[11:58:15] planet 89: queue busy, throttled building_robot_factory
+[11:58:15] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:58:55] ==== loop 142/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:58:56] planet 51: building queue full (5)
+[11:58:56] planet 86: queue busy, throttled building_robot_factory
+[11:58:56] planet 87: queue busy, throttled building_robot_factory
+[11:58:56] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 11:59:37] ==== loop 143/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[11:59:38] planet 51: building queue full (5)
+[11:59:38] planet 86: queue busy, throttled building_robot_factory
+[11:59:38] planet 87: queue busy, throttled building_robot_factory
+[11:59:38] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 12:00:23] ==== loop 144/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:00:24] planet 51: building queue full (5)
+[12:00:24] planet 86: queue busy, throttled building_robot_factory
+[12:00:24] planet 87: queue busy, throttled building_robot_factory
+[12:00:24] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 12:01:09] ==== loop 145/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:01:11] planet 51: building queue full (5)
+[12:01:11] planet 86: building queue full (5)
+[12:01:11] planet 87: queue busy, throttled building_robot_factory
+[12:01:11] planet 89: queue busy, throttled building_robot_factory
+[12:01:11] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:01:54] ==== loop 146/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:01:55] planet 51: building queue full (5)
+[12:01:55] planet 86: building queue full (5)
+[12:01:55] planet 87: queue busy, throttled building_robot_factory
+[12:01:55] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 12:02:41] ==== loop 147/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:02:42] planet 51: building queue full (5)
+[12:02:42] planet 86: building queue full (5)
+[12:02:42] planet 87: queue busy, throttled building_robot_factory
+[12:02:42] planet 89: queue busy, throttled building_robot_factory
+[12:02:42] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:03:28] ==== loop 148/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:03:30] planet 51: building queue full (5)
+[12:03:30] planet 86: building queue full (5)
+[12:03:30] planet 87: queue busy, throttled building_robot_factory
+[12:03:30] planet 89: queue busy, throttled building_robot_factory
+[12:03:30] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:04:18] ==== loop 149/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:04:20] planet 51: building queue full (5)
+[12:04:20] planet 86: building queue full (5)
+[12:04:20] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 12:05:04] ==== loop 150/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:05:06] planet 51: building queue full (5)
+[12:05:06] planet 86: building queue full (5)
+[12:05:06] planet 87: queue busy, throttled building_robot_factory
+[12:05:06] planet 89: queue busy, throttled building_robot_factory
+[12:05:06] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:05:54] ==== loop 151/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:05:56] planet 51: building queue full (5)
+[12:05:56] planet 86: building queue full (5)
+[12:05:56] planet 87: queue busy, throttled building_robot_factory
+[12:05:56] planet 89: queue busy, throttled building_robot_factory
+[2026-05-13 12:06:43] ==== loop 152/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:06:45] planet 51: building queue full (5)
+[12:06:45] planet 86: building queue full (5)
+[12:06:45] planet 87: queue busy, throttled building_robot_factory
+[2026-05-13 12:07:31] ==== loop 153/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:07:33] planet 51: building queue full (5)
+[12:07:33] planet 86: building queue full (5)
+[12:07:33] planet 87: queue busy, throttled building_robot_factory
+[12:07:33] planet 89: queue busy, throttled building_robot_factory
+[12:07:33] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:08:27] ==== loop 154/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:08:28] planet 51: building queue full (5)
+[12:08:28] planet 86: building queue full (5)
+[12:08:28] planet 87: queue busy, throttled building_robot_factory
+[12:08:28] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:09:18] ==== loop 155/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:09:19] planet 51: building queue full (5)
+[12:09:19] planet 86: building queue full (5)
+[12:09:19] planet 87: queue busy, throttled building_robot_factory
+[12:09:19] planet 89: queue busy, throttled building_robot_factory
+[12:09:19] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:10:02] ==== loop 156/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:10:03] planet 51: building queue full (5)
+[12:10:03] planet 86: building queue full (5)
+[12:10:03] planet 87: queue busy, throttled building_robot_factory
+[12:10:03] planet 89: queue busy, throttled building_robot_factory
+[12:10:03] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:10:49] ==== loop 157/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:10:50] planet 51: building queue full (5)
+[12:10:50] planet 86: building queue full (5)
+[12:10:50] planet 87: queue busy, throttled building_robot_factory
+[12:10:50] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:11:35] ==== loop 158/∞ | seed=728279423202429771 archetype=turtle personality=tecnologico focus=tech actions_per_loop=1 ====
+[12:11:36] planet 51: building queue full (5)
+[12:11:36] planet 86: building queue full (5)
+[12:11:36] planet 87: queue busy, throttled building_robot_factory
+[12:11:36] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)

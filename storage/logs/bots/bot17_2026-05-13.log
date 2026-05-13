@@ -1,0 +1,954 @@
+[2026-05-13 10:11:46] ==== loop 1/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:11:47] planet 43: queued ship_colony_ship +1
+[10:11:47] planet 43: queued building_robot_factory to 7
+[10:11:47] colonize: 1:5:12 -> 1:32:9 (eta 73s, fuel 598)
+[2026-05-13 10:12:26] ==== loop 2/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:12:28] planet 43: queued ship_colony_ship +1
+[10:12:28] planet 43: queued building_robot_factory to 8
+[2026-05-13 10:13:08] ==== loop 3/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:13:08] planet 43: queued building_robot_factory to 9
+[10:13:08] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:13:47] ==== loop 4/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:13:49] planet 43: queued building_deuterium_tank to 11
+[10:13:49] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:14:31] ==== loop 5/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:14:32] planet 43: queued building_robot_factory to 10
+[10:14:32] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:15:10] ==== loop 6/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:15:11] planet 43: building queue full (5)
+[10:15:11] planet 43: building queue full (5)
+[10:15:11] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:15:54] ==== loop 7/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:15:55] planet 43: building queue full (5)
+[10:15:55] planet 43: building queue full (5)
+[10:15:55] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:16:38] ==== loop 8/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:16:40] planet 43: building queue full (5)
+[10:16:40] planet 43: building queue full (5)
+[2026-05-13 10:17:22] ==== loop 9/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:17:23] planet 43: building queue full (5)
+[10:17:23] planet 43: building queue full (5)
+[10:17:23] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:18:05] ==== loop 10/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:18:06] planet 43: building queue full (5)
+[10:18:06] planet 43: building queue full (5)
+[10:18:06] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:18:51] ==== loop 11/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:18:52] planet 43: building queue full (5)
+[10:18:52] planet 93: queued building_deuterium_sintetizer to 1
+[10:18:52] planet 43: building queue full (5)
+[10:18:52] colonize: 1:5:12 -> 1:33:9 (eta 73s, fuel 614)
+[10:18:52] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:19:37] ==== loop 12/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:19:38] planet 43: building queue full (5)
+[10:19:38] planet 93: queued building_solar_plant to 1
+[10:19:38] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:20:17] ==== loop 13/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:20:18] planet 43: queued building_crystal_mine to 21
+[10:20:18] planet 93: no resources for building_hangar+1
+[10:20:18] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:21:00] ==== loop 14/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:21:02] planet 43: queued building_deuterium_sintetizer to 18
+[10:21:02] planet 93: queued building_hangar to 1
+[10:21:02] planet 98: no resources for building_hangar+1
+[2026-05-13 10:21:47] ==== loop 15/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:21:49] planet 43: building queue full (5)
+[10:21:49] planet 98: no resources for building_hangar+1
+[10:21:49] planet 93: no resources for building_hangar+1
+[2026-05-13 10:22:32] ==== loop 16/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:22:35] planet 43: building queue full (5)
+[10:22:35] planet 93: queued building_hangar to 2
+[10:22:35] planet 98: no resources for building_hangar+1
+[10:22:35] planet 43: building queue full (5)
+[10:22:35] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:23:17] ==== loop 17/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:23:20] planet 43: building queue full (5)
+[10:23:20] planet 98: no resources for building_hangar+1
+[10:23:20] planet 93: no resources for building_hangar+1
+[10:23:20] planet 43: building queue full (5)
+[10:23:20] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:24:06] ==== loop 18/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:24:09] planet 43: building queue full (5)
+[10:24:09] planet 93: no resources for building_hangar+1
+[10:24:09] planet 98: queued building_hangar to 1
+[10:24:09] planet 43: building queue full (5)
+[10:24:09] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:24:55] ==== loop 19/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:24:58] planet 43: building queue full (5)
+[10:24:58] planet 93: no resources for building_hangar+1
+[10:24:58] planet 98: no resources for building_hangar+1
+[10:24:58] planet 43: building queue full (5)
+[2026-05-13 10:25:41] ==== loop 20/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:25:43] planet 43: building queue full (5)
+[10:25:43] planet 93: no resources for building_hangar+1
+[10:25:43] planet 98: no resources for building_hangar+1
+[10:25:43] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:26:26] ==== loop 21/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:26:29] planet 43: building queue full (5)
+[10:26:29] planet 93: no resources for building_hangar+1
+[10:26:29] planet 98: no resources for building_hangar+1
+[10:26:29] planet 43: building queue full (5)
+[10:26:29] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:27:14] ==== loop 22/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:27:16] planet 43: building queue full (5)
+[10:27:16] planet 93: no resources for building_hangar+1
+[10:27:16] planet 98: queued building_hangar to 2
+[2026-05-13 10:27:56] ==== loop 23/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:27:58] planet 43: building queue full (5)
+[10:27:58] planet 93: no resources for building_hangar+1
+[10:27:58] planet 98: no resources for building_hangar+1
+[10:27:58] planet 43: building queue full (5)
+[10:27:58] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:28:46] ==== loop 24/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:28:49] planet 43: building queue full (5)
+[10:28:49] planet 93: no resources for building_hangar+1
+[10:28:49] planet 98: no resources for building_hangar+1
+[10:28:49] planet 43: building queue full (5)
+[10:28:49] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:29:34] ==== loop 25/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:29:35] planet 43: building queue full (5)
+[10:29:35] planet 93: no resources for building_hangar+1
+[10:29:35] planet 98: no resources for building_hangar+1
+[2026-05-13 10:30:16] ==== loop 26/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:30:19] planet 43: queued building_metal_store to 18
+[10:30:19] planet 93: no resources for building_hangar+1
+[10:30:19] planet 98: no resources for building_hangar+1
+[2026-05-13 10:30:57] ==== loop 27/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:30:59] planet 43: queue busy, throttled building_robot_factory
+[10:30:59] planet 93: no resources for building_hangar+1
+[10:30:59] planet 98: no resources for building_hangar+1
+[2026-05-13 10:31:37] ==== loop 28/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:31:38] planet 43: queue busy, throttled building_robot_factory
+[10:31:38] planet 93: no resources for building_hangar+1
+[10:31:38] planet 98: no resources for building_hangar+1
+[10:31:38] planet 43: queue busy, throttled building_robot_factory
+[10:31:38] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:32:21] ==== loop 29/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:32:22] planet 43: queue busy, throttled building_robot_factory
+[10:32:22] planet 93: queued building_hangar to 3
+[10:32:22] planet 98: no resources for building_hangar+1
+[10:32:22] planet 43: queue busy, throttled building_robot_factory
+[10:32:22] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:33:05] ==== loop 30/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:33:07] planet 43: queued ship_colony_ship +1
+[10:33:07] planet 98: queued building_laboratory to 1
+[10:33:07] planet 93: queued building_solar_plant to 2
+[2026-05-13 10:33:48] ==== loop 31/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:33:50] planet 43: queue busy, throttled building_nano_factory
+[10:33:50] planet 93: queued building_solar_plant to 3
+[10:33:50] planet 98: queued building_laboratory to 2
+[10:33:50] planet 43: queue busy, throttled building_nano_factory
+[10:33:50] colonize: 1:5:12 -> 1:34:9 (eta 74s, fuel 622)
+[10:33:50] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:34:32] ==== loop 32/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:34:34] planet 43: queue busy, throttled building_nano_factory
+[10:34:34] planet 93: queued building_solar_plant to 4
+[10:34:34] planet 98: no resources for building_laboratory+1
+[10:34:34] planet 101: queued building_metal_mine to 1
+[10:34:34] planet 43: queue busy, throttled building_nano_factory
+[2026-05-13 10:35:15] ==== loop 33/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:35:17] planet 43: queue busy, throttled building_nano_factory
+[10:35:17] planet 98: no resources for building_laboratory+1
+[10:35:17] planet 93: queued building_solar_plant to 5
+[10:35:17] planet 101: queued building_solar_plant to 1
+[10:35:17] planet 43: queue busy, throttled building_nano_factory
+[2026-05-13 10:36:00] ==== loop 34/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:36:03] planet 43: queue busy, throttled building_nano_factory
+[10:36:03] planet 98: no resources for building_laboratory+1
+[10:36:03] planet 93: queued building_solar_plant to 6
+[10:36:03] planet 101: queued building_metal_mine to 2
+[10:36:03] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:36:44] ==== loop 35/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:36:46] planet 43: queue busy, throttled building_nano_factory
+[10:36:46] planet 98: no resources for building_laboratory+1
+[10:36:46] planet 93: queued building_solar_plant to 7
+[10:36:46] planet 101: queued building_solar_plant to 2
+[2026-05-13 10:37:21] ==== loop 36/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:37:24] planet 43: queue busy, throttled building_nano_factory
+[10:37:24] planet 98: no resources for building_laboratory+1
+[10:37:24] planet 93: queued building_solar_plant to 8
+[10:37:24] planet 101: queued building_metal_mine to 3
+[10:37:24] planet 43: queue busy, throttled building_nano_factory
+[10:37:24] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:38:01] ==== loop 37/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:38:04] planet 43: queue busy, throttled building_nano_factory
+[10:38:04] planet 98: no resources for building_laboratory+1
+[10:38:04] planet 93: queued building_solar_plant to 9
+[10:38:04] planet 101: queued building_metal_mine to 4
+[10:38:04] planet 43: queue busy, throttled building_nano_factory
+[10:38:04] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:38:44] ==== loop 38/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:38:46] planet 43: queue busy, throttled building_nano_factory
+[10:38:46] planet 98: no resources for building_laboratory+1
+[10:38:46] planet 93: no resources for building_solar_plant+1
+[10:38:46] planet 101: queued building_solar_plant to 3
+[10:38:46] planet 43: queue busy, throttled building_nano_factory
+[10:38:46] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:39:25] ==== loop 39/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:39:29] planet 43: queued building_nano_factory to 1
+[10:39:29] planet 93: no resources for building_solar_plant+1
+[10:39:29] planet 98: no resources for building_laboratory+1
+[10:39:29] planet 101: queued building_metal_mine to 5
+[10:39:29] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:40:10] ==== loop 40/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:40:12] planet 43: queue busy, throttled building_nano_factory
+[10:40:12] planet 93: queued building_robot_factory to 1
+[10:40:12] planet 98: queued building_metal_mine to 1
+[10:40:12] planet 101: queued building_deuterium_sintetizer to 1
+[10:40:12] planet 43: queue busy, throttled building_nano_factory
+[10:40:12] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:40:50] ==== loop 41/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:40:53] planet 43: queue busy, throttled building_nano_factory
+[10:40:53] planet 101: queued building_solar_plant to 4
+[10:40:53] planet 93: queued building_robot_factory to 2
+[10:40:53] planet 98: queued building_solar_plant to 1
+[10:40:53] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:41:35] ==== loop 42/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:41:38] planet 43: building queue full (5)
+[10:41:38] planet 101: queued building_deuterium_sintetizer to 2
+[10:41:38] planet 93: queued building_robot_factory to 3
+[10:41:38] planet 98: queued building_metal_mine to 2
+[10:41:38] planet 43: building queue full (5)
+[2026-05-13 10:42:24] ==== loop 43/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:42:27] planet 43: building queue full (5)
+[10:42:27] planet 101: queued building_solar_plant to 5
+[10:42:27] planet 93: no resources for building_robot_factory+1
+[10:42:27] planet 98: queued building_solar_plant to 2
+[10:42:27] planet 43: building queue full (5)
+[2026-05-13 10:43:06] ==== loop 44/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:43:10] planet 43: building queue full (5)
+[10:43:10] planet 93: no resources for building_robot_factory+1
+[10:43:10] planet 101: queued building_deuterium_sintetizer to 3
+[10:43:10] planet 98: queued building_metal_mine to 3
+[10:43:10] planet 43: building queue full (5)
+[2026-05-13 10:43:52] ==== loop 45/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:43:57] planet 43: building queue full (5)
+[10:43:57] planet 93: no resources for building_hangar+1
+[10:43:57] planet 101: queued building_solar_plant to 6
+[10:43:57] planet 98: queued building_metal_mine to 4
+[10:43:57] planet 43: building queue full (5)
+[10:43:57] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:44:37] ==== loop 46/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:44:40] planet 43: building queue full (5)
+[10:44:40] planet 93: no resources for building_hangar+1
+[10:44:40] planet 101: queued building_deuterium_sintetizer to 4
+[10:44:40] planet 98: queued building_solar_plant to 3
+[10:44:40] planet 43: building queue full (5)
+[2026-05-13 10:45:20] ==== loop 47/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:45:23] planet 43: building queue full (5)
+[10:45:23] planet 101: queued building_deuterium_sintetizer to 5
+[10:45:23] planet 93: no resources for building_hangar+1
+[10:45:23] planet 98: queued building_metal_mine to 5
+[10:45:23] planet 43: building queue full (5)
+[2026-05-13 10:46:07] ==== loop 48/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:46:09] planet 43: building queue full (5)
+[10:46:09] planet 101: queued building_solar_plant to 7
+[10:46:09] planet 93: no resources for building_hangar+1
+[10:46:09] planet 98: queued building_metal_mine to 6
+[10:46:09] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:46:57] ==== loop 49/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:47:00] planet 43: building queue full (5)
+[10:47:00] planet 101: queued building_deuterium_sintetizer to 6
+[10:47:00] planet 93: no resources for building_hangar+1
+[10:47:00] planet 98: queued building_solar_plant to 4
+[10:47:00] planet 43: building queue full (5)
+[10:47:00] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:47:47] ==== loop 50/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:47:50] planet 43: building queue full (5)
+[10:47:50] planet 101: queued building_solar_plant to 8
+[10:47:50] planet 93: no resources for building_hangar+1
+[10:47:50] planet 98: queued building_metal_mine to 7
+[10:47:50] planet 43: building queue full (5)
+[10:47:50] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:48:37] ==== loop 51/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:48:39] planet 43: building queue full (5)
+[10:48:39] planet 101: queued building_deuterium_sintetizer to 7
+[10:48:39] planet 93: no resources for building_hangar+1
+[10:48:39] planet 98: queued building_solar_plant to 5
+[10:48:39] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:49:25] ==== loop 52/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:49:28] planet 43: building queue full (5)
+[10:49:28] planet 101: queued building_solar_plant to 9
+[10:49:28] planet 98: queued building_metal_mine to 8
+[10:49:28] planet 93: no resources for building_hangar+1
+[10:49:28] planet 43: building queue full (5)
+[2026-05-13 10:50:17] ==== loop 53/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:50:21] planet 43: building queue full (5)
+[10:50:21] planet 101: queued building_hangar to 1
+[10:50:21] planet 98: queued building_solar_plant to 6
+[10:50:21] planet 93: queued building_crystal_mine to 1
+[10:50:21] planet 43: building queue full (5)
+[10:50:21] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:51:07] ==== loop 54/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:51:10] planet 43: building queue full (5)
+[10:51:10] planet 101: no resources for ship_heavy_fighter+5
+[10:51:10] planet 98: no resources for ship_small_cargo_ship+8
+[10:51:10] planet 93: queued building_crystal_mine to 2
+[10:51:10] planet 43: building queue full (5)
+[10:51:10] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:51:55] ==== loop 55/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:51:59] planet 43: building queue full (5)
+[10:51:59] planet 101: no resources for ship_heavy_fighter+5
+[10:51:59] planet 98: no resources for ship_small_cargo_ship+8
+[10:51:59] planet 93: queued building_crystal_mine to 3
+[10:51:59] planet 43: building queue full (5)
+[10:51:59] ally: transport: 1:5:12 -> 1:282:9 [ally_bot] m=0 c=0 d=58167 ships=0B+10S eta=85s fuel=671
+[2026-05-13 10:52:43] ==== loop 56/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:52:46] planet 43: building queue full (5)
+[10:52:46] planet 101: no resources for ship_heavy_fighter+5
+[10:52:46] planet 98: no resources for ship_small_cargo_ship+8
+[10:52:46] planet 93: queued building_crystal_mine to 4
+[10:52:46] planet 43: building queue full (5)
+[10:52:46] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:53:27] ==== loop 57/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:53:30] planet 43: building queue full (5)
+[10:53:30] planet 101: no resources for ship_heavy_fighter+5
+[10:53:30] planet 98: no resources for ship_small_cargo_ship+8
+[10:53:30] planet 93: queued building_crystal_mine to 5
+[10:53:30] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:54:15] ==== loop 58/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:54:17] planet 43: building queue full (5)
+[10:54:17] planet 98: no resources for ship_small_cargo_ship+8
+[10:54:17] planet 101: no resources for ship_heavy_fighter+5
+[10:54:17] planet 93: queued building_crystal_mine to 6
+[2026-05-13 10:55:04] ==== loop 59/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:55:06] planet 43: building queue full (5)
+[10:55:06] planet 98: no resources for ship_small_cargo_ship+8
+[10:55:06] planet 101: no resources for ship_heavy_fighter+5
+[10:55:06] planet 93: queued building_crystal_mine to 7
+[2026-05-13 10:55:50] ==== loop 60/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:55:53] planet 43: building queue full (5)
+[10:55:53] planet 98: no resources for ship_small_cargo_ship+8
+[10:55:53] planet 101: no resources for ship_heavy_fighter+5
+[10:55:53] planet 93: queued building_crystal_mine to 8
+[10:55:53] planet 43: building queue full (5)
+[2026-05-13 10:56:39] ==== loop 61/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:56:42] planet 43: building queue full (5)
+[10:56:42] planet 98: no resources for ship_small_cargo_ship+8
+[10:56:42] planet 101: no resources for ship_heavy_fighter+5
+[10:56:42] planet 93: queued building_crystal_mine to 9
+[10:56:42] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:57:20] ==== loop 62/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:57:24] planet 43: building queue full (5)
+[10:57:24] planet 98: no resources for ship_small_cargo_ship+8
+[10:57:24] planet 101: no resources for ship_heavy_fighter+5
+[10:57:24] planet 93: queued building_crystal_mine to 10
+[10:57:24] planet 43: building queue full (5)
+[10:57:24] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:58:09] ==== loop 63/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:58:11] planet 43: building queue full (5)
+[10:58:11] planet 98: no resources for ship_small_cargo_ship+8
+[10:58:11] planet 101: no resources for ship_heavy_fighter+5
+[10:58:11] planet 93: no resources for building_crystal_mine+1
+[2026-05-13 10:58:52] ==== loop 64/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:58:55] planet 43: building queue full (5)
+[10:58:55] planet 98: no resources for ship_small_cargo_ship+8
+[10:58:55] planet 101: no resources for ship_heavy_fighter+5
+[10:58:55] planet 93: no resources for building_crystal_mine+1
+[10:58:55] planet 43: building queue full (5)
+[10:58:55] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 10:59:40] ==== loop 65/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[10:59:42] planet 43: building queue full (5)
+[10:59:42] planet 98: no resources for ship_small_cargo_ship+8
+[10:59:42] planet 101: no resources for ship_heavy_fighter+5
+[10:59:42] planet 93: no resources for building_crystal_mine+1
+[10:59:42] planet 43: building queue full (5)
+[10:59:42] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:00:30] ==== loop 66/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:00:34] planet 43: building queue full (5)
+[11:00:34] planet 98: queued building_metal_store to 1
+[11:00:34] planet 101: queued building_crystal_mine to 1
+[11:00:34] planet 93: no resources for building_crystal_mine+1
+[2026-05-13 11:01:19] ==== loop 67/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:01:21] planet 43: building queue full (5)
+[11:01:21] planet 98: queued building_metal_store to 2
+[11:01:21] planet 93: no resources for building_crystal_mine+1
+[11:01:21] planet 101: queued building_crystal_mine to 2
+[11:01:21] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:02:06] ==== loop 68/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:02:10] planet 43: building queue full (5)
+[11:02:10] planet 98: queued building_deuterium_sintetizer to 1
+[11:02:10] planet 93: no resources for building_crystal_mine+1
+[11:02:10] planet 101: queued building_crystal_mine to 3
+[11:02:10] planet 43: building queue full (5)
+[2026-05-13 11:02:57] ==== loop 69/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:03:01] planet 43: building queue full (5)
+[11:03:01] planet 93: no resources for building_crystal_mine+1
+[11:03:01] planet 98: queued building_deuterium_sintetizer to 2
+[11:03:01] planet 101: queued building_crystal_mine to 4
+[11:03:01] planet 43: building queue full (5)
+[2026-05-13 11:03:45] ==== loop 70/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:03:48] planet 43: building queue full (5)
+[11:03:48] planet 93: no resources for building_crystal_mine+1
+[11:03:48] planet 98: queued building_solar_plant to 7
+[11:03:48] planet 101: queued building_deuterium_sintetizer to 8
+[11:03:48] planet 43: building queue full (5)
+[2026-05-13 11:04:36] ==== loop 71/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:04:41] planet 43: building queue full (5)
+[11:04:41] planet 93: no resources for building_crystal_mine+1
+[11:04:41] planet 98: queued building_deuterium_sintetizer to 3
+[11:04:41] planet 101: queued building_solar_plant to 10
+[11:04:41] planet 43: building queue full (5)
+[2026-05-13 11:05:24] ==== loop 72/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:05:27] planet 43: building queue full (5)
+[11:05:27] planet 93: no resources for building_crystal_mine+1
+[11:05:27] planet 98: queued building_deuterium_sintetizer to 4
+[11:05:27] planet 101: queued building_crystal_mine to 5
+[11:05:27] planet 43: building queue full (5)
+[11:05:27] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:06:08] ==== loop 73/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:06:11] planet 43: building queue full (5)
+[11:06:11] planet 93: no resources for building_crystal_mine+1
+[11:06:11] planet 98: queued building_solar_plant to 8
+[11:06:11] planet 101: queued building_deuterium_sintetizer to 9
+[11:06:11] planet 43: building queue full (5)
+[2026-05-13 11:06:55] ==== loop 74/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:06:58] planet 43: building queue full (5)
+[11:06:58] planet 93: no resources for building_crystal_mine+1
+[11:06:58] planet 98: queued building_deuterium_sintetizer to 5
+[11:06:58] planet 101: building queue full (5)
+[11:06:58] planet 43: building queue full (5)
+[11:06:58] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:07:43] ==== loop 75/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:07:45] planet 43: building queue full (5)
+[11:07:45] planet 93: no resources for building_crystal_mine+1
+[11:07:45] planet 98: queued building_metal_store to 3
+[11:07:45] planet 101: queued building_solar_plant to 11
+[11:07:45] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:08:34] ==== loop 76/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:08:37] planet 43: building queue full (5)
+[11:08:37] planet 93: no resources for building_crystal_mine+1
+[11:08:37] planet 98: queued building_metal_store to 4
+[11:08:37] planet 101: building queue full (5)
+[11:08:37] planet 43: building queue full (5)
+[2026-05-13 11:09:22] ==== loop 77/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:09:25] planet 43: building queue full (5)
+[11:09:25] planet 93: no resources for building_crystal_mine+1
+[11:09:25] planet 98: queued building_deuterium_tank to 1
+[11:09:25] planet 101: queued building_deuterium_sintetizer to 10
+[11:09:25] planet 43: building queue full (5)
+[2026-05-13 11:10:04] ==== loop 78/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:10:07] planet 43: building queue full (5)
+[11:10:07] planet 93: queued building_crystal_store to 1
+[11:10:07] planet 98: queued building_metal_mine to 9
+[11:10:07] planet 101: queued building_crystal_mine to 6
+[11:10:07] planet 43: building queue full (5)
+[11:10:07] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:10:51] ==== loop 79/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:10:54] planet 43: building queue full (5)
+[11:10:54] planet 98: queued building_solar_plant to 9
+[11:10:54] planet 101: building queue full (5)
+[11:10:54] planet 93: queued building_crystal_store to 2
+[11:10:54] planet 43: building queue full (5)
+[11:10:54] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:11:37] ==== loop 80/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:11:40] planet 43: building queue full (5)
+[11:11:40] planet 98: queued building_metal_mine to 10
+[11:11:40] planet 101: queued building_solar_plant to 12
+[11:11:40] planet 93: queued building_crystal_store to 3
+[11:11:40] planet 43: building queue full (5)
+[11:11:40] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:12:20] ==== loop 81/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:12:22] planet 43: building queue full (5)
+[11:12:22] planet 98: queued building_crystal_mine to 1
+[11:12:22] planet 101: building queue full (5)
+[11:12:22] planet 93: no resources for building_crystal_store+1
+[11:12:22] planet 43: building queue full (5)
+[11:12:22] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:13:02] ==== loop 82/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:13:04] planet 43: building queue full (5)
+[11:13:04] planet 93: no resources for building_crystal_store+1
+[11:13:04] planet 98: queued building_solar_plant to 10
+[11:13:04] planet 101: building queue full (5)
+[11:13:04] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:13:48] ==== loop 83/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:13:51] planet 43: building queue full (5)
+[11:13:51] planet 93: no resources for building_crystal_store+1
+[11:13:51] planet 98: queued building_metal_mine to 11
+[11:13:51] planet 101: queued building_deuterium_sintetizer to 11
+[11:13:51] planet 43: building queue full (5)
+[2026-05-13 11:14:28] ==== loop 84/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:14:31] planet 43: building queue full (5)
+[11:14:31] planet 93: no resources for building_crystal_store+1
+[11:14:31] planet 98: queued building_crystal_mine to 2
+[11:14:31] planet 101: building queue full (5)
+[11:14:31] planet 43: building queue full (5)
+[11:14:31] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:15:12] ==== loop 85/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:15:15] planet 43: building queue full (5)
+[11:15:15] planet 93: no resources for building_crystal_store+1
+[11:15:15] planet 98: queued building_crystal_mine to 3
+[11:15:15] planet 101: building queue full (5)
+[11:15:15] planet 43: building queue full (5)
+[11:15:15] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:15:57] ==== loop 86/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:15:59] planet 43: building queue full (5)
+[11:15:59] planet 93: no resources for building_crystal_store+1
+[11:15:59] planet 98: queued building_crystal_mine to 4
+[11:15:59] planet 101: building queue full (5)
+[11:15:59] planet 43: building queue full (5)
+[2026-05-13 11:16:42] ==== loop 87/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:16:45] planet 43: building queue full (5)
+[11:16:45] planet 93: no resources for building_crystal_store+1
+[11:16:45] planet 98: queued building_solar_plant to 11
+[11:16:45] planet 101: queued ship_solar_satellite +3
+[11:16:45] planet 43: building queue full (5)
+[11:16:45] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:17:30] ==== loop 88/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:17:34] planet 43: building queue full (5)
+[11:17:34] planet 93: no resources for building_crystal_store+1
+[11:17:34] planet 101: queued building_deuterium_sintetizer to 12
+[11:17:34] planet 98: building queue full (5)
+[11:17:34] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:18:21] ==== loop 89/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:18:24] planet 43: building queue full (5)
+[11:18:24] planet 93: no resources for building_crystal_store+1
+[11:18:24] planet 98: queued building_metal_mine to 12
+[11:18:24] planet 101: building queue full (5)
+[11:18:24] planet 43: building queue full (5)
+[11:18:24] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:19:10] ==== loop 90/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:19:13] planet 43: building queue full (5)
+[11:19:13] planet 93: no resources for building_crystal_store+1
+[11:19:13] planet 98: queued building_crystal_mine to 5
+[11:19:13] planet 101: building queue full (5)
+[11:19:13] ally: transport: 1:5:12 -> 1:179:5 [ally_bot] m=45001 c=0 d=0 ships=0B+8S eta=70s fuel=353
+[2026-05-13 11:19:57] ==== loop 91/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:20:00] planet 43: building queue full (5)
+[11:20:00] planet 93: no resources for building_crystal_store+1
+[11:20:00] planet 98: queued building_crystal_mine to 6
+[11:20:00] planet 101: building queue full (5)
+[11:20:00] planet 43: building queue full (5)
+[11:20:00] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:20:41] ==== loop 92/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:20:45] planet 43: building queue full (5)
+[11:20:45] planet 93: queued building_metal_mine to 1
+[11:20:45] planet 98: queued building_solar_plant to 12
+[11:20:45] planet 101: queued building_crystal_mine to 7
+[11:20:45] planet 43: building queue full (5)
+[2026-05-13 11:21:26] ==== loop 93/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:21:30] planet 43: building queue full (5)
+[11:21:30] planet 98: building queue full (5)
+[11:21:30] planet 93: queued building_metal_mine to 2
+[11:21:30] planet 101: building queue full (5)
+[11:21:30] planet 43: building queue full (5)
+[2026-05-13 11:22:09] ==== loop 94/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:22:13] planet 43: building queue full (5)
+[11:22:13] planet 98: no resources for defense_ion_cannon+8
+[11:22:13] planet 93: queued building_metal_mine to 3
+[11:22:13] planet 101: queued ship_solar_satellite +2
+[11:22:13] planet 43: building queue full (5)
+[11:22:13] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:22:55] ==== loop 95/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:22:57] planet 43: building queue full (5)
+[11:22:57] planet 98: no resources for defense_ion_cannon+8
+[11:22:57] planet 101: queued ship_solar_satellite +3
+[11:22:57] planet 93: queued building_metal_mine to 4
+[11:22:57] planet 43: building queue full (5)
+[2026-05-13 11:23:40] ==== loop 96/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:23:42] planet 43: building queue full (5)
+[11:23:42] planet 98: no resources for defense_ion_cannon+8
+[11:23:42] planet 101: queued building_crystal_store to 1
+[11:23:42] planet 93: queued building_metal_mine to 5
+[2026-05-13 11:24:23] ==== loop 97/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:24:26] planet 43: building queue full (5)
+[11:24:26] planet 98: no resources for defense_ion_cannon+8
+[11:24:26] planet 93: queued building_metal_mine to 6
+[11:24:26] planet 101: queued building_deuterium_tank to 1
+[11:24:26] planet 43: building queue full (5)
+[11:24:26] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:25:10] ==== loop 98/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:25:13] planet 43: building queue full (5)
+[11:25:13] planet 98: no resources for defense_ion_cannon+8
+[11:25:13] planet 93: queued building_metal_mine to 7
+[11:25:13] planet 101: queued building_deuterium_tank to 2
+[11:25:13] planet 43: building queue full (5)
+[11:25:13] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:25:59] ==== loop 99/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:26:02] planet 43: building queue full (5)
+[11:26:02] planet 98: no resources for defense_ion_cannon+8
+[11:26:02] planet 93: queued building_metal_mine to 8
+[11:26:02] planet 101: queued building_crystal_store to 2
+[11:26:02] planet 43: building queue full (5)
+[11:26:02] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:26:48] ==== loop 100/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:26:51] planet 43: building queue full (5)
+[11:26:51] planet 98: no resources for defense_ion_cannon+8
+[11:26:51] planet 93: queued building_solar_plant to 10
+[11:26:51] planet 101: queued building_deuterium_tank to 3
+[11:26:51] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:27:35] ==== loop 101/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:27:38] planet 43: building queue full (5)
+[11:27:38] planet 98: no resources for defense_ion_cannon+8
+[11:27:38] planet 93: queued building_metal_mine to 9
+[11:27:38] planet 101: queued building_deuterium_tank to 4
+[11:27:38] planet 43: building queue full (5)
+[11:27:38] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:28:22] ==== loop 102/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:28:25] planet 43: building queue full (5)
+[11:28:25] planet 98: no resources for defense_ion_cannon+8
+[11:28:25] planet 93: queued building_metal_mine to 10
+[11:28:25] planet 101: no resources for building_deuterium_tank+1
+[11:28:25] planet 43: building queue full (5)
+[11:28:25] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:29:03] ==== loop 103/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:29:07] planet 43: building queue full (5)
+[11:29:07] planet 98: no resources for defense_ion_cannon+8
+[11:29:07] planet 93: queued building_solar_plant to 11
+[11:29:07] planet 101: queued building_crystal_store to 3
+[11:29:07] planet 43: building queue full (5)
+[11:29:07] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:29:46] ==== loop 104/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:29:49] planet 43: building queue full (5)
+[11:29:49] planet 98: no resources for defense_ion_cannon+8
+[11:29:49] planet 93: queued building_metal_mine to 11
+[11:29:49] planet 101: no resources for building_deuterium_tank+1
+[11:29:49] planet 43: building queue full (5)
+[11:29:49] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:30:28] ==== loop 105/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:30:31] planet 43: building queue full (5)
+[11:30:31] planet 98: queued building_crystal_mine to 7
+[11:30:31] planet 101: queued building_metal_mine to 6
+[11:30:31] planet 93: no resources for defense_ion_cannon+8
+[2026-05-13 11:31:13] ==== loop 106/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:31:16] planet 43: building queue full (5)
+[11:31:16] planet 93: no resources for defense_ion_cannon+8
+[11:31:16] planet 98: queued building_crystal_mine to 8
+[11:31:16] planet 101: queued ship_solar_satellite +1
+[11:31:16] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:31:55] ==== loop 107/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:31:59] planet 43: building queue full (5)
+[11:31:59] planet 93: no resources for defense_ion_cannon+8
+[11:31:59] planet 98: queued building_crystal_mine to 9
+[11:31:59] planet 101: queued building_metal_mine to 7
+[11:31:59] planet 43: building queue full (5)
+[11:31:59] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:32:38] ==== loop 108/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:32:41] planet 43: building queue full (5)
+[11:32:41] planet 93: no resources for defense_ion_cannon+8
+[11:32:41] planet 98: queued building_crystal_mine to 10
+[11:32:41] planet 101: queued ship_solar_satellite +2
+[11:32:41] planet 43: building queue full (5)
+[11:32:41] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:33:23] ==== loop 109/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:33:26] planet 43: building queue full (5)
+[11:33:26] planet 93: no resources for defense_ion_cannon+8
+[11:33:26] planet 98: building queue full (5)
+[11:33:26] planet 101: queued building_metal_mine to 8
+[11:33:26] planet 43: building queue full (5)
+[11:33:26] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:34:08] ==== loop 110/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:34:13] planet 43: building queue full (5)
+[11:34:13] planet 93: no resources for defense_ion_cannon+8
+[11:34:13] planet 98: queued ship_solar_satellite +2
+[11:34:13] planet 101: queued ship_solar_satellite +1
+[11:34:13] planet 43: building queue full (5)
+[11:34:13] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:34:53] ==== loop 111/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:34:56] planet 43: building queue full (5)
+[11:34:56] planet 98: queued building_crystal_mine to 11
+[11:34:56] planet 93: no resources for defense_ion_cannon+8
+[11:34:56] planet 101: queued building_metal_mine to 9
+[11:34:56] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:35:36] ==== loop 112/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:35:38] planet 43: building queue full (5)
+[11:35:38] planet 93: no resources for defense_ion_cannon+8
+[11:35:38] planet 98: building queue full (5)
+[11:35:38] planet 101: queued ship_solar_satellite +1
+[11:35:38] planet 43: building queue full (5)
+[2026-05-13 11:36:19] ==== loop 113/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:36:22] planet 43: building queue full (5)
+[11:36:22] planet 93: no resources for defense_ion_cannon+8
+[11:36:22] planet 98: queued ship_solar_satellite +2
+[11:36:22] planet 101: queued building_metal_mine to 10
+[11:36:22] planet 43: building queue full (5)
+[2026-05-13 11:37:03] ==== loop 114/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:37:06] planet 43: building queue full (5)
+[11:37:06] planet 98: queued building_crystal_mine to 12
+[11:37:06] planet 93: no resources for defense_ion_cannon+8
+[11:37:06] planet 101: queued ship_solar_satellite +2
+[11:37:06] planet 43: building queue full (5)
+[2026-05-13 11:37:47] ==== loop 115/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:37:49] planet 43: building queue full (5)
+[11:37:49] planet 93: no resources for defense_ion_cannon+8
+[11:37:49] planet 98: building queue full (5)
+[11:37:49] planet 101: queued building_metal_mine to 11
+[2026-05-13 11:38:31] ==== loop 116/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:38:34] planet 43: building queue full (5)
+[11:38:34] planet 93: no resources for defense_ion_cannon+8
+[11:38:34] planet 98: building queue full (5)
+[11:38:34] planet 101: queued ship_solar_satellite +2
+[11:38:34] planet 43: building queue full (5)
+[11:38:34] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:39:21] ==== loop 117/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:39:23] planet 43: building queue full (5)
+[11:39:23] planet 93: no resources for defense_ion_cannon+8
+[11:39:23] planet 98: queued ship_solar_satellite +2
+[11:39:23] planet 101: queued building_metal_mine to 12
+[11:39:23] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:40:09] ==== loop 118/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:40:12] planet 43: building queue full (5)
+[11:40:12] planet 98: no resources for ship_cruiser+5
+[11:40:12] planet 93: queued ship_small_cargo_ship +8
+[11:40:12] planet 101: building queue full (5)
+[11:40:12] planet 43: building queue full (5)
+[11:40:12] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:40:50] ==== loop 119/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:40:53] planet 43: building queue full (5)
+[11:40:53] planet 98: no resources for ship_cruiser+5
+[11:40:53] planet 93: queued ship_small_cargo_ship +8
+[11:40:53] planet 101: queued ship_solar_satellite +2
+[11:40:53] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:41:36] ==== loop 120/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:41:40] planet 43: building queue full (5)
+[11:41:40] planet 98: queued ship_cruiser +5
+[11:41:40] planet 93: queued ship_small_cargo_ship +6
+[11:41:40] planet 101: queued building_metal_mine to 13
+[11:41:40] planet 43: building queue full (5)
+[11:41:40] transport: 1:32:9 -> 1:33:9 [queue:hangar] m=0 c=34429 d=0 ships=0B+6S eta=27s fuel=39
+[11:41:40] transport: 1:5:12 -> 1:33:9 [queue:hangar] m=0 c=34429 d=2306 ships=0B+7S eta=37s fuel=87
+[11:41:40] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:42:28] ==== loop 121/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:42:33] planet 43: building queue full (5)
+[11:42:33] planet 98: no resources for ship_cruiser+5
+[11:42:33] planet 93: queued ship_small_cargo_ship +6
+[11:42:33] planet 101: building queue full (5)
+[11:42:33] planet 43: building queue full (5)
+[2026-05-13 11:43:17] ==== loop 122/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:43:21] planet 43: building queue full (5)
+[11:43:21] planet 98: no resources for ship_cruiser+5
+[11:43:21] planet 93: queued defense_gauss_cannon +4
+[11:43:21] planet 101: queued ship_solar_satellite +3
+[11:43:21] planet 43: building queue full (5)
+[11:43:21] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:44:07] ==== loop 123/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:44:10] planet 43: building queue full (5)
+[11:44:10] planet 98: queued ship_cruiser +5
+[11:44:10] planet 101: queued building_metal_mine to 14
+[11:44:10] planet 93: queued defense_gauss_cannon +2
+[11:44:10] planet 43: building queue full (5)
+[2026-05-13 11:44:52] ==== loop 124/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:44:56] planet 43: building queue full (5)
+[11:44:56] planet 98: no resources for ship_cruiser+5
+[11:44:56] planet 101: building queue full (5)
+[11:44:56] planet 93: no resources for defense_gauss_cannon+3
+[11:44:56] planet 43: building queue full (5)
+[2026-05-13 11:45:40] ==== loop 125/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:45:43] planet 43: building queue full (5)
+[11:45:43] planet 98: no resources for ship_cruiser+5
+[11:45:43] planet 101: building queue full (5)
+[11:45:43] planet 93: no resources for defense_gauss_cannon+4
+[2026-05-13 11:46:24] ==== loop 126/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:46:27] planet 43: building queue full (5)
+[11:46:27] planet 98: no resources for ship_cruiser+5
+[11:46:27] planet 101: building queue full (5)
+[11:46:27] planet 93: no resources for defense_gauss_cannon+4
+[11:46:27] planet 43: building queue full (5)
+[2026-05-13 11:47:12] ==== loop 127/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:47:16] planet 43: building queue full (5)
+[11:47:16] planet 98: no resources for ship_cruiser+5
+[11:47:16] planet 101: queued ship_solar_satellite +3
+[11:47:16] planet 93: no resources for defense_gauss_cannon+4
+[11:47:16] planet 43: building queue full (5)
+[11:47:16] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:47:57] ==== loop 128/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:48:00] planet 43: building queue full (5)
+[11:48:00] planet 98: no resources for ship_cruiser+5
+[11:48:00] planet 101: queued building_metal_mine to 15
+[11:48:00] planet 93: no resources for defense_gauss_cannon+4
+[11:48:00] planet 43: building queue full (5)
+[11:48:00] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:48:46] ==== loop 129/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:48:50] planet 43: building queue full (5)
+[11:48:50] planet 98: no resources for ship_cruiser+5
+[11:48:50] planet 101: building queue full (5)
+[11:48:50] planet 93: no resources for defense_gauss_cannon+4
+[11:48:50] planet 43: building queue full (5)
+[11:48:50] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:49:39] ==== loop 130/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:49:42] planet 43: building queue full (5)
+[11:49:42] planet 98: queued ship_cruiser +5
+[11:49:42] planet 101: building queue full (5)
+[11:49:42] planet 93: no resources for defense_gauss_cannon+4
+[11:49:42] planet 43: building queue full (5)
+[11:49:42] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:50:27] ==== loop 131/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:50:31] planet 43: building queue full (5)
+[11:50:31] planet 98: queued building_crystal_store to 1
+[11:50:31] planet 101: no resources for ship_battleship+5
+[11:50:31] planet 93: queued building_metal_mine to 12
+[11:50:31] planet 43: building queue full (5)
+[11:50:31] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:51:16] ==== loop 132/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:51:20] planet 43: building queue full (5)
+[11:51:20] planet 98: queued building_crystal_store to 2
+[11:51:20] planet 101: no resources for ship_battleship+5
+[11:51:20] planet 93: queued building_solar_plant to 12
+[11:51:20] planet 43: building queue full (5)
+[11:51:20] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:52:03] ==== loop 133/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:52:05] planet 43: building queue full (5)
+[11:52:05] planet 98: queued building_crystal_store to 3
+[11:52:05] planet 101: queued ship_solar_satellite +4
+[11:52:05] planet 93: queued building_metal_mine to 13
+[11:52:05] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:52:53] ==== loop 134/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:52:55] planet 43: building queue full (5)
+[11:52:55] planet 98: queued building_crystal_store to 4
+[11:52:55] planet 101: no resources for ship_battleship+5
+[11:52:55] planet 93: queued building_metal_mine to 14
+[11:52:55] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:53:36] ==== loop 135/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:53:39] planet 43: building queue full (5)
+[11:53:39] planet 98: building queue full (5)
+[11:53:39] planet 101: no resources for ship_battleship+5
+[11:53:39] planet 93: queued ship_solar_satellite +2
+[11:53:39] planet 43: building queue full (5)
+[11:53:39] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:54:16] ==== loop 136/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:54:19] planet 43: building queue full (5)
+[11:54:19] planet 98: queued building_metal_store to 5
+[11:54:19] planet 101: no resources for ship_battleship+5
+[11:54:19] planet 93: queued building_metal_mine to 15
+[11:54:19] planet 43: building queue full (5)
+[11:54:19] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:54:55] ==== loop 137/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:54:59] planet 43: building queue full (5)
+[11:54:59] planet 101: no resources for ship_battleship+5
+[11:54:59] planet 98: building queue full (5)
+[11:54:59] planet 93: queued ship_solar_satellite +1
+[11:54:59] planet 43: building queue full (5)
+[11:54:59] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:55:45] ==== loop 138/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:55:48] planet 43: building queue full (5)
+[11:55:48] planet 101: no resources for ship_battleship+5
+[11:55:48] planet 98: building queue full (5)
+[11:55:48] planet 93: queued ship_solar_satellite +2
+[11:55:48] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:56:33] ==== loop 139/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:56:36] planet 43: building queue full (5)
+[11:56:36] planet 101: no resources for ship_battleship+5
+[11:56:36] planet 98: queued building_metal_store to 6
+[11:56:36] planet 93: queued building_metal_mine to 16
+[11:56:36] planet 43: building queue full (5)
+[2026-05-13 11:57:20] ==== loop 140/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:57:24] planet 43: building queue full (5)
+[11:57:24] planet 101: no resources for ship_battleship+5
+[11:57:24] planet 98: building queue full (5)
+[11:57:24] planet 93: building queue full (5)
+[11:57:24] planet 43: building queue full (5)
+[11:57:24] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:58:08] ==== loop 141/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:58:11] planet 43: building queue full (5)
+[11:58:11] planet 101: no resources for ship_battleship+5
+[11:58:11] planet 98: building queue full (5)
+[11:58:11] planet 93: queued ship_solar_satellite +4
+[11:58:11] planet 43: building queue full (5)
+[11:58:11] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:58:46] ==== loop 142/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:58:50] planet 43: building queue full (5)
+[11:58:50] planet 101: no resources for ship_battleship+5
+[11:58:50] planet 98: building queue full (5)
+[11:58:50] planet 93: queued building_metal_mine to 17
+[11:58:50] planet 43: building queue full (5)
+[11:58:50] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 11:59:29] ==== loop 143/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[11:59:32] planet 43: building queue full (5)
+[11:59:32] planet 101: no resources for ship_battleship+5
+[11:59:32] planet 98: building queue full (5)
+[11:59:32] planet 93: building queue full (5)
+[11:59:32] planet 43: building queue full (5)
+[2026-05-13 12:00:14] ==== loop 144/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:00:16] planet 43: building queue full (5)
+[12:00:16] planet 101: queued defense_rocket_launcher +8
+[12:00:16] planet 98: queued building_crystal_mine to 13
+[12:00:16] planet 93: queued building_metal_store to 1
+[12:00:16] planet 43: building queue full (5)
+[2026-05-13 12:01:00] ==== loop 145/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:01:02] planet 43: building queue full (5)
+[12:01:02] planet 101: queued defense_rocket_launcher +8
+[12:01:02] planet 98: building queue full (5)
+[12:01:02] planet 93: queued ship_solar_satellite +4
+[12:01:02] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 12:01:45] ==== loop 146/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:01:48] planet 43: building queue full (5)
+[12:01:48] planet 101: queued defense_rocket_launcher +8
+[12:01:48] planet 98: building queue full (5)
+[12:01:48] planet 93: queued building_metal_store to 2
+[12:01:48] transport: 1:32:9 -> 1:5:12 [consolidate_home] m=45900 c=5347 d=0 ships=0B+9S eta=37s fuel=108
+[2026-05-13 12:02:33] ==== loop 147/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:02:37] planet 43: building queue full (5)
+[12:02:37] planet 101: queued defense_rocket_launcher +8
+[12:02:37] planet 98: building queue full (5)
+[12:02:37] planet 93: queued building_metal_store to 3
+[12:02:37] planet 43: building queue full (5)
+[2026-05-13 12:03:21] ==== loop 148/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:03:24] planet 43: building queue full (5)
+[12:03:24] planet 98: building queue full (5)
+[12:03:24] planet 101: queued defense_rocket_launcher +8
+[12:03:24] planet 93: queued building_crystal_store to 4
+[12:03:24] planet 43: building queue full (5)
+[2026-05-13 12:04:08] ==== loop 149/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:04:12] planet 43: building queue full (5)
+[12:04:12] planet 98: building queue full (5)
+[12:04:12] planet 101: queued defense_rocket_launcher +8
+[12:04:12] planet 93: queued building_metal_store to 4
+[12:04:12] planet 43: building queue full (5)
+[2026-05-13 12:04:54] ==== loop 150/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:04:58] planet 43: building queue full (5)
+[12:04:58] planet 98: building queue full (5)
+[12:04:58] planet 101: queued defense_rocket_launcher +8
+[12:04:58] planet 93: queued building_metal_store to 5
+[12:04:58] planet 43: building queue full (5)
+[12:04:58] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 12:05:45] ==== loop 151/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:05:49] planet 43: building queue full (5)
+[12:05:49] planet 98: queued ship_solar_satellite +2
+[12:05:49] planet 101: queued defense_rocket_launcher +8
+[12:05:49] planet 93: queued building_crystal_store to 5
+[12:05:49] planet 43: building queue full (5)
+[12:05:49] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 12:06:34] ==== loop 152/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:06:38] planet 43: building queue full (5)
+[12:06:38] planet 98: queued building_crystal_mine to 14
+[12:06:38] planet 101: queued defense_rocket_launcher +8
+[12:06:38] planet 93: queued building_metal_store to 6
+[12:06:38] planet 43: building queue full (5)
+[12:06:38] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 12:07:21] ==== loop 153/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:07:24] planet 43: building queue full (5)
+[12:07:24] planet 98: building queue full (5)
+[12:07:24] planet 101: queued defense_rocket_launcher +8
+[12:07:24] planet 93: building queue full (5)
+[12:07:24] planet 43: building queue full (5)
+[12:07:24] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 12:08:15] ==== loop 154/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:08:19] planet 43: building queue full (5)
+[12:08:19] planet 98: building queue full (5)
+[12:08:19] planet 101: queued defense_rocket_launcher +8
+[12:08:19] planet 93: queued building_metal_store to 7
+[12:08:19] planet 43: building queue full (5)
+[2026-05-13 12:09:09] ==== loop 155/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:09:11] planet 43: building queue full (5)
+[12:09:11] planet 98: building queue full (5)
+[12:09:11] planet 101: queued defense_rocket_launcher +8
+[12:09:11] planet 93: building queue full (5)
+[2026-05-13 12:09:55] ==== loop 156/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:09:58] planet 43: building queue full (5)
+[12:09:58] planet 98: building queue full (5)
+[12:09:58] planet 101: queued building_laboratory to 1
+[12:09:58] planet 93: building queue full (5)
+[12:09:58] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 12:10:41] ==== loop 157/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:10:43] planet 43: building queue full (5)
+[12:10:43] planet 98: queued building_metal_store to 7
+[12:10:43] planet 93: queued building_deuterium_sintetizer to 2
+[12:10:43] planet 101: queued ship_small_cargo_ship +8
+[12:10:43] planet 43: building queue full (5)
+[12:10:43] research: blocked research_intergalactic_research_network (building_laboratory 9/10)
+[2026-05-13 12:11:24] ==== loop 158/∞ | seed=124022544596152605 archetype=turbo personality=tecnologico focus=eco actions_per_loop=2 ====
+[12:11:27] planet 43: building queue full (5)
+[12:11:27] planet 98: building queue full (5)
+[12:11:27] planet 101: no resources for ship_small_cargo_ship+8
+[12:11:27] planet 93: queued building_metal_store to 8
+[12:11:27] transport: 1:34:9 -> 1:5:12 [consolidate_home] m=25539 c=0 d=10460 ships=0B+6S eta=37s fuel=77

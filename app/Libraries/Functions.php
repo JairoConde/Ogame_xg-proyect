@@ -31,9 +31,9 @@ abstract class Functions
      *
      * @param string $library Library
      *
-     * @return boolean
+     * @return mixed
      */
-    public static function loadLibrary($library = '')
+    public static function loadLibrary(string $library = ''): mixed
     {
         if (!empty($library)) {
             // Require file
@@ -54,12 +54,12 @@ abstract class Functions
      *
      * @param string  $type  Type
      * @param string  $ref   Ref
-     * @param string  $value Value
+     * @param int     $value Value
      * @param boolean $init  Init
      *
      * @return string
      */
-    public static function chronoApplet($type, $ref, $value, $init)
+    public static function chronoApplet(string $type, string $ref, int $value, bool $init): string
     {
         if ($init == true) {
             $template = 'general/chrono_applet_init';
@@ -85,11 +85,13 @@ abstract class Functions
      *
      * @return string
      */
-    public static function readConfig($config_name = '', $all = false)
+    public static function readConfig(string $config_name = '', bool $all = false): mixed
     {
         $configs = Options::getInstance();
 
         if ($all) {
+            $return = [];
+
             foreach ($configs->getOptions() as $row) {
                 $return[$row['option_name']] = $row['option_value'];
             }
@@ -108,7 +110,7 @@ abstract class Functions
      *
      * @return string
      */
-    public static function updateConfig($config_name, $config_value)
+    public static function updateConfig(string $config_name, string $config_value): mixed
     {
         return Options::getInstance()->writeOptions($config_name, $config_value);
     }
@@ -118,9 +120,9 @@ abstract class Functions
      *
      * @param string $address Email address
      *
-     * @return string
+     * @return bool
      */
-    public static function validEmail($address)
+    public static function validEmail(string $address): bool
     {
         return (!preg_match(
             "/^([a-z0-9\+_\-]+)(\.[a-z0-9\+_\-]+)*@([a-z0-9\-]+\.)+[a-z]{2,6}$/ix",
@@ -131,11 +133,11 @@ abstract class Functions
     /**
      * fleetSpeedFactor
      *
-     * @return string
+     * @return int
      */
-    public static function fleetSpeedFactor()
+    public static function fleetSpeedFactor(): int
     {
-        return self::readConfig('fleet_speed') / 2500;
+        return (int) ((int) self::readConfig('fleet_speed') / 2500);
     }
 
     /**
@@ -150,7 +152,7 @@ abstract class Functions
      *
      * @return void
      */
-    public static function message($mes, $dest = '', $time = '3', $topnav = false, $menu = true, $center = true)
+    public static function message(string $mes, string $dest = '', string $time = '3', bool $topnav = false, bool $menu = true, bool $center = true): void
     {
         define('IN_MESSAGE', true);
 
@@ -176,9 +178,9 @@ abstract class Functions
      *
      * @param int $module_id Module ID
      *
-     * @return array
+     * @return bool
      */
-    public static function isModuleAccesible($module_id = 0)
+    public static function isModuleAccesible(int $module_id = 0): bool
     {
         $modules_array = self::readConfig('modules');
         $modules_array = explode(';', $modules_array);
@@ -197,7 +199,7 @@ abstract class Functions
      *
      * @return void
      */
-    public static function moduleMessage($access_level)
+    public static function moduleMessage(int|bool $access_level): void
     {
         if ($access_level == 0) {
             $lang = new Language();
@@ -219,32 +221,38 @@ abstract class Functions
      *
      * @return void
      */
-    public static function sendMessage($to, $sender, $time = '', $type = '', $from = '', $subject = '', $message = '', $allowHtml = false)
+    public static function sendMessage(string|int $to, string|int $sender, string|int $time = 0, int $type = 0, string $from = '', string $subject = '', string $message = '', bool $allowHtml = false): void
     {
         $options = new MessagesOptions();
-        $options->setTo($to);
-        $options->setSender($sender);
-        $options->setTime($time);
+        $options->setTo((int) $to);
+        $options->setSender((int) $sender);
+        $options->setTime((int) $time);
 
         switch ($type) {
             case 0:
                 $type = MessagesEnumerator::ESPIO;
+
                 break;
             case 1:
                 $type = MessagesEnumerator::COMBAT;
+
                 break;
             case 2:
                 $type = MessagesEnumerator::EXP;
+
                 break;
             case 3:
                 $type = MessagesEnumerator::ALLY;
+
                 break;
             case 4:
                 $type = MessagesEnumerator::USER;
+
                 break;
             default:
             case 5:
                 $type = MessagesEnumerator::GENERAL;
+
                 break;
         }
 
@@ -273,7 +281,7 @@ abstract class Functions
      *
      * @return mixed
      */
-    public static function sendEmail($to, $subject, $body, $from, $format = 'text', $headers = '')
+    public static function sendEmail(string $to, string $subject, string $body, array $from, string $format = 'text', mixed $headers = null): mixed
     {
         try {
             // require email library
@@ -354,9 +362,9 @@ abstract class Functions
      *
      * @return int
      */
-    public static function getDefaultVacationTime()
+    public static function getDefaultVacationTime(): int
     {
-        return (time() + (3600 * 24 * VACATION_TIME_FORCED));
+        return time() + (3600 * 24 * VACATION_TIME_FORCED);
     }
 
     /**
@@ -368,7 +376,7 @@ abstract class Functions
      *
      * @return string
      */
-    public static function setImage($path, $title = 'img', $attributes = '')
+    public static function setImage(string $path, string $title = 'img', string $attributes = ''): string
     {
         if (!empty($attributes)) {
             $attributes = ' ' . $attributes;
@@ -384,9 +392,10 @@ abstract class Functions
      *
      * @return void
      */
-    public static function redirect($route)
+    public static function redirect(string $route): void
     {
-        exit(header('location:' . $route));
+        header('location:' . $route);
+        exit;
     }
 
     /**
@@ -394,7 +403,7 @@ abstract class Functions
      *
      * @return string
      */
-    public static function getCurrentLanguage($installed = false)
+    public static function getCurrentLanguage(bool $installed = false): string
     {
         if ($installed) {
             return self::readConfig('lang');
@@ -420,7 +429,7 @@ abstract class Functions
      *
      * @return void
      */
-    public static function setCurrentLanguage($lang = '')
+    public static function setCurrentLanguage(string $lang = ''): void
     {
         // force english
         if (!in_array($lang, self::getLanguagesList())) {
@@ -442,7 +451,7 @@ abstract class Functions
      *
      * @return array
      */
-    public static function getLanguagesList()
+    public static function getLanguagesList(): array
     {
         $langs_dir = opendir(XGP_ROOT . LANG_PATH);
         $exceptions = ['.', '..', '.htaccess', 'index.html', '.DS_Store'];
@@ -464,7 +473,7 @@ abstract class Functions
      *
      * @return string
      */
-    public static function getLanguages($current_lang)
+    public static function getLanguages(string $current_lang): string
     {
         $langs_dir = opendir(XGP_ROOT . LANG_PATH);
         $exceptions = ['.', '..', '.htaccess', 'index.html', '.DS_Store'];
@@ -496,7 +505,7 @@ abstract class Functions
      *
      * @return string
      */
-    public static function messageBox($title, $message, $goto = '', $button = ' ok ', $two_lines = false)
+    public static function messageBox(string $title, string $message, string $goto = '', string $button = ' ok ', bool $two_lines = false): string
     {
         return self::getTemplate()->set(
             'alliance/alliance_message_box',
@@ -544,9 +553,9 @@ abstract class Functions
      */
     public static function isCurrentPlanet(array $current, array $target): bool
     {
-        return ($current['planet_galaxy'] == $target['planet_galaxy']
+        return $current['planet_galaxy'] == $target['planet_galaxy']
             && $current['planet_system'] == $target['planet_system']
             && $current['planet_planet'] == $target['planet_planet']
-            && $current['planet_type'] == $target['planet_type']);
+            && $current['planet_type'] == $target['planet_type'];
     }
 }

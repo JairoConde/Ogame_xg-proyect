@@ -29,6 +29,11 @@ $lang = [
     'tr_call_button' => 'Call merchant',
     'tr_no_enough_storage' => 'Not enough storage capacity.',
     'tr_no_enough_dark_matter' => 'There is not enough dark matter available',
+    'tr_exchange_done' => 'Trade completed successfully.',
+    'tr_invalid_resource_selection' => 'Invalid resource selection.',
+    'tr_invalid_trade_amount' => 'You must provide a valid amount to trade.',
+    'tr_not_enough_sell_resource' => 'You do not have enough resources to sell.',
+    'tr_trade_failed' => 'Could not complete the trade. Please try again.',
 
     // traderAuctioneer
 

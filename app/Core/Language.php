@@ -23,7 +23,6 @@ class Language
             if (!file_exists($langPath)) {
                 // not found
                 throw new Exception('Language file "' . $languageFile . '" not defined');
-                return;
             }
 
             // required by the library
@@ -36,12 +35,13 @@ class Language
 
             if ($return) {
                 $lang = new CiLang();
-                $lang->load($languageFile, DEFAULT_LANG);
+                $lang->load($languageFile, defined('DEFAULT_LANG') ? DEFAULT_LANG : 'en');
+
                 return $lang;
             }
 
             $this->langs = new CiLang();
-            $this->langs->load($languageFile, DEFAULT_LANG);
+            $this->langs->load($languageFile, defined('DEFAULT_LANG') ? DEFAULT_LANG : 'en');
         } catch (Exception $e) {
             die('Fatal error: ' . $e->getMessage());
         }

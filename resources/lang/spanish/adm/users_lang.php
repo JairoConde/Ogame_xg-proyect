@@ -85,6 +85,7 @@ $lang = [
     'us_user_research_plasma_technology' => 'Tecnología de plasma',
     'us_user_research_intergalactic_research_network' => 'Red de investigación intergaláctica',
     'us_user_research_astrophysics' => 'Astrofísica',
+    'us_user_research_cargo_optimization' => 'Optimización de carga',
     'us_user_research_graviton_technology' => 'Tecnología de gravitón',
     'us_user_premium' => 'Oficiales / MO del usuario "%s"',
     'us_user_premium_dark_matter' => 'Materia Oscura',

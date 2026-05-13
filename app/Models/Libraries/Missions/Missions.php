@@ -169,7 +169,8 @@ class Missions extends Model
             return $this->db->queryFetchAll(
                 'SELECT
                     f.*,
-                    r.`research_hyperspace_technology`
+                    r.`research_hyperspace_technology`,
+                    r.`research_cargo_optimization`
                 FROM `' . FLEETS . '` f
                 LEFT JOIN `' . RESEARCH . "` r
                     ON r.`research_user_id` = f.`fleet_owner`
@@ -244,13 +245,16 @@ class Missions extends Model
                     r.research_weapons_technology,
                     r.research_shielding_technology,
                     r.research_armour_technology,
-                    r.research_hyperspace_technology
+                    r.research_hyperspace_technology,
+                    r.research_cargo_optimization
                 FROM ' . USERS . ' AS u
                     INNER JOIN `' . RESEARCH . "` AS r
                         ON r.research_user_id = u.user_id
                 WHERE u.user_id = '" . $userId . "';"
             );
         }
+
+        return [];
     }
 
     /**

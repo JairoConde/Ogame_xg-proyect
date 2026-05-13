@@ -1,0 +1,886 @@
+[2026-05-13 10:11:40] ==== loop 1/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:11:40] planet 35: queued ship_solar_satellite +5
+[10:11:40] planet 35: skipped duplicate ship_solar_satellite this loop
+[10:11:40] planet 35: skipped duplicate ship_solar_satellite this loop
+[2026-05-13 10:12:19] ==== loop 2/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:12:21] planet 35: queued ship_solar_satellite +3
+[10:12:21] planet 35: queued building_hangar to 2
+[10:12:21] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:12:58] ==== loop 3/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:12:59] planet 35: queued building_hangar to 3
+[10:12:59] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:13:39] ==== loop 4/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:13:40] planet 35: queued building_hangar to 4
+[10:13:40] planet 35: queued ship_colony_ship +1
+[10:13:40] colonize: 1:4:6 -> 1:294:5 (eta 174s, fuel 3449)
+[2026-05-13 10:14:21] ==== loop 5/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:14:22] planet 35: queued ship_colony_ship +1
+[10:14:22] planet 35: queued building_crystal_store to 14
+[10:14:22] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:15:01] ==== loop 6/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:15:01] planet 35: queued building_robot_factory to 8
+[10:15:01] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:15:43] ==== loop 7/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:15:44] planet 35: building queue full (5)
+[10:15:44] planet 35: building queue full (5)
+[10:15:44] planet 35: building queue full (5)
+[10:15:44] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:16:27] ==== loop 8/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:16:29] planet 35: building queue full (5)
+[10:16:29] planet 35: building queue full (5)
+[10:16:29] planet 35: building queue full (5)
+[10:16:29] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:17:12] ==== loop 9/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:17:13] planet 35: building queue full (5)
+[10:17:13] planet 35: building queue full (5)
+[10:17:13] planet 35: building queue full (5)
+[10:17:13] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:17:55] ==== loop 10/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:17:56] planet 35: building queue full (5)
+[10:17:56] planet 35: building queue full (5)
+[2026-05-13 10:18:37] ==== loop 11/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:18:40] planet 35: building queue full (5)
+[10:18:40] planet 96: queued building_deuterium_sintetizer to 1
+[10:18:40] planet 35: building queue full (5)
+[10:18:40] colonize: 1:4:6 -> 1:295:5 (eta 174s, fuel 3465)
+[10:18:40] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:19:26] ==== loop 12/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:19:27] planet 35: building queue full (5)
+[10:19:27] planet 96: queued building_solar_plant to 1
+[10:19:27] planet 35: building queue full (5)
+[2026-05-13 10:20:08] ==== loop 13/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:20:12] planet 35: building queue full (5)
+[10:20:12] planet 96: no resources for building_hangar+1
+[10:20:12] planet 35: building queue full (5)
+[10:20:12] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:20:50] ==== loop 14/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:20:53] planet 35: building queue full (5)
+[10:20:53] planet 96: queued building_hangar to 1
+[10:20:53] planet 97: no resources for building_hangar+1
+[10:20:53] planet 35: building queue full (5)
+[10:20:53] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:21:37] ==== loop 15/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:21:40] planet 35: building queue full (5)
+[10:21:40] planet 96: no resources for building_hangar+1
+[10:21:40] planet 97: no resources for building_hangar+1
+[10:21:40] planet 35: building queue full (5)
+[10:21:40] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:22:23] ==== loop 16/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:22:25] planet 35: building queue full (5)
+[10:22:25] planet 96: queued building_hangar to 2
+[10:22:25] planet 97: no resources for building_hangar+1
+[10:22:25] planet 35: building queue full (5)
+[10:22:25] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:23:08] ==== loop 17/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:23:10] planet 35: building queue full (5)
+[10:23:10] planet 97: no resources for building_hangar+1
+[10:23:10] planet 96: no resources for building_hangar+1
+[10:23:10] planet 35: building queue full (5)
+[10:23:10] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:23:55] ==== loop 18/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:23:57] planet 35: building queue full (5)
+[10:23:57] planet 96: no resources for building_hangar+1
+[10:23:57] planet 97: queued building_hangar to 1
+[10:23:57] planet 35: building queue full (5)
+[2026-05-13 10:24:43] ==== loop 19/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:24:46] planet 35: building queue full (5)
+[10:24:46] planet 96: no resources for building_hangar+1
+[10:24:46] planet 97: no resources for building_hangar+1
+[10:24:46] planet 35: building queue full (5)
+[2026-05-13 10:25:34] ==== loop 20/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:25:35] planet 35: building queue full (5)
+[10:25:35] planet 96: no resources for building_hangar+1
+[10:25:35] planet 97: no resources for building_hangar+1
+[10:25:35] planet 35: building queue full (5)
+[10:25:35] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:26:17] ==== loop 21/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:26:19] planet 35: building queue full (5)
+[10:26:19] planet 96: no resources for building_hangar+1
+[10:26:19] planet 97: no resources for building_hangar+1
+[10:26:19] planet 35: building queue full (5)
+[10:26:19] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:27:04] ==== loop 22/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:27:07] planet 35: building queue full (5)
+[10:27:07] planet 96: no resources for building_hangar+1
+[10:27:07] planet 97: queued building_hangar to 2
+[10:27:07] planet 35: building queue full (5)
+[2026-05-13 10:27:48] ==== loop 23/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:27:50] planet 35: building queue full (5)
+[10:27:50] planet 96: no resources for building_hangar+1
+[10:27:50] planet 97: no resources for building_hangar+1
+[10:27:50] planet 35: building queue full (5)
+[2026-05-13 10:28:37] ==== loop 24/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:28:39] planet 35: building queue full (5)
+[10:28:39] planet 96: no resources for building_hangar+1
+[10:28:39] planet 97: no resources for building_hangar+1
+[10:28:39] planet 35: building queue full (5)
+[10:28:39] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:29:24] ==== loop 25/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:29:27] planet 35: building queue full (5)
+[10:29:27] planet 96: no resources for building_hangar+1
+[10:29:27] planet 97: no resources for building_hangar+1
+[10:29:27] planet 35: building queue full (5)
+[10:29:27] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:30:07] ==== loop 26/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:30:11] planet 35: building queue full (5)
+[10:30:11] planet 96: no resources for building_hangar+1
+[10:30:11] planet 97: no resources for building_hangar+1
+[10:30:11] planet 35: building queue full (5)
+[2026-05-13 10:30:49] ==== loop 27/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:30:51] planet 35: building queue full (5)
+[10:30:51] planet 96: no resources for building_hangar+1
+[10:30:51] planet 97: no resources for building_hangar+1
+[10:30:51] planet 35: building queue full (5)
+[2026-05-13 10:31:30] ==== loop 28/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:31:33] planet 35: building queue full (5)
+[10:31:33] planet 96: no resources for building_hangar+1
+[10:31:33] planet 97: no resources for building_hangar+1
+[10:31:33] planet 35: building queue full (5)
+[10:31:33] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:32:13] ==== loop 29/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:32:15] planet 35: building queue full (5)
+[10:32:15] planet 96: queued building_hangar to 3
+[10:32:15] planet 97: no resources for building_hangar+1
+[10:32:15] planet 35: building queue full (5)
+[10:32:15] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:32:56] ==== loop 30/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:32:59] planet 35: building queue full (5)
+[10:32:59] planet 97: no resources for building_hangar+1
+[10:32:59] planet 96: no resources for building_hangar+1
+[10:32:59] planet 35: building queue full (5)
+[2026-05-13 10:33:41] ==== loop 31/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:33:45] planet 35: building queue full (5)
+[10:33:45] planet 96: no resources for building_hangar+1
+[10:33:45] planet 97: queued building_hangar to 3
+[10:33:45] planet 35: building queue full (5)
+[10:33:45] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:34:23] ==== loop 32/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:34:26] planet 35: building queue full (5)
+[10:34:26] planet 96: no resources for building_hangar+1
+[10:34:26] planet 97: no resources for building_hangar+1
+[10:34:26] planet 35: building queue full (5)
+[10:34:26] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:35:07] ==== loop 33/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:35:10] planet 35: building queue full (5)
+[10:35:10] planet 96: no resources for building_hangar+1
+[10:35:10] planet 97: no resources for building_hangar+1
+[10:35:10] planet 35: building queue full (5)
+[10:35:10] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:35:52] ==== loop 34/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:35:54] planet 35: building queue full (5)
+[10:35:54] planet 96: no resources for building_hangar+1
+[10:35:54] planet 97: no resources for building_hangar+1
+[10:35:54] planet 35: building queue full (5)
+[10:35:54] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:36:36] ==== loop 35/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:36:38] planet 35: building queue full (5)
+[10:36:38] planet 96: no resources for building_hangar+1
+[10:36:38] planet 97: no resources for building_hangar+1
+[10:36:38] planet 35: building queue full (5)
+[2026-05-13 10:37:13] ==== loop 36/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:37:16] planet 35: building queue full (5)
+[10:37:16] planet 96: no resources for building_hangar+1
+[10:37:16] planet 97: no resources for building_hangar+1
+[10:37:16] planet 35: building queue full (5)
+[10:37:16] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:37:53] ==== loop 37/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:37:56] planet 35: building queue full (5)
+[10:37:56] planet 96: no resources for building_hangar+1
+[10:37:56] planet 97: no resources for building_hangar+1
+[10:37:56] planet 35: building queue full (5)
+[10:37:56] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:38:36] ==== loop 38/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:38:38] planet 35: building queue full (5)
+[10:38:38] planet 96: no resources for building_hangar+1
+[10:38:38] planet 97: no resources for building_hangar+1
+[10:38:38] planet 35: building queue full (5)
+[10:38:38] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:39:16] ==== loop 39/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:39:19] planet 35: building queue full (5)
+[10:39:19] planet 96: no resources for building_hangar+1
+[10:39:19] planet 97: no resources for building_hangar+1
+[10:39:19] planet 35: building queue full (5)
+[10:39:19] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:40:00] ==== loop 40/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:40:03] planet 35: building queue full (5)
+[10:40:03] planet 96: no resources for building_hangar+1
+[10:40:03] planet 97: no resources for building_hangar+1
+[10:40:03] planet 35: building queue full (5)
+[2026-05-13 10:40:38] ==== loop 41/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:40:42] planet 35: building queue full (5)
+[10:40:42] planet 96: no resources for building_hangar+1
+[10:40:42] planet 97: no resources for building_hangar+1
+[10:40:42] planet 35: building queue full (5)
+[10:40:42] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:41:25] ==== loop 42/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:41:27] planet 35: building queue full (5)
+[10:41:27] planet 96: no resources for building_hangar+1
+[10:41:27] planet 97: no resources for building_hangar+1
+[10:41:27] planet 35: building queue full (5)
+[10:41:27] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:42:12] ==== loop 43/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:42:16] planet 35: building queue full (5)
+[10:42:16] planet 96: no resources for building_hangar+1
+[10:42:16] planet 97: no resources for building_hangar+1
+[10:42:16] planet 35: building queue full (5)
+[10:42:16] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:42:55] ==== loop 44/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:42:58] planet 35: building queue full (5)
+[10:42:58] planet 96: no resources for building_hangar+1
+[10:42:58] planet 97: no resources for building_hangar+1
+[10:42:58] planet 35: building queue full (5)
+[2026-05-13 10:43:41] ==== loop 45/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:43:45] planet 35: building queue full (5)
+[10:43:45] planet 96: no resources for building_hangar+1
+[10:43:45] planet 97: no resources for building_hangar+1
+[10:43:45] planet 35: building queue full (5)
+[10:43:45] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:44:28] ==== loop 46/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:44:30] planet 35: building queue full (5)
+[10:44:30] planet 96: no resources for building_hangar+1
+[10:44:30] planet 97: no resources for building_hangar+1
+[10:44:30] planet 35: building queue full (5)
+[10:44:30] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:45:08] ==== loop 47/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:45:11] planet 35: building queue full (5)
+[10:45:11] planet 96: no resources for building_hangar+1
+[10:45:11] planet 97: no resources for building_hangar+1
+[10:45:11] planet 35: building queue full (5)
+[10:45:11] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:45:56] ==== loop 48/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:45:58] planet 35: building queue full (5)
+[10:45:58] planet 96: no resources for building_hangar+1
+[10:45:58] planet 97: no resources for building_hangar+1
+[10:45:58] planet 35: building queue full (5)
+[10:45:58] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:46:43] ==== loop 49/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:46:45] planet 35: building queue full (5)
+[10:46:45] planet 96: no resources for building_hangar+1
+[10:46:45] planet 97: no resources for building_hangar+1
+[10:46:45] planet 35: building queue full (5)
+[10:46:45] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:47:34] ==== loop 50/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:47:37] planet 35: building queue full (5)
+[10:47:37] planet 96: no resources for building_hangar+1
+[10:47:37] planet 97: no resources for building_hangar+1
+[10:47:37] planet 35: building queue full (5)
+[2026-05-13 10:48:24] ==== loop 51/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:48:27] planet 35: building queue full (5)
+[10:48:27] planet 96: no resources for building_hangar+1
+[10:48:27] planet 97: no resources for building_hangar+1
+[10:48:27] planet 35: building queue full (5)
+[2026-05-13 10:49:11] ==== loop 52/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:49:12] planet 35: building queue full (5)
+[10:49:12] planet 96: no resources for building_hangar+1
+[10:49:12] planet 97: no resources for building_hangar+1
+[10:49:12] planet 35: building queue full (5)
+[10:49:12] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:50:03] ==== loop 53/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:50:05] planet 35: building queue full (5)
+[10:50:05] planet 96: no resources for building_hangar+1
+[10:50:05] planet 97: no resources for building_hangar+1
+[10:50:05] planet 35: building queue full (5)
+[10:50:05] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:50:53] ==== loop 54/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:50:55] planet 35: building queue full (5)
+[10:50:55] planet 96: queued building_hangar to 4
+[10:50:55] planet 97: no resources for building_hangar+1
+[10:50:55] planet 35: building queue full (5)
+[10:50:55] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:51:43] ==== loop 55/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:51:45] planet 35: building queue full (5)
+[10:51:45] planet 97: no resources for building_hangar+1
+[10:51:45] planet 96: no resources for ship_colony_ship+1
+[10:51:45] planet 35: building queue full (5)
+[10:51:45] ally: transport: 1:4:6 -> 1:282:9 [ally_bot] m=0 c=0 d=30000 ships=0B+5S eta=85s fuel=342
+[2026-05-13 10:52:31] ==== loop 56/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:52:34] planet 35: building queue full (5)
+[10:52:34] planet 96: no resources for ship_colony_ship+1
+[10:52:34] planet 97: queued building_hangar to 4
+[10:52:34] planet 35: building queue full (5)
+[2026-05-13 10:53:16] ==== loop 57/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:53:18] planet 35: building queue full (5)
+[10:53:18] planet 96: no resources for ship_colony_ship+1
+[10:53:18] planet 97: no resources for ship_colony_ship+1
+[10:53:18] planet 35: building queue full (5)
+[10:53:18] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:54:03] ==== loop 58/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:54:05] planet 35: building queue full (5)
+[10:54:05] planet 96: no resources for ship_colony_ship+1
+[10:54:05] planet 97: no resources for ship_colony_ship+1
+[10:54:05] planet 35: building queue full (5)
+[10:54:05] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:54:50] ==== loop 59/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:54:53] planet 35: building queue full (5)
+[10:54:53] planet 96: no resources for ship_colony_ship+1
+[10:54:53] planet 97: no resources for ship_colony_ship+1
+[10:54:53] planet 35: building queue full (5)
+[10:54:53] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:55:39] ==== loop 60/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:55:41] planet 35: building queue full (5)
+[10:55:41] planet 96: no resources for ship_colony_ship+1
+[10:55:41] planet 97: no resources for ship_colony_ship+1
+[10:55:41] planet 35: building queue full (5)
+[10:55:41] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:56:25] ==== loop 61/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:56:28] planet 35: building queue full (5)
+[10:56:28] planet 96: no resources for ship_colony_ship+1
+[10:56:28] planet 97: no resources for ship_colony_ship+1
+[10:56:28] planet 35: building queue full (5)
+[10:56:28] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:57:10] ==== loop 62/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:57:11] planet 35: building queue full (5)
+[10:57:11] planet 96: no resources for ship_colony_ship+1
+[10:57:11] planet 97: no resources for ship_colony_ship+1
+[10:57:11] planet 35: building queue full (5)
+[10:57:11] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:57:57] ==== loop 63/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:57:59] planet 35: building queue full (5)
+[10:57:59] planet 96: no resources for ship_colony_ship+1
+[10:57:59] planet 97: no resources for ship_colony_ship+1
+[10:57:59] planet 35: building queue full (5)
+[10:57:59] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:58:39] ==== loop 64/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:58:42] planet 35: building queue full (5)
+[10:58:42] planet 96: no resources for ship_colony_ship+1
+[10:58:42] planet 97: no resources for ship_colony_ship+1
+[10:58:42] planet 35: building queue full (5)
+[10:58:42] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 10:59:26] ==== loop 65/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[10:59:29] planet 35: building queue full (5)
+[10:59:29] planet 96: no resources for ship_colony_ship+1
+[10:59:29] planet 97: no resources for ship_colony_ship+1
+[10:59:29] planet 35: building queue full (5)
+[10:59:29] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:00:17] ==== loop 66/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:00:21] planet 35: building queue full (5)
+[11:00:21] planet 96: no resources for ship_colony_ship+1
+[11:00:21] planet 97: no resources for ship_colony_ship+1
+[11:00:21] planet 35: building queue full (5)
+[11:00:21] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:01:10] ==== loop 67/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:01:12] planet 35: building queue full (5)
+[11:01:12] planet 96: no resources for ship_colony_ship+1
+[11:01:12] planet 97: no resources for ship_colony_ship+1
+[11:01:12] planet 35: building queue full (5)
+[11:01:12] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:01:55] ==== loop 68/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:01:59] planet 35: building queue full (5)
+[11:01:59] planet 96: no resources for ship_colony_ship+1
+[11:01:59] planet 97: no resources for ship_colony_ship+1
+[11:01:59] planet 35: building queue full (5)
+[2026-05-13 11:02:45] ==== loop 69/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:02:48] planet 35: building queue full (5)
+[11:02:48] planet 96: no resources for ship_colony_ship+1
+[11:02:48] planet 97: no resources for ship_colony_ship+1
+[11:02:48] planet 35: building queue full (5)
+[11:02:48] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:03:34] ==== loop 70/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:03:36] planet 35: building queue full (5)
+[11:03:36] planet 96: no resources for ship_colony_ship+1
+[11:03:36] planet 97: no resources for ship_colony_ship+1
+[11:03:36] planet 35: building queue full (5)
+[11:03:36] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:04:24] ==== loop 71/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:04:26] planet 35: building queue full (5)
+[11:04:26] planet 96: no resources for ship_colony_ship+1
+[11:04:26] planet 97: no resources for ship_colony_ship+1
+[11:04:26] planet 35: building queue full (5)
+[2026-05-13 11:05:10] ==== loop 72/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:05:13] planet 35: building queue full (5)
+[11:05:13] planet 96: no resources for ship_colony_ship+1
+[11:05:13] planet 97: no resources for ship_colony_ship+1
+[11:05:13] planet 35: building queue full (5)
+[11:05:13] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:06:00] ==== loop 73/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:06:02] planet 35: building queue full (5)
+[11:06:02] planet 96: no resources for ship_colony_ship+1
+[11:06:02] planet 97: no resources for ship_colony_ship+1
+[11:06:02] planet 35: building queue full (5)
+[11:06:02] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:06:43] ==== loop 74/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:06:46] planet 35: building queue full (5)
+[11:06:46] planet 96: no resources for ship_colony_ship+1
+[11:06:46] planet 97: no resources for ship_colony_ship+1
+[11:06:46] planet 35: building queue full (5)
+[2026-05-13 11:07:32] ==== loop 75/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:07:35] planet 35: building queue full (5)
+[11:07:35] planet 96: no resources for ship_colony_ship+1
+[11:07:35] planet 97: no resources for ship_colony_ship+1
+[11:07:35] planet 35: building queue full (5)
+[11:07:35] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:08:21] ==== loop 76/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:08:25] planet 35: building queue full (5)
+[11:08:25] planet 96: no resources for ship_colony_ship+1
+[11:08:25] planet 97: no resources for ship_colony_ship+1
+[11:08:25] planet 35: building queue full (5)
+[11:08:25] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:09:09] ==== loop 77/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:09:12] planet 35: building queue full (5)
+[11:09:12] planet 96: no resources for ship_colony_ship+1
+[11:09:12] planet 97: no resources for ship_colony_ship+1
+[11:09:12] planet 35: building queue full (5)
+[11:09:12] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:09:54] ==== loop 78/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:09:55] planet 35: building queue full (5)
+[11:09:55] planet 96: no resources for ship_colony_ship+1
+[11:09:55] planet 97: no resources for ship_colony_ship+1
+[11:09:55] planet 35: building queue full (5)
+[11:09:55] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:10:37] ==== loop 79/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:10:41] planet 35: building queue full (5)
+[11:10:41] planet 96: no resources for ship_colony_ship+1
+[11:10:41] planet 97: no resources for ship_colony_ship+1
+[11:10:41] planet 35: building queue full (5)
+[11:10:41] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:11:25] ==== loop 80/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:11:27] planet 35: building queue full (5)
+[11:11:27] planet 96: no resources for ship_colony_ship+1
+[11:11:27] planet 97: no resources for ship_colony_ship+1
+[11:11:27] planet 35: building queue full (5)
+[11:11:27] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:12:08] ==== loop 81/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:12:10] planet 35: building queue full (5)
+[11:12:10] planet 96: no resources for ship_colony_ship+1
+[11:12:10] planet 97: no resources for ship_colony_ship+1
+[11:12:10] planet 35: building queue full (5)
+[11:12:10] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:12:50] ==== loop 82/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:12:53] planet 35: building queue full (5)
+[11:12:53] planet 96: no resources for ship_colony_ship+1
+[11:12:53] planet 97: no resources for ship_colony_ship+1
+[11:12:53] planet 35: building queue full (5)
+[11:12:53] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:13:36] ==== loop 83/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:13:39] planet 35: building queue full (5)
+[11:13:39] planet 96: no resources for ship_colony_ship+1
+[11:13:39] planet 97: no resources for ship_colony_ship+1
+[11:13:39] planet 35: building queue full (5)
+[11:13:39] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:14:17] ==== loop 84/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:14:19] planet 35: building queue full (5)
+[11:14:19] planet 96: no resources for ship_colony_ship+1
+[11:14:19] planet 97: no resources for ship_colony_ship+1
+[11:14:19] planet 35: building queue full (5)
+[2026-05-13 11:15:00] ==== loop 85/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:15:04] planet 35: building queue full (5)
+[11:15:04] planet 96: no resources for ship_colony_ship+1
+[11:15:04] planet 97: no resources for ship_colony_ship+1
+[11:15:04] planet 35: building queue full (5)
+[2026-05-13 11:15:45] ==== loop 86/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:15:48] planet 35: building queue full (5)
+[11:15:48] planet 96: no resources for ship_colony_ship+1
+[11:15:48] planet 97: no resources for ship_colony_ship+1
+[11:15:48] planet 35: building queue full (5)
+[11:15:48] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:16:27] ==== loop 87/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:16:31] planet 35: building queue full (5)
+[11:16:31] planet 96: no resources for ship_colony_ship+1
+[11:16:31] planet 97: no resources for ship_colony_ship+1
+[11:16:31] planet 35: building queue full (5)
+[11:16:31] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:17:20] ==== loop 88/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:17:21] planet 35: building queue full (5)
+[11:17:21] planet 96: no resources for ship_colony_ship+1
+[11:17:21] planet 97: no resources for ship_colony_ship+1
+[11:17:21] planet 35: building queue full (5)
+[11:17:21] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:18:08] ==== loop 89/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:18:10] planet 35: building queue full (5)
+[11:18:10] planet 96: no resources for ship_colony_ship+1
+[11:18:10] planet 97: no resources for ship_colony_ship+1
+[11:18:10] planet 35: building queue full (5)
+[11:18:10] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:18:56] ==== loop 90/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:18:57] planet 35: building queue full (5)
+[11:18:57] planet 96: no resources for ship_colony_ship+1
+[11:18:57] planet 97: no resources for ship_colony_ship+1
+[11:18:57] planet 35: building queue full (5)
+[2026-05-13 11:19:44] ==== loop 91/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:19:46] planet 35: building queue full (5)
+[11:19:46] planet 96: no resources for ship_colony_ship+1
+[11:19:46] planet 97: no resources for ship_colony_ship+1
+[11:19:46] planet 35: building queue full (5)
+[11:19:46] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:20:28] ==== loop 92/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:20:30] planet 35: building queue full (5)
+[11:20:30] planet 96: no resources for ship_colony_ship+1
+[11:20:30] planet 97: no resources for ship_colony_ship+1
+[11:20:30] planet 35: building queue full (5)
+[11:20:30] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:21:15] ==== loop 93/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:21:17] planet 35: queued building_crystal_mine to 25
+[11:21:17] planet 96: no resources for ship_colony_ship+1
+[11:21:17] planet 97: no resources for ship_colony_ship+1
+[11:21:17] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:22:00] ==== loop 94/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:22:02] planet 35: queue busy, throttled building_robot_factory
+[11:22:02] planet 96: no resources for ship_colony_ship+1
+[11:22:02] planet 97: no resources for ship_colony_ship+1
+[11:22:02] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:22:43] ==== loop 95/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:22:44] planet 35: queue busy, throttled building_robot_factory
+[11:22:44] planet 96: no resources for ship_colony_ship+1
+[11:22:44] planet 97: no resources for ship_colony_ship+1
+[11:22:44] planet 35: queue busy, throttled building_robot_factory
+[11:22:44] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:23:30] ==== loop 96/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:23:30] planet 35: queue busy, throttled building_robot_factory
+[11:23:30] planet 96: no resources for ship_colony_ship+1
+[11:23:30] planet 97: no resources for ship_colony_ship+1
+[11:23:30] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:24:12] ==== loop 97/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:24:13] planet 35: queue busy, throttled building_robot_factory
+[11:24:13] planet 96: no resources for ship_colony_ship+1
+[11:24:13] planet 97: no resources for ship_colony_ship+1
+[11:24:13] planet 35: queue busy, throttled building_robot_factory
+[11:24:13] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:24:56] ==== loop 98/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:24:57] planet 35: queue busy, throttled building_robot_factory
+[11:24:57] planet 96: no resources for ship_colony_ship+1
+[11:24:57] planet 97: no resources for ship_colony_ship+1
+[11:24:57] planet 35: queue busy, throttled building_robot_factory
+[11:24:57] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:25:47] ==== loop 99/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:25:49] planet 35: queue busy, throttled building_robot_factory
+[11:25:49] planet 96: no resources for ship_colony_ship+1
+[11:25:49] planet 97: no resources for ship_colony_ship+1
+[11:25:49] planet 35: queue busy, throttled building_robot_factory
+[11:25:49] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:26:36] ==== loop 100/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:26:37] planet 35: queue busy, throttled building_robot_factory
+[11:26:37] planet 96: no resources for ship_colony_ship+1
+[11:26:37] planet 97: no resources for ship_colony_ship+1
+[11:26:37] planet 35: queue busy, throttled building_robot_factory
+[11:26:37] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:27:23] ==== loop 101/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:27:24] planet 35: queue busy, throttled building_robot_factory
+[11:27:24] planet 96: no resources for ship_colony_ship+1
+[11:27:24] planet 97: no resources for ship_colony_ship+1
+[11:27:24] planet 35: queue busy, throttled building_robot_factory
+[11:27:24] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:28:10] ==== loop 102/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:28:11] planet 35: queue busy, throttled building_robot_factory
+[11:28:11] planet 96: no resources for ship_colony_ship+1
+[11:28:11] planet 97: no resources for ship_colony_ship+1
+[11:28:11] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:28:56] ==== loop 103/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:28:57] planet 35: queue busy, throttled building_robot_factory
+[11:28:57] planet 96: no resources for ship_colony_ship+1
+[11:28:57] planet 97: no resources for ship_colony_ship+1
+[11:28:57] planet 35: queue busy, throttled building_robot_factory
+[11:28:57] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:29:36] ==== loop 104/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:29:39] planet 35: queue busy, throttled building_robot_factory
+[11:29:39] planet 96: no resources for ship_colony_ship+1
+[11:29:39] planet 97: no resources for ship_colony_ship+1
+[11:29:39] planet 35: queue busy, throttled building_robot_factory
+[11:29:39] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:30:17] ==== loop 105/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:30:17] planet 35: queue busy, throttled building_robot_factory
+[11:30:17] planet 96: no resources for ship_colony_ship+1
+[11:30:17] planet 97: no resources for ship_colony_ship+1
+[11:30:17] planet 35: queue busy, throttled building_robot_factory
+[11:30:17] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:31:00] ==== loop 106/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:31:03] planet 35: queue busy, throttled building_robot_factory
+[11:31:03] planet 96: no resources for ship_colony_ship+1
+[11:31:03] planet 97: no resources for ship_colony_ship+1
+[11:31:03] planet 35: queue busy, throttled building_robot_factory
+[11:31:03] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:31:43] ==== loop 107/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:31:45] planet 35: queue busy, throttled building_robot_factory
+[11:31:45] planet 96: no resources for ship_colony_ship+1
+[11:31:45] planet 97: no resources for ship_colony_ship+1
+[11:31:45] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:32:30] ==== loop 108/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:32:31] planet 35: queue busy, throttled building_robot_factory
+[11:32:31] planet 96: no resources for ship_colony_ship+1
+[11:32:31] planet 97: no resources for ship_colony_ship+1
+[11:32:31] planet 35: queue busy, throttled building_robot_factory
+[11:32:31] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:33:12] ==== loop 109/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:33:13] planet 35: queue busy, throttled building_robot_factory
+[11:33:13] planet 96: no resources for ship_colony_ship+1
+[11:33:13] planet 97: no resources for ship_colony_ship+1
+[11:33:13] planet 35: queue busy, throttled building_robot_factory
+[11:33:13] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:33:56] ==== loop 110/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:33:56] planet 35: queue busy, throttled building_robot_factory
+[11:33:56] planet 96: no resources for ship_colony_ship+1
+[11:33:56] planet 97: no resources for ship_colony_ship+1
+[11:33:56] planet 35: queue busy, throttled building_robot_factory
+[11:33:56] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:34:43] ==== loop 111/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:34:44] planet 35: queue busy, throttled building_robot_factory
+[11:34:44] planet 96: no resources for ship_colony_ship+1
+[11:34:44] planet 97: no resources for ship_colony_ship+1
+[11:34:44] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:35:24] ==== loop 112/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:35:26] planet 35: queue busy, throttled building_robot_factory
+[11:35:26] planet 96: no resources for ship_colony_ship+1
+[11:35:26] planet 97: no resources for ship_colony_ship+1
+[11:35:26] planet 35: queue busy, throttled building_robot_factory
+[11:35:26] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:36:11] ==== loop 113/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:36:12] planet 35: queue busy, throttled building_robot_factory
+[11:36:12] planet 96: no resources for ship_colony_ship+1
+[11:36:12] planet 97: no resources for ship_colony_ship+1
+[11:36:12] planet 35: queue busy, throttled building_robot_factory
+[11:36:12] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:36:51] ==== loop 114/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:36:53] planet 35: queue busy, throttled building_robot_factory
+[11:36:53] planet 96: no resources for ship_colony_ship+1
+[11:36:53] planet 97: no resources for ship_colony_ship+1
+[11:36:53] planet 35: queue busy, throttled building_robot_factory
+[11:36:53] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:37:34] ==== loop 115/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:37:36] planet 35: queue busy, throttled building_robot_factory
+[11:37:36] planet 96: no resources for ship_colony_ship+1
+[11:37:36] planet 97: no resources for ship_colony_ship+1
+[11:37:36] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:38:19] ==== loop 116/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:38:21] planet 35: queue busy, throttled building_robot_factory
+[11:38:21] planet 96: no resources for ship_colony_ship+1
+[11:38:21] planet 97: no resources for ship_colony_ship+1
+[11:38:21] planet 35: queue busy, throttled building_robot_factory
+[11:38:21] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:39:11] ==== loop 117/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:39:12] planet 35: queue busy, throttled building_robot_factory
+[11:39:12] planet 96: no resources for ship_colony_ship+1
+[11:39:12] planet 97: no resources for ship_colony_ship+1
+[11:39:12] planet 35: queue busy, throttled building_robot_factory
+[11:39:12] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:40:00] ==== loop 118/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:40:02] planet 35: queue busy, throttled building_robot_factory
+[11:40:02] planet 96: no resources for ship_colony_ship+1
+[11:40:02] planet 97: no resources for ship_colony_ship+1
+[11:40:02] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:40:42] ==== loop 119/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:40:43] planet 35: queue busy, throttled building_robot_factory
+[11:40:43] planet 96: no resources for ship_colony_ship+1
+[11:40:43] planet 97: no resources for ship_colony_ship+1
+[11:40:43] planet 35: queue busy, throttled building_robot_factory
+[11:40:43] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:41:27] ==== loop 120/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:41:27] planet 35: queue busy, throttled building_robot_factory
+[11:41:27] planet 96: no resources for ship_colony_ship+1
+[11:41:27] planet 97: no resources for ship_colony_ship+1
+[11:41:27] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:42:17] ==== loop 121/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:42:18] planet 35: queue busy, throttled building_robot_factory
+[11:42:18] planet 96: no resources for ship_colony_ship+1
+[11:42:18] planet 97: no resources for ship_colony_ship+1
+[11:42:18] planet 35: queue busy, throttled building_robot_factory
+[11:42:18] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:43:08] ==== loop 122/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:43:09] planet 35: queue busy, throttled building_robot_factory
+[11:43:09] planet 96: no resources for ship_colony_ship+1
+[11:43:09] planet 97: no resources for ship_colony_ship+1
+[11:43:09] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:43:57] ==== loop 123/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:43:59] planet 35: queue busy, throttled building_robot_factory
+[11:43:59] planet 96: no resources for ship_colony_ship+1
+[11:43:59] planet 97: no resources for ship_colony_ship+1
+[11:43:59] planet 35: queue busy, throttled building_robot_factory
+[11:43:59] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:44:42] ==== loop 124/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:44:44] planet 35: queue busy, throttled building_robot_factory
+[11:44:44] planet 96: no resources for ship_colony_ship+1
+[11:44:44] planet 97: no resources for ship_colony_ship+1
+[11:44:44] planet 35: queue busy, throttled building_robot_factory
+[11:44:44] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:45:30] ==== loop 125/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:45:32] planet 35: queue busy, throttled building_robot_factory
+[11:45:32] planet 96: no resources for ship_colony_ship+1
+[11:45:32] planet 97: no resources for ship_colony_ship+1
+[11:45:32] planet 35: queue busy, throttled building_robot_factory
+[11:45:32] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:46:15] ==== loop 126/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:46:16] planet 35: queue busy, throttled building_robot_factory
+[11:46:16] planet 96: no resources for ship_colony_ship+1
+[11:46:16] planet 97: no resources for ship_colony_ship+1
+[11:46:16] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:46:59] ==== loop 127/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:47:00] planet 35: queue busy, throttled building_robot_factory
+[11:47:00] planet 96: no resources for ship_colony_ship+1
+[11:47:00] planet 97: no resources for ship_colony_ship+1
+[11:47:00] planet 35: queue busy, throttled building_robot_factory
+[11:47:00] ally: transport: 1:4:6 -> 1:33:9 [ally_bot] m=30000 c=0 d=0 ships=0B+5S eta=37s fuel=65
+[2026-05-13 11:47:48] ==== loop 128/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:47:49] planet 35: queue busy, throttled building_robot_factory
+[11:47:49] planet 96: no resources for ship_colony_ship+1
+[11:47:49] planet 97: no resources for ship_colony_ship+1
+[11:47:49] planet 35: queue busy, throttled building_robot_factory
+[11:47:49] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:48:35] ==== loop 129/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:48:36] planet 35: queue busy, throttled building_robot_factory
+[11:48:36] planet 96: no resources for ship_colony_ship+1
+[11:48:36] planet 97: no resources for ship_colony_ship+1
+[11:48:36] planet 35: queue busy, throttled building_robot_factory
+[11:48:36] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:49:25] ==== loop 130/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:49:27] planet 35: queue busy, throttled building_robot_factory
+[11:49:27] planet 96: no resources for ship_colony_ship+1
+[11:49:27] planet 97: no resources for ship_colony_ship+1
+[11:49:27] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:50:14] ==== loop 131/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:50:15] planet 35: queue busy, throttled building_robot_factory
+[11:50:15] planet 96: no resources for ship_colony_ship+1
+[11:50:15] planet 97: no resources for ship_colony_ship+1
+[11:50:15] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:51:01] ==== loop 132/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:51:03] planet 35: queue busy, throttled building_robot_factory
+[11:51:03] planet 96: no resources for ship_colony_ship+1
+[11:51:03] planet 97: no resources for ship_colony_ship+1
+[11:51:03] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:51:52] ==== loop 133/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:51:53] planet 35: queue busy, throttled building_robot_factory
+[11:51:53] planet 96: no resources for ship_colony_ship+1
+[11:51:53] planet 97: no resources for ship_colony_ship+1
+[11:51:53] planet 35: queue busy, throttled building_robot_factory
+[11:51:53] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:52:40] ==== loop 134/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:52:42] planet 35: queue busy, throttled building_robot_factory
+[11:52:42] planet 96: no resources for ship_colony_ship+1
+[11:52:42] planet 97: no resources for ship_colony_ship+1
+[11:52:42] planet 35: queue busy, throttled building_robot_factory
+[11:52:42] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:53:25] ==== loop 135/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:53:25] planet 35: queue busy, throttled building_robot_factory
+[11:53:25] planet 96: no resources for ship_colony_ship+1
+[11:53:25] planet 97: no resources for ship_colony_ship+1
+[11:53:25] planet 35: queue busy, throttled building_robot_factory
+[11:53:25] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:54:04] ==== loop 136/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:54:05] planet 35: queue busy, throttled building_robot_factory
+[11:54:05] planet 96: no resources for ship_colony_ship+1
+[11:54:05] planet 97: no resources for ship_colony_ship+1
+[11:54:05] planet 35: queue busy, throttled building_robot_factory
+[11:54:05] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:54:46] ==== loop 137/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:54:47] planet 35: queue busy, throttled building_robot_factory
+[11:54:47] planet 96: no resources for ship_colony_ship+1
+[11:54:47] planet 97: no resources for ship_colony_ship+1
+[11:54:47] planet 35: queue busy, throttled building_robot_factory
+[11:54:47] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:55:32] ==== loop 138/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:55:34] planet 35: queue busy, throttled building_robot_factory
+[11:55:34] planet 96: no resources for ship_colony_ship+1
+[11:55:34] planet 97: no resources for ship_colony_ship+1
+[11:55:34] planet 35: queue busy, throttled building_robot_factory
+[11:55:34] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:56:22] ==== loop 139/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:56:24] planet 35: queue busy, throttled building_robot_factory
+[11:56:24] planet 96: no resources for ship_colony_ship+1
+[11:56:24] planet 97: no resources for ship_colony_ship+1
+[11:56:24] planet 35: queue busy, throttled building_robot_factory
+[11:56:24] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:57:06] ==== loop 140/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:57:08] planet 35: queue busy, throttled building_robot_factory
+[11:57:08] planet 96: no resources for ship_colony_ship+1
+[11:57:08] planet 97: no resources for ship_colony_ship+1
+[11:57:08] planet 35: queue busy, throttled building_robot_factory
+[11:57:08] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:57:55] ==== loop 141/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:57:57] planet 35: queue busy, throttled building_robot_factory
+[11:57:57] planet 96: no resources for ship_colony_ship+1
+[11:57:57] planet 97: no resources for ship_colony_ship+1
+[11:57:57] planet 35: queue busy, throttled building_robot_factory
+[11:57:57] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 11:58:35] ==== loop 142/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:58:36] planet 35: queue busy, throttled building_robot_factory
+[11:58:36] planet 96: no resources for ship_colony_ship+1
+[11:58:36] planet 97: no resources for ship_colony_ship+1
+[11:58:36] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 11:59:19] ==== loop 143/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[11:59:20] planet 35: queue busy, throttled building_robot_factory
+[11:59:20] planet 96: no resources for ship_colony_ship+1
+[11:59:20] planet 97: no resources for ship_colony_ship+1
+[11:59:20] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 12:00:02] ==== loop 144/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:00:03] planet 35: queue busy, throttled building_robot_factory
+[12:00:03] planet 96: no resources for ship_colony_ship+1
+[12:00:03] planet 97: no resources for ship_colony_ship+1
+[12:00:03] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 12:00:47] ==== loop 145/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:00:48] planet 35: queue busy, throttled building_robot_factory
+[12:00:48] planet 96: no resources for ship_colony_ship+1
+[12:00:48] planet 97: no resources for ship_colony_ship+1
+[12:00:48] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 12:01:35] ==== loop 146/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:01:36] planet 35: queue busy, throttled building_robot_factory
+[12:01:36] planet 96: no resources for ship_colony_ship+1
+[12:01:36] planet 97: no resources for ship_colony_ship+1
+[12:01:36] planet 35: queue busy, throttled building_robot_factory
+[12:01:36] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:02:22] ==== loop 147/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:02:23] planet 35: queue busy, throttled building_robot_factory
+[12:02:23] planet 96: no resources for ship_colony_ship+1
+[12:02:23] planet 97: no resources for ship_colony_ship+1
+[12:02:23] planet 35: queue busy, throttled building_robot_factory
+[12:02:23] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:03:10] ==== loop 148/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:03:11] planet 35: queue busy, throttled building_robot_factory
+[12:03:11] planet 96: no resources for ship_colony_ship+1
+[12:03:11] planet 97: no resources for ship_colony_ship+1
+[12:03:11] planet 35: queue busy, throttled building_robot_factory
+[12:03:11] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:03:57] ==== loop 149/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:03:57] planet 35: queue busy, throttled building_robot_factory
+[12:03:57] planet 96: no resources for ship_colony_ship+1
+[12:03:57] planet 97: no resources for ship_colony_ship+1
+[12:03:57] planet 35: queue busy, throttled building_robot_factory
+[12:03:57] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:04:43] ==== loop 150/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:04:44] planet 35: queue busy, throttled building_robot_factory
+[12:04:44] planet 96: no resources for ship_colony_ship+1
+[12:04:44] planet 97: no resources for ship_colony_ship+1
+[12:04:44] planet 35: queue busy, throttled building_robot_factory
+[12:04:44] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:05:32] ==== loop 151/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:05:33] planet 35: queue busy, throttled building_robot_factory
+[12:05:33] planet 96: no resources for ship_colony_ship+1
+[12:05:33] planet 97: no resources for ship_colony_ship+1
+[12:05:33] planet 35: queue busy, throttled building_robot_factory
+[12:05:33] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:06:21] ==== loop 152/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:06:22] planet 35: queue busy, throttled building_robot_factory
+[12:06:22] planet 96: no resources for ship_colony_ship+1
+[12:06:22] planet 97: no resources for ship_colony_ship+1
+[12:06:22] planet 35: queue busy, throttled building_robot_factory
+[12:06:22] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:07:08] ==== loop 153/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:07:10] planet 35: queue busy, throttled building_robot_factory
+[12:07:10] planet 96: no resources for ship_colony_ship+1
+[12:07:10] planet 97: no resources for ship_colony_ship+1
+[12:07:10] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 12:08:01] ==== loop 154/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:08:02] planet 35: queue busy, throttled building_robot_factory
+[12:08:02] planet 96: no resources for ship_colony_ship+1
+[12:08:02] planet 97: no resources for ship_colony_ship+1
+[12:08:02] planet 35: queue busy, throttled building_robot_factory
+[12:08:02] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:08:56] ==== loop 155/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:08:58] planet 35: queue busy, throttled building_robot_factory
+[12:08:58] planet 96: no resources for ship_colony_ship+1
+[12:08:58] planet 97: no resources for ship_colony_ship+1
+[12:08:58] planet 35: queue busy, throttled building_robot_factory
+[12:08:58] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:09:42] ==== loop 156/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:09:44] planet 35: queue busy, throttled building_robot_factory
+[12:09:44] planet 96: no resources for ship_colony_ship+1
+[12:09:44] planet 97: no resources for ship_colony_ship+1
+[12:09:44] planet 35: queue busy, throttled building_robot_factory
+[12:09:44] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
+[2026-05-13 12:10:28] ==== loop 157/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:10:30] planet 35: queue busy, throttled building_robot_factory
+[12:10:30] planet 96: no resources for ship_colony_ship+1
+[12:10:30] planet 97: no resources for ship_colony_ship+1
+[12:10:30] planet 35: queue busy, throttled building_robot_factory
+[2026-05-13 12:11:14] ==== loop 158/∞ | seed=976442493160730012 archetype=opportunist personality=minero focus=tech actions_per_loop=3 ====
+[12:11:15] planet 35: queue busy, throttled building_robot_factory
+[12:11:15] planet 96: no resources for ship_colony_ship+1
+[12:11:15] planet 97: no resources for ship_colony_ship+1
+[12:11:15] planet 35: queue busy, throttled building_robot_factory
+[12:11:15] research: blocked research_intergalactic_research_network (research_computer_technology 6/8)
