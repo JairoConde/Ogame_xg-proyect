@@ -1556,8 +1556,8 @@ function tryResearch(
     array $researchRow,
     array $pricelist,
     bool $dryRun,
-    ?array $state = null,
-    float $universeSpeed
+    float $universeSpeed,
+    ?array $state = null
 ): string {
     if ((int) $researchRow['research_current_research'] !== 0) {
         return 'research: already in progress';
@@ -2098,7 +2098,7 @@ while (true) {
         }
 
         if ($researchRow && $homePlanet && randomFloat(0, 1) <= $profile['research_focus']) {
-            $logs[] = tryResearch($db, $prefix, $userId, $planets, $researchRow, $pricelist, $dryRun, $botState, $universeSpeed);
+            $logs[] = tryResearch($db, $prefix, $userId, $planets, $researchRow, $pricelist, $dryRun, $universeSpeed, $botState);
         }
 
         // Persist a couple of liveness counters for the bot.

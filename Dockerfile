@@ -15,6 +15,12 @@ RUN set -ex; \
 		libfreetype6-dev \
 	; \
 	\
+# install runtime libs so .so files can load after -dev purge
+	apt-get install -y --no-install-recommends \
+		libpng16-16 \
+		libzip5 \
+	; \
+	\
 	docker-php-ext-configure gd --with-freetype --with-jpeg; \
 	docker-php-ext-install gd mysqli opcache zip; \
 	\

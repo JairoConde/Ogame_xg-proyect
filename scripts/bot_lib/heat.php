@@ -117,14 +117,33 @@ if (!function_exists('botHeatImprove')) {
     }
 }
 
-if (!function_exists('botHeatDecayResetToNeutral')) {
+if (!function_exists('botHeatDecayTowardNeutral')) {
     /**
-     * Decay semanal: resetea el heat a 1.0 (neutro) directamente,
-     * independientemente del valor actual.
+     * Decay gradual: mueve el heat un paso hacia 1.0 (neutro).
+     * - Si heat > 1: reduce un porcentaje (por defecto 10%) de la distancia a 1.0.
+     *   Ej: heat=5.0 → 5.0 - (5.0-1.0)*0.10 = 4.6
+     * - Si heat < 1: aumenta un porcentaje (10%) de la distancia a 1.0.
+     *   Ej: heat=0.3 → 0.3 + (1.0-0.3)*0.10 = 0.37
+     *
+     * @param float $heat Valor actual
+     * @param float $stepFactor Fracción de la distancia a reducir (0.0–1.0). Default 0.10 = 10%.
      */
-    function botHeatDecayResetToNeutral(float $heat): float
+    function botHeatDecayTowardNeutral(float $heat, float $stepFactor = 0.10): float
     {
-        return 1.0;
+        $h = botHeatClamp($heat);
+        $stepFactor = max(0.0, min(1.0, $stepFactor));
+
+        if (abs($h - 1.0) < 0.0001) {
+            return 1.0;
+        }
+
+        if ($h > 1.0) {
+            // Reduce la distancia a 1.0 en stepFactor%
+            return botHeatClamp($h - ($h - 1.0) * $stepFactor);
+        }
+
+        // $h < 1.0: aumenta hacia 1.0
+        return botHeatClamp($h + (1.0 - $h) * $stepFactor);
     }
 }
 
@@ -350,8 +369,8 @@ if (!function_exists('botHeatOnHelpReceived')) {
 
 if (!function_exists('botHeatDecayTick')) {
     /**
-     * Resetea a 1.0 todas las filas del observer que lleven
-     * decay_sec sin actualizarse (decay semanal).
+     * Aplica decay gradual (hacia 1.0) a las filas del observer que lleven
+     * decay_sec sin actualizarse. Procesa en batches.
      *
      * @return int filas tocadas
      */
@@ -387,7 +406,8 @@ if (!function_exists('botHeatDecayTick')) {
             if (abs($h - 1.0) < 0.0001) {
                 continue; // Ya está en 1.0, no tocar
             }
-            botHeatUpsert($db, $prefix, $observerUserId, $tid, 1.0, $now);
+            $decayed = botHeatDecayTowardNeutral($h);
+            botHeatUpsert($db, $prefix, $observerUserId, $tid, $decayed, $now);
             $n++;
         }
         $res->free();
