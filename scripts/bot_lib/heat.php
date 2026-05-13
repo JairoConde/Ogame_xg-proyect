@@ -9,6 +9,15 @@ declare(strict_types=1);
  *   - heat ≈ 1: empeorar +1, mejorar −0.1
  *   - heat < 1: ambos sentidos en pasos de 0.1
  * Rango [BOT_HEAT_MIN, BOT_HEAT_MAX].
+ *
+ * === CAMBIOS EN ESTA RAMA (feat/heat-system) ===
+ * 1. botHeatDecayOneStepTowardNeutral → botHeatDecayResetToNeutral:
+ *    tras una semana sin interacción, el heat vuelve directamente a 1.0.
+ * 2. botHeatDecayTick simplificado: selecciona TODAS las filas vencidas
+ *    (sin filtrar por heat != 1) y las resetea a 1.0.
+ * 3. Nuevo helper botHeatOnSpyDetected para cuando detectamos sonda enemiga.
+ * 4. Nuevo helper botHeatOnDefeat para cuando perdemos una batalla.
+ * 5. Nuevo helper botHeatAllianceReduce para reducir heat entre alianzas.
  */
 if (!function_exists('botHeatTableName')) {
     function botHeatTableName(string $prefix): string
@@ -108,19 +117,33 @@ if (!function_exists('botHeatImprove')) {
     }
 }
 
-if (!function_exists('botHeatDecayOneStepTowardNeutral')) {
-    /** Tiempo sin choque: un paso hacia 1 (neutro). */
-    function botHeatDecayOneStepTowardNeutral(float $heat): float
+if (!function_exists('botHeatDecayTowardNeutral')) {
+    /**
+     * Decay gradual: mueve el heat un paso hacia 1.0 (neutro).
+     * - Si heat > 1: reduce un porcentaje (por defecto 10%) de la distancia a 1.0.
+     *   Ej: heat=5.0 → 5.0 - (5.0-1.0)*0.10 = 4.6
+     * - Si heat < 1: aumenta un porcentaje (10%) de la distancia a 1.0.
+     *   Ej: heat=0.3 → 0.3 + (1.0-0.3)*0.10 = 0.37
+     *
+     * @param float $heat Valor actual
+     * @param float $stepFactor Fracción de la distancia a reducir (0.0–1.0). Default 0.10 = 10%.
+     */
+    function botHeatDecayTowardNeutral(float $heat, float $stepFactor = 0.10): float
     {
         $h = botHeatClamp($heat);
-        if ($h > 1.005) {
-            return botHeatImprove($h);
-        }
-        if ($h < 0.995) {
-            return botHeatWorsen($h);
+        $stepFactor = max(0.0, min(1.0, $stepFactor));
+
+        if (abs($h - 1.0) < 0.0001) {
+            return 1.0;
         }
 
-        return 1.0;
+        if ($h > 1.0) {
+            // Reduce la distancia a 1.0 en stepFactor%
+            return botHeatClamp($h - ($h - 1.0) * $stepFactor);
+        }
+
+        // $h < 1.0: aumenta hacia 1.0
+        return botHeatClamp($h + (1.0 - $h) * $stepFactor);
     }
 }
 
@@ -194,6 +217,133 @@ if (!function_exists('botHeatOnInboundHostile')) {
     }
 }
 
+if (!function_exists('botHeatOnSpyDetected')) {
+    /**
+     * El observer detectó una sonda de espionaje enviada por el target.
+     * Efecto más leve que un ataque: worsen leve.
+     */
+    function botHeatOnSpyDetected(
+        mysqli $db,
+        string $prefix,
+        int $observerUserId,
+        int $spyUserId,
+        int $now
+    ): void {
+        if ($observerUserId <= 0 || $spyUserId <= 0 || $observerUserId === $spyUserId) {
+            return;
+        }
+        if (!botHeatTableExists($db, $prefix)) {
+            return;
+        }
+        $cur = botHeatGet($db, $prefix, $observerUserId, $spyUserId);
+        $base = $cur ?? 1.0;
+        $h = botHeatClamp($base);
+        // worsen leve: siempre +0.1 independientemente del rango
+        botHeatUpsert($db, $prefix, $observerUserId, $spyUserId, botHeatClamp($h + 0.1), $now);
+    }
+}
+
+if (!function_exists('botHeatOnDefeat')) {
+    /**
+     * El observer perdió una batalla contra el target (defensas destruidas
+     * o flota perdida). Efecto fuerte: worsen +2.
+     */
+    function botHeatOnDefeat(
+        mysqli $db,
+        string $prefix,
+        int $observerUserId,
+        int $attackerUserId,
+        int $now
+    ): void {
+        if ($observerUserId <= 0 || $attackerUserId <= 0 || $observerUserId === $attackerUserId) {
+            return;
+        }
+        if (!botHeatTableExists($db, $prefix)) {
+            return;
+        }
+        $cur = botHeatGet($db, $prefix, $observerUserId, $attackerUserId);
+        $base = $cur ?? 1.0;
+        botHeatUpsert($db, $prefix, $observerUserId, $attackerUserId, botHeatClamp($base + 2.0), $now);
+    }
+}
+
+if (!function_exists('botHeatOnMessageReceived')) {
+    /**
+     * Procesa un heat_delta devuelto por el LLM inbox scanner.
+     * Valores positivos = worsen, negativos = improve.
+     */
+    function botHeatOnMessageReceived(
+        mysqli $db,
+        string $prefix,
+        int $observerUserId,
+        int $targetUserId,
+        float $heatDelta,
+        int $now
+    ): void {
+        if ($observerUserId <= 0 || $targetUserId <= 0 || $observerUserId === $targetUserId) {
+            return;
+        }
+        if (!botHeatTableExists($db, $prefix)) {
+            return;
+        }
+        $cur = botHeatGet($db, $prefix, $observerUserId, $targetUserId);
+        $base = $cur ?? 1.0;
+        botHeatUpsert($db, $prefix, $observerUserId, $targetUserId, botHeatClamp($base + $heatDelta), $now);
+    }
+}
+
+if (!function_exists('botHeatAllianceReduce')) {
+    /**
+     * Reduce el heat entre TODOS los miembros de dos alianzas en un factor (0.0–1.0).
+     * Ej: factor=0.80 reduce el heat un 80% hacia ambos lados.
+     * Útil tras firmar la paz.
+     */
+    function botHeatAllianceReduce(
+        mysqli $db,
+        string $prefix,
+        int $allyA,
+        int $allyB,
+        float $factor,
+        int $now
+    ): void {
+        if ($allyA <= 0 || $allyB <= 0 || $allyA === $allyB) {
+            return;
+        }
+        if (!botHeatTableExists($db, $prefix)) {
+            return;
+        }
+        $factor = max(0.0, min(1.0, $factor));
+        $tbl = botHeatTableName($prefix);
+
+        foreach ([$allyA, $allyB] as $observerAlly) {
+            $targetAlly = $observerAlly === $allyA ? $allyB : $allyA;
+            $res = $db->query(
+                "SELECT h.`observer_user_id`, h.`target_user_id`, h.`heat`
+                 FROM `{$tbl}` h
+                 JOIN `{$prefix}users` uo ON uo.`user_id` = h.`observer_user_id`
+                 JOIN `{$prefix}users` ut ON ut.`user_id` = h.`target_user_id`
+                 WHERE uo.`user_ally_id` = {$observerAlly}
+                   AND ut.`user_ally_id` = {$targetAlly}
+                   AND h.`heat` != 1.0"
+            );
+            if (!$res) {
+                continue;
+            }
+            while ($row = $res->fetch_assoc()) {
+                $obId = (int) ($row['observer_user_id'] ?? 0);
+                $tgId = (int) ($row['target_user_id'] ?? 0);
+                $h = (float) ($row['heat'] ?? 1.0);
+                if ($obId <= 0 || $tgId <= 0) {
+                    continue;
+                }
+                $reduced = 1.0 + ($h - 1.0) * (1.0 - $factor);
+                botHeatUpsert($db, $prefix, $obId, $tgId, botHeatClamp($reduced), $now);
+            }
+            $res->free();
+        }
+    }
+}
+
 if (!function_exists('botHeatOnHelpReceived')) {
     /**
      * El observer recibe ayuda (recursos) enviada por target: baja calor observer→target.
@@ -219,7 +369,8 @@ if (!function_exists('botHeatOnHelpReceived')) {
 
 if (!function_exists('botHeatDecayTick')) {
     /**
-     * Hasta decay_batch filas del observer: un paso hacia 1 si llevan decay_sec sin actualizar.
+     * Aplica decay gradual (hacia 1.0) a las filas del observer que lleven
+     * decay_sec sin actualizarse. Procesa en batches.
      *
      * @return int filas tocadas
      */
@@ -236,7 +387,6 @@ if (!function_exists('botHeatDecayTick')) {
             "SELECT `target_user_id`, `heat` FROM `{$tbl}`
              WHERE `observer_user_id` = {$observerUserId}
                AND `updated_at` <= {$cutoff}
-               AND (`heat` > 1.005 OR `heat` < 0.995)
              ORDER BY `updated_at` ASC
              LIMIT {$batch}"
         );
@@ -253,11 +403,11 @@ if (!function_exists('botHeatDecayTick')) {
             if ($tid <= 0) {
                 continue;
             }
-            $next = botHeatDecayOneStepTowardNeutral($h);
-            if (abs($next - $h) < 0.0001) {
-                continue;
+            if (abs($h - 1.0) < 0.0001) {
+                continue; // Ya está en 1.0, no tocar
             }
-            botHeatUpsert($db, $prefix, $observerUserId, $tid, $next, $now);
+            $decayed = botHeatDecayTowardNeutral($h);
+            botHeatUpsert($db, $prefix, $observerUserId, $tid, $decayed, $now);
             $n++;
         }
         $res->free();

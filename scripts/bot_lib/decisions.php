@@ -1138,7 +1138,8 @@ if (!function_exists('botDetectRecentAttack')) {
         // Grab the most recent hostile fleet so we know *who* hit us, not
         // just when. Ignore the bot's own friendly missions (e.g. ACS launched
         // by themselves would never happen but we filter defensively).
-        $sql = "SELECT `fleet_creation`, `fleet_owner`
+        // Also fetch fleet_mission to differentiate spy (6) from attack (1,2).
+        $sql = "SELECT `fleet_creation`, `fleet_owner`, `fleet_mission`
                 FROM `{$prefix}fleets`
                 WHERE `fleet_target_owner` = {$userId}
                   AND `fleet_owner` <> {$userId}
@@ -1154,6 +1155,7 @@ if (!function_exists('botDetectRecentAttack')) {
         $result->free();
         $lastAt = isset($row['fleet_creation']) ? (int) $row['fleet_creation'] : 0;
         $attackerUserId = isset($row['fleet_owner']) ? (int) $row['fleet_owner'] : 0;
+        $fleetMission = isset($row['fleet_mission']) ? (int) $row['fleet_mission'] : 0;
         if ($lastAt <= 0) {
             return;
         }
@@ -1185,8 +1187,14 @@ if (!function_exists('botDetectRecentAttack')) {
         }
         $state['bot_quirks'] = $quirks;
 
+        // Heat update: spy probes (mission 6) cause a lighter heat increase
+        // than actual attacks (missions 1, 2).
         if ($attackerUserId > 0) {
-            botHeatOnInboundHostile($db, $prefix, $userId, $attackerUserId, time());
+            if ($fleetMission === 6) {
+                botHeatOnSpyDetected($db, $prefix, $userId, $attackerUserId, time());
+            } else {
+                botHeatOnInboundHostile($db, $prefix, $userId, $attackerUserId, time());
+            }
         }
 
         if (empty($state['__synthetic'])) {

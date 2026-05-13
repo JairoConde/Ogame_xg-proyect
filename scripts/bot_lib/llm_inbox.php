@@ -256,10 +256,10 @@ if (!function_exists('botLlmInboxReportsInvolvingBothSince')) {
             return false;
         }
         $res = $db->query(
-            "SELECT `rid` FROM `{$tbl}`
-             WHERE `time` >= {$sinceTs}
-               AND FIND_IN_SET({$userA}, `owners`) > 0
-               AND FIND_IN_SET({$userB}, `owners`) > 0
+            "SELECT `report_rid` FROM `{$tbl}`
+             WHERE `report_time` >= {$sinceTs}
+               AND FIND_IN_SET({$userA}, `report_owners`) > 0
+               AND FIND_IN_SET({$userB}, `report_owners`) > 0
              LIMIT 1"
         );
         if (!$res) {

@@ -20,9 +20,9 @@ declare(strict_types=1);
  * avoid breaking the bot.
  */
 if (!defined('BOT_LOG_RETENTION_DAYS')) {
-    // Delete bot log files strictly older than this many calendar midnights
-    // (see botLogsCleanupExpired). Default: keep today + two previous days.
-    define('BOT_LOG_RETENTION_DAYS', 2);
+    // Delete bot log files older than this many calendar midnights.
+    // 0 = keep only today's logs (yesterday's are deleted at midnight).
+    define('BOT_LOG_RETENTION_DAYS', 0);
 }
 
 if (!defined('BOT_LOG_CLEANUP_INTERVAL_SECONDS')) {
