@@ -17,7 +17,7 @@ RUN set -ex; \
 	\
 # install runtime libs so .so files can load after -dev purge
 	apt-get install -y --no-install-recommends \
-		libpng16-16 \
+		libpng16-16t64 \
 		libzip5 \
 	; \
 	\

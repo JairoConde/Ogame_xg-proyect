@@ -78,13 +78,15 @@ class Spy extends Missions
                     $TargetTechnos = $PlanetBuildings;
                     $TargetTechnos .= $TargetTechnInfo['String'];
 
-                    $TargetForce = ($PlanetFleetInfo['Count'] * $LS) / 4;
+                    // --- Counter-espionage formula (OGame canonical) ---
+                    // probability = 2^(defenderSpy - attackerSpy) * probes * ships_on_planet * FACTOR
+                    // FACTOR calibrated so that with equal spy levels, 10 probes vs 1000 ships ≈ 50%
+                    $totalShipsOnPlanet = (int) ($PlanetFleetInfo['Count'] ?? 0);
+                    $spyLevelDiff = $TargetSpyLvl - $CurrentSpyLvl; // positive = defender has higher level
+                    $rawProbability = pow(2, $spyLevelDiff) * $LS * $totalShipsOnPlanet * 0.005;
+                    $detectionProbability = max(0, min(100, (int) round($rawProbability)));
 
-                    if ($TargetForce > 100) {
-                        $TargetForce = 100;
-                    }
-
-                    $TargetChances = mt_rand(0, intval($TargetForce));
+                    $TargetChances = $detectionProbability;
                     $SpyerChances = mt_rand(0, 100);
                     $SpyMessage = '';
 
@@ -107,47 +109,47 @@ class Spy extends Missions
                     $AttackLink .= '&target_mission=1';
                     $AttackLink .= ' ">' . $this->langs->language['type_mission'][MissionsEnumerator::ATTACK] . '';
                     $AttackLink .= '</a></center>';
-                    $MessageEnd = '<center>' . sprintf($this->langs->line('spy_report_detection'), $TargetChances) . '</center>';
+                    $MessageEnd = '<center>' . sprintf($this->langs->line('spy_report_detection'), $detectionProbability) . '</center>';
 
+                    // --- Espionage info revelation (OGame canonical) ---
+                    // Formula: effective = probes + (attackerSpy - defenderSpy)^2 when attacker > defender
+                    //          effective = probes - (defenderSpy - attackerSpy)^2 when defender >= attacker
+                    // Thresholds: 1=resources, 2=+fleet, 3=+defense, 5=+buildings, 7=+research
                     $spionage_difference = abs($CurrentSpyLvl - $TargetSpyLvl);
-
-                    $CurrentSpyLvl = 100;
-                    $TargetSpyLvl = 0;
-                    if ($TargetSpyLvl >= $CurrentSpyLvl) {
-                        $ST = pow($spionage_difference, 2);
-                        $resources = 1;
-                        $fleet = $ST + 2;
-                        $defense = $ST + 3;
-                        $buildings = $ST + 5;
-                        $tech = $ST + 7;
-                    }
+                    $squaredDiff = $spionage_difference * $spionage_difference;
 
                     if ($CurrentSpyLvl > $TargetSpyLvl) {
-                        $ST = pow($spionage_difference, 2) * -1;
-                        $resources = 1;
-                        $fleet = $ST + 2;
-                        $defense = $ST + 3;
-                        $buildings = $ST + 5;
-                        $tech = $ST + 7;
+                        // Attacker has advantage: probes + diff^2
+                        $effectivePoints = $LS + $squaredDiff;
+                    } else {
+                        // Defender has advantage (or equal): probes - diff^2
+                        $effectivePoints = $LS - $squaredDiff;
                     }
 
-                    if ($resources <= $LS) {
+                    // Categories revealed based on effective points
+                    $resources = 1;
+                    $fleet = 2;
+                    $defense = 3;
+                    $buildings = 5;
+                    $tech = 7;
+
+                    if ($effectivePoints >= $resources) {
                         $SpyMessage = $Materials . '<br />' . $AttackLink . $MessageEnd;
                     }
 
-                    if ($fleet <= $LS) {
+                    if ($effectivePoints >= $fleet) {
                         $SpyMessage = $PlanetFleet . '<br />' . $AttackLink . $MessageEnd;
                     }
 
-                    if ($defense <= $LS) {
+                    if ($effectivePoints >= $defense) {
                         $SpyMessage = $PlanetDefense . '<br />' . $AttackLink . $MessageEnd;
                     }
 
-                    if ($buildings <= $LS) {
+                    if ($effectivePoints >= $buildings) {
                         $SpyMessage = $PlanetBuildings . '<br />' . $AttackLink . $MessageEnd;
                     }
 
-                    if ($tech <= $LS) {
+                    if ($effectivePoints >= $tech) {
                         $SpyMessage = $TargetTechnos . '<br />' . $AttackLink . $MessageEnd;
                     }
 

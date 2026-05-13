@@ -1278,87 +1278,9 @@ if (!function_exists('botAttackHandlePendingPlans')) {
                 continue;
             }
 
-            $recheckOk = !empty($plan['llm_recheck_ok']);
-            if ($recheckOk) {
-                unset($plan['llm_recheck_ok']);
-            }
-
-            $stakesRecheck = function_exists('botLlmAttackIsHighStakes')
-                && botLlmAttackIsHighStakes((int) $netLoot, (float) $ratio);
-            if ($stakesRecheck
-                && function_exists('botLlmIsEnabled')
-                && botLlmIsEnabled()
-                && function_exists('botLlmJobTableExists')
-                && botLlmJobTableExists($db, $prefix)
-                && !$recheckOk) {
-                $botUid = (int) ($user['user_id'] ?? 0);
-                $botNm = (string) ($user['user_name'] ?? '');
-                $pvRes = $db->query(
-                    "SELECT p.`planet_user_id`, u.`user_name`
-                     FROM `{$prefix}planets` AS p
-                     INNER JOIN `{$prefix}users` AS u ON u.`user_id` = p.`planet_user_id`
-                     WHERE p.`planet_id` = {$targetPid}
-                     LIMIT 1"
-                );
-                $vicId = 0;
-                $vicName = '';
-                if ($pvRes && ($pvRow = $pvRes->fetch_assoc())) {
-                    $vicId = (int) ($pvRow['planet_user_id'] ?? 0);
-                    $vicName = (string) ($pvRow['user_name'] ?? '');
-                }
-                if ($pvRes) {
-                    $pvRes->free();
-                }
-                $dedupeR = 'atk_v1:r:' . $targetPid . ':' . $armedAt;
-                $lr = $plan['llm_recheck'] ?? null;
-                if (!is_array($lr) || ($lr['status'] ?? '') !== 'queued') {
-                    if (function_exists('botLlmAttackTryEnqueue')) {
-                        $enq = botLlmAttackTryEnqueue(
-                            $db,
-                            $prefix,
-                            $botUid,
-                            $botNm,
-                            $dedupeR,
-                            $profile,
-                            $profileName,
-                            $now,
-                            'recheck',
-                            $targetPid,
-                            $targetCoords,
-                            $vicId,
-                            $vicName,
-                            (int) $netLoot,
-                            (int) $myLosses,
-                            (float) $ratio,
-                            (float) $ratioThreshold,
-                            $minLoot,
-                            (string) ($sim['winner'] ?? ''),
-                            (int) ($sim['rounds_used'] ?? 0),
-                            $researchRow,
-                            $planets,
-                            is_array($state['bot_quirks'] ?? null) ? $state['bot_quirks'] : []
-                        );
-                        if ($enq === 'queued' || $enq === 'duplicate') {
-                            $plan['llm_recheck'] = ['status' => 'queued', 'dedupe' => $dedupeR];
-                            $remainingPlans[$targetPid] = $plan;
-                            $out['logs'][] = sprintf(
-                                'attack: recheck espera LLM %s (loot=%d ratio=%.2f)',
-                                $targetCoords,
-                                (int) $netLoot,
-                                (float) $ratio
-                            );
-                            $out['metrics_delta']['attack_llm_recheck_queued']
-                                = ($out['metrics_delta']['attack_llm_recheck_queued'] ?? 0) + 1;
-
-                            continue;
-                        }
-                    }
-                } elseif (($lr['status'] ?? '') === 'queued') {
-                    $remainingPlans[$targetPid] = $plan;
-
-                    continue;
-                }
-            }
+            // Recheck: NO se consulta LLM de nuevo. El LLM ya aprobó en fase initial.
+            // Solo se valida rentabilidad con reglas (ratio >= threshold).
+            // Si pasó la validación, confirmar ataque.
 
             // Confirm: launch attack.
             $targetForInsert = [
@@ -2478,6 +2400,14 @@ if (!function_exists('botAttackRunPurposeful')) {
             foreach ($llmAtk['metrics_delta'] as $mk => $mv) {
                 $metricsDelta[$mk] = ($metricsDelta[$mk] ?? 0) + (int) $mv;
             }
+
+            // Reintentar jobs fallidos de attack_decision
+            if (function_exists('botLlmAttackRetryFallidos')) {
+                $retryLogs = botLlmAttackRetryFallidos($db, $prefix, $botUserId, $state, $now);
+                foreach ($retryLogs as $rl) {
+                    $logs[] = $rl;
+                }
+            }
         }
 
         // Reserve ships committed to armed plans. Until each plan resolves
@@ -2858,9 +2788,12 @@ if (!function_exists('botAttackRunPurposeful')) {
                 }
             }
 
-            $stakesInit = function_exists('botLlmAttackIsHighStakes')
-                && botLlmAttackIsHighStakes((int) $netLoot, (float) $ratio);
-            if ($stakesInit
+            // LLM gate: todos los ataques factibles pasan por LLM antes de armarse.
+            // Un ataque es factible si loot >= 500k Y ratio >= 2.0.
+            $attackIsFeasible = (int) $netLoot >= 500_000
+                && (float) $ratio >= 2.0;
+
+            if ($attackIsFeasible
                 && function_exists('botLlmIsEnabled')
                 && botLlmIsEnabled()
                 && function_exists('botLlmJobTableExists')
@@ -2870,6 +2803,15 @@ if (!function_exists('botAttackRunPurposeful')) {
 
                     continue;
                 }
+
+                // Retry jobs fallidos antes de encolar nuevos
+                if (function_exists('botLlmAttackRetryFallidos')) {
+                    $retryLogs = botLlmAttackRetryFallidos($db, $prefix, $botUserId, $state, $now);
+                    foreach ($retryLogs as $rl) {
+                        $logs[] = $rl;
+                    }
+                }
+
                 $quirks = is_array($state['bot_quirks'] ?? null) ? $state['bot_quirks'] : [];
                 $gates = is_array($quirks['attack_llm_gate'] ?? null) ? $quirks['attack_llm_gate'] : [];
                 $dedupeI = 'atk_v1:i:' . $targetPid;
@@ -2941,6 +2883,18 @@ if (!function_exists('botAttackRunPurposeful')) {
                         continue;
                     }
                 }
+            } elseif (!$attackIsFeasible) {
+                // No factible: descartar
+                $logs[] = sprintf(
+                    'attack: skip %s (not feasible loot=%d ratio=%.2f)',
+                    $targetCoords,
+                    $netLoot,
+                    $ratio
+                );
+                $metricsDelta['attacks_skipped_not_feasible']
+                    = ($metricsDelta['attacks_skipped_not_feasible'] ?? 0) + 1;
+
+                continue;
             }
 
             // Arm a plan instead of launching directly. The intel we have

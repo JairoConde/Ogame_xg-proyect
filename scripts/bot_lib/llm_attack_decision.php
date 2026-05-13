@@ -41,12 +41,21 @@ if (!function_exists('botLlmAttackSystemPrompt')) {
     {
         return <<<'SYS'
 Eres asesor estratégico de combate en un juego espacial (misiones de ataque tipo raid).
-Recibes un JSON en el mensaje user con "phase" ("initial" o "recheck"), "strike" (simulación previa) y "context" (perfil, stats, alianzas, calor, presión de flotas/slots, colas de hangar/edificio, historial REAL de raids contra esa víctima si existe, etc.).
-Tu tarea: decidir si merece la pena ejecutar el ataque ahora (riesgo vs beneficio, diplomacia, guerra/NAP, calor, diferencia de puntos, si el imperio ya tiene muchas flotas en vuelo o poco margen de slots, si las colas de astillero dificultan reponer pérdidas, y si el historial contra ESE jugador muestra raids costosas o fallidos). No hables de ACS ni flotas conjuntas; solo ataque en solitario.
-Responde SOLO con un JSON válido (sin markdown), una sola pieza, esquema exacto:
+Recibes un JSON con "strike" (simulación), "attacker" (perfil del bot), "victim" (datos del objetivo),
+"points_comparison" (diferencia de puntos y rankings), "alliances" (relación diplomática + stats de las alianzas),
+"pair_heat", "fleet_and_raid_history".
+Tu tarea: decidir si merece la pena ejecutar el ataque ahora.
+Ten en cuenta:
+- Diferencia de poder: si la víctima tiene muchos más puntos/rank superior,
+  atacarle puede traer represalias aunque su colonia parezca indefensa.
+- Relación diplomática: si hay guerra, el riesgo es menor (ya hay conflicto).
+  Si hay NAP, atacarla la rompe.
+- Alianzas: si la alianza de la víctima es top del ranking, el riesgo de represalia organizada es mayor.
+- Heat: cuanto más alto, más hostilidad histórica.
+- Perfil del bot: un bot agresivo asume más riesgos.
+- Flota actual: slots libres, colas de hangar, raids recientes contra esta víctima.
+Responde SOLO con un JSON válido (sin markdown):
 {"attack":true|false,"reason_short":"..."}
-- attack=true solo si conviene arriesgar la flota a la luz del contexto.
-- attack=false si el riesgo diplomático, represalias, falta de slots/colas, mal historial reciente contra ese jugador, o incoherencias con el perfil del bot lo desaconsejan a pesar del ratio económico simulado.
 reason_short: máximo ~200 caracteres, español.
 SYS;
     }
@@ -155,11 +164,9 @@ if (!function_exists('botLlmAttackSummarizeFleetAndRaids')) {
             'used' => 0,
             'max' => 0,
             'free' => 0,
-            'note_es' => 'sin datos de investigación (computer tech) para calcular slots',
         ];
         if ($botUserId > 0 && $researchRow !== [] && function_exists('botAttackFleetSlotsInfo')) {
             $slots = botAttackFleetSlotsInfo($db, $prefix, $botUserId, $researchRow);
-            $slots['interpretation_es'] = 'used = filas en fleets del bot (todas las misiones en vuelo); max = 1 + computer_tech; free = margen antes de que el motor rechace nuevas flotas.';
         }
 
         $inFlight = is_array($botQuirks['attacks_in_flight'] ?? null)
@@ -191,12 +198,35 @@ if (!function_exists('botLlmAttackSummarizeFleetAndRaids')) {
                 'outbound' => $outbound,
                 'returning' => $returning,
                 'total_tracked' => count($inFlight),
-                'legend_es' => 'Solo misiones de ataque que el bot registró al lanzar; no incluye transportes u otras misiones.',
             ],
             'hangar_and_build_queues' => botLlmAttackSummarizeHangarBuild($planets),
             'raid_outcomes_vs_this_victim_newest_first' => $vsVictim,
             'recent_raid_outcomes_any_opponent_tail' => $tailAny,
-            'raid_log_legend_es' => 'raid_outcome_log: resultados REALES al volver la flota (loot_real, pérdidas de naves en valor, outcome). vs_this_victim filtra por user_id del dueño del planeta atacado. Tail = últimas 3 entradas globales.',
+        ];
+    }
+}
+
+if (!function_exists('botLlmAttackBuildPointsComparison')) {
+    /**
+     * @return array{bot_total_points: int, bot_total_rank: int, victim_total_points: int, victim_total_rank: int, points_ratio_victim_over_bot: float}
+     */
+    function botLlmAttackBuildPointsComparison(
+        mysqli $db,
+        string $prefix,
+        int $botUserId,
+        int $victimUserId
+    ): array {
+        $botStats = botLlmInboxUserStatsPointsAndRanks($db, $prefix, $botUserId);
+        $vicStats = botLlmInboxUserStatsPointsAndRanks($db, $prefix, $victimUserId);
+        $botPts = $botStats['total_points'] ?? 0;
+        $vicPts = $vicStats['total_points'] ?? 0;
+
+        return [
+            'bot_total_points' => $botPts,
+            'bot_total_rank' => $botStats['total_rank'] ?? 0,
+            'victim_total_points' => $vicPts,
+            'victim_total_rank' => $vicStats['total_rank'] ?? 0,
+            'points_ratio_victim_over_bot' => round($vicPts / max(1, $botPts), 2),
         ];
     }
 }
@@ -232,7 +262,6 @@ if (!function_exists('botLlmAttackBuildStrikeContext')) {
         array $botQuirks = []
     ): array {
         $since = $now - botLlmInboxContextWindowSeconds();
-        $windowHours = (int) round(botLlmInboxContextWindowSeconds() / 3600);
 
         $botAlly = 0;
         $victimAlly = 0;
@@ -254,6 +283,9 @@ if (!function_exists('botLlmAttackBuildStrikeContext')) {
         $style = (string) ($profile['bot_style'] ?? 'granja');
         $tags = botLlmInboxAllianceTags($db, $prefix, $botAlly, $victimAlly);
         $persona = botLlmInboxBotPersonaFromDb($db, $prefix, $botUserId);
+
+        $botAllyStats = $botAlly > 0 ? botLlmInboxAllyStatsPointsAndRanks($db, $prefix, $botAlly) : null;
+        $victimAllyStats = $victimAlly > 0 ? botLlmInboxAllyStatsPointsAndRanks($db, $prefix, $victimAlly) : null;
 
         $relation = 'sin_alianza_ambos';
         $relationEs = 'Ninguno en alianza o solo uno.';
@@ -289,8 +321,32 @@ if (!function_exists('botLlmAttackBuildStrikeContext')) {
         $heatBotToVictim = botHeatGet($db, $prefix, $botUserId, $victimUserId);
         $heatVictimToBot = botHeatGet($db, $prefix, $victimUserId, $botUserId);
 
+        $botAllianceArr = null;
+        if ($botAlly > 0) {
+            $botAllianceArr = [
+                'ally_id' => $botAlly,
+                'tag' => $tags[$botAlly]['tag'] ?? '',
+                'name' => $tags[$botAlly]['name'] ?? '',
+            ];
+            if ($botAllyStats !== null) {
+                $botAllianceArr['total_points'] = $botAllyStats['total_points'];
+                $botAllianceArr['total_rank'] = $botAllyStats['total_rank'];
+            }
+        }
+        $victimAllianceArr = null;
+        if ($victimAlly > 0) {
+            $victimAllianceArr = [
+                'ally_id' => $victimAlly,
+                'tag' => $tags[$victimAlly]['tag'] ?? '',
+                'name' => $tags[$victimAlly]['name'] ?? '',
+            ];
+            if ($victimAllyStats !== null) {
+                $victimAllianceArr['total_points'] = $victimAllyStats['total_points'];
+                $victimAllianceArr['total_rank'] = $victimAllyStats['total_rank'];
+            }
+        }
+
         return [
-            'window_hours' => $windowHours,
             'phase' => $phase,
             'strike' => [
                 'target_planet_id' => $targetPlanetId,
@@ -298,26 +354,18 @@ if (!function_exists('botLlmAttackBuildStrikeContext')) {
                 'victim_user_id' => $victimUserId,
                 'victim_user_name' => $victimName,
                 'sim_winner' => $winner,
-                'sim_rounds_used' => $simRounds,
                 'net_loot_estimate' => $netLoot,
                 'attacker_losses_value_estimate' => $myLosses,
                 'profit_to_loss_ratio' => round($ratio, 4),
                 'ratio_threshold_profile' => round($ratioThreshold, 4),
-                'min_loot_gate' => $minLoot,
             ],
             'attacker_bot' => [
                 'user_id' => $botUserId,
                 'user_name' => $botName,
                 'profile_name' => $profileName,
-                'stats_points_and_ranks' => botLlmInboxUserStatsPointsAndRanks($db, $prefix, $botUserId),
-                'alliance' => [
-                    'ally_id' => $botAlly,
-                    'tag' => $tags[$botAlly]['tag'] ?? '',
-                    'name' => $tags[$botAlly]['name'] ?? '',
-                ],
+                'alliance' => $botAllianceArr,
                 'persona' => [
                     'bot_style' => $style,
-                    'bot_style_es' => botLlmInboxStyleDescriptionEs($style),
                     'aggressiveness_1_to_5' => (int) ($profile['aggressiveness'] ?? 3),
                     'eco_focus' => (float) ($profile['eco_focus'] ?? 0.7),
                     'defense_focus' => (float) ($profile['defense_focus'] ?? 0.2),
@@ -329,15 +377,10 @@ if (!function_exists('botLlmAttackBuildStrikeContext')) {
             'victim_player' => [
                 'user_id' => $victimUserId,
                 'user_name' => $victimName,
-                'stats_points_and_ranks' => botLlmInboxUserStatsPointsAndRanks($db, $prefix, $victimUserId),
-                'alliance' => [
-                    'ally_id' => $victimAlly,
-                    'tag' => $tags[$victimAlly]['tag'] ?? '',
-                    'name' => $tags[$victimAlly]['name'] ?? '',
-                ],
+                'alliance' => $victimAllianceArr,
             ],
+            'points_comparison' => botLlmAttackBuildPointsComparison($db, $prefix, $botUserId, $victimUserId),
             'pair_heat' => [
-                'legend_es' => 'heat=1 neutro; >1 el bot ve más enemistad hacia la víctima; <1 más amistad. Rango 0.1–10.',
                 'bot_to_victim' => $heatBotToVictim,
                 'victim_to_bot' => $heatVictimToBot,
             ],
@@ -497,6 +540,121 @@ if (!function_exists('botLlmAttackTryEnqueue')) {
         }
 
         return 'duplicate';
+    }
+}
+
+if (!function_exists('botLlmAttackRetryFallidos')) {
+    /**
+     * Reintenta jobs fallidos de attack_decision_v1 (hasta 3 veces, cada 5 min).
+     * Libera la gate si se agotan los reintentos.
+     *
+     * @param array<string, mixed> $state
+     * @return list<string>
+     */
+    function botLlmAttackRetryFallidos(
+        mysqli $db,
+        string $prefix,
+        int $botUserId,
+        array &$state,
+        int $now
+    ): array {
+        $logs = [];
+        if ($botUserId <= 0 || !botLlmIsEnabled() || !botLlmJobTableExists($db, $prefix)) {
+            return $logs;
+        }
+
+        // Asegurar que la columna retry_count existe (MySQL 5.7 no soporta IF NOT EXISTS)
+        $tblPhysical = $db->real_escape_string(botLlmJobTableName($prefix));
+        $checkRes = $db->query(
+            "SHOW COLUMNS FROM `{$tblPhysical}` LIKE 'retry_count'"
+        );
+        if ($checkRes && !$checkRes->fetch_assoc()) {
+            $db->query(
+                "ALTER TABLE `{$tblPhysical}`
+                 ADD COLUMN `retry_count` tinyint(3) unsigned NOT NULL DEFAULT 0
+                 AFTER `status`"
+            );
+        }
+        if ($checkRes) {
+            $checkRes->free();
+        }
+
+        $tblJ = botLlmJobTableName($prefix);
+        $skillEsc = $db->real_escape_string(botLlmAttackSkill());
+        $res = $db->query(
+            "SELECT * FROM `{$tblJ}`
+             WHERE `bot_user_id` = {$botUserId}
+               AND `skill` = '{$skillEsc}'
+               AND `status` = 'fallido'
+             ORDER BY `job_id` ASC"
+        );
+        if (!$res) {
+            return $logs;
+        }
+
+        $quirks = is_array($state['bot_quirks'] ?? null) ? $state['bot_quirks'] : [];
+        $gates = is_array($quirks['attack_llm_gate'] ?? null) ? $quirks['attack_llm_gate'] : [];
+
+        while ($row = $res->fetch_assoc()) {
+            $jobId = (int) $row['job_id'];
+            $dedupe = (string) ($row['dedupe_key'] ?? '');
+            $createdAt = (int) ($row['created_at'] ?? 0);
+            $updatedAt = (int) ($row['updated_at'] ?? 0);
+            $retryCount = (int) ($row['retry_count'] ?? 0);
+
+            // Max 3 retries or total timeout of 15 min
+            if ($retryCount >= 3 || ($createdAt > 0 && $createdAt + 900 < $now)) {
+                $extractedPid = 0;
+                if (preg_match('/atk_v1:i:(\d+)/', $dedupe, $m)) {
+                    $extractedPid = (int) $m[1];
+                }
+                if ($extractedPid > 0 && isset($gates[$extractedPid])) {
+                    unset($gates[$extractedPid]);
+                    $logs[] = "llm_attack: retry agotado gate={$extractedPid} job={$jobId}";
+                }
+                $tblU2 = $db->real_escape_string($tblJ);
+                $db->query(
+                    "UPDATE `{$tblU2}` SET
+                        `error_text` = 'retries_exhausted',
+                        `claim_nonce` = NULL,
+                        `updated_at` = {$now}
+                     WHERE `job_id` = {$jobId}
+                     LIMIT 1"
+                );
+                $logs[] = "llm_attack: retry agotado job={$jobId} (retries={$retryCount}, created={$createdAt})";
+
+                continue;
+            }
+
+            // Reintentar si pasaron >= 300s desde el último intento
+            if ($updatedAt + 300 > $now) {
+                continue;
+            }
+
+            $newRetryCount = $retryCount + 1;
+            $tblU = $db->real_escape_string($tblJ);
+            $db->query(
+                "UPDATE `{$tblU}` SET
+                    `retry_count` = {$newRetryCount},
+                    `status` = 'pedido',
+                    `response_payload` = NULL,
+                    `error_text` = NULL,
+                    `claim_nonce` = NULL,
+                    `updated_at` = {$now}
+                 WHERE `job_id` = {$jobId}
+                   AND `status` = 'fallido'
+                 LIMIT 1"
+            );
+            if ($db->affected_rows > 0) {
+                $logs[] = "llm_attack: retry job={$jobId} attempt={$newRetryCount}";
+            }
+        }
+        $res->free();
+
+        $quirks['attack_llm_gate'] = $gates;
+        $state['bot_quirks'] = $quirks;
+
+        return $logs;
     }
 }
 

@@ -137,6 +137,43 @@ if (!function_exists('botLlmInboxSchemaTableExists')) {
     }
 }
 
+if (!function_exists('botLlmInboxAllyStatsPointsAndRanks')) {
+    /**
+     * Puntos y ranking de una alianza desde alliance_statistics.
+     *
+     * @return array{total_points: int, total_rank: int}|null
+     */
+    function botLlmInboxAllyStatsPointsAndRanks(mysqli $db, string $prefix, int $allyId): ?array
+    {
+        if ($allyId <= 0) {
+            return null;
+        }
+        $tbl = $prefix . 'alliance_statistics';
+        if (!botLlmInboxSchemaTableExists($db, $tbl)) {
+            return null;
+        }
+        $res = $db->query(
+            "SELECT `alliance_statistic_total_points`, `alliance_statistic_total_rank`
+             FROM `{$tbl}`
+             WHERE `alliance_statistic_alliance_id` = {$allyId}
+             LIMIT 1"
+        );
+        if (!$res) {
+            return null;
+        }
+        $row = $res->fetch_assoc();
+        $res->free();
+        if (!is_array($row)) {
+            return null;
+        }
+
+        return [
+            'total_points' => (int) round((float) ($row['alliance_statistic_total_points'] ?? 0)),
+            'total_rank' => (int) ($row['alliance_statistic_total_rank'] ?? 0),
+        ];
+    }
+}
+
 if (!function_exists('botLlmInboxStyleDescriptionEs')) {
     function botLlmInboxStyleDescriptionEs(string $style): string
     {
