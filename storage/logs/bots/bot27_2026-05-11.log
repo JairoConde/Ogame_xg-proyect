@@ -1,4 +1,0 @@
-[2026-05-11 14:41:00] ==== loop 1/1 | seed=96239353316064498 archetype=balanced personality=defensor focus=eco actions_per_loop=1 ====
-[14:41:00] alliance: apply ally=1
-[14:41:00] planet 75: queued building_metal_mine to 1
-[14:41:00] research: blocked research_energy_technology (building_laboratory 0/1)

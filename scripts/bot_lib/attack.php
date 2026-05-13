@@ -1589,6 +1589,47 @@ if (!function_exists('botAttackReorderRevengeFirst')) {
     }
 }
 
+if (!function_exists('botAttackReorderHeatFirst')) {
+    /**
+     * Reorder candidates based on heat towards the target user.
+     * Higher heat (enmity) → front of list.
+     * Very low heat (< 0.5, friendship) → back of list or filtered out.
+     *
+     * @param array<int, array<string, mixed>> $candidates
+     * @param array<int, float> $heatMap userId => heat value
+     * @return array<int, array<string, mixed>>
+     */
+    function botAttackReorderHeatFirst(array $candidates, array $heatMap): array
+    {
+        if ($candidates === [] || $heatMap === []) {
+            return $candidates;
+        }
+
+        $high = [];   // heat > 3.0 — bonus, atacamos con ganas
+        $normal = []; // heat 0.5–3.0 — neutro
+        $low = [];    // heat < 0.5 — amigos, evitar
+        $blocked = []; // heat < 0.3 — bloqueo directo
+
+        foreach ($candidates as $c) {
+            $uid = (int) ($c['planet_user_id'] ?? 0);
+            $heat = $heatMap[$uid] ?? 1.0;
+            if ($heat < 0.3) {
+                $blocked[] = $c;
+            } elseif ($heat < 0.5) {
+                $low[] = $c;
+            } elseif ($heat > 3.0) {
+                $high[] = $c;
+            } else {
+                $normal[] = $c;
+            }
+        }
+
+        // Blocked targets are excluded entirely (we don't attack friends).
+        // Low priority goes to the back.
+        return array_merge($high, $normal, $low);
+    }
+}
+
 if (!function_exists('botAttackFleetSlotsInfo')) {
     /**
      * Reports the bot's current fleet-slot budget. Mirrors what the game
@@ -2364,6 +2405,24 @@ if (!function_exists('botAttackRunPurposeful')) {
         }
         if ($reactiveAttackerId > 0 && !empty($candidates)) {
             $candidates = botAttackReorderRevengeFirst($candidates, $reactiveAttackerId);
+        }
+
+        // Heat-based reordering: enemies with high heat get priority,
+        // friends (heat < 0.5) get deprioritized, friends with heat < 0.3
+        // are blocked from attack entirely.
+        $heatMap = [];
+        $botUserId = (int) $user['user_id'];
+        foreach ($candidates as $c) {
+            $uid = (int) ($c['planet_user_id'] ?? 0);
+            if ($uid > 0 && $uid !== $botUserId && !isset($heatMap[$uid])) {
+                $h = botHeatGet($db, $prefix, $botUserId, $uid);
+                if ($h !== null) {
+                    $heatMap[$uid] = $h;
+                }
+            }
+        }
+        if (!empty($heatMap)) {
+            $candidates = botAttackReorderHeatFirst($candidates, $heatMap);
         }
 
         // Persistent per-bot metrics delta. Counters accumulate across loops
